@@ -17,6 +17,27 @@ App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881
 8. Commit to `main` with a clear message and push. Cloudflare deploys automatically (about a minute).
 9. In Search Console (if reachable), use URL inspection -> Request indexing for the new URL.
 
+## Voice: warm, funny, direct-response email copywriter
+Write like a witty friend who happens to write killer sales emails (the Ben Settle / classic email-copywriter school), talking to ONE person about their relationship. Capture the feel, never copy anyone's phrasing.
+
+Do:
+- Open with a hook: a tiny story, a confession, a blunt claim, or a funny observation. Never "In today's fast-paced world" or "Whether you're X or Y".
+- Short paragraphs. Often one line. Vary rhythm: a long sentence, then a punch.
+- Talk to "you". Use contractions. First person plural ("we built...") is fine; Jason is an indie dev, so a little "small team, one very opinionated founder" charm is on-brand.
+- Be opinionated and specific. Take a side, then back it up with real detail (what the feature does, what it costs, where it falls short).
+- Humor is warm, self-deprecating and observational (couples habits, long-distance absurdity, bad doodle skills). Never mean, never at a partner's expense, never edgy.
+- Open loops and curiosity: tease something useful, deliver it a few paragraphs later. Use plain subheads that are fun but still say what the section is about (Google reads them).
+- Finish with a P.S. that has the CTA, one line, with personality.
+- Tell small true stories or hypotheticals clearly framed as such ("Picture this:"). Never invent a real person, quote or testimonial.
+
+Don't:
+- No fake scarcity, fake deadlines, fake social proof, fear-mongering or manipulation. The email-copywriter craft here is the voice and storytelling, not the tricks.
+- No hype words (revolutionary, game-changing, unlock, seamless), no emoji walls, no "In conclusion", no listicle filler.
+- Do not sacrifice the answer. The guide must still fully answer the search query within the first screen or two; the personality is the delivery, not a delay. Clear steps, tables and FAQ sections stay.
+- Do not weaken the Accuracy rules below. Funny never beats correct.
+
+Self-check before pushing: read the intro aloud. If it could be pasted into any other app's blog unchanged, rewrite it. Cut every sentence that doesn't earn its place.
+
 ## Accuracy rules (non-negotiable)
 - iPhone only, iOS 18+. Android is NOT available. Free download; Twoodle Pro unlocks pairing: $3.99/week with 3-day trial, or $49.99/year; one subscription covers both partners. Re-verify on the App Store page before quoting prices.
 - Doodles go to the partner's **Home Screen widget only** (not the Lock Screen). Lock Screen has widgets: Love Note (Lock or Home Screen), Days Together (Lock Screen), optional Distance widget. Live "draw together" uses a Lock-Screen-styled shared canvas inside the app.
