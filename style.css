@@ -28,12 +28,6 @@ body{
   font-size:1.05rem;
   color:var(--ink);
   background-color:var(--bg);
-  background-image:
-    radial-gradient(circle at -2% 9%,rgba(255,226,122,.55) 0 90px,transparent 91px),
-    radial-gradient(circle at 94% 6%,rgba(169,222,250,.6) 0 120px,transparent 121px),
-    radial-gradient(circle at 90% 62%,rgba(220,207,255,.55) 0 100px,transparent 101px),
-    radial-gradient(circle at 4% 78%,rgba(183,240,216,.6) 0 110px,transparent 111px);
-  background-attachment:scroll;
   line-height:1.65;
   -webkit-font-smoothing:antialiased;
 }
@@ -202,4 +196,84 @@ footer.site .links a{margin-right:16px}
 @media (prefers-reduced-motion:reduce){
   .draw{animation:none;stroke-dashoffset:0}
   .btn{transition:none}
+}
+
+/* mobile keeps the soft background bubbles */
+@media (max-width:820px){
+  body{
+    background-image:
+      radial-gradient(circle at -2% 9%,rgba(255,226,122,.55) 0 90px,transparent 91px),
+      radial-gradient(circle at 94% 6%,rgba(169,222,250,.6) 0 120px,transparent 121px),
+      radial-gradient(circle at 90% 62%,rgba(220,207,255,.55) 0 100px,transparent 101px),
+      radial-gradient(circle at 4% 78%,rgba(183,240,216,.6) 0 110px,transparent 111px);
+  }
+  .floaty,.phone-wrap::before,.price::before,.price::after{display:none}
+}
+
+/* color bands */
+section.band{
+  margin:48px 0;padding:56px 0;
+  border-top:2.5px solid var(--line);border-bottom:2.5px solid var(--line);
+}
+section.band.mint{background:var(--mint)}
+section.band.sky{background:var(--sky)}
+.band.sky .card:nth-child(odd){background:var(--butter)}
+.band.sky .card:nth-child(even){background:var(--lilac)}
+.faq{display:grid;gap:14px 22px;grid-template-columns:1fr 1fr;align-items:start}
+.faq details{margin:0}
+.features{grid-template-columns:repeat(4,1fr)}
+.features .card:nth-child(1){background:var(--butter)}
+.features .card:nth-child(2){background:var(--sky)}
+.features .card:nth-child(3){background:var(--mint)}
+.features .card:nth-child(4){background:var(--lilac)}
+.features .card:nth-child(5){background:var(--lilac)}
+.features .card:nth-child(6){background:var(--mint)}
+.features .card:nth-child(7){background:var(--butter)}
+.features .card:nth-child(8){background:var(--sky)}
+.price{position:relative;overflow:hidden}
+.price>*{position:relative;z-index:1}
+.price::before,.price::after{content:"";position:absolute;border-radius:50%;border:2.5px solid var(--line)}
+.price::before{width:190px;height:190px;background:var(--butter);left:-60px;bottom:-70px}
+.price::after{width:150px;height:150px;background:var(--sky);right:-40px;top:-50px}
+
+@media (max-width:1000px){
+  .features{grid-template-columns:repeat(2,1fr)}
+  .faq{grid-template-columns:1fr}
+}
+@media (max-width:560px){
+  .features{grid-template-columns:1fr}
+  section.band{padding:44px 0;margin:36px 0}
+}
+
+/* desktop: bigger, fuller */
+@media (min-width:821px){
+  .wrap{max-width:1160px;padding:0 28px}
+  header.site .wrap{max-width:1104px}
+  .hero{padding:64px 0 56px}
+  .hero.split .wrap{gap:56px}
+  .hero h1{font-size:clamp(3.2rem,5.2vw,4.6rem)}
+  .hero p.lead{font-size:1.3rem}
+  .btn{font-size:1.2rem;padding:16px 34px}
+  section.block h2{font-size:2.7rem}
+  section.block p.sub{font-size:1.2rem;margin-bottom:34px}
+  .card{padding:26px}
+  .card h3{font-size:1.3rem}
+  .step{padding:78px 26px 26px}
+  .step h3{font-size:1.35rem}
+  .step p{font-size:1.05rem}
+  .phone-wrap{position:relative;padding:20px 0}
+  .phone-wrap::before{
+    content:"";position:absolute;width:470px;height:470px;border-radius:50%;
+    background:var(--butter);border:2.5px solid var(--line);
+    top:50%;left:50%;transform:translate(-50%,-50%);
+  }
+  .phone{position:relative;z-index:1;width:330px}
+  .floaty{position:absolute;z-index:2;border:2.5px solid var(--line);box-shadow:var(--pop);font-family:var(--display);font-weight:600;color:var(--plum)}
+  .floaty.note{left:0;top:60%;background:var(--lilac);padding:12px 20px;border-radius:20px;transform:rotate(-7deg);font-size:1.3rem}
+  .floaty.bubble{right:2%;top:8%;width:84px;height:84px;border-radius:50%;background:var(--pink);display:flex;align-items:center;justify-content:center;transform:rotate(8deg)}
+  .floaty.bubble svg{width:44px;height:44px}
+  .floaty.chip{left:-1%;bottom:15%;background:var(--mint);padding:10px 20px;border-radius:999px;transform:rotate(5deg);font-size:1.1rem}
+  .features .card:nth-child(odd){transform:rotate(-.8deg)}
+  .features .card:nth-child(even){transform:rotate(.8deg)}
+  .faq summary{font-size:1.15rem}
 }
