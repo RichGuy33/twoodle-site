@@ -38,6 +38,11 @@ Don't:
 
 Self-check before pushing: read the intro aloud. If it could be pasted into any other app's blog unchanged, rewrite it. Cut every sentence that doesn't earn its place.
 
+## Entity consistency (helps Google and AI assistants know what Twoodle is)
+- Always write the name as "Twoodle" (app: "Twoodle: Couples Widgets"), publisher "Taking Flight, Inc.", and describe it the same way: an iPhone app for couples that sends doodles to a partner's Home Screen widget, with Lock Screen widgets for love notes and days together.
+- Link the App Store page the same way every time. Keep the Organization/SoftwareApplication markup on the home page in sync with what the guides say.
+- Prefer plain factual sentences that answer a question in the first 2 lines of a section. Those get quoted by search and AI answers.
+
 ## Accuracy rules (non-negotiable)
 - iPhone only, iOS 18+. Android is NOT available. Free download; Twoodle Pro unlocks pairing: $3.99/week with 3-day trial, or $49.99/year; one subscription covers both partners. Re-verify on the App Store page before quoting prices.
 - Doodles go to the partner's **Home Screen widget only** (not the Lock Screen). Lock Screen has widgets: Love Note (Lock or Home Screen), Days Together (Lock Screen), optional Distance widget. Live "draw together" uses a Lock-Screen-styled shared canvas inside the app.
@@ -49,10 +54,10 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 ## Backlog (mark [x] when published)
 - [x] draw-on-partners-lock-screen
 - [x] lovebox-alternative-app
+- [ ] best-apps-for-couples-widgets (NEXT: honest roundup of 6-8 apps incl. Twoodle, disclosed, each with real pros/cons and "best for"; check each app's store page; Twoodle must not always come first)
 - [ ] couple-joy-alternative
 - [ ] noteit-loklok-alternative (widget doodle apps compared)
 - [ ] days-together-lock-screen-counter (relationship day counter widget how-to)
-- [ ] best-doodle-apps-for-couples
 - [ ] widgetable-alternative (crowded)
 - [ ] best-long-distance-relationship-apps (crowded)
 - [ ] love-note-widget-ideas / things to doodle for your partner

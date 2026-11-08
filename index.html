@@ -17,15 +17,38 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Twoodle: Couples Widgets",
-  "operatingSystem": "iOS 18.0 or later",
-  "applicationCategory": "SocialNetworkingApplication",
-  "description": "A couples app for iPhone. Send doodles, photos, notes and moods to your partner's Home Screen and Lock Screen widgets, and draw together live.",
-  "url": "https://twoodle.app/",
-  "downloadUrl": "https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881",
-  "publisher": { "@type": "Organization", "name": "Taking Flight, Inc." },
-  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://twoodle.app/#org",
+      "name": "Taking Flight, Inc.",
+      "url": "https://twoodle.app/",
+      "logo": "https://twoodle.app/favicon.svg",
+      "sameAs": ["https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881"],
+      "contactPoint": { "@type": "ContactPoint", "contactType": "customer support", "email": "twoodlesupport@gmail.com" }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://twoodle.app/#site",
+      "name": "Twoodle",
+      "url": "https://twoodle.app/",
+      "publisher": { "@id": "https://twoodle.app/#org" }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://twoodle.app/#app",
+      "name": "Twoodle: Couples Widgets",
+      "alternateName": "Twoodle",
+      "operatingSystem": "iOS 18.0 or later",
+      "applicationCategory": "SocialNetworkingApplication",
+      "description": "Twoodle is an iPhone app for couples. Send doodles to your partner's Home Screen widget, share notes and moods, put Love Note and Days Together widgets on your Lock Screen, and draw together live.",
+      "url": "https://twoodle.app/",
+      "downloadUrl": "https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881",
+      "sameAs": ["https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881"],
+      "publisher": { "@id": "https://twoodle.app/#org" },
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+    }
+  ]
 }
 </script>
 </head>
