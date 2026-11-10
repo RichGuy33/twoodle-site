@@ -56,8 +56,8 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] lovebox-alternative-app
 - [x] best-apps-for-couples-widgets (published 2026-11-08; originally: honest roundup of 6-8 apps incl. Twoodle, disclosed, each with real pros/cons and "best for"; check each app's store page; Twoodle must not always come first)
 - [x] couple-joy-alternative (published 2026-11-09)
-- [ ] noteit-loklok-alternative (NEXT) (widget doodle apps compared)
-- [ ] days-together-lock-screen-counter (relationship day counter widget how-to)
+- [x] noteit-loklok-alternative (published 2026-11-10) (widget doodle apps compared)
+- [ ] days-together-lock-screen-counter (NEXT) (relationship day counter widget how-to)
 - [ ] widgetable-alternative (crowded)
 - [ ] best-long-distance-relationship-apps (crowded)
 - [ ] love-note-widget-ideas / things to doodle for your partner
