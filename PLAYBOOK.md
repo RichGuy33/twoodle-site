@@ -59,8 +59,8 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] noteit-loklok-alternative (published 2026-11-10) (widget doodle apps compared)
 - [x] days-together-lock-screen-counter (published 2026-11-10) (relationship day counter widget how-to)
 - [x] widgetable-alternative (published 2026-11-11)
-- [ ] best-long-distance-relationship-apps (crowded) (NEXT)
-- [ ] love-note-widget-ideas / things to doodle for your partner
+- [x] best-long-distance-relationship-apps (published 2026-11-12)
+- [ ] love-note-widget-ideas / things to doodle for your partner (NEXT)
 - [ ] how-to-add-couples-widget-iphone-home-screen
 - [ ] long-distance-anniversary / date ideas that use widgets (only if it can be genuinely useful)
 
