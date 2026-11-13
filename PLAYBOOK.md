@@ -60,8 +60,8 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] days-together-lock-screen-counter (published 2026-11-10) (relationship day counter widget how-to)
 - [x] widgetable-alternative (published 2026-11-11)
 - [x] best-long-distance-relationship-apps (published 2026-11-12)
-- [ ] love-note-widget-ideas / things to doodle for your partner (NEXT)
-- [ ] how-to-add-couples-widget-iphone-home-screen
+- [x] things-to-doodle-for-your-partner (published 2026-11-13)
+- [ ] how-to-add-couples-widget-iphone-home-screen (NEXT)
 - [ ] long-distance-anniversary / date ideas that use widgets (only if it can be genuinely useful)
 
 When the backlog runs low, add new keyword ideas from Search Console queries or from real People Also Ask results.
