@@ -61,7 +61,7 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] widgetable-alternative (published 2026-11-11)
 - [x] best-long-distance-relationship-apps (published 2026-11-12)
 - [x] things-to-doodle-for-your-partner (published 2026-11-13)
-- [ ] how-to-add-couples-widget-iphone-home-screen (NEXT)
-- [ ] long-distance-anniversary / date ideas that use widgets (only if it can be genuinely useful)
+- [x] how-to-add-couples-widget-iphone-home-screen (published 2026-11-14)
+- [ ] long-distance-anniversary / date ideas that use widgets (NEXT, only if genuinely useful)
 
 When the backlog runs low, add new keyword ideas from Search Console queries or from real People Also Ask results.
