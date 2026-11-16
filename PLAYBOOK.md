@@ -62,6 +62,7 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] best-long-distance-relationship-apps (published 2026-11-12)
 - [x] things-to-doodle-for-your-partner (published 2026-11-13)
 - [x] how-to-add-couples-widget-iphone-home-screen (published 2026-11-14)
-- [ ] long-distance-anniversary / date ideas that use widgets (NEXT, only if genuinely useful)
+- [x] long-distance-date-ideas (published 2026-11-16; keyword source: Search Console LDR query cluster)
+- [ ] (backlog empty: add ideas from Search Console queries; note Chrome is always signed in to Search Console, always use it)
 
 When the backlog runs low, add new keyword ideas from Search Console queries or from real People Also Ask results.
