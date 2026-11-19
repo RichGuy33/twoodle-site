@@ -4,7 +4,7 @@ Site: https://twoodle.app (static HTML, no build). Repo root is the site root.
 Cloudflare Pages auto-deploys every push to `main`. App: Twoodle, a couples doodle-widget iPhone app by Taking Flight, Inc.
 App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881
 
-## The daily job: ONE quality guide per run
+## The daily job: ONE new English guide per run (plus translations, see Translations below)
 1. Pick the keyword.
    - If Search Console data is reachable (Chrome, property `sc-domain:twoodle.app`, Performance report, last 28 days), pick the best query with impressions but no dedicated page, or a page ranking 8-30 that deserves a stronger guide.
    - Otherwise take the next unchecked item in the backlog below.
@@ -16,6 +16,20 @@ App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881
 7. Run `python3 scripts/check_site.py .` and fix every error.
 8. Commit to `main` with a clear message and push. Cloudflare deploys automatically (about a minute).
 9. In Search Console (if reachable), use URL inspection -> Request indexing for the new URL.
+
+## Translations (added 2026-11-19, Jason's instruction; this OVERRIDES "ONE guide per run")
+Languages: es (Spanish, /es/guias/), pt (Portuguese-BR leaning, /pt/guias/), fr (French, /fr/guides/), de (German, /de/ratgeber/).
+Every daily run now does BOTH:
+1. Publish the new English guide as before, then publish its translation in all 4 languages (5 pages total for the new guide).
+2. Catch-up: also translate at least 2 not-yet-translated existing English guides into all 4 languages (oldest first, by the order of the backlog below) until every English guide has all 4 translations. Check `scripts/translations.json` (English slug -> languages done) to see what is missing.
+How:
+- Do NOT machine-copy: localize. Re-pick the keyword in the target language (search the SERP in that language), adapt idioms, jokes and examples, and use a localized slug (ascii, lowercase, hyphens). Keep the playbook voice, accuracy rules and CTA structure. Same facts: iPhone only, Home Screen doodles, prices in USD (say "US App Store prices, may vary in your country"), no Android, "check the App Store for the languages the app is available in" (we have NOT confirmed the app UI is localized; never claim it is or isn't).
+- Build each page with `scripts/i18n.py` -> `build_page(lang, english_slug, localized_slug, content_dict)` (see the function docstring; a worked example of the content dict is any existing page's structure: title, desc, og_desc, h1, disclosure, body_html with the `{CTA1}` token, faq list, cta1, cta2, ps_html). Write your content/build script in the scratchpad, not in the repo.
+- Then run `python3 scripts/i18n.py .` (rewrites links to translated versions, adds hreflang to English + translated pages, regenerates the 4 language index pages, adds new URLs to sitemap.xml). Then `python3 scripts/check_site.py .`.
+- Links inside translated pages point at English guides until the translation exists; the script adds an "(in English)" note automatically and swaps to the translated page once it is built. Write links in the body as plain `/guides/<english-slug>/`.
+- Request indexing in Search Console for the new English URL and as many translated URLs as time allows (URL inspection box at the top of the Overview page; paste URL, Enter, then Request indexing).
+- Fonts are latin subset: fine for es/pt/fr/de. Do not add non-latin languages without adding fonts.
+- Flag in the final summary that native-speaker review is still advisable.
 
 ## Voice: warm, funny, direct-response email copywriter
 Write like a witty friend who happens to write killer sales emails (the Ben Settle / classic email-copywriter school), talking to ONE person about their relationship. Capture the feel, never copy anyone's phrasing.

@@ -1,0 +1,24 @@
+{
+ "long-distance-relationship-questions": {
+  "de": {
+   "desc": "30 Fragen an deinen Partner oder deine Partnerin in der Fernbeziehung, sortiert nach Situation: Alltag, tiefe Videoanrufe, schwierige Gespräche und Spaß.",
+   "slug": "fragen-fernbeziehung",
+   "title": "Fragen für die Fernbeziehung: 30 Ideen und wann du sie stellst"
+  },
+  "es": {
+   "desc": "30 preguntas para tu pareja a distancia, ordenadas por momento: el día a día, videollamadas profundas, conversaciones difíciles y juegos. Sin listas de 500.",
+   "slug": "preguntas-relacion-a-distancia",
+   "title": "Preguntas para una relación a distancia: 30 ideas y cuándo hacerlas"
+  },
+  "fr": {
+   "desc": "30 questions à poser à votre partenaire à distance, classées par moment : le quotidien, les appels vidéo profonds, les sujets difficiles et les jeux.",
+   "slug": "questions-relation-a-distance",
+   "title": "Questions pour une relation à distance : 30 idées et quand les poser"
+  },
+  "pt": {
+   "desc": "30 perguntas para o seu parceiro ou parceira à distância, organizadas por momento: dia a dia, videochamadas profundas, conversas difíceis e brincadeiras.",
+   "slug": "perguntas-relacionamento-a-distancia",
+   "title": "Perguntas para relacionamento à distância: 30 ideias e quando fazer cada uma"
+  }
+ }
+}
