@@ -67,6 +67,7 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] short-love-notes-for-your-partner (published 2026-11-16; keyword source: backlog empty, Search Console tab did not load; chosen from SERP check on couple-widget notes)
 - [x] long-distance-relationship-time-zones (published 2026-11-17; keyword source: Search Console LDR query cluster, gap in existing LDR guides; SERP checked)
 - [x] long-distance-relationship-gift-ideas (published 2026-11-18; keyword source: Search Console LDR query cluster, all exact queries already covered so chose adjacent LDR gap; SERP not deeply checked)
+- [x] long-distance-relationship-questions (published 2026-11-19; keyword source: Search Console LDR query cluster (all exact queries already covered), chose adjacent gap; SERP checked: crowded with 100-500 question lists, so angle is 30 questions sorted by moment)
 - [ ] (backlog empty: add ideas from Search Console queries; note Chrome is always signed in to Search Console, always use it)
 
 When the backlog runs low, add new keyword ideas from Search Console queries or from real People Also Ask results.
