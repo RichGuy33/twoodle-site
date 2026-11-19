@@ -31,6 +31,11 @@ How:
 - Fonts are latin subset: fine for es/pt/fr/de. Do not add non-latin languages without adding fonts.
 - Flag in the final summary that native-speaker review is still advisable.
 
+## Indexing queue (request these first, then delete the lines)
+Search Console URL inspection was slow/timing out on 2026-11-19 (each lookup took 30-60s, FR one errored). Already requested: /guides/long-distance-relationship-questions/, /es/guias/preguntas-relacion-a-distancia/, /pt/guias/perguntas-relacionamento-a-distancia/.
+Still to request: /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, then the index pages /es/guias/, /pt/guias/, /fr/guides/, /de/ratgeber/.
+Tips: after pressing Enter wait up to ~60s for the "Retrieving data" dialog; if it says "Something went wrong", retry once. Request Indexing button sits at about (1208,316) at a 1470px-wide window; the confirmation Dismiss at about (926,468).
+
 ## Voice: warm, funny, direct-response email copywriter
 Write like a witty friend who happens to write killer sales emails (the Ben Settle / classic email-copywriter school), talking to ONE person about their relationship. Capture the feel, never copy anyone's phrasing.
 
