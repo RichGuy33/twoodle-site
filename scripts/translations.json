@@ -1,4 +1,48 @@
 {
+ "draw-on-partners-lock-screen": {
+  "de": {
+   "desc": "iOS erlaubt es nicht, direkt auf dem Handy eines anderen zu zeichnen, aber eine Widget-App schon. So schickst du Zeichnungen Schritt für Schritt auf die Widgets deines Partners.",
+   "slug": "auf-sperrbildschirm-des-partners-zeichnen",
+   "title": "Auf dem iPhone des Partners zeichnen: Sperrbildschirm und Widgets"
+  },
+  "es": {
+   "desc": "iOS no te deja dibujar directamente en el móvil de otra persona, pero una app de widgets compartidos sí. Así envías garabatos a los widgets del iPhone de tu pareja, paso a paso.",
+   "slug": "dibujar-en-la-pantalla-de-tu-pareja",
+   "title": "Cómo dibujar en la pantalla de bloqueo y los widgets del iPhone de tu pareja"
+  },
+  "fr": {
+   "desc": "iOS ne permet pas de dessiner directement sur le téléphone de quelqu'un d'autre, mais une app de widget partagé, si. Comment envoyer des dessins sur les widgets de l'iPhone de votre partenaire, pas à pas.",
+   "slug": "dessiner-sur-iphone-de-son-partenaire",
+   "title": "Dessiner sur l'iPhone de son partenaire : écran verrouillé et widgets"
+  },
+  "pt": {
+   "desc": "O iOS não deixa você desenhar direto no celular de outra pessoa, mas um app com widget compartilhado deixa. Veja como enviar desenhos para os widgets do iPhone do seu parceiro, passo a passo.",
+   "slug": "desenhar-na-tela-do-iphone-do-parceiro",
+   "title": "Como desenhar na tela do iPhone do seu parceiro (widgets e Tela de Bloqueio)"
+  }
+ },
+ "long-distance-countdown-until-we-meet": {
+  "de": {
+   "desc": "Ein Countdown bis zum nächsten Besuch macht das Warten in der Fernbeziehung leichter. Neun Ideen mit und ohne iPhone, und wie die Zahl nicht zur traurigen Uhr wird.",
+   "slug": "countdown-bis-zum-wiedersehen",
+   "title": "Countdown bis zum Wiedersehen: 9 Ideen für die Fernbeziehung"
+  },
+  "es": {
+   "desc": "Una cuenta atrás hasta tu próxima visita hace más llevadera la espera a distancia. Nueve formas de hacerla en iPhone y sin app, y cómo evitar que se vuelva un reloj triste.",
+   "slug": "cuenta-atras-para-ver-a-tu-pareja",
+   "title": "Cuenta atrás para ver a tu pareja: 9 formas de contar los días"
+  },
+  "fr": {
+   "desc": "Un compte à rebours avant votre prochaine visite rend l'attente plus douce. Neuf façons de le faire sur iPhone ou sans écran, et comment éviter qu'il devienne une horloge triste.",
+   "slug": "compte-a-rebours-relation-a-distance",
+   "title": "Compte à rebours couple à distance : 9 façons de patienter jusqu'aux retrouvailles"
+  },
+  "pt": {
+   "desc": "Uma contagem regressiva até a próxima visita deixa a espera à distância mais leve. Nove jeitos de fazer no iPhone e fora dele, e como evitar que o número vire um relógio triste.",
+   "slug": "contagem-regressiva-relacionamento-a-distancia",
+   "title": "Contagem regressiva para se ver: 9 jeitos de esperar o reencontro à distância"
+  }
+ },
  "long-distance-relationship-questions": {
   "de": {
    "desc": "30 Fragen an deinen Partner oder deine Partnerin in der Fernbeziehung, sortiert nach Situation: Alltag, tiefe Videoanrufe, schwierige Gespräche und Spaß.",
@@ -19,6 +63,28 @@
    "desc": "30 perguntas para o seu parceiro ou parceira à distância, organizadas por momento: dia a dia, videochamadas profundas, conversas difíceis e brincadeiras.",
    "slug": "perguntas-relacionamento-a-distancia",
    "title": "Perguntas para relacionamento à distância: 30 ideias e quando fazer cada uma"
+  }
+ },
+ "lovebox-alternative-app": {
+  "de": {
+   "desc": "Lovebox ist eine echte Box. Wenn du auf die Hardware verzichten willst, zeigen wir, wie eine Widget-App wie Twoodle sich schlägt und wann Lovebox die bessere Wahl bleibt.",
+   "slug": "lovebox-alternative",
+   "title": "Lovebox-Alternative ohne Hardware: Zeichnungen auf dem iPhone des Partners"
+  },
+  "es": {
+   "desc": "Lovebox es una caja física. Si prefieres prescindir del aparato, así se compara una app de widgets como Twoodle, y cuándo Lovebox sigue siendo la mejor opción.",
+   "slug": "alternativa-a-lovebox-sin-aparato",
+   "title": "Alternativa a Lovebox sin aparato: garabatos en el iPhone de tu pareja"
+  },
+  "fr": {
+   "desc": "Lovebox est une boîte physique. Si vous préférez vous passer du matériel, voici comment une app de widget comme Twoodle se compare, et quand Lovebox reste le meilleur choix.",
+   "slug": "alternative-lovebox-sans-boitier",
+   "title": "Alternative à Lovebox sans boîtier : des dessins sur l'iPhone de votre partenaire"
+  },
+  "pt": {
+   "desc": "O Lovebox é uma caixa física. Se você prefere dispensar o aparelho, veja como um app com widget como o Twoodle se compara e quando o Lovebox ainda é a melhor escolha.",
+   "slug": "alternativa-ao-lovebox",
+   "title": "Alternativa ao Lovebox sem aparelho: desenhos no iPhone do seu parceiro"
   }
  }
 }
