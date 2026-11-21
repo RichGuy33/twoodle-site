@@ -32,7 +32,7 @@ How:
 - Flag in the final summary that native-speaker review is still advisable.
 
 ## Indexing queue (request these first, then delete the lines)
-Not yet requested as of 2026-11-21 (Search Console indexing was not attempted this run): /guides/how-often-should-long-distance-couples-talk/, /guides/long-distance-countdown-until-we-meet/, /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, all translated URLs of 2026-11-20 and 2026-11-21 (es/pt/fr/de of countdown, draw-on-partners-lock-screen, lovebox-alternative-app, how-often-should-long-distance-couples-talk, best-apps-for-couples-widgets, couple-joy-alternative), and the 4 language index pages.
+Not yet requested as of 2026-11-21 (Search Console indexing was not attempted this run): (indexing requested 2026-11-21 for /guides/how-often-should-long-distance-couples-talk/) /guides/long-distance-countdown-until-we-meet/, /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, all translated URLs of 2026-11-20 and 2026-11-21 (es/pt/fr/de of countdown, draw-on-partners-lock-screen, lovebox-alternative-app, how-often-should-long-distance-couples-talk, best-apps-for-couples-widgets, couple-joy-alternative), and the 4 language index pages.
 Tips: after pressing Enter wait up to ~60s for the "Retrieving data" dialog; if it says "Something went wrong", retry once.
 Next catch-up (oldest first): noteit-loklok-alternative, days-together-lock-screen-counter (a Spanish query 'como poner los dias de relacion en iphone' already shows impressions), widgetable-alternative, ...
 
