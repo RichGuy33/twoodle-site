@@ -32,8 +32,9 @@ How:
 - Flag in the final summary that native-speaker review is still advisable.
 
 ## Indexing queue (request these first, then delete the lines)
-Not yet requested as of 2026-11-20 (Search Console URL inspection is slow; a run only did what it could): /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, /guides/long-distance-countdown-until-we-meet/, all 12 new translated URLs of 2026-11-20 (es/pt/fr/de of countdown, draw-on-partners-lock-screen, lovebox-alternative-app), and the 4 language index pages.
+Not yet requested as of 2026-11-21 (Search Console indexing was not attempted this run): /guides/how-often-should-long-distance-couples-talk/, /guides/long-distance-countdown-until-we-meet/, /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, all translated URLs of 2026-11-20 and 2026-11-21 (es/pt/fr/de of countdown, draw-on-partners-lock-screen, lovebox-alternative-app, how-often-should-long-distance-couples-talk, best-apps-for-couples-widgets, couple-joy-alternative), and the 4 language index pages.
 Tips: after pressing Enter wait up to ~60s for the "Retrieving data" dialog; if it says "Something went wrong", retry once.
+Next catch-up (oldest first): noteit-loklok-alternative, days-together-lock-screen-counter (a Spanish query 'como poner los dias de relacion en iphone' already shows impressions), widgetable-alternative, ...
 
 ## Voice: warm, funny, direct-response email copywriter
 Write like a witty friend who happens to write killer sales emails (the Ben Settle / classic email-copywriter school), talking to ONE person about their relationship. Capture the feel, never copy anyone's phrasing.
@@ -87,6 +88,7 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - [x] long-distance-relationship-gift-ideas (published 2026-11-18; keyword source: Search Console LDR query cluster, all exact queries already covered so chose adjacent LDR gap; SERP not deeply checked)
 - [x] long-distance-relationship-questions (published 2026-11-19; keyword source: Search Console LDR query cluster (all exact queries already covered), chose adjacent gap; SERP checked: crowded with 100-500 question lists, so angle is 30 questions sorted by moment)
 - [x] long-distance-countdown-until-we-meet (published 2026-11-20; keyword source: Search Console LDR cluster, exact queries covered so chose adjacent gap; SERP not checked)
+- [x] how-often-should-long-distance-couples-talk (published 2026-11-21; keyword source: Search Console showed only 16 queries, all already covered, so chose adjacent LDR gap; SERP checked)
 - [ ] (backlog empty: add ideas from Search Console queries; note Chrome is always signed in to Search Console, always use it)
 
 When the backlog runs low, add new keyword ideas from Search Console queries or from real People Also Ask results.

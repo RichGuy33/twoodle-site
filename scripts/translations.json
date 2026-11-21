@@ -1,4 +1,48 @@
 {
+ "best-apps-for-couples-widgets": {
+  "de": {
+   "desc": "Sechs Paar-Widget-Apps für das iPhone im Vergleich: was sie können, was sie kosten, für wen sie taugen. Eine davon machen wir selbst, und das sagen wir dazu.",
+   "slug": "beste-paar-apps-mit-widgets-iphone",
+   "title": "Die besten Paar-Apps mit Widgets für das iPhone (ehrlicher Vergleich 2026)"
+  },
+  "es": {
+   "desc": "Seis apps de widgets para parejas en iPhone comparadas por lo que hacen, lo que cuestan y a quién le encajan. Hacemos una de ellas y lo decimos.",
+   "slug": "mejores-apps-widgets-para-parejas",
+   "title": "Mejores apps de widgets para parejas en iPhone (2026, sin filtros)"
+  },
+  "fr": {
+   "desc": "Six apps de widgets pour couples sur iPhone comparées : ce qu'elles font, ce qu'elles coûtent, à qui elles conviennent. Nous en faisons une, et nous le disons.",
+   "slug": "meilleures-apps-widgets-pour-couples",
+   "title": "Meilleures apps de widgets pour couples sur iPhone (2026, sans langue de bois)"
+  },
+  "pt": {
+   "desc": "Seis apps de widgets para casais no iPhone comparados pelo que fazem, quanto custam e para quem servem. Fazemos um deles, e dizemos isso.",
+   "slug": "melhores-apps-de-widgets-para-casais",
+   "title": "Melhores apps de widgets para casais no iPhone (2026, sem enrolação)"
+  }
+ },
+ "couple-joy-alternative": {
+  "de": {
+   "desc": "Couple Joy steckt viel in eine App. Wenn du es leichter magst: So schlägt sich Twoodle im Vergleich und wann Couple Joy die bessere Wahl ist.",
+   "slug": "couple-joy-alternative",
+   "title": "Couple-Joy-Alternative: einfacher verbunden bleiben mit dem iPhone"
+  },
+  "es": {
+   "desc": "Couple Joy mete muchas cosas en una sola app. Si buscas algo más ligero, así se compara Twoodle y cuándo Couple Joy sigue siendo la mejor opción.",
+   "slug": "alternativa-a-couple-joy",
+   "title": "Alternativa a Couple Joy: una forma más sencilla de estar cerca en iPhone"
+  },
+  "fr": {
+   "desc": "Couple Joy fait beaucoup de choses. Pour plus léger, voici comment Twoodle se compare, et quand Couple Joy reste le meilleur choix.",
+   "slug": "alternative-a-couple-joy",
+   "title": "Alternative à Couple Joy : une façon plus simple de rester proches sur iPhone"
+  },
+  "pt": {
+   "desc": "O Couple Joy tem muita coisa num app só. Se você quer algo mais leve, veja como o Twoodle se compara e quando o Couple Joy é a melhor escolha.",
+   "slug": "alternativa-ao-couple-joy",
+   "title": "Alternativa ao Couple Joy: um jeito mais simples de ficar perto no iPhone"
+  }
+ },
  "draw-on-partners-lock-screen": {
   "de": {
    "desc": "iOS erlaubt es nicht, direkt auf dem Handy eines anderen zu zeichnen, aber eine Widget-App schon. So schickst du Zeichnungen Schritt für Schritt auf die Widgets deines Partners.",
@@ -19,6 +63,28 @@
    "desc": "O iOS não deixa você desenhar direto no celular de outra pessoa, mas um app com widget compartilhado deixa. Veja como enviar desenhos para os widgets do iPhone do seu parceiro, passo a passo.",
    "slug": "desenhar-na-tela-do-iphone-do-parceiro",
    "title": "Como desenhar na tela do iPhone do seu parceiro (widgets e Tela de Bloqueio)"
+  }
+ },
+ "how-often-should-long-distance-couples-talk": {
+  "de": {
+   "desc": "Eine magische Zahl gibt es nicht. So findet ihr einen Rhythmus, der zu beiden Terminkalendern passt, was als Kontakt zählt und wie ihr die 24/7-Falle umgeht.",
+   "slug": "wie-oft-sprechen-fernbeziehung",
+   "title": "Wie oft telefonieren in der Fernbeziehung? Ein realistischer Rhythmus"
+  },
+  "es": {
+   "desc": "No hay un número mágico. Cómo encontrar un ritmo de contacto que encaje con los dos horarios, qué cuenta como hablar y cómo evitar la trampa del 24/7.",
+   "slug": "cada-cuanto-hablar-relacion-a-distancia",
+   "title": "¿Cada cuánto hablar en una relación a distancia? Un ritmo realista"
+  },
+  "fr": {
+   "desc": "Pas de chiffre magique. Comment trouver un rythme qui convient à vos deux emplois du temps, ce qui compte comme contact et comment éviter le piège du 24 h/24.",
+   "slug": "a-quelle-frequence-se-parler-relation-a-distance",
+   "title": "À quelle fréquence se parler en relation à distance ? Un rythme réaliste"
+  },
+  "pt": {
+   "desc": "Não existe número mágico. Como achar um ritmo de contato que caiba nas duas rotinas, o que conta como conversar e como fugir da armadilha do 24 horas.",
+   "slug": "com-que-frequencia-conversar-relacionamento-a-distancia",
+   "title": "Com que frequência conversar num relacionamento à distância? Um ritmo realista"
   }
  },
  "long-distance-countdown-until-we-meet": {
