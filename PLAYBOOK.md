@@ -32,8 +32,10 @@ How:
 - Flag in the final summary that native-speaker review is still advisable.
 
 ## Indexing queue (request these first, then delete the lines)
-Not yet requested as of 2026-11-21 (Search Console indexing was not attempted this run): (indexing requested 2026-11-21 for /guides/how-often-should-long-distance-couples-talk/) /guides/long-distance-countdown-until-we-meet/, /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, all translated URLs of 2026-11-20 and 2026-11-21 (es/pt/fr/de of countdown, draw-on-partners-lock-screen, lovebox-alternative-app, how-often-should-long-distance-couples-talk, best-apps-for-couples-widgets, couple-joy-alternative), and the 4 language index pages.
-Tips: after pressing Enter wait up to ~60s for the "Retrieving data" dialog; if it says "Something went wrong", retry once.
+STANDING RULE (Jason, 2026-11-21): ALWAYS request indexing for every new and catch-up URL in ALL languages (es/pt/fr/de), not just English. Order: new English URL, then its 4 translations, then catch-up translations, then language index pages. Search Console's daily quota is roughly 10 requests; when "Quota Exceeded" appears, stop and list leftovers here. Batch at most 3 URLs per browser_batch call (longer batches time out).
+Already requested 2026-11-21: /guides/how-often-should-long-distance-couples-talk/ and its es/pt/fr/de translations, /es/guias/mejores-apps-widgets-para-parejas/.
+Still to request (quota hit 2026-11-21), in this order: /pt/guias/melhores-apps-de-widgets-para-casais/, /fr/guides/meilleures-apps-widgets-pour-couples/, /de/ratgeber/beste-paar-apps-mit-widgets-iphone/, the es/pt/fr/de couple-joy-alternative pages (/es/guias/alternativa-a-couple-joy/, /pt/guias/alternativa-ao-couple-joy/, /fr/guides/alternative-a-couple-joy/, /de/ratgeber/couple-joy-alternative/), /guides/long-distance-countdown-until-we-meet/, /fr/guides/questions-relation-a-distance/, /de/ratgeber/fragen-fernbeziehung/, the es/pt/fr/de pages of countdown, draw-on-partners-lock-screen, lovebox-alternative-app (12), and the 4 language index pages.
+Tips: after pressing Enter wait ~10s then click Request indexing; "Something went wrong" -> retry once.
 Next catch-up (oldest first): noteit-loklok-alternative, days-together-lock-screen-counter (a Spanish query 'como poner los dias de relacion en iphone' already shows impressions), widgetable-alternative, ...
 
 ## Voice: warm, funny, direct-response email copywriter
