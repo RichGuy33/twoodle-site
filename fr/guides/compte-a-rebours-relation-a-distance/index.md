@@ -33,7 +33,7 @@ En bref : choisissez la date où vous serez enfin dans la même pièce, mettez u
 
 Un compte à rebours est une promesse avec une date. Il peut aussi transformer chaque jour d'ici là en « pas encore ». Trois petits ajustements aident.
 
-**Comptez aussi à l'endroit.** Le [widget Jours ensemble (Days Together)](https://twoodle.app/guides/days-together-lock-screen-counter/) (en anglais) garde votre total sur l'écran verrouillé : le chiffre qui monte se tient à côté de celui qui descend.
+**Comptez aussi à l'endroit.** Le [widget Jours ensemble (Days Together)](https://twoodle.app/fr/guides/compteur-jours-ensemble-ecran-verrouille-iphone/) garde votre total sur l'écran verrouillé : le chiffre qui monte se tient à côté de celui qui descend.
 
 **Pensez au milieu.** Les semaines entre aujourd'hui et la visite, c'est l'essentiel de votre relation. Remplissez-les avec un appel hebdomadaire et quelques-unes de ces [idées de rendez-vous à distance](https://twoodle.app/guides/long-distance-date-ideas/) (en anglais).
 

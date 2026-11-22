@@ -57,7 +57,7 @@ Nous le disons nous-mêmes, pour que vous n'ayez pas à le chercher :
 
 - Vous avez tous les deux un iPhone et ne voulez rien acheter ni faire expédier de plus.
 - Vous voulez que les dessins s'affichent sur l'écran que vous regardez déjà sans arrêt.
-- L'idée de dessiner ensemble en direct vous plaît, ou celle d'un compteur sur l'écran verrouillé pour vos jours ensemble ([voici comment ça marche](https://twoodle.app/guides/days-together-lock-screen-counter/) (en anglais)).
+- L'idée de dessiner ensemble en direct vous plaît, ou celle d'un compteur sur l'écran verrouillé pour vos jours ensemble ([voici comment ça marche](https://twoodle.app/fr/guides/compteur-jours-ensemble-ecran-verrouille-iphone/)).
 
 > **Essayez la version sans boîte** Téléchargement gratuit. Un abonnement Twoodle Pro couvre vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

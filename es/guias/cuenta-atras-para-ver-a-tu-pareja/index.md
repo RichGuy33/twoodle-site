@@ -33,7 +33,7 @@ Respuesta corta: elige la fecha en la que volveréis a estar en la misma habitac
 
 Una cuenta atrás es una promesa con fecha. También puede convertir cada día previo a la visita en un «todavía no». Tres arreglos pequeños ayudan.
 
-**Cuenta hacia arriba además de hacia abajo.** El [widget Días Juntos](https://twoodle.app/guides/days-together-lock-screen-counter/) (en inglés) mantiene tu total en la pantalla de bloqueo, así que el número que sube queda junto al que baja.
+**Cuenta hacia arriba además de hacia abajo.** El [widget Días Juntos](https://twoodle.app/es/guias/poner-dias-de-relacion-pantalla-bloqueo-iphone/) mantiene tu total en la pantalla de bloqueo, así que el número que sube queda junto al que baja.
 
 **Planifica lo de en medio.** Las semanas entre hoy y la visita son la mayor parte de la relación. Llénalas con una llamada semanal y alguna de estas [ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
 

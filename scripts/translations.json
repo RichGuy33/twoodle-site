@@ -43,6 +43,28 @@
    "title": "Alternativa ao Couple Joy: um jeito mais simples de ficar perto no iPhone"
   }
  },
+ "days-together-lock-screen-counter": {
+  "de": {
+   "desc": "Wie du einen Zähler für gemeinsame Tage per Widget auf den iPhone-Sperrbildschirm bringst, worauf du bei einer Beziehungszähler-App achtest und wann Twoodle passt.",
+   "slug": "tage-zusammen-zaehler-sperrbildschirm-iphone",
+   "title": "Tage-zusammen-Zähler auf dem iPhone-Sperrbildschirm: so richtest du ihn ein"
+  },
+  "es": {
+   "desc": "Cómo poner un contador de días juntos en la pantalla de bloqueo del iPhone con un widget, qué mirar en una app de contador de relación y cuándo conviene Twoodle.",
+   "slug": "poner-dias-de-relacion-pantalla-bloqueo-iphone",
+   "title": "Cómo poner los días de relación en la pantalla de bloqueo del iPhone"
+  },
+  "fr": {
+   "desc": "Comment afficher un compteur de jours en couple sur l'écran verrouillé de l'iPhone avec un widget, quoi regarder dans une app de compteur et quand Twoodle convient.",
+   "slug": "compteur-jours-ensemble-ecran-verrouille-iphone",
+   "title": "Compteur de jours ensemble sur l'écran verrouillé de l'iPhone : comment faire"
+  },
+  "pt": {
+   "desc": "Como colocar um contador de dias juntos na Tela de Bloqueio do iPhone com um widget, o que observar num app de contador de namoro e quando o Twoodle faz sentido.",
+   "slug": "contador-de-dias-juntos-tela-de-bloqueio-iphone",
+   "title": "Contador de dias juntos na Tela de Bloqueio do iPhone: como configurar"
+  }
+ },
  "draw-on-partners-lock-screen": {
   "de": {
    "desc": "iOS erlaubt es nicht, direkt auf dem Handy eines anderen zu zeichnen, aber eine Widget-App schon. So schickst du Zeichnungen Schritt für Schritt auf die Widgets deines Partners.",
@@ -109,6 +131,28 @@
    "title": "Contagem regressiva para se ver: 9 jeitos de esperar o reencontro à distância"
   }
  },
+ "long-distance-relationship-games": {
+  "de": {
+   "desc": "Zwölf Spiele für Paare in der Fernbeziehung per Videoanruf, Nachricht und Handy, sortiert nach Aufwand und Dauer, dazu Kritzel-Spiele, die keinen Live-Anruf brauchen.",
+   "slug": "spiele-fernbeziehung",
+   "title": "Spiele für Fernbeziehungen: 12 Ideen für Videoanrufe und Handy"
+  },
+  "es": {
+   "desc": "Doce juegos para parejas a distancia por videollamada, mensajes y móvil, ordenados por esfuerzo y tiempo, más juegos de garabatos que no necesitan llamada en directo.",
+   "slug": "juegos-para-parejas-a-distancia",
+   "title": "Juegos para parejas a distancia: 12 ideas para videollamadas y móvil"
+  },
+  "fr": {
+   "desc": "Douze jeux pour couples à distance en visio, par message ou sur mobile, classés par effort et durée, plus des jeux de dessin qui ne demandent pas d'appel en direct.",
+   "slug": "jeux-couple-a-distance",
+   "title": "Jeux pour couple à distance : 12 idées en visio et sur mobile"
+  },
+  "pt": {
+   "desc": "Doze jogos para casais à distância por chamada de vídeo, mensagens e celular, organizados por esforço e tempo, mais jogos de desenho que não precisam de chamada ao vivo.",
+   "slug": "jogos-para-casais-a-distancia",
+   "title": "Jogos para casais à distância: 12 ideias para chamadas de vídeo e celular"
+  }
+ },
  "long-distance-relationship-questions": {
   "de": {
    "desc": "30 Fragen an deinen Partner oder deine Partnerin in der Fernbeziehung, sortiert nach Situation: Alltag, tiefe Videoanrufe, schwierige Gespräche und Spaß.",
@@ -151,6 +195,28 @@
    "desc": "O Lovebox é uma caixa física. Se você prefere dispensar o aparelho, veja como um app com widget como o Twoodle se compara e quando o Lovebox ainda é a melhor escolha.",
    "slug": "alternativa-ao-lovebox",
    "title": "Alternativa ao Lovebox sem aparelho: desenhos no iPhone do seu parceiro"
+  }
+ },
+ "noteit-loklok-alternative": {
+  "de": {
+   "desc": "Es gibt mehrere Apps namens noteit, und LokLok ist eine andere Geschichte. Was sie sind, wie sie sich unterscheiden und wann Twoodle, die iPhone-App nur für Paare, besser passt.",
+   "slug": "noteit-loklok-alternativen",
+   "title": "noteit- und LokLok-Alternativen: Zeichen-Widget-Apps für Paare"
+  },
+  "es": {
+   "desc": "Hay varias apps llamadas noteit y LokLok es otra historia. Qué son, en qué se diferencian y cuándo conviene Twoodle, la app para iPhone hecha solo para parejas.",
+   "slug": "alternativas-a-noteit-y-loklok",
+   "title": "Alternativas a noteit y LokLok: apps de widget con dibujos para parejas"
+  },
+  "fr": {
+   "desc": "Plusieurs apps s'appellent noteit, et LokLok est une autre histoire. Ce qu'elles sont, en quoi elles diffèrent et quand Twoodle, l'app iPhone faite pour les couples, convient mieux.",
+   "slug": "alternatives-a-noteit-et-loklok",
+   "title": "Alternatives à noteit et LokLok : apps de widget de dessin pour couples"
+  },
+  "pt": {
+   "desc": "Existem vários apps chamados noteit e o LokLok é outra história. O que são, no que diferem e quando o Twoodle, o app de iPhone feito só para casais, faz mais sentido.",
+   "slug": "alternativas-ao-noteit-e-loklok",
+   "title": "Alternativas ao noteit e ao LokLok: apps de widget com desenhos para casais"
   }
  }
 }

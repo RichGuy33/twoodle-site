@@ -69,7 +69,7 @@ Wenn ihr fertig seid, speichere das Bild in der Galerie oder schick es an sein o
 2. Tippe auf **Anpassen** und wähle **Sperrbildschirm**.
 3. Tippe auf den Widget-Bereich unter der Uhr und wähle ein Twoodle-Widget.
 
-Das Liebesnotiz-Widget kann auf dem Sperrbildschirm oder dem Home-Bildschirm stehen. Das Widget „Gemeinsame Tage“ sitzt auf dem Sperrbildschirm und zählt eure Tage als Paar, eine heimlich süße Art, sich zu erinnern, wie lange es schon gut läuft. Hier steht, [wie du einen Zähler für gemeinsame Tage auf dem Sperrbildschirm einrichtest](https://twoodle.app/guides/days-together-lock-screen-counter/) (auf Englisch).
+Das Liebesnotiz-Widget kann auf dem Sperrbildschirm oder dem Home-Bildschirm stehen. Das Widget „Gemeinsame Tage“ sitzt auf dem Sperrbildschirm und zählt eure Tage als Paar, eine heimlich süße Art, sich zu erinnern, wie lange es schon gut läuft. Hier steht, [wie du einen Zähler für gemeinsame Tage auf dem Sperrbildschirm einrichtest](https://twoodle.app/de/ratgeber/tage-zusammen-zaehler-sperrbildschirm-iphone/).
 
 > **Schick deiner Person einen Kartoffelhund** Kostenloser Download. Twoodle Pro schaltet das Koppeln für euch beide frei. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -97,7 +97,7 @@ Wir würden gern sagen, dass wir die Einzigen sind, aber das stimmt nicht. Apps 
 
 Du überlegst, ob eine Komplett-App mit Fragen und Quizzen besser passt? Lies unseren [Ratgeber zur Couple-Joy-Alternative](https://twoodle.app/de/ratgeber/couple-joy-alternative/).
 
-Du vergleichst Zeichen-Apps im Stil von noteit? Lies unseren Ratgeber zu [Alternativen zu noteit und LokLok](https://twoodle.app/guides/noteit-loklok-alternative/) (auf Englisch).
+Du vergleichst Zeichen-Apps im Stil von noteit? Lies unseren Ratgeber zu [Alternativen zu noteit und LokLok](https://twoodle.app/de/ratgeber/noteit-loklok-alternativen/).
 
 Du brauchst Ideen, was du zeichnen kannst? Schau in [25 Dinge zum Zeichnen für deinen Partner](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch).
 

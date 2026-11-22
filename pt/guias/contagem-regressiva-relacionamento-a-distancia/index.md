@@ -33,7 +33,7 @@ Resposta curta: escolha o dia em que vocês vão estar de novo no mesmo lugar, c
 
 Uma contagem regressiva é uma promessa com data marcada. Ela também pode transformar todo dia antes da visita em “ainda não”. Três ajustes pequenos ajudam.
 
-**Conte para cima, além de para baixo.** O [widget Dias Juntos](https://twoodle.app/guides/days-together-lock-screen-counter/) (em inglês) mantém o seu total na Tela de Bloqueio, então o número que sobe fica ao lado do número que desce.
+**Conte para cima, além de para baixo.** O [widget Dias Juntos](https://twoodle.app/pt/guias/contador-de-dias-juntos-tela-de-bloqueio-iphone/) mantém o seu total na Tela de Bloqueio, então o número que sobe fica ao lado do número que desce.
 
 **Planeje o meio do caminho.** As semanas entre hoje e a visita são a maior parte do relacionamento. Preencha com uma chamada por semana e algumas destas [ideias de encontros à distância](https://twoodle.app/guides/long-distance-date-ideas/) (em inglês).
 

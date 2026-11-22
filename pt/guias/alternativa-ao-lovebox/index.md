@@ -55,7 +55,7 @@ Vamos dizer logo, para você não precisar procurar:
 
 - Vocês dois têm iPhone e não querem nada extra para comprar ou receber.
 - Você quer que os desenhos apareçam na tela que você já olha o tempo todo.
-- Você gosta da ideia de desenhar junto ao vivo, ou de um contador de dias juntos na Tela de Bloqueio ([veja como funciona](https://twoodle.app/guides/days-together-lock-screen-counter/) (em inglês)).
+- Você gosta da ideia de desenhar junto ao vivo, ou de um contador de dias juntos na Tela de Bloqueio ([veja como funciona](https://twoodle.app/pt/guias/contador-de-dias-juntos-tela-de-bloqueio-iphone/)).
 
 > **Experimente a versão sem caixa** Download gratuito. Uma assinatura do Twoodle Pro cobre os dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

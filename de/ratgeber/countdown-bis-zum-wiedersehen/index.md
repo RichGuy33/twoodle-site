@@ -33,7 +33,7 @@ Kurz gesagt: Nimm den Tag, an dem ihr euch das nächste Mal im selben Raum seht,
 
 Ein Countdown ist ein Versprechen mit Datum. Er kann aber auch jeden Tag vor dem Besuch zu einem „Noch nicht“ machen. Drei kleine Kniffe helfen.
 
-**Zähl auch hoch, nicht nur runter.** Das [Widget „Gemeinsame Tage“](https://twoodle.app/guides/days-together-lock-screen-counter/) (auf Englisch) zeigt eure Gesamtzahl auf dem Sperrbildschirm. So steht die Zahl, die steigt, neben der Zahl, die fällt.
+**Zähl auch hoch, nicht nur runter.** Das [Widget „Gemeinsame Tage“](https://twoodle.app/de/ratgeber/tage-zusammen-zaehler-sperrbildschirm-iphone/) zeigt eure Gesamtzahl auf dem Sperrbildschirm. So steht die Zahl, die steigt, neben der Zahl, die fällt.
 
 **Plan die Mitte.** Die Wochen zwischen heute und dem Besuch sind der größte Teil der Beziehung. Füll sie mit einem festen Anruf pro Woche und ein paar dieser [Date-Ideen für die Fernbeziehung](https://twoodle.app/guides/long-distance-date-ideas/) (auf Englisch).
 

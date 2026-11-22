@@ -61,6 +61,8 @@ Here are 20 ideas, grouped by how much energy you've got. Pick one for this week
 - **Lower the bar.** A bad date beats a skipped one.
 - **Mix big and small.** One planned date a week plus a daily tiny signal works for many couples.
 
+Want something more playful than a movie? Try these [long-distance relationship games](https://twoodle.app/guides/long-distance-relationship-games/) for video calls and phones.
+
 ## Where Twoodle fits (and where it doesn't)
 
 Twoodle is not a video-call app and won't run your date. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It's handy for the in-between moments. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you.

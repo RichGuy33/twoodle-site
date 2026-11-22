@@ -57,7 +57,7 @@ Lo decimos nosotros para que no tengas que ir a buscarlo:
 
 - Los dos tenéis iPhone y no queréis comprar ni enviar nada extra.
 - Quieres que los dibujos aparezcan en la pantalla que ya miras a todas horas.
-- Te gusta la idea de dibujar juntos en directo, o de un contador en la pantalla de bloqueo para vuestros días juntos ([así funciona](https://twoodle.app/guides/days-together-lock-screen-counter/) (en inglés)).
+- Te gusta la idea de dibujar juntos en directo, o de un contador en la pantalla de bloqueo para vuestros días juntos ([así funciona](https://twoodle.app/es/guias/poner-dias-de-relacion-pantalla-bloqueo-iphone/)).
 
 > **Prueba la versión sin caja** Descarga gratuita. Una suscripción a Twoodle Pro cubre a los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

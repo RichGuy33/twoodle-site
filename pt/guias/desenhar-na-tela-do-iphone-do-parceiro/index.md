@@ -71,7 +71,7 @@ Quando terminarem, salvem na galeria ou enviem para o widget dele ou dela. Esper
 2. Toque em **Personalizar** e escolha a **Tela de Bloqueio**.
 3. Toque na área de widgets abaixo do relógio e escolha um widget do Twoodle.
 
-O widget Recado de amor pode ficar na Tela de Bloqueio ou na Tela de Início. O widget Dias Juntos fica na Tela de Bloqueio e conta os seus dias como casal, um jeito discreto e fofo de lembrar há quanto tempo vocês estão juntos. Veja [como configurar um contador de dias juntos na Tela de Bloqueio](https://twoodle.app/guides/days-together-lock-screen-counter/) (em inglês).
+O widget Recado de amor pode ficar na Tela de Bloqueio ou na Tela de Início. O widget Dias Juntos fica na Tela de Bloqueio e conta os seus dias como casal, um jeito discreto e fofo de lembrar há quanto tempo vocês estão juntos. Veja [como configurar um contador de dias juntos na Tela de Bloqueio](https://twoodle.app/pt/guias/contador-de-dias-juntos-tela-de-bloqueio-iphone/).
 
 > **Vá mandar um cachorro-batata para o seu amor** Download gratuito. O Twoodle Pro libera o pareamento para os dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -99,7 +99,7 @@ Adoraríamos dizer que somos os únicos, mas não somos. Apps como Paint Love, n
 
 Está pensando num app completo, com perguntas e quizzes? Leia nosso [guia de alternativa ao Couple Joy](https://twoodle.app/pt/guias/alternativa-ao-couple-joy/).
 
-Comparando apps de desenho no estilo do noteit? Leia o [guia de alternativas ao noteit e ao LokLok](https://twoodle.app/guides/noteit-loklok-alternative/) (em inglês).
+Comparando apps de desenho no estilo do noteit? Leia o [guia de alternativas ao noteit e ao LokLok](https://twoodle.app/pt/guias/alternativas-ao-noteit-e-loklok/).
 
 Precisa de ideias do que desenhar? Veja [25 coisas para rabiscar para o seu parceiro](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (em inglês).
 

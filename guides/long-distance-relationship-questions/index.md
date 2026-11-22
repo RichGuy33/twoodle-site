@@ -88,6 +88,8 @@ For the wider routine around all of this, see [how to stay connected without tex
 
 And if you are still working out how often to talk at all, read [how often long-distance couples should talk](https://twoodle.app/guides/how-often-should-long-distance-couples-talk/).
 
+When talking gets stale, a game can reset the mood: see [12 long-distance relationship games](https://twoodle.app/guides/long-distance-relationship-games/).
+
 ## Where Twoodle fits (and where it doesn't)
 
 Twoodle is not a question app, a chat app or a therapist. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. A daily check-in can be as small as a doodle of the sandwich you just made, or a one-line question in a Love Note. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. Not sure what to draw? Try [25 things to doodle](https://twoodle.app/guides/things-to-doodle-for-your-partner/). Need words? Steal from [30 short love notes](https://twoodle.app/guides/short-love-notes-for-your-partner/).

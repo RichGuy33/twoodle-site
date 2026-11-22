@@ -65,7 +65,7 @@ Die Twoodle-Preise sind US-App-Store-Preise und können in deinem Land abweichen
 
 Du vergleichst mehr als zwei Apps? Dann wirf einen Blick auf unseren [Überblick über die besten Paar-Widget-Apps fürs iPhone](https://twoodle.app/de/ratgeber/beste-paar-apps-mit-widgets-iphone/) oder auf unsere Sicht auf eine [Lovebox-Alternative ohne Gerät](https://twoodle.app/de/ratgeber/lovebox-alternative/).
 
-Du schwankst zwischen Zeichen-Apps im noteit-Stil? Lies unseren [Ratgeber zu Alternativen für noteit und LokLok](https://twoodle.app/guides/noteit-loklok-alternative/) (auf Englisch).
+Du schwankst zwischen Zeichen-Apps im noteit-Stil? Lies unseren [Ratgeber zu Alternativen für noteit und LokLok](https://twoodle.app/de/ratgeber/noteit-loklok-alternativen/).
 
 Und wenn dir virtuelle Haustiere und Werbung zu viel sind, schau in den [Widgetable-Alternative-Ratgeber](https://twoodle.app/guides/widgetable-alternative/) (auf Englisch).
 

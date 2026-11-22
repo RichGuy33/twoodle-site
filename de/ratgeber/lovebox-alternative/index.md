@@ -55,7 +55,7 @@ Wir sagen es lieber selbst, damit du nicht danach suchen musst:
 
 - Ihr habt beide ein iPhone und wollt nichts extra kaufen oder verschicken lassen.
 - Du willst, dass Zeichnungen auf dem Bildschirm erscheinen, auf den du sowieso ständig schaust.
-- Dir gefällt die Idee, live gemeinsam zu zeichnen oder einen Zähler für eure gemeinsamen Tage auf dem Sperrbildschirm zu haben ([so funktioniert das](https://twoodle.app/guides/days-together-lock-screen-counter/) (auf Englisch)).
+- Dir gefällt die Idee, live gemeinsam zu zeichnen oder einen Zähler für eure gemeinsamen Tage auf dem Sperrbildschirm zu haben ([so funktioniert das](https://twoodle.app/de/ratgeber/tage-zusammen-zaehler-sperrbildschirm-iphone/)).
 
 > **Probier die Version ohne Box** Kostenloser Download. Ein Twoodle-Pro-Abo deckt euch beide ab. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

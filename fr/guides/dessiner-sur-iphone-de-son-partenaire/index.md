@@ -71,7 +71,7 @@ Quand vous avez fini, enregistrez le résultat dans votre galerie ou envoyez-le 
 2. Touchez **Personnaliser**, puis choisissez **Écran verrouillé**.
 3. Touchez la zone des widgets sous l'heure et choisissez un widget Twoodle.
 
-Le widget Mot doux (Love Note) peut se placer sur l'écran verrouillé ou sur l'écran d'accueil. Le widget Jours ensemble (Days Together) se place sur l'écran verrouillé et compte vos jours de couple, une façon discrète et tendre de se rappeler depuis quand ça dure. Voici [comment mettre un compteur de jours ensemble sur votre écran verrouillé](https://twoodle.app/guides/days-together-lock-screen-counter/) (en anglais).
+Le widget Mot doux (Love Note) peut se placer sur l'écran verrouillé ou sur l'écran d'accueil. Le widget Jours ensemble (Days Together) se place sur l'écran verrouillé et compte vos jours de couple, une façon discrète et tendre de se rappeler depuis quand ça dure. Voici [comment mettre un compteur de jours ensemble sur votre écran verrouillé](https://twoodle.app/fr/guides/compteur-jours-ensemble-ecran-verrouille-iphone/).
 
 > **Allez envoyer à votre moitié un chien pomme de terre** Téléchargement gratuit. Twoodle Pro active l'appairage pour vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -99,7 +99,7 @@ Nous aimerions vous dire que nous sommes seuls sur le créneau, mais non. Des ap
 
 Vous hésitez avec une app tout-en-un avec questions et quiz ? Lisez notre [guide sur l'alternative à Couple Joy](https://twoodle.app/fr/guides/alternative-a-couple-joy/).
 
-Vous comparez des apps de dessin façon noteit ? Lisez notre [guide sur les alternatives à noteit et LokLok](https://twoodle.app/guides/noteit-loklok-alternative/) (en anglais).
+Vous comparez des apps de dessin façon noteit ? Lisez notre [guide sur les alternatives à noteit et LokLok](https://twoodle.app/fr/guides/alternatives-a-noteit-et-loklok/).
 
 Besoin d'idées de dessins ? Voyez [25 choses à dessiner pour votre partenaire](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en anglais).
 

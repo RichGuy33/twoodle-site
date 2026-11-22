@@ -71,7 +71,7 @@ Al terminar, guárdalo en tu galería o envíalo a su widget. Cuenta con al meno
 2. Toca **Personalizar** y elige **Pantalla bloqueada**.
 3. Toca la zona de widgets bajo el reloj y elige un widget de Twoodle.
 
-El widget Nota de amor puede estar en la pantalla de bloqueo o en la de inicio. El widget Días Juntos va en la pantalla de bloqueo y cuenta vuestros días como pareja, una forma discreta y dulce de recordar cuánto llevan. Aquí tienes [cómo poner un contador de días juntos en tu pantalla de bloqueo](https://twoodle.app/guides/days-together-lock-screen-counter/) (en inglés).
+El widget Nota de amor puede estar en la pantalla de bloqueo o en la de inicio. El widget Días Juntos va en la pantalla de bloqueo y cuenta vuestros días como pareja, una forma discreta y dulce de recordar cuánto llevan. Aquí tienes [cómo poner un contador de días juntos en tu pantalla de bloqueo](https://twoodle.app/es/guias/poner-dias-de-relacion-pantalla-bloqueo-iphone/).
 
 > **Ve a mandarle a tu persona un perro-patata** Descarga gratuita. Twoodle Pro habilita el emparejamiento para los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -99,7 +99,7 @@ Nos encantaría decirte que somos los únicos, pero no. Apps como Paint Love, no
 
 ¿Te interesa una app todo en uno con preguntas y cuestionarios? Lee nuestra [guía de alternativas a Couple Joy](https://twoodle.app/es/guias/alternativa-a-couple-joy/).
 
-¿Comparando apps de dibujo al estilo noteit? Lee nuestra [guía de alternativas a noteit y LokLok](https://twoodle.app/guides/noteit-loklok-alternative/) (en inglés).
+¿Comparando apps de dibujo al estilo noteit? Lee nuestra [guía de alternativas a noteit y LokLok](https://twoodle.app/es/guias/alternativas-a-noteit-y-loklok/).
 
 ¿Necesitas ideas de qué dibujar? Mira [25 cosas para garabatear a tu pareja](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés).
 
