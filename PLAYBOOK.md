@@ -38,6 +38,11 @@ Still to request (quota hit 2026-11-21), in this order: /pt/guias/melhores-apps-
 Tips: after pressing Enter wait ~10s then click Request indexing; "Something went wrong" -> retry once.
 Next catch-up (oldest first): noteit-loklok-alternative, days-together-lock-screen-counter (a Spanish query 'como poner los dias de relacion en iphone' already shows impressions), widgetable-alternative, ...
 
+## AI visibility (added 2026-11-21, Jason's plan; inspired by a Ramp/CrowdReply post, numbers unverified)
+- Every run, after `python3 scripts/i18n.py .`, also run `python3 scripts/make_md.py .` (needs beautifulsoup4; `pip install beautifulsoup4 --break-system-packages` if missing). It writes an open Markdown copy of every guide (`index.md` beside `index.html`, SAME content, never a different version for bots: no cloaking), adds `<link rel="alternate" type="text/markdown">`, and regenerates `/llms.txt`. Commit the generated files.
+- Weekly (Saturdays, or when asked): AI-mention check. In Chrome, ask ChatGPT, Claude and Perplexity 5-8 buyer questions (e.g. "best app to send doodles to my partner's phone", "best couples widget apps iPhone", "long distance relationship apps", "lovebox alternative") and record whether Twoodle is mentioned, which pages are cited, and which competitors appear. Append a dated line to `AI_VISIBILITY.md` (create it). If not signed in or blocked, skip and say so; never create accounts.
+- Later (needs Jason's OK per message): list the pages AI cites for those questions and draft honest outreach (ask list owners to include Twoodle) or disclosed replies for Jason to post himself. No paid or fake replies, no posting on Jason's behalf.
+
 ## Voice: warm, funny, direct-response email copywriter
 Write like a witty friend who happens to write killer sales emails (the Ben Settle / classic email-copywriter school), talking to ONE person about their relationship. Capture the feel, never copy anyone's phrasing.
 
