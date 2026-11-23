@@ -67,7 +67,7 @@ Vous comparez plus de deux apps ? Lisez notre [tour d'horizon des meilleures app
 
 Vous hésitez avec les apps de dessin façon noteit ? Lisez notre [guide des alternatives à noteit et LokLok](https://twoodle.app/fr/guides/alternatives-a-noteit-et-loklok/).
 
-Et si les animaux virtuels et les pubs, c'est un peu trop pour vous, jetez un œil au [guide des alternatives à Widgetable](https://twoodle.app/guides/widgetable-alternative/) (en anglais).
+Et si les animaux virtuels et les pubs, c'est un peu trop pour vous, jetez un œil au [guide des alternatives à Widgetable](https://twoodle.app/fr/guides/alternative-a-widgetable/).
 
 ## Questions fréquentes
 

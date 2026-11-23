@@ -64,7 +64,7 @@ Twoodle es una app para iPhone para parejas que envía garabatos al widget de la
 
 **Lo que hace bien:** que dibujar sea el plato fuerte. Los garabatos van solo al widget de la pantalla de inicio, no a la de bloqueo. No pide registro, no mostramos anuncios, no vendemos datos y no te seguimos entre apps. Una suscripción Twoodle Pro cubre a los dos. **Lo que hace peor:** es solo para iPhone (iOS 18 o posterior), con 49,99 USD al año Pro cuesta más que varias de las apps de aquí, y si solo quieres un contador de días, te sobra.
 
-¿Montando toda una puesta a punto para la distancia y no solo un widget? Mira nuestra guía de las [mejores apps para relaciones a distancia](https://twoodle.app/guides/best-long-distance-relationship-apps/) (en inglés).
+¿Montando toda una puesta a punto para la distancia y no solo un widget? Mira nuestra guía de las [mejores apps para relaciones a distancia](https://twoodle.app/es/guias/mejores-apps-relacion-a-distancia/).
 
 > **¿Quieres saber si lo tuyo es dibujar?** Descarga gratuita. Una suscripción a Twoodle Pro cubre a los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -81,7 +81,7 @@ Un consejo sincero: elijas la que elijas, probad juntos la versión gratuita dur
 
 ¿Te tira más una app todo en uno con preguntas y cuestionarios? Lee nuestra [guía de alternativas a Couple Joy](https://twoodle.app/es/guias/alternativa-a-couple-joy/).
 
-Y si a vosotros las mascotas y los anuncios os parecen un poco demasiado, mira nuestra [guía de alternativas a Widgetable](https://twoodle.app/guides/widgetable-alternative/) (en inglés).
+Y si a vosotros las mascotas y los anuncios os parecen un poco demasiado, mira nuestra [guía de alternativas a Widgetable](https://twoodle.app/es/guias/alternativa-a-widgetable/).
 
 ## Preguntas frecuentes
 

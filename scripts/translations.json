@@ -21,6 +21,28 @@
    "title": "Melhores apps de widgets para casais no iPhone (2026, sem enrolação)"
   }
  },
+ "best-long-distance-relationship-apps": {
+  "de": {
+   "desc": "Die besten Apps für Fernbeziehungen sind nicht eine App. Dieses kleine Set deckt Nachrichten, Video, Zeitzonen, gemeinsames Schauen und die kleinen Dinge im Alltag ab.",
+   "slug": "beste-apps-fernbeziehung",
+   "title": "Die besten Apps für eine Fernbeziehung (ein praktisches Set)"
+  },
+  "es": {
+   "desc": "Las mejores apps para relaciones a distancia no son una sola. Este es el kit pequeño que cubre mensajes, vídeo, husos horarios, ver cosas juntos y los detallitos diarios.",
+   "slug": "mejores-apps-relacion-a-distancia",
+   "title": "Mejores apps para una relación a distancia (un kit práctico)"
+  },
+  "fr": {
+   "desc": "Les meilleures apps pour une relation à distance ne tiennent pas en une seule. Voici le petit kit qui couvre messages, vidéo, fuseaux horaires, films à deux et petites attentions du quotidien.",
+   "slug": "meilleures-apps-relation-a-distance",
+   "title": "Meilleures apps pour une relation à distance (un kit pratique)"
+  },
+  "pt": {
+   "desc": "Os melhores apps para relacionamento à distância não são um só. Este é o kit pequeno que cobre mensagens, vídeo, fusos horários, assistir juntos e as coisas pequenas do dia a dia.",
+   "slug": "melhores-apps-relacionamento-a-distancia",
+   "title": "Melhores apps para relacionamento à distância (um kit prático)"
+  }
+ },
  "couple-joy-alternative": {
   "de": {
    "desc": "Couple Joy steckt viel in eine App. Wenn du es leichter magst: So schlägt sich Twoodle im Vergleich und wann Couple Joy die bessere Wahl ist.",
@@ -197,6 +219,28 @@
    "title": "Alternativa ao Lovebox sem aparelho: desenhos no iPhone do seu parceiro"
   }
  },
+ "missing-your-partner-long-distance": {
+  "de": {
+   "desc": "Du vermisst ihn oder sie, und Durchhalteparolen helfen nicht. Zwölf kleine, praktische Dinge gegen das Vermissen in der Fernbeziehung, sortiert danach, wie du dich fühlst.",
+   "slug": "fernbeziehung-partner-vermissen",
+   "title": "Partner vermissen in der Fernbeziehung: 12 Dinge, die wirklich helfen"
+  },
+  "es": {
+   "desc": "Lo extrañas y un discurso motivacional no lo arregla. Doce cosas pequeñas y prácticas que ayudan cuando extrañas a tu pareja en una relación a distancia, según cómo te sientas.",
+   "slug": "extranar-a-tu-pareja-a-distancia",
+   "title": "Extrañar a tu pareja a distancia: 12 cosas que sí ayudan"
+  },
+  "fr": {
+   "desc": "Il ou elle vous manque et un discours motivant n'y changera rien. Douze petites choses concrètes pour gérer le manque à distance, classées selon ce que vous ressentez.",
+   "slug": "gerer-le-manque-relation-a-distance",
+   "title": "Gérer le manque dans une relation à distance : 12 choses qui aident vraiment"
+  },
+  "pt": {
+   "desc": "Saudade apertou e um discurso motivacional não resolve. Doze coisas pequenas e práticas que ajudam quando você sente falta de quem ama à distância, por tipo de saudade.",
+   "slug": "saudade-do-parceiro-relacionamento-a-distancia",
+   "title": "Saudade do parceiro no relacionamento à distância: 12 coisas que ajudam de verdade"
+  }
+ },
  "noteit-loklok-alternative": {
   "de": {
    "desc": "Es gibt mehrere Apps namens noteit, und LokLok ist eine andere Geschichte. Was sie sind, wie sie sich unterscheiden und wann Twoodle, die iPhone-App nur für Paare, besser passt.",
@@ -217,6 +261,28 @@
    "desc": "Existem vários apps chamados noteit e o LokLok é outra história. O que são, no que diferem e quando o Twoodle, o app de iPhone feito só para casais, faz mais sentido.",
    "slug": "alternativas-ao-noteit-e-loklok",
    "title": "Alternativas ao noteit e ao LokLok: apps de widget com desenhos para casais"
+  }
+ },
+ "widgetable-alternative": {
+  "de": {
+   "desc": "Widgetable zielt auf Freunde, mit Haustieren, Diamanten und Werbung. Wenn du deinem Partner nur Zeichnungen schicken willst: So schlägt sich Twoodle, und wann Widgetable gewinnt.",
+   "slug": "widgetable-alternative",
+   "title": "Widgetable-Alternative für Paare: einfacher, ohne Haustiere und Werbung"
+  },
+  "es": {
+   "desc": "Widgetable apunta a amigos, con mascotas, diamantes y anuncios. Si solo quieres mandarle garabatos a tu pareja, así se compara Twoodle y cuándo gana Widgetable.",
+   "slug": "alternativa-a-widgetable",
+   "title": "Alternativa a Widgetable para parejas: más sencilla, sin mascotas ni anuncios"
+  },
+  "fr": {
+   "desc": "Widgetable vise surtout les amis, avec animaux, diamants et publicités. Si vous voulez juste envoyer des dessins à votre moitié, voici comment Twoodle se compare, et quand Widgetable gagne.",
+   "slug": "alternative-a-widgetable",
+   "title": "Alternative à Widgetable pour couples : plus simple, sans animaux ni pubs"
+  },
+  "pt": {
+   "desc": "O Widgetable é focado em amigos, com pets, diamantes e anúncios. Se você só quer mandar desenhos para o seu par, veja como o Twoodle se compara e quando o Widgetable ganha.",
+   "slug": "alternativa-ao-widgetable",
+   "title": "Alternativa ao Widgetable para casais: mais simples, sem pets nem anúncios"
   }
  }
 }

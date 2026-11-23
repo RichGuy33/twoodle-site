@@ -67,7 +67,7 @@ Los precios de Twoodle son de la App Store de EE. UU. y pueden variar en tu paí
 
 ¿Estás sopesando apps de dibujo al estilo noteit? Lee nuestra [guía de alternativas a noteit y LokLok](https://twoodle.app/es/guias/alternativas-a-noteit-y-loklok/).
 
-Y si las mascotas y los anuncios te parecen demasiado, mira también la [guía de alternativas a Widgetable](https://twoodle.app/guides/widgetable-alternative/) (en inglés).
+Y si las mascotas y los anuncios te parecen demasiado, mira también la [guía de alternativas a Widgetable](https://twoodle.app/es/guias/alternativa-a-widgetable/).
 
 ## Preguntas frecuentes
 

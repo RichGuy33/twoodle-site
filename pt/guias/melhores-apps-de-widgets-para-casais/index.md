@@ -64,7 +64,7 @@ O Twoodle é um app de iPhone para casais que envia rabiscos para o widget da Te
 
 **Bom em:** ter o desenho como atração principal. Os rabiscos vão só para o widget da Tela de Início, não para a Tela de Bloqueio. Não precisa de cadastro, não mostramos anúncios, não vendemos dados e não rastreamos você entre apps. Uma assinatura Twoodle Pro cobre os dois. **Nem tão bom em:** é só para iPhone (iOS 18 ou superior), a US$ 49,99 por ano o Pro custa mais que vários apps daqui, e se você só quer um contador de dias, é mais do que precisa.
 
-Montando uma estrutura inteira para a distância, e não só um widget? Veja nosso guia dos [melhores apps para relacionamento à distância](https://twoodle.app/guides/best-long-distance-relationship-apps/) (em inglês).
+Montando uma estrutura inteira para a distância, e não só um widget? Veja nosso guia dos [melhores apps para relacionamento à distância](https://twoodle.app/pt/guias/melhores-apps-relacionamento-a-distancia/).
 
 > **Quer ver se desenhar é a sua praia?** Download gratuito. Uma assinatura Twoodle Pro cobre os dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -81,7 +81,7 @@ Uma dica honesta: seja qual for o app, testem a versão gratuita juntos por uma 
 
 Está pensando num app tudo-em-um com perguntas e quizzes? Leia nosso [guia de alternativas ao Couple Joy](https://twoodle.app/pt/guias/alternativa-ao-couple-joy/).
 
-E se bichinhos e anúncios são demais para vocês, veja o [guia de alternativas ao Widgetable](https://twoodle.app/guides/widgetable-alternative/) (em inglês).
+E se bichinhos e anúncios são demais para vocês, veja o [guia de alternativas ao Widgetable](https://twoodle.app/pt/guias/alternativa-ao-widgetable/).
 
 ## Perguntas frequentes
 

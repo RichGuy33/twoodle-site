@@ -70,7 +70,7 @@ Zwei ehrliche Grenzen: Die Kritzeleien landen auf dem Home-Bildschirm-Widget, ni
 
 Du vergleichst weitere Apps? Lies die [besten Paar-Widget-Apps fürs iPhone](https://twoodle.app/de/ratgeber/beste-paar-apps-mit-widgets-iphone/), unseren Ratgeber zu [Couple-Joy-Alternativen](https://twoodle.app/de/ratgeber/couple-joy-alternative/) oder die [Lovebox-Alternative ohne Hardware](https://twoodle.app/de/ratgeber/lovebox-alternative/).
 
-Schau auch in unseren [Widgetable-Alternativen-Ratgeber](https://twoodle.app/guides/widgetable-alternative/) (auf Englisch) für Paare, denen Haustiere und Werbung ein bisschen zu viel sind.
+Schau auch in unseren [Widgetable-Alternativen-Ratgeber](https://twoodle.app/de/ratgeber/widgetable-alternative/) für Paare, denen Haustiere und Werbung ein bisschen zu viel sind.
 
 ## Häufige Fragen
 

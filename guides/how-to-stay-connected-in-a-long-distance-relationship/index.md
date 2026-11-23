@@ -60,6 +60,8 @@ Every long-distance couple has weeks where it just feels flat. That's normal, no
 - **Change the format.** If texting feels stale, try a call. If calls feel stale, try letters, voice notes or a shared playlist (or mail something: see our [long-distance gift ideas](https://twoodle.app/guides/long-distance-relationship-gift-ideas/)).
 - **Check your expectations.** You don't need to be reachable every minute. You need to feel like a priority.
 
+For the moments when the distance just hurts, here are 12 small things to try when you [miss your partner](https://twoodle.app/guides/missing-your-partner-long-distance/).
+
 ## What to avoid
 
 - **Constant availability.** It burns out both of you. Real lives happen offline.

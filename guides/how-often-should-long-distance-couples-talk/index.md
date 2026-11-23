@@ -67,6 +67,8 @@ If the gap persists, it may be a bigger conversation than frequency, and that's 
 
 Calls feeling flat? Give them a job with a game from our list of [long-distance relationship games](https://twoodle.app/guides/long-distance-relationship-games/).
 
+If the problem is less "how often" and more "I miss them right now," see [what helps when you miss your partner](https://twoodle.app/guides/missing-your-partner-long-distance/).
+
 ## Where Twoodle fits (and where it doesn't)
 
 We make Twoodle, an iPhone app that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It's built for the daily signal, not the long call. It does not replace talking, and you don't need it to do any of this: a text works fine. Twoodle is iPhone only (iOS 18 or later) and free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $49.99 per year, one subscription covering both partners. Check the App Store for current pricing.

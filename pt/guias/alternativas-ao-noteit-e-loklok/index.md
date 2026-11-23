@@ -70,7 +70,7 @@ Dois limites honestos: os rabiscos chegam ao widget da Tela de Início, não à 
 
 Comparando mais apps? Veja os [melhores apps de widgets para casais no iPhone](https://twoodle.app/pt/guias/melhores-apps-de-widgets-para-casais/), nosso guia de [alternativas ao Couple Joy](https://twoodle.app/pt/guias/alternativa-ao-couple-joy/) ou a [alternativa ao Lovebox sem aparelho](https://twoodle.app/pt/guias/alternativa-ao-lovebox/).
 
-Veja também o nosso [guia de alternativas ao Widgetable](https://twoodle.app/guides/widgetable-alternative/) (em inglês), para casais que acham bichinhos e anúncios demais.
+Veja também o nosso [guia de alternativas ao Widgetable](https://twoodle.app/pt/guias/alternativa-ao-widgetable/), para casais que acham bichinhos e anúncios demais.
 
 ## Perguntas frequentes
 

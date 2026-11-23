@@ -42,7 +42,7 @@ C'est une pièce d'un ensemble plus large : la même app a un widget Petit mot d
 
 Plutôt un compte à rebours avant une visite ? Voyez [9 façons de compter les jours avant de se retrouver](https://twoodle.app/fr/guides/compte-a-rebours-relation-a-distance/).
 
-Vous montez tout un dispositif à distance, pas seulement un widget ? Voyez notre guide des [meilleures apps pour les relations à distance](https://twoodle.app/guides/best-long-distance-relationship-apps/) (en anglais).
+Vous montez tout un dispositif à distance, pas seulement un widget ? Voyez notre guide des [meilleures apps pour les relations à distance](https://twoodle.app/fr/guides/meilleures-apps-relation-a-distance/).
 
 > **Envie du compteur et des dessins ?** Téléchargement gratuit sur iPhone. Twoodle Pro débloque l'association ; un abonnement couvre vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

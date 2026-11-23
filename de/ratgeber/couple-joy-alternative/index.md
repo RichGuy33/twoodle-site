@@ -67,7 +67,7 @@ Du vergleichst mehr als zwei Apps? Dann wirf einen Blick auf unseren [Überblick
 
 Du schwankst zwischen Zeichen-Apps im noteit-Stil? Lies unseren [Ratgeber zu Alternativen für noteit und LokLok](https://twoodle.app/de/ratgeber/noteit-loklok-alternativen/).
 
-Und wenn dir virtuelle Haustiere und Werbung zu viel sind, schau in den [Widgetable-Alternative-Ratgeber](https://twoodle.app/guides/widgetable-alternative/) (auf Englisch).
+Und wenn dir virtuelle Haustiere und Werbung zu viel sind, schau in den [Widgetable-Alternative-Ratgeber](https://twoodle.app/de/ratgeber/widgetable-alternative/).
 
 ## Häufige Fragen
 

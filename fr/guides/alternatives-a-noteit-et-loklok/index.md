@@ -70,7 +70,7 @@ Deux limites honnêtes : les dessins arrivent sur le widget de l'écran d'accuei
 
 Vous comparez d'autres apps ? Voyez les [meilleures apps de widgets pour couples sur iPhone](https://twoodle.app/fr/guides/meilleures-apps-widgets-pour-couples/), notre guide des [alternatives à Couple Joy](https://twoodle.app/fr/guides/alternative-a-couple-joy/) ou l'[alternative à Lovebox sans boîtier](https://twoodle.app/fr/guides/alternative-lovebox-sans-boitier/).
 
-Voyez aussi notre [guide des alternatives à Widgetable](https://twoodle.app/guides/widgetable-alternative/) (en anglais), pour les couples que les animaux virtuels et les pubs fatiguent un peu.
+Voyez aussi notre [guide des alternatives à Widgetable](https://twoodle.app/fr/guides/alternative-a-widgetable/), pour les couples que les animaux virtuels et les pubs fatiguent un peu.
 
 ## Questions fréquentes
 

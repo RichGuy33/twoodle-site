@@ -42,7 +42,7 @@ Ele é uma peça de um conjunto maior: o mesmo app tem um widget de Recado de Am
 
 Prefere uma contagem regressiva até uma visita? Veja [9 jeitos de contar os dias até se verem](https://twoodle.app/pt/guias/contagem-regressiva-relacionamento-a-distancia/).
 
-Montando um esquema completo para a distância, e não só um widget? Veja nosso guia dos [melhores apps para relacionamento à distância](https://twoodle.app/guides/best-long-distance-relationship-apps/) (em inglês).
+Montando um esquema completo para a distância, e não só um widget? Veja nosso guia dos [melhores apps para relacionamento à distância](https://twoodle.app/pt/guias/melhores-apps-relacionamento-a-distancia/).
 
 > **Quer o contador e os rabiscos?** Download grátis para iPhone. O Twoodle Pro libera o pareamento; uma assinatura cobre vocês dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

@@ -70,7 +70,7 @@ Dos límites sinceros: los garabatos llegan al widget de la pantalla de inicio, 
 
 ¿Comparando más apps? Mira las [mejores apps de widgets para parejas en iPhone](https://twoodle.app/es/guias/mejores-apps-widgets-para-parejas/), nuestra guía de [alternativas a Couple Joy](https://twoodle.app/es/guias/alternativa-a-couple-joy/) o la [alternativa a Lovebox sin aparato](https://twoodle.app/es/guias/alternativa-a-lovebox-sin-aparato/).
 
-Mira también nuestra [guía de alternativas a Widgetable](https://twoodle.app/guides/widgetable-alternative/) (en inglés) para parejas a las que las mascotas y los anuncios les parecen demasiado.
+Mira también nuestra [guía de alternativas a Widgetable](https://twoodle.app/es/guias/alternativa-a-widgetable/) para parejas a las que las mascotas y los anuncios les parecen demasiado.
 
 ## Preguntas frecuentes
 

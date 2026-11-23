@@ -64,7 +64,7 @@ Twoodle ist eine iPhone-App für Paare, die Doodles auf das Home-Bildschirm-Widg
 
 **Stark darin:** Zeichnen als Hauptattraktion. Doodles gehen nur auf das Home-Bildschirm-Widget, nicht auf den Sperrbildschirm. Keine Anmeldung nötig, keine Werbung, kein Verkauf von Daten und kein App-übergreifendes Tracking. Ein Twoodle-Pro-Abo gilt für euch beide. **Schwächer darin:** Es gibt sie nur für das iPhone (iOS 18 oder neuer), mit 49,99 USD im Jahr kostet Pro mehr als mehrere Apps hier, und wenn du nur einen Tageszähler willst, ist es mehr, als du brauchst.
 
-Du baust dir ein ganzes Fernbeziehungs-Setup, nicht nur ein Widget? Dann lies unseren Ratgeber zu den [besten Apps für Fernbeziehungen](https://twoodle.app/guides/best-long-distance-relationship-apps/) (auf Englisch).
+Du baust dir ein ganzes Fernbeziehungs-Setup, nicht nur ein Widget? Dann lies unseren Ratgeber zu den [besten Apps für Fernbeziehungen](https://twoodle.app/de/ratgeber/beste-apps-fernbeziehung/).
 
 > **Neugierig, ob Zeichnen euer Ding ist?** Gratis laden. Ein Twoodle-Pro-Abo gilt für euch beide. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
@@ -81,7 +81,7 @@ Ein ehrlicher Tipp: Egal, wofür ihr euch entscheidet, testet die Gratisversion 
 
 Du denkst eher an eine Alles-in-einem-App mit Fragen und Quiz? Lies unseren [Ratgeber zu Couple-Joy-Alternativen](https://twoodle.app/de/ratgeber/couple-joy-alternative/).
 
-Und wenn euch Haustiere und Werbung ein bisschen zu viel sind, schau in unseren [Ratgeber zu Widgetable-Alternativen](https://twoodle.app/guides/widgetable-alternative/) (auf Englisch).
+Und wenn euch Haustiere und Werbung ein bisschen zu viel sind, schau in unseren [Ratgeber zu Widgetable-Alternativen](https://twoodle.app/de/ratgeber/widgetable-alternative/).
 
 ## Häufige Fragen
 

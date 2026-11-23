@@ -42,7 +42,7 @@ Es ist ein Teil eines größeren Ganzen: Dieselbe App hat ein Liebesnotiz-Widget
 
 Lieber ein Countdown bis zu einem Besuch? Lies [9 Wege, die Tage bis zum Wiedersehen zu zählen](https://twoodle.app/de/ratgeber/countdown-bis-zum-wiedersehen/).
 
-Du baust ein ganzes Fernbeziehungs-Setup auf, nicht nur ein Widget? Dann lies unseren Ratgeber zu den [besten Apps für Fernbeziehungen](https://twoodle.app/guides/best-long-distance-relationship-apps/) (auf Englisch).
+Du baust ein ganzes Fernbeziehungs-Setup auf, nicht nur ein Widget? Dann lies unseren Ratgeber zu den [besten Apps für Fernbeziehungen](https://twoodle.app/de/ratgeber/beste-apps-fernbeziehung/).
 
 > **Zähler und Zeichnungen in einem?** Kostenlos fürs iPhone laden. Twoodle Pro schaltet das Koppeln frei; ein Abo gilt für euch beide. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

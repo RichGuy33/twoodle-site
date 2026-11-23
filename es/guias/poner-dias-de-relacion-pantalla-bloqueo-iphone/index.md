@@ -42,7 +42,7 @@ Es una pieza de un conjunto mayor: la misma app tiene un widget de Nota de amor 
 
 ¿Prefieres una cuenta atrás hasta una visita? Mira [9 formas de contar los días hasta veros](https://twoodle.app/es/guias/cuenta-atras-para-ver-a-tu-pareja/).
 
-¿Montando todo un sistema a distancia y no solo un widget? Mira nuestra guía de las [mejores apps para relaciones a distancia](https://twoodle.app/guides/best-long-distance-relationship-apps/) (en inglés).
+¿Montando todo un sistema a distancia y no solo un widget? Mira nuestra guía de las [mejores apps para relaciones a distancia](https://twoodle.app/es/guias/mejores-apps-relacion-a-distancia/).
 
 > **¿Quieres el contador y los garabatos?** Descarga gratis para iPhone. Twoodle Pro activa el emparejamiento; una suscripción cubre a los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

@@ -43,6 +43,8 @@ A countdown is a promise with a date on it. It can also turn every day before th
 
 A good countdown ends in something concrete. Write down three things: the one thing you each want most, one thing you've never done together, and one boring thing (groceries, laundry, a nap). The boring one matters. It's the closest preview of a shared life.
 
+Counting down is one way to handle the ache. For the rest of the bad evenings, there's our guide to [missing your partner in a long-distance relationship](https://twoodle.app/guides/missing-your-partner-long-distance/).
+
 ## When this approach is a bad fit
 
 - **No date yet.** If you don't know when you'll meet, a countdown can sting. Use a "days together" count instead, or set a date to decide the date.
