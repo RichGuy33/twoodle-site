@@ -21,7 +21,7 @@ Kurz gesagt: Nimm den Tag, an dem ihr euch das nächste Mal im selben Raum seht,
 2. **Ein Kalendereintrag mit Erinnerung.** Unromantisch, kostenlos, zuverlässig. Trag den Besuchstag ein und stell eine Erinnerung eine Woche vorher ein, dann gibt es ein „Noch eine Woche!“ als Kick.
 3. **Eine gemeinsame Erinnerungen-Liste.** Nenn sie „Was wir machen, wenn ich da bin“ und füttere sie den ganzen Monat. Die Liste wird zum Countdown.
 4. **Eine Papierkette.** Schick oder überreiche einen Streifen Papierringe, einen pro Tag. Jeder reißt täglich einen ab. Wenig Technik, viel Genugtuung, ganz wie im Kindergarten vor Weihnachten.
-5. **Jeden Tag eine Zeichnung.** Mal die Zahl als etwas: noch fünfmal schlafen, fünf kleine Monde. Ideen findest du in [25 Dingen, die du für deinen Partner zeichnen kannst](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch). Zeichnungen in Twoodle landen im Widget auf dem Home-Bildschirm deines Partners.
+5. **Jeden Tag eine Zeichnung.** Mal die Zahl als etwas: noch fünfmal schlafen, fünf kleine Monde. Ideen findest du in [25 Dingen, die du für deinen Partner zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/). Zeichnungen in Twoodle landen im Widget auf dem Home-Bildschirm deines Partners.
 6. **Eine Liebesnotiz auf dem Sperrbildschirm.** Das Liebesnotiz-Widget von Twoodle kann eine kurze Zeile zeigen, zum Beispiel „Noch 3 Tage. Bring Snacks mit.“
 7. **Eine winzige Aufgabe pro Tag.** Tag 10: Schick ein Foto von deinem Frühstück. Tag 9: Such das erste gemeinsame Essen aus. Lass den Countdown etwas tun.
 8. **Ein Serienfinale für zwei.** Fangt eine Serie an und hebt die letzte Folge für den Besuch auf.

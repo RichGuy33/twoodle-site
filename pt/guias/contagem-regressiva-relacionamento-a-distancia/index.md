@@ -21,7 +21,7 @@ Resposta curta: escolha o dia em que vocês vão estar de novo no mesmo lugar, c
 2. **Um evento no Calendário com alerta.** Sem graça, gratuito e confiável. Crie o dia da visita e programe um alerta uma semana antes, para receber aquele choquinho de “falta uma semana!”.
 3. **Uma lista compartilhada nos Lembretes.** Chame de “Coisas para fazer quando eu chegar” e vá acrescentando durante o mês. A lista vira a contagem.
 4. **Uma corrente de papel.** Mande pelo correio ou entregue uma tira de argolas de papel, uma por dia. Cada um rasga uma por dia. Pouca tecnologia, muita pose.
-5. **Um desenho por dia.** Desenhe o número como outra coisa: faltam cinco noites, então cinco luazinhas. Veja [25 coisas para rabiscar para o seu parceiro](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (em inglês) para ter ideias. No Twoodle, os desenhos vão para o widget da Tela de Início do seu parceiro.
+5. **Um desenho por dia.** Desenhe o número como outra coisa: faltam cinco noites, então cinco luazinhas. Veja [25 coisas para rabiscar para o seu parceiro](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/) para ter ideias. No Twoodle, os desenhos vão para o widget da Tela de Início do seu parceiro.
 6. **Um Recado de amor na Tela de Bloqueio.** O widget Recado de amor do Twoodle pode mostrar uma frase curta, como “3 dias. Traz lanche.”
 7. **Uma tarefinha por dia.** Dia 10: mande a foto do seu café da manhã. Dia 9: escolham a primeira refeição juntos. Faça a contagem servir para alguma coisa.
 8. **Um final para ver juntos.** Comecem uma série e combinem de guardar o último episódio para a visita.

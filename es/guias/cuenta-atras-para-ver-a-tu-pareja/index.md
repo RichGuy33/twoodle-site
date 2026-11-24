@@ -21,7 +21,7 @@ Respuesta corta: elige la fecha en la que volveréis a estar en la misma habitac
 2. **Un evento en Calendario con aviso.** Aburrido, gratis y fiable. Añade el día de la visita y pon un aviso una semana antes para recibir el «¡una semana!» con sobresalto incluido.
 3. **Una lista compartida en Recordatorios.** Llámala «Cosas por hacer cuando aterrices» y ve añadiendo durante todo el mes. La lista se convierte en la cuenta atrás.
 4. **Una cadena de papel.** Mandad o entregad una tira de anillas de papel, una por día. Cada uno rompe una al día. Poca tecnología, mucha satisfacción.
-5. **Un garabato al día.** Dibuja el número como algo: cinco noches, cinco lunitas. Mira [25 cosas para garabatear a tu pareja](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés) para ideas. Los garabatos de Twoodle van al widget de la pantalla de inicio de tu pareja.
+5. **Un garabato al día.** Dibuja el número como algo: cinco noches, cinco lunitas. Mira [25 cosas para garabatear a tu pareja](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/) para ideas. Los garabatos de Twoodle van al widget de la pantalla de inicio de tu pareja.
 6. **Una Nota de amor en la pantalla de bloqueo.** El widget Nota de amor de Twoodle puede mostrar una línea corta, como «3 días. Trae turrón».
 7. **Una mini tarea al día.** Día 10: mándame una foto de tu desayuno. Día 9: elige la primera comida juntos. Que la cuenta atrás sirva para algo.
 8. **Un final para ver juntos.** Empezad una serie y acordad guardar el último capítulo para la visita.

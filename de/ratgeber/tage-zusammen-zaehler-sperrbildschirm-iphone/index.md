@@ -89,6 +89,6 @@ Etwa 2 Jahre und 9 Monate.
 
 **P.S.** Los, rechne mit deiner eigenen Zahl nach. Dann [leg sie dorthin, wo du sie siehst](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881).
 
-Brauchst du Ideen, was du zeichnen kannst? Lies [25 Dinge, die du für deinen Partner zeichnen kannst](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch).
+Brauchst du Ideen, was du zeichnen kannst? Lies [25 Dinge, die du für deinen Partner zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
 
 [← Alle Ratgeber](https://twoodle.app/de/ratgeber/)

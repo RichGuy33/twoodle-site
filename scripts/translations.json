@@ -131,6 +131,28 @@
    "title": "Com que frequência conversar num relacionamento à distância? Um ritmo realista"
   }
  },
+ "how-to-add-couples-widget-iphone-home-screen": {
+  "de": {
+   "desc": "So fügst du ein Paar-Widget auf dem Home-Bildschirm oder Sperrbildschirm deines iPhones hinzu, wählst die Größe, behebst ein fehlendes Widget und siehst, was die Twoodle-Widgets können. Dauert zwei Minuten.",
+   "slug": "paar-widget-home-bildschirm-iphone-hinzufuegen",
+   "title": "Paar-Widget auf dem iPhone-Home-Bildschirm hinzufügen (Schritt für Schritt)"
+  },
+  "es": {
+   "desc": "Cómo poner un widget de pareja en la pantalla de inicio o de bloqueo del iPhone, elegir tamaño, arreglar un widget que no aparece y qué widgets tiene Twoodle. Dos minutos.",
+   "slug": "como-poner-widget-de-pareja-pantalla-de-inicio-iphone",
+   "title": "Cómo poner un widget de pareja en la pantalla de inicio del iPhone (paso a paso)"
+  },
+  "fr": {
+   "desc": "Comment ajouter un widget couple sur l'écran d'accueil ou l'écran verrouillé de l'iPhone, choisir la taille, réparer un widget absent et ce que font les widgets Twoodle. Deux minutes.",
+   "slug": "ajouter-widget-couple-ecran-accueil-iphone",
+   "title": "Comment ajouter un widget couple sur l'écran d'accueil de l'iPhone (pas à pas)"
+  },
+  "pt": {
+   "desc": "Como colocar um widget de casal na Tela de Início ou de Bloqueio do iPhone, escolher o tamanho, resolver widget que sumiu e o que os widgets do Twoodle fazem. Leva dois minutos.",
+   "slug": "como-colocar-widget-de-casal-tela-de-inicio-iphone",
+   "title": "Como colocar um widget de casal na Tela de Início do iPhone (passo a passo)"
+  }
+ },
  "long-distance-countdown-until-we-meet": {
   "de": {
    "desc": "Ein Countdown bis zum nächsten Besuch macht das Warten in der Fernbeziehung leichter. Neun Ideen mit und ohne iPhone, und wie die Zahl nicht zur traurigen Uhr wird.",
@@ -151,6 +173,28 @@
    "desc": "Uma contagem regressiva até a próxima visita deixa a espera à distância mais leve. Nove jeitos de fazer no iPhone e fora dele, e como evitar que o número vire um relógio triste.",
    "slug": "contagem-regressiva-relacionamento-a-distancia",
    "title": "Contagem regressiva para se ver: 9 jeitos de esperar o reencontro à distância"
+  }
+ },
+ "long-distance-goodnight-routine": {
+  "de": {
+   "desc": "Ein gutes Gute-Nacht-Ritual in der Fernbeziehung dauert fünf Minuten, nicht zwei Stunden Telefonat. Zehn einfache Ideen, den Tag gemeinsam zu beenden, sortiert nach Restenergie.",
+   "slug": "einschlafritual-fernbeziehung",
+   "title": "Einschlafritual für die Fernbeziehung: 10 Ideen, den Tag gemeinsam zu beenden"
+  },
+  "es": {
+   "desc": "Un buen ritual de buenas noches a distancia dura cinco minutos, no dos horas de llamada. Diez ideas sencillas para cerrar el día juntos, según la energía que os quede.",
+   "slug": "rituales-buenas-noches-pareja-a-distancia",
+   "title": "Rituales de buenas noches para parejas a distancia: 10 ideas para acabar el día juntos"
+  },
+  "fr": {
+   "desc": "Un bon rituel du soir à distance dure cinq minutes, pas deux heures d'appel. Dix idées simples pour finir la journée ensemble, classées selon l'énergie qu'il vous reste.",
+   "slug": "rituel-du-soir-relation-a-distance",
+   "title": "Rituel du soir en relation à distance : 10 idées pour finir la journée ensemble"
+  },
+  "pt": {
+   "desc": "Um bom ritual de boa noite à distância leva cinco minutos, não duas horas de chamada. Dez ideias simples para terminar o dia juntos, por nível de energia.",
+   "slug": "ritual-de-boa-noite-casais-a-distancia",
+   "title": "Ritual de boa noite para casais à distância: 10 ideias para terminar o dia juntos"
   }
  },
  "long-distance-relationship-games": {
@@ -261,6 +305,28 @@
    "desc": "Existem vários apps chamados noteit e o LokLok é outra história. O que são, no que diferem e quando o Twoodle, o app de iPhone feito só para casais, faz mais sentido.",
    "slug": "alternativas-ao-noteit-e-loklok",
    "title": "Alternativas ao noteit e ao LokLok: apps de widget com desenhos para casais"
+  }
+ },
+ "things-to-doodle-for-your-partner": {
+  "de": {
+   "desc": "25 einfache Ideen, was du für deinen Partner zeichnen kannst: vom Strichmännchen mit Insider-Witz bis zum kleinen Daily Check-in, plus Ideen für Liebesnotizen im Widget.",
+   "slug": "was-zeichnen-fuer-den-partner",
+   "title": "Was zeichnen für Freund oder Freundin? 25 Ideen (auch ohne Talent)"
+  },
+  "es": {
+   "desc": "25 ideas fáciles de qué dibujar para tu pareja, desde monigotes con chiste interno hasta check-ins diminutos, y qué escribir en un widget de notas de amor. Sin talento.",
+   "slug": "que-dibujar-para-tu-pareja",
+   "title": "Qué dibujar para tu pareja: 25 ideas (aunque no sepas dibujar)"
+  },
+  "fr": {
+   "desc": "25 idées faciles de dessins pour votre partenaire, du bonhomme-bâton avec private joke au petit coucou quotidien, et quoi écrire dans un widget de mot doux. Aucun talent requis.",
+   "slug": "que-dessiner-pour-son-partenaire",
+   "title": "Que dessiner pour son copain ou sa copine : 25 idées (même sans savoir dessiner)"
+  },
+  "pt": {
+   "desc": "25 ideias fáceis do que desenhar para o seu parceiro, de bonecos de palito com piada interna a recadinhos diários, e o que escrever num widget de recado de amor.",
+   "slug": "o-que-desenhar-para-o-parceiro",
+   "title": "O que desenhar para o namorado ou namorada: 25 ideias (mesmo sem saber desenhar)"
   }
  },
  "widgetable-alternative": {

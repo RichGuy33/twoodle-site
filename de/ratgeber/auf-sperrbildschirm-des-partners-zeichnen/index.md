@@ -99,9 +99,9 @@ Du überlegst, ob eine Komplett-App mit Fragen und Quizzen besser passt? Lies un
 
 Du vergleichst Zeichen-Apps im Stil von noteit? Lies unseren Ratgeber zu [Alternativen zu noteit und LokLok](https://twoodle.app/de/ratgeber/noteit-loklok-alternativen/).
 
-Du brauchst Ideen, was du zeichnen kannst? Schau in [25 Dinge zum Zeichnen für deinen Partner](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch).
+Du brauchst Ideen, was du zeichnen kannst? Schau in [25 Dinge zum Zeichnen für deinen Partner](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
 
-Du weißt nicht, wie ein Widget auf den Bildschirm kommt? Lies, [wie du ein Paar-Widget auf dein iPhone legst](https://twoodle.app/guides/how-to-add-couples-widget-iphone-home-screen/) (auf Englisch).
+Du weißt nicht, wie ein Widget auf den Bildschirm kommt? Lies, [wie du ein Paar-Widget auf dein iPhone legst](https://twoodle.app/de/ratgeber/paar-widget-home-bildschirm-iphone-hinzufuegen/).
 
 ## Häufige Fragen
 

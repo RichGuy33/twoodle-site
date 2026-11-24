@@ -22,7 +22,7 @@ Schick etwas Kleines und Konkretes (zwei Zeilen, ein Foto vom Gebäck, eine Zeic
 ## Wenn du einfach schnell Verbindung willst
 
 1. **Schick ein „Ich denk an dich“ mit Detail.** „Hab dein Gebäck gesehen. Fand es doof. Wollte dich.“ ist besser als „vermiss dich“, weil es zeigt, dass du aufgepasst hast.
-2. **Schick eine Zeichnung.** Ein schlechtes Bild sagt „Ich hab an dich gedacht“, ohne dass sofort eine Antwort fällig ist. Wenn dir nichts einfällt, hilft unsere Liste mit [Ideen zum Zeichnen für deinen Partner](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch).
+2. **Schick eine Zeichnung.** Ein schlechtes Bild sagt „Ich hab an dich gedacht“, ohne dass sofort eine Antwort fällig ist. Wenn dir nichts einfällt, hilft unsere Liste mit [Ideen zum Zeichnen für deinen Partner](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
 3. **Schick eine Sprachnachricht.** Zehn Sekunden deiner echten Stimme wirken mehr als ein Absatz. Und man kann sie zweimal anhören.
 
 > **Ein kleines Signal direkt auf den Home-Bildschirm** Kostenlos fürs iPhone. Twoodle Pro schaltet das Koppeln frei; ein Abo deckt euch beide ab. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)

@@ -70,6 +70,8 @@ Countries switch daylight saving time on different dates, so the difference betw
 
 Twoodle is not a calling, messaging or video app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the small asynchronous signal, not the call. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. For the rest of your toolkit, see our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 
+Want a simple way to end each day? Try a [long-distance goodnight routine](https://twoodle.app/guides/long-distance-goodnight-routine/).
+
 ## FAQ
 
 ### How do you make a long-distance relationship work with a big time difference?

@@ -86,6 +86,8 @@ Twoodle is for iPhone only (iOS 18 or later). It's free to download, and Twoodle
 
 Prefer words? Try [30 short love notes for your partner](https://twoodle.app/guides/short-love-notes-for-your-partner/).
 
+Want a simple way to end each day? Try a [long-distance goodnight routine](https://twoodle.app/guides/long-distance-goodnight-routine/).
+
 ## FAQ
 
 ### What should I doodle for my partner?

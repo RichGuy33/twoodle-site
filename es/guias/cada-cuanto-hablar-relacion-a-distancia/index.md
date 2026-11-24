@@ -44,7 +44,7 @@ El contacto no son solo las llamadas. Contar las cosas pequeñas hace que la par
 
 - Un mensaje de texto o una nota de voz
 - Una foto de tu comida o de lo que ves desde la ventana
-- Un garabato enviado al widget de su pantalla de inicio (aquí tienes [qué dibujar](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés))
+- Un garabato enviado al widget de su pantalla de inicio (aquí tienes [qué dibujar](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/))
 - Una [nota de amor corta](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en inglés) que aparece sin que tenga que abrir nada
 - Una playlist compartida, un enlace, un meme
 

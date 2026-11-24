@@ -22,7 +22,7 @@ Envoyez quelque chose de petit et de précis (deux lignes, une photo de la vienn
 ## Quand vous voulez juste un lien, vite
 
 1. **Envoyez un « je pense à toi » avec un détail.** « Vu ta viennoiserie. Je l'ai détestée. Tu me manquais. » vaut mieux que « tu me manques », parce que ça prouve que vous avez vraiment regardé.
-2. **Envoyez un dessin.** Un dessin raté dit « j'ai pensé à toi » sans pression pour répondre. Notre liste d'[idées de dessins pour votre partenaire](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en anglais) aide quand la tête est vide.
+2. **Envoyez un dessin.** Un dessin raté dit « j'ai pensé à toi » sans pression pour répondre. Notre liste d'[idées de dessins pour votre partenaire](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/) aide quand la tête est vide.
 3. **Envoyez un message vocal.** Dix secondes de votre vraie voix valent plus qu'un paragraphe. Et il ou elle peut le réécouter.
 
 > **Un petit signal sur son écran d'accueil** Téléchargement gratuit sur iPhone. Twoodle Pro débloque le couplage ; un seul abonnement couvre vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)

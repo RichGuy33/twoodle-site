@@ -46,7 +46,7 @@ Mehr für einen ganzen Abend? Schau in unsere [Date-Ideen für die Fernbeziehung
 3. **Zeichnen und raten.** Zeichne etwas in deiner App, schick es ab und lass deinen Schatz raten, was es ist, sobald er es sieht. Das beste Spiel für Zeitzonen, denn die Runde wartet.
 4. **Mal mein Bild fertig.** Schick eine halbe Kritzelei, dein Schatz vollendet sie und schickt sie zurück. Lustiges Ergebnis garantiert.
 
-Keine Idee, was du zeichnen sollst? Unsere Liste mit [Dingen, die du für deinen Partner zeichnen kannst](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch), ist voll davon.
+Keine Idee, was du zeichnen sollst? Unsere Liste mit [Dingen, die du für deinen Partner zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/), ist voll davon.
 
 ## Wo Twoodle bei den Kritzel-Spielen ins Spiel kommt
 

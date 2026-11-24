@@ -21,7 +21,7 @@ En bref : choisissez la date où vous serez enfin dans la même pièce, mettez u
 2. **Un événement Calendrier avec une alerte.** Pas glamour, gratuit et fiable. Ajoutez le jour de la visite et programmez une alerte une semaine avant pour recevoir un petit « plus qu'une semaine ! ».
 3. **Une liste Rappels partagée.** Appelez-la « À faire dès que j'arrive » et complétez-la tout le mois. La liste devient le compte à rebours.
 4. **Une chaîne en papier.** Envoyez par la poste ou remettez une bande de maillons en papier, un par jour. Chacun en arrache un tous les matins. Zéro technologie, énorme satisfaction.
-5. **Un dessin par jour.** Dessinez le chiffre sous forme d'objet : cinq dodos, cinq petites lunes. Pour des idées, voyez [25 choses à dessiner pour votre partenaire](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en anglais). Dans Twoodle, les dessins arrivent sur le widget de l'écran d'accueil de votre partenaire.
+5. **Un dessin par jour.** Dessinez le chiffre sous forme d'objet : cinq dodos, cinq petites lunes. Pour des idées, voyez [25 choses à dessiner pour votre partenaire](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/). Dans Twoodle, les dessins arrivent sur le widget de l'écran d'accueil de votre partenaire.
 6. **Un Mot doux sur l'écran verrouillé.** Le widget Mot doux (Love Note) de Twoodle peut afficher une courte phrase, par exemple « J-3. Apporte des gâteaux. »
 7. **Une minuscule mission par jour.** J-10 : envoie une photo de ton petit-déjeuner. J-9 : choisis le premier repas. Donnez un rôle au compte à rebours.
 8. **Un grand final à regarder ensemble.** Commencez une série et gardez le dernier épisode pour les retrouvailles.

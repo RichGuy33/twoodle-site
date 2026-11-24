@@ -22,7 +22,7 @@ Mande algo pequeno e específico (duas linhas, uma foto do pão de queijo, um de
 ## Quando você só quer sentir a pessoa por perto, rápido
 
 1. **Mande um "pensando em você" com detalhe.** "Vi o pão de queijo. Odiei. Queria você aqui." vale mais que "saudade", porque prova que você estava prestando atenção.
-2. **Mande um desenho.** Um desenho ruim diz "pensei em você" sem a pressão de ter que responder. Nossa lista de [coisas para desenhar para o seu parceiro](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (em inglês) tem ideias para quando a cabeça dá branco.
+2. **Mande um desenho.** Um desenho ruim diz "pensei em você" sem a pressão de ter que responder. Nossa lista de [coisas para desenhar para o seu parceiro](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/) tem ideias para quando a cabeça dá branco.
 3. **Mande um áudio.** Dez segundos da sua voz de verdade valem mais que um parágrafo. E a pessoa pode ouvir duas vezes.
 
 > **Um sinal pequeno direto na Tela de Início** Download gratuito para iPhone. O Twoodle Pro libera o pareamento; uma assinatura vale para os dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)

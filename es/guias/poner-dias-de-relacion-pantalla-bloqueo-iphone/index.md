@@ -89,6 +89,6 @@ Unos 2 años y 9 meses.
 
 **P. D.** Anda, haz la cuenta con tu número. Y luego [ponlo donde lo veas](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881).
 
-¿Necesitas ideas de qué dibujar? Mira [25 cosas para dibujarle a tu pareja](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés).
+¿Necesitas ideas de qué dibujar? Mira [25 cosas para dibujarle a tu pareja](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/).
 
 [← Todas las guías](https://twoodle.app/es/guias/)

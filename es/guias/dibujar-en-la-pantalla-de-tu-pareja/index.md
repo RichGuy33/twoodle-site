@@ -101,9 +101,9 @@ Nos encantaría decirte que somos los únicos, pero no. Apps como Paint Love, no
 
 ¿Comparando apps de dibujo al estilo noteit? Lee nuestra [guía de alternativas a noteit y LokLok](https://twoodle.app/es/guias/alternativas-a-noteit-y-loklok/).
 
-¿Necesitas ideas de qué dibujar? Mira [25 cosas para garabatear a tu pareja](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés).
+¿Necesitas ideas de qué dibujar? Mira [25 cosas para garabatear a tu pareja](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/).
 
-¿No sabes cómo poner un widget en la pantalla? Mira [cómo añadir un widget de pareja a tu iPhone](https://twoodle.app/guides/how-to-add-couples-widget-iphone-home-screen/) (en inglés).
+¿No sabes cómo poner un widget en la pantalla? Mira [cómo añadir un widget de pareja a tu iPhone](https://twoodle.app/es/guias/como-poner-widget-de-pareja-pantalla-de-inicio-iphone/).
 
 ## Preguntas frecuentes
 

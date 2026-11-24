@@ -75,6 +75,8 @@ We make Twoodle, an iPhone app that sends doodles to your partner's Home Screen 
 
 For ideas on what to say when you do talk, try [30 long-distance relationship questions](https://twoodle.app/guides/long-distance-relationship-questions/).
 
+Want a simple way to end each day? Try a [long-distance goodnight routine](https://twoodle.app/guides/long-distance-goodnight-routine/).
+
 ## FAQ
 
 ### How often should long-distance couples talk?

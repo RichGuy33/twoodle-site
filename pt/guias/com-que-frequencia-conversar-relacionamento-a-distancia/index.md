@@ -44,7 +44,7 @@ Contato não é só ligação. Contar as coisas pequenas faz o casal de agenda l
 
 - Uma mensagem de texto ou um áudio
 - Uma foto do seu almoço ou da vista da janela
-- Um desenho enviado para o widget da Tela de Início dele(a) (veja [o que desenhar](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (em inglês))
+- Um desenho enviado para o widget da Tela de Início dele(a) (veja [o que desenhar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/))
 - Um [recadinho de amor](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês) que aparece sem a pessoa precisar abrir nada
 - Uma playlist compartilhada, um link, um meme
 

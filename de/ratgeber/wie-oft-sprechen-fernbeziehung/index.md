@@ -44,7 +44,7 @@ Kontakt sind nicht nur Anrufe. Die kleinen Dinge mitzuzählen nimmt dem Paar mit
 
 - Eine Textnachricht oder Sprachnachricht
 - Ein Foto von deinem Mittagessen oder deiner Aussicht
-- Eine Zeichnung auf das Home-Bildschirm-Widget (hier steht, [was du zeichnen kannst](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (auf Englisch))
+- Eine Zeichnung auf das Home-Bildschirm-Widget (hier steht, [was du zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/))
 - Ein [kurzer Liebeszettel](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch), der erscheint, ohne dass jemand etwas öffnen muss
 - Eine gemeinsame Playlist, ein Link, ein Meme
 

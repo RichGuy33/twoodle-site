@@ -22,7 +22,7 @@ Mándale algo pequeño y concreto (dos líneas, una foto del pastel, un garabato
 ## Cuando solo quieres sentirte cerca, rápido
 
 1. **Manda un «pienso en ti» con un detalle.** «Vi tu pastel. Lo odié. Te quería a ti» le gana a un «te extraño» suelto, porque demuestra que estabas atento.
-2. **Manda un garabato.** Un dibujo malo dice «pensé en ti» sin presión de responder. Nuestra lista de [cosas para dibujarle a tu pareja](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés) te salva cuando te quedas en blanco.
+2. **Manda un garabato.** Un dibujo malo dice «pensé en ti» sin presión de responder. Nuestra lista de [cosas para dibujarle a tu pareja](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/) te salva cuando te quedas en blanco.
 3. **Manda una nota de voz.** Diez segundos de tu voz de verdad valen más que un párrafo. Y se puede escuchar dos veces.
 
 > **Una señal pequeña que llega a su pantalla de inicio** Gratis para descargar en iPhone. Twoodle Pro desbloquea la conexión de pareja; una suscripción cubre a los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)

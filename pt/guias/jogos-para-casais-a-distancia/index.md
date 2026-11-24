@@ -46,7 +46,7 @@ Quer mais para uma noite inteira? Veja nossas [ideias de encontro à distância]
 3. **Desenhe e adivinhe.** Desenhe algo no seu app, envie e deixe seu par adivinhar o que é quando ver. É o melhor jogo para fusos horários, porque a partida espera.
 4. **Termine meu desenho.** Mande um rabisco pela metade e seu par completa e devolve. Resultado engraçado garantido.
 
-Sem ideia do que desenhar? Nossa lista de [coisas para desenhar para o seu parceiro](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (em inglês) está cheia delas.
+Sem ideia do que desenhar? Nossa lista de [coisas para desenhar para o seu parceiro](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/) está cheia delas.
 
 ## Onde o Twoodle entra nos jogos de rabisco
 

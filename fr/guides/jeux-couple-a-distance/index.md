@@ -46,7 +46,7 @@ Envie de plus pour une soirée entière ? Voyez nos [idées de rendez-vous à di
 3. **Dessine et devine.** Dessinez quelque chose dans votre app, envoyez-le et laissez votre partenaire deviner en le voyant. C'est le meilleur jeu pour les décalages horaires : la partie attend.
 4. **Termine mon dessin.** Envoyez un gribouillis à moitié fait, votre partenaire le complète et vous le renvoie. Résultat drôle garanti.
 
-À court d'idées de dessins ? Notre liste de [choses à dessiner pour votre partenaire](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en anglais) en est pleine.
+À court d'idées de dessins ? Notre liste de [choses à dessiner pour votre partenaire](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/) en est pleine.
 
 ## Où Twoodle s'intègre aux jeux de dessin
 

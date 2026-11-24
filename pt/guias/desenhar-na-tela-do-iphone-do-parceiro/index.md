@@ -101,9 +101,9 @@ Está pensando num app completo, com perguntas e quizzes? Leia nosso [guia de al
 
 Comparando apps de desenho no estilo do noteit? Leia o [guia de alternativas ao noteit e ao LokLok](https://twoodle.app/pt/guias/alternativas-ao-noteit-e-loklok/).
 
-Precisa de ideias do que desenhar? Veja [25 coisas para rabiscar para o seu parceiro](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (em inglês).
+Precisa de ideias do que desenhar? Veja [25 coisas para rabiscar para o seu parceiro](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/).
 
-Não sabe como colocar um widget na tela? Veja [como adicionar um widget de casal ao seu iPhone](https://twoodle.app/guides/how-to-add-couples-widget-iphone-home-screen/) (em inglês).
+Não sabe como colocar um widget na tela? Veja [como adicionar um widget de casal ao seu iPhone](https://twoodle.app/pt/guias/como-colocar-widget-de-casal-tela-de-inicio-iphone/).
 
 ## Perguntas frequentes
 

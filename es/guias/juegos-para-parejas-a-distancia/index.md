@@ -46,7 +46,7 @@ Si quieres un juego en dos minutos y sin preparar nada, empieza con **¿Qué pre
 3. **Dibuja y adivina.** Dibuja algo en tu app, envíalo y deja que tu pareja adivine qué es cuando lo vea. Es el mejor juego para husos horarios, porque la partida espera.
 4. **Termina mi dibujo.** Manda un garabato a medias y tu pareja lo completa y te lo devuelve. Resultado gracioso garantizado.
 
-¿Sin ideas de qué dibujar? Nuestra lista de [cosas para dibujarle a tu pareja](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en inglés) está llena.
+¿Sin ideas de qué dibujar? Nuestra lista de [cosas para dibujarle a tu pareja](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/) está llena.
 
 ## Dónde encaja Twoodle en los juegos de garabatos
 

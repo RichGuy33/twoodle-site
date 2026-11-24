@@ -101,9 +101,9 @@ Vous hésitez avec une app tout-en-un avec questions et quiz ? Lisez notre [guid
 
 Vous comparez des apps de dessin façon noteit ? Lisez notre [guide sur les alternatives à noteit et LokLok](https://twoodle.app/fr/guides/alternatives-a-noteit-et-loklok/).
 
-Besoin d'idées de dessins ? Voyez [25 choses à dessiner pour votre partenaire](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en anglais).
+Besoin d'idées de dessins ? Voyez [25 choses à dessiner pour votre partenaire](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/).
 
-Vous ne savez pas comment placer un widget sur votre écran ? Voyez [comment ajouter un widget de couple sur votre iPhone](https://twoodle.app/guides/how-to-add-couples-widget-iphone-home-screen/) (en anglais).
+Vous ne savez pas comment placer un widget sur votre écran ? Voyez [comment ajouter un widget de couple sur votre iPhone](https://twoodle.app/fr/guides/ajouter-widget-couple-ecran-accueil-iphone/).
 
  Questions fréquentes
 Peut-on dessiner directement sur l'écran verrouillé de l'iPhone de quelqu'un d'autre ?

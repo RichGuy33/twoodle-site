@@ -44,7 +44,7 @@ Le contact, ce ne sont pas que les appels. Compter les petites choses déculpabi
 
 - Un SMS ou un message vocal
 - Une photo de votre déjeuner ou de la vue de votre fenêtre
-- Un dessin envoyé sur le widget de son écran d'accueil (voici [quoi dessiner](https://twoodle.app/guides/things-to-doodle-for-your-partner/) (en anglais))
+- Un dessin envoyé sur le widget de son écran d'accueil (voici [quoi dessiner](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/))
 - Un [petit mot doux](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais) qui apparaît sans qu'il ou elle ait à ouvrir quoi que ce soit
 - Une playlist partagée, un lien, un mème
 

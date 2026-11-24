@@ -29,7 +29,7 @@ Send them something small and specific (a two-line message, a photo of the pastr
 
 ## When it hits at night
 
-1. **Make a bedtime ritual.** Same three things every night: a message, a song, a "sleep well." Rituals give a lonely hour a shape, and you don't have to be on a call to share one.
+1. **Make a bedtime ritual.** Same three things every night: a message, a song, a "sleep well." Rituals give a lonely hour a shape, and you don't have to be on a call to share one. For ten options, see our [long-distance goodnight routine](https://twoodle.app/guides/long-distance-goodnight-routine/) guide.
 2. **Write it down first.** Two minutes in your notes app: what you miss, what you'll tell them. Half the weight is just having nowhere to put the thought.
 3. **Check the clock before the spiral.** If it's the middle of their night, a message can wait. A scheduled plan for tomorrow beats a 3 a.m. text that wakes them up. Our [time zone guide](https://twoodle.app/guides/long-distance-relationship-time-zones/) helps you find a slot that works for both of you.
 
