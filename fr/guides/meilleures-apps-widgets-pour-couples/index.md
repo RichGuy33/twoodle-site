@@ -11,6 +11,8 @@ Par l'équipe Twoodle · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, qui figure dans cette liste. Nous l'avons mis au milieu exprès, nous disons où elle est moins bonne, et tout ce que nous écrivons sur les autres apps vient de leurs fiches App Store telles que nous les avons lues en novembre 2026. Prix et fonctions changent : vérifiez la fiche avant de payer.
 
+Pressé ? Voici la version vidéo du comparatif ci-dessous (6 min 25 s, en anglais). [Regarder sur YouTube (en anglais)](https://www.youtube.com/watch?v=zZiUwmBjRcw)
+
 Choisir une app de widgets pour couples, c'est un peu comme choisir un restaurant à deux. Tout le monde dit « moi, ça m'est égal », et puis quelqu'un a un avis très tranché.
 
 Voici donc la réponse courte. Si vous voulez un compteur, prenez une app de compteur. Si vous voulez vous envoyer des choses, prenez une app de messages. Si vous voulez un animal virtuel, un journal et un agenda partagé, il y a aussi une app pour ça. Le tout est de savoir lequel des trois vous voulez vraiment.

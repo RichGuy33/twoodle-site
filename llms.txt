@@ -6,6 +6,10 @@ App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881
 
 Each guide is available as plain Markdown (same content as the HTML page) by appending index.md to its URL.
 
+## Video
+
+- [I Tested 6 Couple Widget Apps, and Only One Does This (iPhone 2026)](https://www.youtube.com/watch?v=zZiUwmBjRcw): 6 min 25 s video version of the best couples widget apps guide (English).
+
 ## Guides (English)
 
 - [Best Couples Widget Apps for iPhone (Honest Roundup, 2026)](https://twoodle.app/guides/best-apps-for-couples-widgets/index.md): Six couples widget apps for iPhone compared by what they actually do, what they cost, and who each one suits. We make one of them, and we say so.

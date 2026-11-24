@@ -11,6 +11,8 @@ Vom Twoodle-Team · November 2026
 
 > **Hinweis:** Wir machen Twoodle, und Twoodle steht auf dieser Liste. Wir haben es mit Absicht in die Mitte gesetzt, sagen offen, wo es schwächelt, und alles zu den anderen Apps stammt aus deren App-Store-Seiten, so wie wir sie im November 2026 gelesen haben. Preise und Funktionen ändern sich, also schau vor dem Bezahlen auf die aktuelle Seite.
 
+Wenig Zeit? Das ist die Videoversion des Vergleichs unten (6 Min. 25 Sek., auf Englisch). [Auf YouTube ansehen (auf Englisch)](https://www.youtube.com/watch?v=zZiUwmBjRcw)
+
 Eine Paar-Widget-App auszusuchen ist ein bisschen wie die Restaurantwahl zu zweit. Alle sagen „ist mir egal“, und dann ist es jemandem plötzlich sehr nicht egal.
 
 Hier also die Kurzfassung. Willst du einen Zähler, nimm eine Zähler-App. Willst du dir gegenseitig Sachen schicken, nimm eine Messaging-App. Willst du ein Haustier, ein Tagebuch und einen gemeinsamen Kalender, gibt es dafür auch eine App. Der Trick ist, zu wissen, welches der drei Dinge du wirklich willst.

@@ -11,6 +11,8 @@ Pela equipe do Twoodle · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, que está nesta lista. Colocamos ele no meio de propósito, dizemos onde ele fica devendo, e tudo o que contamos sobre os outros apps vem das páginas deles na App Store, como lemos em novembro de 2026. Preços e recursos mudam, então confira a página do app antes de pagar.
 
+Sem tempo? Esta é a versão em vídeo da comparação abaixo (6 min 25 s, em inglês). [Assistir no YouTube (em inglês)](https://www.youtube.com/watch?v=zZiUwmBjRcw)
+
 Escolher um app de widgets para casais é meio como escolher restaurante com o parceiro. Todo mundo diz "tanto faz", e aí alguém se importa, e muito.
 
 Então vamos à resposta curta. Se você quer um contador, escolha um app de contador. Se quer mandar coisas um para o outro, escolha um app de mensagens. Se quer um bichinho, um diário e uma agenda compartilhada, também tem app para isso. O segredo é saber qual dos três você realmente quer.
