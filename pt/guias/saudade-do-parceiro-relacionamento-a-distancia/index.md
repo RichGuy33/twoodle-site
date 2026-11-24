@@ -49,7 +49,7 @@ Mande algo pequeno e específico (duas linhas, uma foto do pão de queijo, um de
 
 Nós fazemos o Twoodle, um app para casais no iPhone que envia desenhos para o widget da Tela de Início do seu parceiro. Nas ideias de "conexão rápida" acima, isso significa que você desenha algo em poucos segundos e a pessoa vê na próxima vez que olhar o celular, sem abrir app nenhum. Também dá para usar o widget de Recado de Amor para uma mensagem curta e o widget de Dias Juntos na Tela de Bloqueio para manter a contagem à vista. Há ainda o recurso de Humor, para os dias em que faltam palavras.
 
-Limites, com honestidade: os desenhos aparecem no widget da Tela de Início, não na Tela de Bloqueio, e o Twoodle é só para iPhone (iOS 18 ou mais recente). O download é gratuito; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (3 dias de teste) ou US$ 49,99 por ano, valendo para os dois. São preços da App Store dos EUA e podem variar no seu país, então confira na App Store. Você não precisa de app nenhum para as outras ideias da lista, e para uma chamada mais longa qualquer app de vídeo serve.
+Limites, com honestidade: os desenhos aparecem no widget da Tela de Início, não na Tela de Bloqueio, e o Twoodle está disponível para iPhone (iOS 18 ou mais recente) e Android. O download é gratuito; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (3 dias de teste) ou US$ 39,99 por ano, valendo para os dois. São preços da App Store dos EUA e podem variar no seu país, então confira na App Store. Você não precisa de app nenhum para as outras ideias da lista, e para uma chamada mais longa qualquer app de vídeo serve.
 
 ## Uma coisa para não fazer
 
@@ -73,7 +73,7 @@ Em geral, sim, num momento tranquilo e sem culpar ninguém. Dizer "hoje é um di
 
 ### O Twoodle funciona no Android?
 
-Não. O Twoodle é só para iPhone, com iOS 18 ou mais recente.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 > **Mande a coisinha** Desenhos, recados e humores num app de iPhone para dois. Download gratuito. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

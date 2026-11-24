@@ -92,7 +92,7 @@ When talking gets stale, a game can reset the mood: see [12 long-distance relati
 
 ## Where Twoodle fits (and where it doesn't)
 
-Twoodle is not a question app, a chat app or a therapist. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. A daily check-in can be as small as a doodle of the sandwich you just made, or a one-line question in a Love Note. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. Not sure what to draw? Try [25 things to doodle](https://twoodle.app/guides/things-to-doodle-for-your-partner/). Need words? Steal from [30 short love notes](https://twoodle.app/guides/short-love-notes-for-your-partner/).
+Twoodle is not a question app, a chat app or a therapist. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. A daily check-in can be as small as a doodle of the sandwich you just made, or a one-line question in a Love Note. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. Not sure what to draw? Try [25 things to doodle](https://twoodle.app/guides/things-to-doodle-for-your-partner/). Need words? Steal from [30 short love notes](https://twoodle.app/guides/short-love-notes-for-your-partner/).
 
 ## FAQ
 
@@ -110,7 +110,7 @@ Ask about small, concrete things: something that annoyed them today, something t
 
 ### Can Twoodle help with long-distance conversations?
 
-Twoodle is an iPhone-only app (iOS 18+) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It is not a question generator, but a doodle or Love Note can carry a tiny question between calls. It is free to download; pairing needs Twoodle Pro, which covers both of you.
+Twoodle is an app for iPhone (iOS 18+) and Android; the iPhone app sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It is not a question generator, but a doodle or Love Note can carry a tiny question between calls. It is free to download; pairing needs Twoodle Pro, which covers both of you.
 
 > **Send the first question today** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

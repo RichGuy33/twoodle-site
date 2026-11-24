@@ -49,7 +49,7 @@ Building a whole long-distance setup, not just a widget? See our guide to the [b
 ## When a simpler counter is the better pick
 
 - **You only want a number.** A single-purpose counter app is lighter and may cost less.
-- **You use Android.** Twoodle is iPhone only, iOS 18 or later.
+- **You use Android.** Twoodle launched on Android in November 2026, but the Lock Screen steps in this guide are for iPhone (iOS 18 or later). Check the Google Play listing to see whether the Android app has a days-together counter.
 - **You don't want to pair with anyone.** Pairing is Twoodle's whole point. If you're setting up a private counter on your own, a standalone app fits better.
 
 ## Milestones worth a doodle
@@ -77,7 +77,7 @@ Yes. The Days Together widget sits on the Lock Screen and counts your days as a 
 
 ### Is there an Android version?
 
-No. Twoodle is iPhone only, iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 ### How many days is 1,000 days together?
 

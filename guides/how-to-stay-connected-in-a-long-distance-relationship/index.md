@@ -70,7 +70,7 @@ For the moments when the distance just hurts, here are 12 small things to try wh
 
 ## Where Twoodle fits (and where it doesn't)
 
-Twoodle is not a messaging or video app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the tiny daily signal. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. For the rest of your toolkit, see our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
+Twoodle is not a messaging or video app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the tiny daily signal. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. For the rest of your toolkit, see our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 
 ## FAQ
 
@@ -88,7 +88,7 @@ Talk about small, specific things: the weirdest thing you saw today, what you at
 
 ### Does Twoodle help long-distance couples stay connected?
 
-Twoodle is an iPhone-only app (iOS 18+) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the tiny daily signal, not calls or messaging.
+Twoodle is an app for iPhone (iOS 18+) and Android; the iPhone app sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the tiny daily signal, not calls or messaging.
 
 > **Send the first tiny signal today** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

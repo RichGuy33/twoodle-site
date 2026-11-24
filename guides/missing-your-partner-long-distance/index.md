@@ -49,7 +49,7 @@ Send them something small and specific (a two-line message, a photo of the pastr
 
 We make Twoodle, an iPhone app for couples that sends doodles to your partner's Home Screen widget. For the "fast connection" ideas above, that means you draw something in a few seconds and your partner sees it the next time they glance at their phone, with no app to open. You can also use the Love Note widget for a short message and the Days Together widget on the Lock Screen to keep the countdown in sight. There is a Mood feature too, for the days you can't find the words.
 
-Honest limits: doodles appear on the Home Screen widget, not the Lock Screen, and Twoodle is iPhone only (iOS 18 or later). It's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $49.99 per year, covering both partners. These are US App Store prices and may vary in your country, so check the App Store. You don't need any app to do the other ideas on this list, and for a longer call, any video app will do.
+Honest limits: doodles appear on the Home Screen widget, not the Lock Screen, and Twoodle is available for iPhone (iOS 18 or later) and Android. It's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $39.99 per year, covering both partners. These are US App Store prices and may vary in your country, so check the App Store. You don't need any app to do the other ideas on this list, and for a longer call, any video app will do.
 
 ## One thing not to do
 
@@ -73,7 +73,7 @@ Usually yes, in a calm moment and without turning it into blame. Saying "I'm hav
 
 ### Does Twoodle work on Android?
 
-No. Twoodle is iPhone only, on iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 > **Send the small thing** Doodles, notes and moods in one iPhone app for two. Free to download. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

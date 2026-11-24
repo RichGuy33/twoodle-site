@@ -67,7 +67,7 @@ And one rule beats all the rest: add a note saying why you chose it. "I saw this
 
 ## Where Twoodle fits (and where it doesn't)
 
-Twoodle is not a shipping service, a gift shop or a messaging app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It handles the small daily gesture, not the parcel. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. More tools are in our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
+Twoodle is not a shipping service, a gift shop or a messaging app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It handles the small daily gesture, not the parcel. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. More tools are in our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 
 ## FAQ
 
@@ -85,7 +85,7 @@ Check customs rules and delivery times before you buy, and avoid food or liquids
 
 ### Does Twoodle work as a long-distance gift?
 
-Twoodle is an iPhone-only app (iOS 18+) that sends doodles to your partner's Home Screen widget. It is free to download; pairing needs Twoodle Pro, which covers both of you. It works best as a daily gesture alongside a physical gift, not a replacement for one.
+Twoodle is an app for iPhone (iOS 18+) and Android; the iPhone app sends doodles to your partner's Home Screen widget. It is free to download; pairing needs Twoodle Pro, which covers both of you. It works best as a daily gesture alongside a physical gift, not a replacement for one.
 
 > **Send one today, no postage** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

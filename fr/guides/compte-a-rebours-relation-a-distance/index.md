@@ -47,11 +47,11 @@ Un bon compte à rebours débouche sur du concret. Notez trois choses : ce que c
 
 - **Pas encore de date.** Si vous ignorez quand vous vous verrez, un compte à rebours peut piquer. Utilisez plutôt un compteur de jours ensemble, ou fixez une date pour décider de la date.
 - **L'un de vous trouve ça stressant.** Certains comptent mieux en semaines qu'en jours. Demandez-vous ce qui est le plus doux.
-- **Vous êtes sur Android.** Twoodle est réservé à l'iPhone (iOS 18 ou version ultérieure). N'importe quelle app de compte à rebours classique fera le travail.
+- **Vous êtes sur Android.** Twoodle est maintenant aussi sur Android ; consultez la fiche Google Play pour la configuration requise et les fonctions, qui peuvent différer de celles de l'app iPhone. À défaut, n'importe quelle app de compte à rebours classique fera le travail.
 
 ## Faut-il Twoodle pour ça ?
 
-Non. Une alerte Calendrier remplit l'essentiel du travail gratuitement. Nous avons conçu les dates importantes et les widgets de Twoodle pour que le compte à rebours vive à côté des dessins, des humeurs et des mots que vous échangez déjà. Le téléchargement de Twoodle est gratuit ; Twoodle Pro active l'appairage : 3,99 $ US par semaine (3 jours d'essai) ou 49,99 $ US par an, un seul abonnement pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les tarifs actuels et les langues dans lesquelles l'app est disponible.
+Non. Une alerte Calendrier remplit l'essentiel du travail gratuitement. Nous avons conçu les dates importantes et les widgets de Twoodle pour que le compte à rebours vive à côté des dessins, des humeurs et des mots que vous échangez déjà. Le téléchargement de Twoodle est gratuit ; Twoodle Pro active l'appairage : 3,99 $ US par semaine (3 jours d'essai) ou 39,99 $ US par an, un seul abonnement pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les tarifs actuels et les langues dans lesquelles l'app est disponible.
 
 Pour la vue d'ensemble, voyez [comment rester connectés quand on est en couple à distance](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en anglais) et [comment gérer les fuseaux horaires](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais).
 
@@ -63,7 +63,7 @@ Pour la plupart des couples, oui, tant que le compte à rebours pointe vers quel
 Que faire des jours qui nous séparent des retrouvailles ?
 Choisissez un petit rituel : un dessin par jour, une question chaque soir ou un rendez-vous vidéo par semaine. L'idée est de faire de l'attente une partie de la relation, pas un temps qu'on cherche à sauter.
 Twoodle fonctionne-t-il sur Android ?
-Non. Twoodle est réservé à l'iPhone, sous iOS 18 ou version ultérieure.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 Faites de l'attente une partie de la relation
 Dessins, mots doux, humeurs et dates importantes dans une seule app iPhone pour deux.

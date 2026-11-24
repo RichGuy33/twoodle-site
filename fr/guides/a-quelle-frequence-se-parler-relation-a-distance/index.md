@@ -67,7 +67,7 @@ Si l'écart persiste, la vraie conversation porte peut-être sur autre chose que
 
 ## Où Twoodle trouve sa place (et où il n'en a pas)
 
-Nous faisons Twoodle, une app iPhone qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, avec des widgets d'écran verrouillé pour les mots doux et les jours ensemble. Elle est pensée pour le signe quotidien, pas pour le long appel. Elle ne remplace pas la conversation, et vous n'en avez pas besoin pour tout ça : un SMS fait très bien l'affaire. Twoodle est réservée à l'iPhone (iOS 18 ou version ultérieure) et le téléchargement est gratuit ; Twoodle Pro débloque le couplage pour 3,99 $ US par semaine (3 jours d'essai) ou 49,99 $ US par an, un seul abonnement pour les deux. Ce sont les prix de l'App Store américain, ils peuvent varier dans votre pays ; vérifiez le prix actuel sur l'App Store.
+Nous faisons Twoodle, une app qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, avec des widgets d'écran verrouillé pour les mots doux et les jours ensemble. Elle est pensée pour le signe quotidien, pas pour le long appel. Elle ne remplace pas la conversation, et vous n'en avez pas besoin pour tout ça : un SMS fait très bien l'affaire. Twoodle est disponible sur iPhone (iOS 18 ou version ultérieure) et sur Android, et le téléchargement est gratuit ; Twoodle Pro débloque le couplage pour 3,99 $ US par semaine (3 jours d'essai) ou 39,99 $ US par an, un seul abonnement pour les deux. Ce sont les prix de l'App Store américain, ils peuvent varier dans votre pays ; vérifiez le prix actuel sur l'App Store.
 
 Pour savoir quoi se dire quand vous vous parlez, essayez ces [30 questions pour une relation à distance](https://twoodle.app/fr/guides/questions-relation-a-distance/).
 
@@ -87,7 +87,7 @@ Mettez des mots dessus sans accuser personne et cherchez un compromis : plus de 
 
 ### Twoodle fonctionne-t-elle sur Android ?
 
-Non. Twoodle est réservée à l'iPhone, sous iOS 18 ou version ultérieure.
+Oui. Twoodle est arrivée sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 > **Un petit coucou, chaque jour** Dessins, mots doux, humeurs et dates importantes dans une seule app iPhone pour deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

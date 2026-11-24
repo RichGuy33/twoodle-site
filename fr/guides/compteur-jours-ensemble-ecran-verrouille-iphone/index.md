@@ -49,7 +49,7 @@ Vous montez tout un dispositif à distance, pas seulement un widget ? Voyez notr
 ## Quand un compteur plus simple est le meilleur choix
 
 - **Vous ne voulez qu'un nombre.** Une app de compteur à fonction unique est plus légère et coûte parfois moins.
-- **Vous êtes sur Android.** Twoodle n'existe que sur iPhone, iOS 18 ou ultérieur.
+- **Vous êtes sur Android.** Twoodle est maintenant aussi sur Android, mais ce guide décrit les widgets d'écran verrouillé de l'app iPhone ; consultez la fiche Google Play pour savoir ce qui est disponible sur Android.
 - **Vous ne voulez pas vous associer à quelqu'un.** L'association est tout l'intérêt de Twoodle. Pour un compteur privé rien que pour vous, une app autonome convient mieux.
 
 ## Des étapes qui méritent un dessin
@@ -79,7 +79,7 @@ Oui. Le widget Jours ensemble se place sur l'écran verrouillé et compte vos jo
 
 ### Existe-t-il une version Android ?
 
-Non. Twoodle n'existe que sur iPhone, iOS 18 ou ultérieur.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone. Ce guide décrit les widgets d'écran verrouillé de l'app iPhone.
 
 ### Combien de temps font 1 000 jours ensemble ?
 

@@ -40,8 +40,8 @@ Vous pouvez aussi envoyer de courts mots sur son écran verrouillé ou son écra
 | Ce qu'il vous faut | L'appareil Lovebox et l'app | Deux iPhone avec l'app |
 | Comment arrivent les messages | Sur l'écran de la boîte, avec un cœur qui tourne | Sur un widget de l'écran d'accueil ou de l'écran verrouillé |
 | Ce que vous pouvez envoyer | Texte, photos, dessins, stickers | Dessins, photos sur une toile, mots, humeurs, nudges |
-| Plateformes | App pour iOS et Android | iPhone uniquement, iOS 18 ou version ultérieure |
-| Coût | Appareil acheté séparément ; l'app est gratuite avec achats intégrés facultatifs | Téléchargement gratuit ; Twoodle Pro active l'appairage, 3,99 $ US par semaine avec 3 jours d'essai gratuit ou 49,99 $ US par an, un seul abonnement pour vous deux |
+| Plateformes | App pour iOS et Android | iPhone (iOS 18 ou version ultérieure) et Android |
+| Coût | Appareil acheté séparément ; l'app est gratuite avec achats intégrés facultatifs | Téléchargement gratuit ; Twoodle Pro active l'appairage, 3,99 $ US par semaine avec 3 jours d'essai gratuit ou 39,99 $ US par an, un seul abonnement pour vous deux |
 
 Tarifs de l'App Store américain ; ils peuvent varier selon votre pays. Vérifiez dans l'App Store les langues dans lesquelles l'app est disponible.
 
@@ -50,7 +50,7 @@ Tarifs de l'App Store américain ; ils peuvent varier selon votre pays. Vérifie
 Nous le disons nous-mêmes, pour que vous n'ayez pas à le chercher :
 
 - **Vous voulez un vrai objet.** Une boîte sur un bureau ou une table de chevet, ou un cadeau à déballer, ça a de la présence. Un widget, c'est un widget.
-- **Votre partenaire est sur Android.** Twoodle n'a pas d'app Android pour le moment. Lovebox, si.
+- **Vous et votre partenaire n'avez pas le même type de téléphone.** Twoodle est maintenant aussi sur Android, mais vérifiez sur les fiches des stores que l'association entre un iPhone et un Android est prise en charge avant de payer à deux. Lovebox, elle, propose une app pour iOS et Android.
 - **Vous aimez le rituel.** Ouvrir un couvercle pour lire un mot est un plus beau moment que jeter un œil à son téléphone. Difficile de dire le contraire.
 
 ## Quand Twoodle est le meilleur choix
@@ -69,11 +69,11 @@ Vous comparez plusieurs apps ? Voyez notre [comparatif des meilleures apps de wi
 
  Questions fréquentes
 Existe-t-il une alternative à Lovebox sans boîtier ?
-Oui. Twoodle est une app iPhone (iOS 18 ou version ultérieure) qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, sans appareil à acheter. Si vous voulez un objet physique, ou si votre partenaire est sur Android, Lovebox reste le meilleur choix.
+Oui. Twoodle est une app (iPhone avec iOS 18 ou version ultérieure, et Android) qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, sans appareil à acheter. Si vous voulez un objet physique, Lovebox reste le meilleur choix.
 Twoodle fonctionne-t-il sur Android ?
-Non. Twoodle est réservé à l'iPhone, sous iOS 18 ou version ultérieure, et n'a pas d'app Android pour le moment. Lovebox propose une app pour iOS et Android.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone. Lovebox propose aussi une app pour iOS et Android.
 Combien coûte Twoodle comparé à Lovebox ?
-Le téléchargement de Twoodle est gratuit ; Twoodle Pro active l'appairage pour 3,99 $ US par semaine avec 3 jours d'essai gratuit, ou 49,99 $ US par an, un seul abonnement pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Lovebox est un appareil acheté séparément, avec une app gratuite et des achats intégrés facultatifs.
+Le téléchargement de Twoodle est gratuit ; Twoodle Pro active l'appairage pour 3,99 $ US par semaine avec 3 jours d'essai gratuit, ou 39,99 $ US par an, un seul abonnement pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Lovebox est un appareil acheté séparément, avec une app gratuite et des achats intégrés facultatifs.
 
 De la chaleur à distance, sans carton d'expédition
 Dessins, mots, humeurs et jours ensemble dans une app iPhone pour deux.

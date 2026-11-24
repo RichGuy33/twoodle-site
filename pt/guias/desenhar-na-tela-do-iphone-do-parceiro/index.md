@@ -9,7 +9,7 @@ publisher: Taking Flight, Inc.
 
 Pela equipe do Twoodle · novembro de 2026
 
-> **Transparência:** nós fazemos o Twoodle, um dos apps que fazem isso, então os passos abaixo usam o Twoodle. Ele é só para iPhone e exige iOS 18 ou superior.
+> **Transparência:** nós fazemos o Twoodle, um dos apps que fazem isso, então os passos abaixo usam o Twoodle. O app para iPhone exige iOS 18 ou superior, e o Twoodle também chegou ao Android em novembro de 2026.
 
 Imagine: você está no trabalho, o seu amor está do outro lado da cidade, e você quer dizer “oi, eu gosto de você” sem mandar mais um “pensando em você” que parece notificação de banco.
 
@@ -27,11 +27,11 @@ O iOS não deixa uma pessoa desenhar no celular de outra. A Apple não vai dar e
 
 O que *funciona* é um app que sincroniza o seu desenho com um **widget** no iPhone do seu parceiro. Vocês dois instalam o mesmo app, fazem o pareamento, e tudo o que você mandar aparece na tela dele ou dela.
 
-Transparência: nós fazemos o Twoodle, um dos apps que fazem isso, então os passos abaixo usam o Twoodle. Ele é só para iPhone e exige iOS 18 ou superior.
+Transparência: nós fazemos o Twoodle, um dos apps que fazem isso, então os passos abaixo usam o Twoodle. O app para iPhone exige iOS 18 ou superior, e o Twoodle também chegou ao Android em novembro de 2026.
 
 ## O que você precisa
 
-- Dois iPhones com iOS 18 ou superior
+- iPhones com iOS 18 ou superior (se um de vocês usa Android, confiram nas páginas das lojas se o pareamento entre um iPhone e um Android é compatível)
 - O mesmo app nos dois
 - Um jeito de parear. No Twoodle, um de vocês cria o par e o outro digita o código de convite.
 
@@ -90,8 +90,8 @@ Essa é a parte que confunde muita gente. Os desenhos vão para a Tela de Iníci
 ## O que vale saber antes de se apegar
 
 - **Não é instantâneo.** O iOS decide quando um widget é atualizado, então pode haver um pequeno atraso depois que seu parceiro envia algo. Não é um bug, é só o iPhone sendo iPhone.
-- **Por enquanto é só para iPhone.** Se o seu parceiro usa Android, ainda não vai funcionar para vocês. Sentimos muito. A gente também sente.
-- **O pareamento exige o Twoodle Pro.** São US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 49,99 por ano, valendo para os dois (preços da App Store dos EUA; no seu país podem variar).
+- **Este guia descreve o app para iPhone.** O Twoodle chegou ao Android em novembro de 2026; se o seu parceiro usa Android, confiram nas páginas das lojas se o pareamento entre um iPhone e um Android é compatível antes de os dois pagarem.
+- **O pareamento exige o Twoodle Pro.** São US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 39,99 por ano, valendo para os dois (preços da App Store dos EUA; no seu país podem variar).
 
 ## Outros apps que fazem algo parecido
 
@@ -117,7 +117,7 @@ Sim. No Twoodle você faz o pareamento com um parceiro usando um código de conv
 
 ### Funciona no Android?
 
-O Twoodle é só para iPhone por enquanto e exige iOS 18 ou superior.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 ### Por que o widget não atualiza na hora?
 

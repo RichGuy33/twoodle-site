@@ -67,7 +67,7 @@ Bleibt die Lücke bestehen, geht es vielleicht um ein größeres Thema als die H
 
 ## Wo Twoodle passt (und wo nicht)
 
-Wir machen Twoodle, eine iPhone-App, die Zeichnungen auf das Home-Bildschirm-Widget deines Partners schickt, mit Sperrbildschirm-Widgets für Liebesnotizen und gemeinsame Tage. Sie ist fürs tägliche Lebenszeichen gedacht, nicht fürs lange Telefonat. Sie ersetzt das Reden nicht, und du brauchst sie für nichts davon: Eine Textnachricht tut es auch. Twoodle gibt es nur für das iPhone (iOS 18 oder neuer) und der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 US-Dollar pro Woche (3 Tage Testzeit) oder 49,99 US-Dollar pro Jahr, ein Abo für euch beide. Das sind Preise aus dem US-App-Store, sie können in deinem Land abweichen; den aktuellen Preis siehst du im App Store.
+Wir machen Twoodle, eine iPhone-App, die Zeichnungen auf das Home-Bildschirm-Widget deines Partners schickt, mit Sperrbildschirm-Widgets für Liebesnotizen und gemeinsame Tage. Sie ist fürs tägliche Lebenszeichen gedacht, nicht fürs lange Telefonat. Sie ersetzt das Reden nicht, und du brauchst sie für nichts davon: Eine Textnachricht tut es auch. Twoodle gibt es für das iPhone (iOS 18 oder neuer) und seit November 2026 auch für Android, und der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 US-Dollar pro Woche (3 Tage Testzeit) oder 39,99 US-Dollar pro Jahr, ein Abo für euch beide. Das sind Preise aus dem US-App-Store, sie können in deinem Land abweichen; den aktuellen Preis siehst du im App Store.
 
 Und für Gesprächsstoff, wenn ihr telefoniert, gibt es [30 Fragen für die Fernbeziehung](https://twoodle.app/de/ratgeber/fragen-fernbeziehung/).
 
@@ -87,7 +87,7 @@ Sprecht es ohne Schuldzuweisung an und sucht die Mitte: mehr kleine Zeichen von 
 
 ### Funktioniert Twoodle auf Android?
 
-Nein. Twoodle gibt es nur für das iPhone, ab iOS 18.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 > **Jeden Tag ein kleines Hallo** Zeichnungen, Notizen, Stimmungen und wichtige Termine in einer iPhone-App für zwei. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

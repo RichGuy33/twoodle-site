@@ -46,8 +46,8 @@ Ein ehrliches Detail: Zeichnungen landen im Home-Bildschirm-Widget, nicht auf de
 | Gemeinsames Tagebuch | Ja (Fotos) | Kein Tagebuch; eine Galerie eurer Zeichnungen |
 | Zeichnen | Laut Versionshinweisen in Stories und Spielen erwähnt | Kernfunktion: zeichnen und senden oder live zusammen zeichnen |
 | Widgets | Ja | Zeichen-Widget auf dem Home-Bildschirm; Liebesnotiz und Gemeinsame Tage auf dem Sperrbildschirm |
-| Plattformen | iPhone (laut Eintrag iOS 16.4 oder neuer) | Nur iPhone, iOS 18 oder neuer |
-| Preis | Kostenlos mit In-App-Käufen (Premium-Stufen; Details im Eintrag für deine Region) | Kostenloser Download; Pro kostet 3,99 $ pro Woche mit 3 Tagen Testphase oder 49,99 $ pro Jahr, für beide Partner |
+| Plattformen | iPhone (laut Eintrag iOS 16.4 oder neuer) | iPhone (iOS 18 oder neuer) und Android (seit November 2026) |
+| Preis | Kostenlos mit In-App-Käufen (Premium-Stufen; Details im Eintrag für deine Region) | Kostenloser Download; Pro kostet 3,99 $ pro Woche mit 3 Tagen Testphase oder 39,99 $ pro Jahr, für beide Partner |
 
 Die Twoodle-Preise sind US-App-Store-Preise und können in deinem Land abweichen. In welchen Sprachen die App verfügbar ist, siehst du im App Store.
 
@@ -81,11 +81,11 @@ Nein. Twoodle konzentriert sich auf Zeichnungen, Notizen, Stimmungen und Widgets
 
 ### Gibt es Twoodle für Android?
 
-Nein. Twoodle gibt es nur fürs iPhone, und es braucht iOS 18 oder neuer.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 ### Was kostet Twoodle?
 
-Der Download ist kostenlos. Twoodle Pro schaltet das Koppeln frei: 3,99 $ pro Woche mit 3 Tagen kostenloser Testphase oder 49,99 $ pro Jahr, und ein Abo gilt für beide Partner. Das sind US-App-Store-Preise, die in deinem Land abweichen können.
+Der Download ist kostenlos. Twoodle Pro schaltet das Koppeln frei: 3,99 $ pro Woche mit 3 Tagen kostenloser Testphase oder 39,99 $ pro Jahr, und ein Abo gilt für beide Partner. Das sind US-App-Store-Preise, die in deinem Land abweichen können.
 
 > **Probier die leichtere Variante** Zeichne etwas Furchtbares. Sie oder er wird es trotzdem lieben. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

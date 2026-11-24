@@ -40,15 +40,15 @@ Du kannst außerdem kurze Notizen auf seinen oder ihren Sperrbildschirm oder Hom
 | Was du brauchst | Das Lovebox-Gerät plus die App | Zwei iPhones mit der App |
 | Wie Nachrichten ankommen | Auf dem Bildschirm der Box, mit sich drehendem Herz | In einem Widget auf dem Home-Bildschirm oder Sperrbildschirm |
 | Was du schicken kannst | Text, Fotos, Zeichnungen, Sticker | Zeichnungen, Fotos auf einer Zeichenfläche, Notizen, Stimmungen, Anstupser |
-| Plattformen | App für iOS und Android | Nur iPhone, ab iOS 18 |
-| Kosten | Gerät separat zu kaufen; die App ist kostenlos mit optionalen In-App-Käufen | Kostenloser Download; Twoodle Pro schaltet das Koppeln frei, 3,99 US-Dollar pro Woche mit 3 Tagen kostenloser Testzeit oder 49,99 US-Dollar pro Jahr, ein Abo für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen) |
+| Plattformen | App für iOS und Android | iPhone (ab iOS 18) und Android (seit November 2026) |
+| Kosten | Gerät separat zu kaufen; die App ist kostenlos mit optionalen In-App-Käufen | Kostenloser Download; Twoodle Pro schaltet das Koppeln frei, 3,99 US-Dollar pro Woche mit 3 Tagen kostenloser Testzeit oder 39,99 US-Dollar pro Jahr, ein Abo für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen) |
 
 ## Wann Lovebox die bessere Wahl ist
 
 Wir sagen es lieber selbst, damit du nicht danach suchen musst:
 
 - **Du willst einen echten Gegenstand.** Eine Box auf dem Schreibtisch oder Nachttisch, oder ein Geschenk zum Auspacken, bedeutet etwas. Ein Widget ist, nun ja, ein Widget.
-- **Dein Partner nutzt Android.** Twoodle hat derzeit keine Android-App. Lovebox schon.
+- **Dein Partner nutzt Android.** Twoodle gibt es seit November 2026 auch für Android; bevor ihr beide zahlt, prüft in den Store-Einträgen, ob das Koppeln zwischen iPhone und Android unterstützt wird. Bei Lovebox gibt es die App schon länger für iOS und Android.
 - **Du magst das Ritual.** Einen Deckel zu öffnen, um eine Notiz zu lesen, ist ein schönerer Moment, als aufs Handy zu schauen. Dagegen kommen wir nicht an.
 
 ## Wann Twoodle die bessere Wahl ist
@@ -73,7 +73,7 @@ Ja. Twoodle ist eine iPhone-App, die Zeichnungen an das Home-Bildschirm-Widget d
 
 ### Funktioniert Twoodle auch auf Android?
 
-Nein. Twoodle gibt es nur für das iPhone, ab iOS 18. Wenn dein Partner Android nutzt, ist Lovebox die bessere Wahl, denn deren App gibt es für iOS und Android.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können. Wenn dein Partner Android nutzt, prüft in den Store-Einträgen, ob das Koppeln zwischen iPhone und Android bei Twoodle unterstützt wird; die Lovebox-App gibt es für iOS und Android.
 
 ### Wann ist Lovebox besser als Twoodle?
 

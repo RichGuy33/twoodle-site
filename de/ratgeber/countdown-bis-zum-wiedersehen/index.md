@@ -47,11 +47,11 @@ Ein guter Countdown endet in etwas Konkretem. Schreibt drei Dinge auf: das eine,
 
 - **Es gibt noch kein Datum.** Wenn ihr nicht wisst, wann ihr euch seht, kann ein Countdown wehtun. Nehmt stattdessen einen Zähler für die gemeinsamen Tage, oder setzt euch ein Datum, um das Datum festzulegen.
 - **Einer von euch findet es stressig.** Manche zählen lieber in Wochen als in Tagen. Fragt euch, was sich freundlicher anfühlt.
-- **Du nutzt Android.** Twoodle gibt es nur für das iPhone, ab iOS 18. Jede normale Countdown-App erledigt den Job.
+- **Du nutzt Android.** Twoodle gibt es seit November 2026 auch für Android; schau im Google-Play-Eintrag, was die Android-App kann. Wenn du nur einen Countdown willst, erledigt ihn auch jede normale Countdown-App.
 
 ## Brauchst du dafür Twoodle?
 
-Nein. Eine Kalender-Erinnerung erledigt den Kern kostenlos. Wir haben die wichtigen Termine und Widgets in Twoodle gebaut, damit der Countdown neben den Zeichnungen, Stimmungen und Notizen steht, die ihr ohnehin schickt. Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 US-Dollar pro Woche (3 Tage Testzeit) oder 49,99 US-Dollar pro Jahr, ein Abo für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf die aktuellen Preise im App Store.
+Nein. Eine Kalender-Erinnerung erledigt den Kern kostenlos. Wir haben die wichtigen Termine und Widgets in Twoodle gebaut, damit der Countdown neben den Zeichnungen, Stimmungen und Notizen steht, die ihr ohnehin schickt. Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 US-Dollar pro Woche (3 Tage Testzeit) oder 39,99 US-Dollar pro Jahr, ein Abo für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf die aktuellen Preise im App Store.
 
 Mehr drumherum findest du in [wie ihr in der Fernbeziehung verbunden bleibt](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (auf Englisch) und im Ratgeber zum [Umgang mit Zeitzonen](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch).
 
@@ -71,7 +71,7 @@ Such dir ein kleines Ritual aus: eine tägliche Zeichnung, eine Frage pro Abend 
 
 ### Gibt es Twoodle für Android?
 
-Nein. Twoodle gibt es nur für das iPhone, ab iOS 18.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 > **Macht das Warten zum Teil der Beziehung** Zeichnungen, Notizen, Stimmungen und wichtige Termine in einer iPhone-App für zwei. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

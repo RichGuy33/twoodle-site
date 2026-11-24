@@ -51,8 +51,8 @@ Sobre privacidad: sin anuncios, sin vender tus datos, sin rastreo entre apps. La
 | Mascotas y plantas | Sí | No |
 | Widget de distancia | Sí | Sí, opcional |
 | Anuncios | La ficha menciona publicidad | Ninguno |
-| Plataformas | Solo iPhone, iOS 16.0 o posterior | Solo iPhone, iOS 18 o posterior |
-| Precio | Gratis con compras dentro de la app y Premium; mira la ficha | Descarga gratuita; Pro cuesta 3,99 USD por semana con 3 días de prueba o 49,99 USD al año, para los dos |
+| Plataformas | Solo iPhone, iOS 16.0 o posterior | iPhone (iOS 18 o posterior) y Android |
+| Precio | Gratis con compras dentro de la app y Premium; mira la ficha | Descarga gratuita; Pro cuesta 3,99 USD por semana con 3 días de prueba o 39,99 USD al año, para los dos |
 
 Los precios de Twoodle son de la App Store de EE. UU. y pueden variar en tu país. Revisa en la App Store los idiomas en los que está disponible la app.
 
@@ -61,7 +61,7 @@ Los precios de Twoodle son de la App Store de EE. UU. y pueden variar en tu paí
 - **Quieres mascotas, plantas y mucha personalización.** Twoodle no tiene nada de eso.
 - **Quieres compartir también con amigos,** no solo con tu pareja.
 - **Uno de los dos tiene un iPhone más antiguo.** Widgetable indica iOS 16.0 como mínimo; Twoodle necesita iOS 18.
-- **Prefieres un precio anual más bajo** que los 49,99 USD de Twoodle y no te importan los extras dentro de la app. Compara los precios actuales en ambas fichas.
+- **Prefieres un precio anual más bajo** que los 39,99 USD de Twoodle y no te importan los extras dentro de la app. Compara los precios actuales en ambas fichas.
 
 ## Cuándo es mejor Twoodle
 
@@ -77,7 +77,7 @@ Los precios de Twoodle son de la App Store de EE. UU. y pueden variar en tu paí
 
 ### ¿Twoodle está disponible en Android?
 
-No. Twoodle es solo para iPhone.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 ### ¿Twoodle tiene mascotas o plantas?
 
@@ -85,7 +85,7 @@ No. Va de garabatos, notas, estados de ánimo, distancia y vuestros días juntos
 
 ### ¿Cuánto cuesta Twoodle?
 
-Es gratis de descargar. Twoodle Pro desbloquea el emparejamiento: 3,99 USD por semana con 3 días de prueba, o 49,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; mira la ficha para ver los actuales.
+Es gratis de descargar. Twoodle Pro desbloquea el emparejamiento: 3,99 USD por semana con 3 días de prueba, o 39,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; mira la ficha para ver los actuales.
 
 > **Prueba la versión sin mascotas** Dibuja algo horrible. Les va a encantar igual. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

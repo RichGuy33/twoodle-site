@@ -50,7 +50,7 @@ On the nights when missing them hits harder than usual, see our guide to [what h
 
 We make Twoodle, an iPhone app for couples that sends doodles to your partner's Home Screen widget. For a goodnight ritual that means you draw something small and your partner sees it on their Home Screen the next time they look at their phone, with no app to open and no pressure to answer. You can pair it with a Love Note widget for a short message, and the Days Together widget keeps your count on the Lock Screen.
 
-Honest limits: doodles appear on the Home Screen widget, not the Lock Screen, and Twoodle is iPhone only (iOS 18 or later). It's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $49.99 per year, covering both partners. These are US App Store prices and may vary in your country, so check the App Store. Every ritual above works without the app too: a voice note and a shared last line are free in any messaging app.
+Honest limits: doodles appear on the Home Screen widget, not the Lock Screen, and Twoodle is available for iPhone (iOS 18 or later) and Android. It's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $39.99 per year, covering both partners. These are US App Store prices and may vary in your country, so check the App Store. Every ritual above works without the app too: a voice note and a shared last line are free in any messaging app.
 
 ## FAQ
 
@@ -68,7 +68,7 @@ No. Sleeping on a call works for some couples, but it can cost sleep quality and
 
 ### Does Twoodle work on Android?
 
-No. Twoodle is iPhone only, on iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 > **End the day with a tiny drawing** Doodles, notes and moods in one iPhone app for two. Free to download. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

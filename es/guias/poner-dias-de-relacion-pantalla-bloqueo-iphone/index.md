@@ -49,7 +49,7 @@ Es una pieza de un conjunto mayor: la misma app tiene un widget de Nota de amor 
 ## Cuándo es mejor un contador más simple
 
 - **Solo quieres un número.** Una app de contador de una sola función es más ligera y puede costar menos.
-- **Usas Android.** Twoodle es solo para iPhone, iOS 18 o posterior.
+- **Usas Android.** Esta guía describe los widgets de pantalla de bloqueo de la app para iPhone (iOS 18 o posterior). Twoodle llegó a Android en noviembre de 2026; consulta la ficha de Google Play para ver qué ofrece allí.
 - **No quieres emparejarte con nadie.** El emparejamiento es el objetivo de Twoodle. Si montas un contador privado para ti, encaja mejor una app independiente.
 
 ## Hitos que merecen un garabato
@@ -79,7 +79,7 @@ Sí. El widget Días juntos va en la pantalla de bloqueo y cuenta vuestros días
 
 ### ¿Hay versión para Android?
 
-No. Twoodle es solo para iPhone, iOS 18 o posterior.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 ### ¿Cuántos días son 1000 días juntos?
 

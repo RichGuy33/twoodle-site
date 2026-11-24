@@ -47,11 +47,11 @@ Uma boa contagem termina em algo concreto. Anote três coisas: o que cada um mai
 
 - **Ainda sem data.** Se vocês não sabem quando vão se ver, uma contagem regressiva pode machucar. Use uma contagem de dias juntos ou marquem uma data para decidir a data.
 - **Um dos dois acha estressante.** Tem gente que conta melhor em semanas do que em dias. Perguntem qual jeito é mais gentil.
-- **Você usa Android.** O Twoodle é só para iPhone, iOS 18 ou superior. Qualquer app de contagem genérico resolve.
+- **Você usa Android.** O Twoodle chegou ao Android em novembro de 2026, mas este guia descreve o app para iPhone (iOS 18 ou superior); confira a página do Google Play para ver o que há no Android. Qualquer app de contagem genérico também resolve.
 
 ## Você precisa do Twoodle para isso?
 
-Não. Um alerta no Calendário faz o essencial de graça. Criamos as datas importantes e os widgets do Twoodle para a contagem ficar ao lado dos desenhos, humores e recados que vocês já trocam. O download do Twoodle é gratuito; o Twoodle Pro libera o pareamento, por US$ 3,99 por semana (3 dias de teste) ou US$ 49,99 por ano, com uma assinatura valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira os valores atuais na App Store.
+Não. Um alerta no Calendário faz o essencial de graça. Criamos as datas importantes e os widgets do Twoodle para a contagem ficar ao lado dos desenhos, humores e recados que vocês já trocam. O download do Twoodle é gratuito; o Twoodle Pro libera o pareamento, por US$ 3,99 por semana (3 dias de teste) ou US$ 39,99 por ano, com uma assinatura valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira os valores atuais na App Store.
 
 Para ver o quadro geral, leia [como manter a conexão num relacionamento à distância](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (em inglês) e [como lidar com fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês).
 
@@ -71,7 +71,7 @@ Escolha um pequeno ritual: um desenho por dia, uma pergunta por noite ou um enco
 
 ### O Twoodle funciona no Android?
 
-Não. O Twoodle é só para iPhone, com iOS 18 ou superior.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 > **Faça da espera parte do relacionamento** Desenhos, recados, humores e datas importantes num único app de iPhone para dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

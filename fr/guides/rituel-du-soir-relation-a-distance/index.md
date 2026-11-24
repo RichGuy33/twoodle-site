@@ -50,7 +50,7 @@ Les soirs où le manque frappe plus fort que d'habitude, lisez notre guide sur [
 
 Nous faisons Twoodle, une app iPhone pour couples qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire. Pour un rituel du soir, cela veut dire que vous dessinez un petit quelque chose et que votre partenaire le voit sur son écran d'accueil la prochaine fois qu'il regarde son téléphone, sans ouvrir d'app et sans pression pour répondre. Vous pouvez y associer le widget Mot doux pour un court message, et le widget Jours ensemble garde votre compteur sur l'écran verrouillé.
 
-Limites, en toute franchise : les dessins apparaissent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé, et Twoodle est réservé à l'iPhone (iOS 18 ou version ultérieure). Le téléchargement est gratuit ; Twoodle Pro débloque le couplage à 3,99 $ US par semaine (essai de 3 jours) ou 49,99 $ US par an, pour vous deux. Ce sont les prix de l'App Store américain, ils peuvent varier dans votre pays : vérifiez sur l'App Store. Tous les rituels ci-dessus fonctionnent aussi sans l'app : un vocal et une dernière phrase partagée sont gratuits dans n'importe quelle messagerie.
+Limites, en toute franchise : les dessins apparaissent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé, et Twoodle est disponible sur iPhone (iOS 18 ou version ultérieure) et sur Android. Le téléchargement est gratuit ; Twoodle Pro débloque le couplage à 3,99 $ US par semaine (essai de 3 jours) ou 39,99 $ US par an, pour vous deux. Ce sont les prix de l'App Store américain, ils peuvent varier dans votre pays : vérifiez sur l'App Store. Tous les rituels ci-dessus fonctionnent aussi sans l'app : un vocal et une dernière phrase partagée sont gratuits dans n'importe quelle messagerie.
 
 ## Questions fréquentes
 
@@ -68,7 +68,7 @@ Non. S'endormir en appel convient à certains couples, mais cela peut nuire à l
 
 ### Twoodle fonctionne-t-il sur Android ?
 
-Non. Twoodle est réservé à l'iPhone, sous iOS 18 ou version ultérieure.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 > **Finissez la journée par un petit dessin** Dessins, mots doux et humeurs dans une seule app iPhone pour deux. Téléchargement gratuit. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

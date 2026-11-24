@@ -82,7 +82,7 @@ Some days a drawing is the right move. Other days you have words. In Twoodle you
 
 ## What to know before you start
 
-Twoodle is for iPhone only (iOS 18 or later). It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, and one subscription covers both of you. There's no Android app. If you want to see the whole setup, read [how drawing on your partner's widgets works](https://twoodle.app/guides/draw-on-partners-lock-screen/). And if you're long-distance, our [long-distance app kit](https://twoodle.app/guides/best-long-distance-relationship-apps/) pairs well with a daily doodle.
+Twoodle is available for iPhone (iOS 18 or later) and Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, and one subscription covers both of you. If you want to see the whole setup, read [how drawing on your partner's widgets works](https://twoodle.app/guides/draw-on-partners-lock-screen/). And if you're long-distance, our [long-distance app kit](https://twoodle.app/guides/best-long-distance-relationship-apps/) pairs well with a daily doodle.
 
 Prefer words? Try [30 short love notes for your partner](https://twoodle.app/guides/short-love-notes-for-your-partner/).
 

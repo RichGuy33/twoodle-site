@@ -51,15 +51,15 @@ On privacy: no ads, no selling your data, no cross-app tracking. Location is use
 | Pets and plants | Yes | No |
 | Distance widget | Yes | Yes, optional |
 | Ads | Listing mentions advertising | None |
-| Platforms | iPhone only, iOS 16.0 or later | iPhone only, iOS 18 or later |
-| Price | Free with in-app purchases and Premium; see listing | Free to download; Pro is $3.99/week with a 3-day trial or $49.99/year, for both partners |
+| Platforms | iPhone only, iOS 16.0 or later | iPhone (iOS 18 or later) and Android |
+| Price | Free with in-app purchases and Premium; see listing | Free to download; Pro is $3.99/week with a 3-day trial or $39.99/year, for both partners |
 
 ## When Widgetable is the better pick
 
 - **You want pets, plants and lots of cosmetic choice.** Twoodle has none of that.
 - **You want to share with friends too,** not just a partner.
 - **One of you has an older iPhone.** Widgetable lists iOS 16.0 as the minimum; Twoodle needs iOS 18.
-- **You'd like a cheaper annual price** than Twoodle's $49.99 and don't mind the in-app extras. Compare current prices on both listings.
+- **You'd like a cheaper annual price** than Twoodle's $39.99 and don't mind the in-app extras. Compare current prices on both listings.
 
 ## When Twoodle is the better pick
 
@@ -71,7 +71,7 @@ On privacy: no ads, no selling your data, no cross-app tracking. Location is use
 
 ### Is Twoodle available on Android?
 
-No. Twoodle is iPhone only.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 ### Does Twoodle have pets or plants?
 
@@ -79,7 +79,7 @@ No. It's about doodles, notes, moods, distance and your days together.
 
 ### How much does Twoodle cost?
 
-Free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day trial, or $49.99 per year, covering both partners. Check the App Store page for current prices.
+Free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day trial, or $39.99 per year, covering both partners. Check the App Store page for current prices.
 
 Comparing more than two apps? See our [roundup of the best couples widget apps for iPhone](https://twoodle.app/guides/best-apps-for-couples-widgets/). If you're weighing another all-in-one app, read our [Couple Joy alternative guide](https://twoodle.app/guides/couple-joy-alternative/), or the [noteit and LokLok alternatives](https://twoodle.app/guides/noteit-loklok-alternative/).
 

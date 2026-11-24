@@ -40,8 +40,8 @@ También puedes mandar notas cortas a su pantalla de bloqueo o de inicio, compar
 | Qué necesitas | El aparato Lovebox y la app | Dos iPhone con la app |
 | Cómo llegan los mensajes | En la pantalla de la caja, con un corazón que gira | En un widget de la pantalla de inicio o de bloqueo |
 | Qué puedes enviar | Texto, fotos, dibujos, pegatinas | Garabatos, fotos en un lienzo, notas, estados de ánimo, toques |
-| Plataformas | App para iOS y Android | Solo iPhone, iOS 18 o posterior |
-| Coste | El aparato se compra aparte; la app es gratuita con compras opcionales dentro de la app | Descarga gratuita; Twoodle Pro habilita el emparejamiento, 3,99 USD por semana con 3 días de prueba gratis o 49,99 USD al año, una suscripción para los dos |
+| Plataformas | App para iOS y Android | iPhone (iOS 18 o posterior) y Android |
+| Coste | El aparato se compra aparte; la app es gratuita con compras opcionales dentro de la app | Descarga gratuita; Twoodle Pro habilita el emparejamiento, 3,99 USD por semana con 3 días de prueba gratis o 39,99 USD al año, una suscripción para los dos |
 
 Los precios de Twoodle son de la App Store de EE. UU. y pueden variar en tu país. Revisa en la App Store los idiomas en los que está disponible la app.
 
@@ -50,7 +50,7 @@ Los precios de Twoodle son de la App Store de EE. UU. y pueden variar en tu paí
 Lo decimos nosotros para que no tengas que ir a buscarlo:
 
 - **Quieres un objeto de verdad.** Una caja en el escritorio o la mesilla, o un regalo que desenvolver, se siente como algo. Un widget es, bueno, un widget.
-- **Tu pareja usa Android.** Twoodle no tiene app para Android ahora mismo. Lovebox sí.
+- **Tu pareja usa Android.** Twoodle llegó a Android en noviembre de 2026, pero antes de que los dos paguéis, comprobad en las fichas de las tiendas que el emparejamiento entre un iPhone y un Android esté soportado. Lovebox tiene app para iOS y Android.
 - **Te gusta el ritual.** Abrir una tapa para leer una nota es un momento más bonito que echar un vistazo al móvil. Ahí no podemos llevarte la contraria.
 
 ## Cuándo es mejor Twoodle
@@ -71,15 +71,15 @@ Lo decimos nosotros para que no tengas que ir a buscarlo:
 
 ### ¿Hay una alternativa a Lovebox sin aparato?
 
-Sí. Twoodle es una app solo para iPhone (iOS 18 o posterior) que envía garabatos al widget de la pantalla de inicio de tu pareja, con widgets de pantalla de bloqueo para notas de amor y días juntos. No hay que comprar ni enviar ninguna caja.
+Sí. La app de Twoodle para iPhone (iOS 18 o posterior; también hay versión para Android desde noviembre de 2026) envía garabatos al widget de la pantalla de inicio de tu pareja, con widgets de pantalla de bloqueo para notas de amor y días juntos. No hay que comprar ni enviar ninguna caja.
 
 ### ¿Cuándo es mejor Lovebox que Twoodle?
 
-Si quieres un objeto físico, si tu pareja usa Android (Twoodle no tiene app para Android) o si te gusta el ritual de abrir la tapa para leer una nota.
+Si quieres un objeto físico, si tu pareja usa Android y no estáis seguros de que el emparejamiento entre un iPhone y un Android esté soportado en Twoodle (compruébalo en las fichas de las tiendas) o si te gusta el ritual de abrir la tapa para leer una nota.
 
 ### ¿Cuánto cuesta Twoodle?
 
-Se descarga gratis. Twoodle Pro habilita el emparejamiento: 3,99 USD por semana con 3 días de prueba, o 49,99 USD al año, con una suscripción que cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país.
+Se descarga gratis. Twoodle Pro habilita el emparejamiento: 3,99 USD por semana con 3 días de prueba, o 39,99 USD al año, con una suscripción que cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país.
 
 ### ¿Los garabatos de Twoodle llegan a la pantalla de bloqueo?
 

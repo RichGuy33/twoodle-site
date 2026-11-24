@@ -40,15 +40,15 @@ Você também pode enviar recados curtos para a Tela de Bloqueio ou a Tela de In
 | O que você precisa | O aparelho Lovebox e o app | Dois iPhones com o app |
 | Como as mensagens chegam | Na tela da caixa, com um coração que gira | Num widget da Tela de Início ou da Tela de Bloqueio |
 | O que dá para enviar | Texto, fotos, desenhos, figurinhas | Desenhos, fotos numa tela de desenho, recados, humores, cutucadas |
-| Plataformas | App para iOS e Android | Só iPhone, iOS 18 ou superior |
-| Custo | Aparelho comprado à parte; o app é gratuito com compras opcionais dentro do app | Download gratuito; o Twoodle Pro libera o pareamento, US$ 3,99 por semana com 3 dias de teste grátis ou US$ 49,99 por ano, uma assinatura para os dois (preços da App Store dos EUA; no seu país podem variar) |
+| Plataformas | App para iOS e Android | iPhone (iOS 18 ou superior) e Android |
+| Custo | Aparelho comprado à parte; o app é gratuito com compras opcionais dentro do app | Download gratuito; o Twoodle Pro libera o pareamento, US$ 3,99 por semana com 3 dias de teste grátis ou US$ 39,99 por ano, uma assinatura para os dois (preços da App Store dos EUA; no seu país podem variar) |
 
 ## Quando o Lovebox é a melhor escolha
 
 Vamos dizer logo, para você não precisar procurar:
 
 - **Você quer um objeto de verdade.** Uma caixa na mesa ou na cabeceira, ou um presente para desembrulhar, tem presença. Um widget é, bom, um widget.
-- **Seu parceiro usa Android.** O Twoodle não tem app para Android no momento. O Lovebox tem.
+- **Seu parceiro usa Android.** O Twoodle chegou ao Android em novembro de 2026, mas antes de os dois pagarem, confiram nas páginas das lojas se o pareamento entre um iPhone e um Android é compatível. O Lovebox tem app para iOS e Android há mais tempo.
 - **Você gosta do ritual.** Abrir uma tampa para ler um recado é um momento mais bonito do que olhar o celular. Não dá para discordar.
 
 ## Quando o Twoodle é a melhor escolha
@@ -69,15 +69,15 @@ Comparando mais de um app? Veja nossa [comparação dos melhores apps de widgets
 
 ### Existe alternativa ao Lovebox sem aparelho?
 
-Sim. Um app de casal com widget, como o Twoodle, envia desenhos e recados para a Tela de Início ou a Tela de Bloqueio do iPhone do seu parceiro, sem caixa para comprar ou receber. O Twoodle é só para iPhone, com iOS 18 ou superior.
+Sim. Um app de casal com widget, como o Twoodle, envia desenhos e recados para a Tela de Início ou a Tela de Bloqueio do iPhone do seu parceiro, sem caixa para comprar ou receber. O Twoodle está disponível para iPhone (iOS 18 ou superior) e Android.
 
 ### O Twoodle funciona no Android?
 
-Não. O Twoodle é só para iPhone, com iOS 18 ou superior. Se o seu parceiro usa Android, o Lovebox, que tem app para iOS e Android, é a melhor opção.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone. Se o seu parceiro usa Android, confiram antes, nas páginas das lojas, se o pareamento entre um iPhone e um Android é compatível; se não for, o Lovebox, que tem app para iOS e Android, é uma boa opção.
 
 ### Quanto custa o Twoodle?
 
-O download é gratuito. O Twoodle Pro libera o pareamento por US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 49,99 por ano, com uma assinatura valendo para os dois (preços da App Store dos EUA; no seu país podem variar).
+O download é gratuito. O Twoodle Pro libera o pareamento por US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 39,99 por ano, com uma assinatura valendo para os dois (preços da App Store dos EUA; no seu país podem variar).
 
 > **Experimente a versão sem caixa** Download gratuito. Uma assinatura do Twoodle Pro cobre os dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

@@ -26,7 +26,7 @@ Então vamos à resposta curta. Se você quer um contador, escolha um app de con
 | CoupleLink | Diário, calendário, humor e um bichinho compartilhado | Tela de Início | Grátis com teste de 7 dias; Premium a partir de US$ 2,99/mês |
 | Loveya | Seis tipos de widget na Tela de Início e na Tela de Bloqueio | Tela de Início e de Bloqueio | Grátis; Premium US$ 9,99/mês ou US$ 29,99/ano |
 | iFeely | Humor, distância e disputas de passos | Tela de Início e de Bloqueio | Grátis; Premium US$ 4,99/mês ou US$ 39,99/ano |
-| Twoodle | Rabiscos no widget da Tela de Início do parceiro | Rabiscos na Tela de Início; notas e contadores na Tela de Bloqueio | Grátis; Pro US$ 3,99/semana (teste de 3 dias) ou US$ 49,99/ano |
+| Twoodle | Rabiscos no widget da Tela de Início do parceiro | Rabiscos na Tela de Início; notas e contadores na Tela de Bloqueio | Grátis; Pro US$ 3,99/semana (teste de 3 dias) ou US$ 39,99/ano |
 
 São preços da App Store dos EUA e podem variar no seu país.
 
@@ -64,7 +64,7 @@ O iFeely foca em widgets de humor e de distância em tempo real na Tela de Iníc
 
 O Twoodle é um app de iPhone para casais que envia rabiscos para o widget da Tela de Início do parceiro. Você desenha numa tela em branco ou em cima de uma foto, toca em enviar, e aparece no widget dele. Os widgets da Tela de Bloqueio levam bilhetes de amor e os dias de vocês juntos, e dentro do app há uma tela de "desenhar juntos" ao vivo. Também tem humores, bolhas de distância, cutucadas, uma galeria e datas importantes.
 
-**Bom em:** ter o desenho como atração principal. Os rabiscos vão só para o widget da Tela de Início, não para a Tela de Bloqueio. Não precisa de cadastro, não mostramos anúncios, não vendemos dados e não rastreamos você entre apps. Uma assinatura Twoodle Pro cobre os dois. **Nem tão bom em:** é só para iPhone (iOS 18 ou superior), a US$ 49,99 por ano o Pro custa mais que vários apps daqui, e se você só quer um contador de dias, é mais do que precisa.
+**Bom em:** ter o desenho como atração principal. Os rabiscos vão só para o widget da Tela de Início, não para a Tela de Bloqueio. Não precisa de cadastro, não mostramos anúncios, não vendemos dados e não rastreamos você entre apps. Uma assinatura Twoodle Pro cobre os dois. **Nem tão bom em:** o app para iPhone exige iOS 18 ou superior (há também versão para Android), a US$ 39,99 por ano o Pro custa mais que vários apps daqui, e se você só quer um contador de dias, é mais do que precisa.
 
 Montando uma estrutura inteira para a distância, e não só um widget? Veja nosso guia dos [melhores apps para relacionamento à distância](https://twoodle.app/pt/guias/melhores-apps-relacionamento-a-distancia/).
 
@@ -103,7 +103,7 @@ Couple Widgets e CoupleLink são feitos em torno de contadores de dias e anivers
 
 Sim, em vários apps. Lovebox, Loveya e Twoodle listam recursos de desenho ou escrita à mão. No Twoodle, os rabiscos aparecem no widget da Tela de Início do parceiro, não na Tela de Bloqueio.
 
-> **Mande um rabisco hoje à noite** Download gratuito. Uma assinatura Twoodle Pro cobre os dois. Só para iPhone (iOS 18 ou superior). [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+> **Mande um rabisco hoje à noite** Download gratuito. Uma assinatura Twoodle Pro cobre os dois. Para iPhone (iOS 18 ou superior) e Android. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
 **P.S.** se você leu os seis e ainda não decidiu, [baixe o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881), desenhe qualquer coisa ridícula e veja se seu parceiro ri. Esse é o teste inteiro.
 

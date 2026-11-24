@@ -49,7 +49,7 @@ Envoyez quelque chose de petit et de précis (deux lignes, une photo de la vienn
 
 Nous faisons Twoodle, une app iPhone pour couples qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire. Pour les idées de « lien rapide » ci-dessus, cela veut dire que vous dessinez en quelques secondes et que l'autre le voit en jetant un œil à son téléphone, sans ouvrir d'app. Vous pouvez aussi utiliser le widget Love Note pour un mot court et le widget Jours ensemble sur l'écran verrouillé pour garder le compte en vue. Il y a aussi une fonction Humeur, pour les jours sans mots.
 
-Limites, en toute franchise : les dessins apparaissent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé, et Twoodle n'existe que sur iPhone (iOS 18 ou plus récent). Le téléchargement est gratuit ; Twoodle Pro débloque le couplage à 3,99 $ par semaine (3 jours d'essai) ou 49,99 $ par an, pour vous deux. Ce sont les prix de l'App Store américain, qui peuvent varier selon les pays : vérifiez sur l'App Store. Les autres idées de cette liste ne demandent aucune app, et pour un long appel, n'importe quelle app vidéo fait l'affaire.
+Limites, en toute franchise : les dessins apparaissent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé, et Twoodle est disponible sur iPhone (iOS 18 ou plus récent) et sur Android. Le téléchargement est gratuit ; Twoodle Pro débloque le couplage à 3,99 $ par semaine (3 jours d'essai) ou 39,99 $ par an, pour vous deux. Ce sont les prix de l'App Store américain, qui peuvent varier selon les pays : vérifiez sur l'App Store. Les autres idées de cette liste ne demandent aucune app, et pour un long appel, n'importe quelle app vidéo fait l'affaire.
 
 ## Une chose à éviter
 
@@ -73,7 +73,7 @@ En général oui, au calme et sans reproche. Dire « j'ai un jour de manque » d
 
 ### Twoodle existe-t-il sur Android ?
 
-Non. Twoodle n'existe que sur iPhone, avec iOS 18 ou plus récent.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 > **Envoyez la petite chose** Dessins, mots doux et humeurs dans une seule app iPhone pour deux. Téléchargement gratuit. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

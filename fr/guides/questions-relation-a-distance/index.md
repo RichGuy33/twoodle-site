@@ -88,7 +88,7 @@ Pour la routine complète, voir [comment rester connectés sans s'écrire 24 h s
 
 ## Où Twoodle trouve sa place (et où il n'en a pas)
 
-Twoodle n'est ni une app de questions, ni une messagerie, ni un thérapeute. C'est une app iPhone (iOS 18 ou version ultérieure) qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, avec des widgets d'écran verrouillé pour les mots doux et les jours passés ensemble. Un point quotidien peut être aussi petit que le dessin du sandwich que vous venez de vous faire, ou une question d'une ligne dans un Mot doux. Il n'existe pas de version Android. Le téléchargement est gratuit, et Twoodle Pro active l'appairage : 3,99 $ US par semaine avec 3 jours d'essai, ou 49,99 $ US par an, pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les langues dans lesquelles l'app est disponible. Pas d'idée de dessin ? Essayez [25 choses à gribouiller](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/). Besoin de mots ? Piochez dans [30 petits mots doux](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais).
+Twoodle n'est ni une app de questions, ni une messagerie, ni un thérapeute. C'est une app (iPhone avec iOS 18 ou version ultérieure, et Android) qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, avec des widgets d'écran verrouillé pour les mots doux et les jours passés ensemble. Un point quotidien peut être aussi petit que le dessin du sandwich que vous venez de vous faire, ou une question d'une ligne dans un Mot doux. Le téléchargement est gratuit, et Twoodle Pro active l'appairage : 3,99 $ US par semaine avec 3 jours d'essai, ou 39,99 $ US par an, pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les langues dans lesquelles l'app est disponible. Pas d'idée de dessin ? Essayez [25 choses à gribouiller](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/). Besoin de mots ? Piochez dans [30 petits mots doux](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais).
 
 ## Questions fréquentes
 
@@ -106,7 +106,7 @@ Posez des questions petites et concrètes : ce qui l'a agacé(e) aujourd'hui, qu
 
 ### Twoodle peut-il aider pour les conversations à distance ?
 
-Twoodle est une app réservée à l'iPhone (iOS 18 ou version ultérieure) qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, avec des widgets d'écran verrouillé pour les petits mots doux et les jours passés ensemble. Ce n'est pas un générateur de questions, mais un dessin ou un Mot doux peut porter une petite question entre deux appels. Le téléchargement est gratuit ; l'appairage nécessite Twoodle Pro, qui couvre vous deux.
+Twoodle est une app (iPhone avec iOS 18 ou version ultérieure, et Android) qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire, avec des widgets d'écran verrouillé pour les petits mots doux et les jours passés ensemble. Ce n'est pas un générateur de questions, mais un dessin ou un Mot doux peut porter une petite question entre deux appels. Le téléchargement est gratuit ; l'appairage nécessite Twoodle Pro, qui couvre vous deux.
 
 > **Envoyez la première question aujourd'hui** Téléchargement gratuit. Un abonnement Twoodle Pro couvre vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

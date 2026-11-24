@@ -50,7 +50,7 @@ En las noches en que extrañar pega más fuerte de lo normal, mira nuestra guía
 
 Hacemos Twoodle, una app para iPhone para parejas que envía garabatos al widget de la pantalla de inicio de tu pareja. Para un ritual de buenas noches, significa que dibujas algo pequeño y tu pareja lo ve en su pantalla de inicio la próxima vez que mire el móvil, sin abrir ninguna app y sin presión para responder. Puedes combinarlo con el widget de Nota de amor para un mensaje corto, y el widget de Días juntos mantiene vuestra cuenta en la pantalla de bloqueo.
 
-Límites, con sinceridad: los garabatos aparecen en el widget de la pantalla de inicio, no en la de bloqueo, y Twoodle es solo para iPhone (iOS 18 o posterior). Es gratis para descargar; Twoodle Pro desbloquea la conexión de pareja por 3,99 USD a la semana (con 3 días de prueba) o 49,99 USD al año, y cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país, así que míralo en la App Store. Todos los rituales de arriba funcionan también sin la app: una nota de voz y una última frase compartida son gratis en cualquier app de mensajería.
+Límites, con sinceridad: los garabatos aparecen en el widget de la pantalla de inicio de la app para iPhone, no en la de bloqueo, y Twoodle está disponible para iPhone (iOS 18 o posterior) y Android (esto describe la app para iPhone). Es gratis para descargar; Twoodle Pro desbloquea la conexión de pareja por 3,99 USD a la semana (con 3 días de prueba) o 39,99 USD al año, y cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país, así que míralo en la App Store. Todos los rituales de arriba funcionan también sin la app: una nota de voz y una última frase compartida son gratis en cualquier app de mensajería.
 
 ## Preguntas frecuentes
 
@@ -68,7 +68,7 @@ No. Dormirse en llamada funciona para algunas parejas, pero puede costar calidad
 
 ### ¿Twoodle funciona en Android?
 
-No. Twoodle es solo para iPhone, con iOS 18 o posterior.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 > **Termina el día con un dibujito** Garabatos, notas y estados de ánimo en una app para iPhone hecha para dos. Gratis para descargar. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

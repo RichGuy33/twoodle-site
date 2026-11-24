@@ -46,8 +46,8 @@ One honest detail: doodles land on the Home Screen widget, not the Lock Screen. 
 | Shared journal | Yes (photos) | No journal; a gallery of your doodles |
 | Drawing | Mentioned in its stories and games, per version notes | Central: draw and send, or draw live together |
 | Widgets | Yes | Home Screen doodle widget; Lock Screen Love Note and Days Together |
-| Platforms | iPhone (iOS 16.4 or later per listing) | iPhone only, iOS 18 or later |
-| Price | Free with in-app purchases (Premium tiers; see listing for your region) | Free to download; Pro is $3.99/week with a 3-day trial or $49.99/year, for both partners |
+| Platforms | iPhone (iOS 16.4 or later per listing) | iPhone (iOS 18 or later) and Android |
+| Price | Free with in-app purchases (Premium tiers; see listing for your region) | Free to download; Pro is $3.99/week with a 3-day trial or $39.99/year, for both partners |
 
 ## When Couple Joy is the better pick
 
@@ -65,7 +65,7 @@ One honest detail: doodles land on the Home Screen widget, not the Lock Screen. 
 
 ### Is Twoodle available on Android?
 
-No. Twoodle is iPhone only.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 ### Does Twoodle have daily questions?
 
@@ -73,7 +73,7 @@ No. It's about doodles, notes, moods and widgets.
 
 ### How much does Twoodle cost?
 
-Free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day trial, or $49.99 per year, covering both partners. Check the App Store page for current prices.
+Free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day trial, or $39.99 per year, covering both partners. Check the App Store page for current prices.
 
 Comparing more than two apps? See our [roundup of the best couples widget apps for iPhone](https://twoodle.app/guides/best-apps-for-couples-widgets/), or our take on a [Lovebox alternative with no hardware](https://twoodle.app/guides/lovebox-alternative-app/).
 

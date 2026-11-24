@@ -26,7 +26,7 @@ So here's the short answer first. If you want a counter, pick a counter app. If 
 | CoupleLink | Diary, calendar, mood and a shared pet | Home Screen | Free with a 7-day trial; Premium from $2.99/month |
 | Loveya | Six widget types on Home and Lock Screen | Home and Lock Screen | Free; Premium $9.99/month or $29.99/year |
 | iFeely | Mood, distance and step battles | Home and Lock Screen | Free; Premium $4.99/month or $39.99/year |
-| Twoodle | Doodles on a partner's Home Screen widget | Home Screen doodles; Lock Screen notes and counters | Free; Pro $3.99/week (3-day trial) or $49.99/year |
+| Twoodle | Doodles on a partner's Home Screen widget | Home Screen doodles; Lock Screen notes and counters | Free; Pro $3.99/week (3-day trial) or $39.99/year |
 
 ## Lovebox
 
@@ -62,7 +62,7 @@ iFeely focuses on mood and real-time distance widgets on the Home and Lock Scree
 
 Twoodle is an iPhone app for couples that sends doodles to your partner's Home Screen widget. You draw on a blank canvas or a photo, hit send, and it shows up on their widget. Lock Screen widgets carry love notes and your days together, and there's a live "draw together" canvas inside the app. It also has moods, distance bubbles, nudges, a gallery and important dates.
 
-**Good at:** drawing as the main event. Doodles go to the Home Screen widget only, not the Lock Screen. It needs no sign-up, and we don't show ads, sell data or track you across apps and no cross-app tracking. One Twoodle Pro subscription covers both of you. **Less good at:** it's iPhone only (iOS 18 or later), at $49.99 a year Pro costs more than several apps here, and if you only want a day counter it's more than you need.
+**Good at:** drawing as the main event. Doodles go to the Home Screen widget only, not the Lock Screen. It needs no sign-up, and we don't show ads, sell data or track you across apps and no cross-app tracking. One Twoodle Pro subscription covers both of you. **Less good at:** it's available for iPhone (iOS 18 or later) and Android, at $39.99 a year Pro costs more than some of the yearly plans here, and if you only want a day counter it's more than you need.
 
 Building a whole long-distance setup, not just a widget? See our guide to the [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 

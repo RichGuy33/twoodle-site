@@ -65,8 +65,8 @@ Two honest limits: doodles land on the Home Screen widget, not the Lock Screen, 
 | Drawing to a widget | Yes | Yes, Home Screen widget |
 | Lock Screen widgets | Not shown on the listings we read | Love Note, Days Together, optional Distance |
 | Aimed at | Friends and couples, varies by app | Couples |
-| Platforms | iPhone | iPhone only, iOS 18 or later |
-| Price | Free with in-app purchases; varies by app | Free to download; Pro $3.99/week (3-day trial) or $49.99/year, for both partners |
+| Platforms | iPhone | iPhone (iOS 18 or later) and Android |
+| Price | Free with in-app purchases; varies by app | Free to download; Pro $3.99/week (3-day trial) or $39.99/year, for both partners |
 
 ## FAQ
 
@@ -76,11 +76,11 @@ No. iOS doesn't allow it. Apps use widgets instead. In Twoodle, doodles go to th
 
 ### Is Twoodle on Android?
 
-No. iPhone only.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 ### How much is Twoodle Pro?
 
-$3.99 per week with a 3-day free trial, or $49.99 per year, covering both partners. Check the App Store page for current prices.
+$3.99 per week with a 3-day free trial, or $39.99 per year, covering both partners. Check the App Store page for current prices.
 
 Comparing more apps? See the [best couples widget apps for iPhone](https://twoodle.app/guides/best-apps-for-couples-widgets/), our [Couple Joy alternative guide](https://twoodle.app/guides/couple-joy-alternative/), or the [Lovebox alternative with no hardware](https://twoodle.app/guides/lovebox-alternative-app/).
 

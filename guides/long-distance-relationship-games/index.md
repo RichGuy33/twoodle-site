@@ -52,7 +52,7 @@ Out of ideas for what to draw? Our list of [things to doodle for your partner](h
 
 We make Twoodle, an iPhone app that sends doodles to your partner's Home Screen widget. For games 11 and 12, that means your partner sees the drawing when they glance at their phone, with no app to open and nothing to wait for. You can also draw together live on a shared canvas inside the app, which works for a quick round of Pictionary when you're not on a video call.
 
-Honest limits: doodles land on the Home Screen widget, not the Lock Screen, and Twoodle is iPhone only (iOS 18 or later). It's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $49.99 per year, covering both partners. These are US App Store prices and may vary in your country, so check the App Store. You don't need Twoodle for any other game on this list.
+Honest limits: doodles land on the Home Screen widget, not the Lock Screen, and Twoodle is available for iPhone (iOS 18 or later) and Android. It's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $39.99 per year, covering both partners. These are US App Store prices and may vary in your country, so check the App Store. You don't need Twoodle for any other game on this list.
 
 ## Make it stick
 
@@ -78,7 +78,7 @@ Fifteen to thirty minutes is plenty. End while it's still fun, not when somebody
 
 ### Does Twoodle work on Android?
 
-No. Twoodle is iPhone only, on iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 > **A game that fits in your pocket** Doodles, notes and moods in one iPhone app for two. Free to download. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

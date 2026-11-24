@@ -49,7 +49,7 @@ Du baust ein ganzes Fernbeziehungs-Setup auf, nicht nur ein Widget? Dann lies un
 ## Wann ein einfacherer Zähler die bessere Wahl ist
 
 - **Du willst nur eine Zahl.** Eine App mit nur dieser Funktion ist leichter und kostet vielleicht weniger.
-- **Du nutzt Android.** Twoodle gibt es nur fürs iPhone, iOS 18 oder neuer.
+- **Du nutzt Android.** Twoodle gibt es seit November 2026 auch für Android. Dieser Ratgeber beschreibt den Sperrbildschirm-Zähler der iPhone-App (iOS 18 oder neuer); schau im Google-Play-Eintrag, was unter Android geht.
 - **Du willst dich mit niemandem koppeln.** Das Koppeln ist der Sinn von Twoodle. Für einen privaten Zähler nur für dich passt eine eigenständige App besser.
 
 ## Meilensteine, die eine Kritzelei verdienen
@@ -79,7 +79,7 @@ Ja. Das Widget „Tage zusammen“ sitzt auf dem Sperrbildschirm und zählt eure
 
 ### Gibt es eine Android-Version?
 
-Nein. Twoodle gibt es nur fürs iPhone, iOS 18 oder neuer.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 ### Wie lang sind 1.000 Tage zusammen?
 

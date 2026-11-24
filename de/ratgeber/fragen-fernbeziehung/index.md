@@ -88,7 +88,7 @@ Für die ganze Routine drumherum lies [wie ihr verbunden bleibt, ohne rund um di
 
 ## Wo Twoodle passt (und wo nicht)
 
-Twoodle ist weder eine Fragen-App noch ein Messenger noch ein Therapeut. Es ist eine iPhone-App (iOS 18 oder neuer), die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Widgets für den Sperrbildschirm für Liebesnotizen und gemeinsame Tage. Ein tägliches Check-in kann so klein sein wie die Zeichnung des Sandwichs, das du dir gerade gemacht hast, oder eine einzeilige Frage in einer Liebesnotiz. Eine Android-Version gibt es nicht. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 US-Dollar pro Woche mit 3 Tagen Testzeit oder 49,99 US-Dollar pro Jahr, für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf im App Store, in welchen Sprachen die App verfügbar ist. Keine Idee, was du zeichnen sollst? Probier [25 Dinge zum Zeichnen](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/). Brauchst du Worte? Bedien dich bei [30 kurzen Liebesnotizen](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch).
+Twoodle ist weder eine Fragen-App noch ein Messenger noch ein Therapeut. Es ist eine App für iPhone (iOS 18 oder neuer) und seit November 2026 auch für Android, die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Widgets für den Sperrbildschirm für Liebesnotizen und gemeinsame Tage. Ein tägliches Check-in kann so klein sein wie die Zeichnung des Sandwichs, das du dir gerade gemacht hast, oder eine einzeilige Frage in einer Liebesnotiz. Unter Android können sich Funktionen von der iPhone-App unterscheiden; schau im Google-Play-Eintrag nach. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 US-Dollar pro Woche mit 3 Tagen Testzeit oder 39,99 US-Dollar pro Jahr, für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf im App Store, in welchen Sprachen die App verfügbar ist. Keine Idee, was du zeichnen sollst? Probier [25 Dinge zum Zeichnen](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/). Brauchst du Worte? Bedien dich bei [30 kurzen Liebesnotizen](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch).
 
 ## Häufige Fragen
 
@@ -106,7 +106,7 @@ Frag nach kleinen, konkreten Dingen: Was hat ihn oder sie heute genervt, was hat
 
 ### Kann Twoodle bei Gesprächen in der Fernbeziehung helfen?
 
-Twoodle ist eine App nur für das iPhone (iOS 18 oder neuer), die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Widgets für den Sperrbildschirm für Liebesnotizen und gemeinsame Tage. Es ist kein Fragengenerator, aber eine Zeichnung oder eine Liebesnotiz kann zwischen den Anrufen eine kleine Frage transportieren. Der Download ist kostenlos; fürs Koppeln braucht ihr Twoodle Pro, das euch beide abdeckt.
+Twoodle ist eine App für iPhone (iOS 18 oder neuer) und Android, die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Widgets für den Sperrbildschirm für Liebesnotizen und gemeinsame Tage. Es ist kein Fragengenerator, aber eine Zeichnung oder eine Liebesnotiz kann zwischen den Anrufen eine kleine Frage transportieren. Der Download ist kostenlos; fürs Koppeln braucht ihr Twoodle Pro, das euch beide abdeckt.
 
 > **Schick heute die erste Frage** Kostenloser Download. Ein Twoodle-Pro-Abo deckt euch beide ab. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

@@ -65,7 +65,7 @@ Want something more playful than a movie? Try these [long-distance relationship 
 
 ## Where Twoodle fits (and where it doesn't)
 
-Twoodle is not a video-call app and won't run your date. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It's handy for the in-between moments. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you.
+Twoodle is not a video-call app and won't run your date. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It's handy for the in-between moments. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you.
 
 For the rest of your setup, see our [long-distance relationship app kit](https://twoodle.app/guides/best-long-distance-relationship-apps/). Need doodle ideas for between dates? Try [25 things to doodle for your partner](https://twoodle.app/guides/things-to-doodle-for-your-partner/).
 
@@ -85,7 +85,7 @@ Send each other a quick doodle or love note, swap one photo of where you are, or
 
 ### Does Twoodle work for long-distance dates?
 
-Twoodle isn't a video-call app. It's an iPhone-only app (iOS 18+) that sends doodles to your partner's Home Screen widget, which is handy for the small moments between dates.
+Twoodle isn't a video-call app. It's an app for iPhone (iOS 18+) and Android; the iPhone app sends doodles to your partner's Home Screen widget, which is handy for the small moments between dates.
 
 > **Send the first tiny date tonight** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

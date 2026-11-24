@@ -52,7 +52,7 @@ Si quieres un juego en dos minutos y sin preparar nada, empieza con **¿Qué pre
 
 Hacemos Twoodle, una app para iPhone que envía garabatos al widget de la pantalla de inicio de tu pareja. En los juegos 11 y 12 eso significa que tu pareja ve el dibujo al mirar el móvil, sin abrir ninguna app y sin esperar nada. También podéis dibujar juntos en directo en un lienzo compartido dentro de la app, útil para una ronda rápida de Pictionary sin videollamada.
 
-Límites sinceros: los garabatos llegan al widget de la pantalla de inicio, no a la pantalla de bloqueo, y Twoodle es solo para iPhone (iOS 18 o posterior). Es gratis de descargar; Twoodle Pro activa el emparejamiento por 3,99 USD a la semana (3 días de prueba) o 49,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país, así que míralo en la App Store. No necesitas Twoodle para ningún otro juego de esta lista.
+Límites sinceros: los garabatos llegan al widget de la pantalla de inicio, no a la pantalla de bloqueo, y Twoodle está disponible para iPhone (iOS 18 o posterior) y Android (esto describe la app para iPhone). Es gratis de descargar; Twoodle Pro activa el emparejamiento por 3,99 USD a la semana (3 días de prueba) o 39,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país, así que míralo en la App Store. No necesitas Twoodle para ningún otro juego de esta lista.
 
 ## Para que funcione
 
@@ -78,7 +78,7 @@ Entre quince y treinta minutos basta. Acabad mientras aún es divertido, no cuan
 
 ### ¿Twoodle funciona en Android?
 
-No. Twoodle es solo para iPhone, con iOS 18 o posterior.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 > **Un juego que cabe en el bolsillo** Garabatos, notas y estados de ánimo en una app para iPhone hecha para dos. Descarga gratis. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

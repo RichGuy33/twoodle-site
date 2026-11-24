@@ -54,7 +54,7 @@ Les appels sont des événements. Les messages sont des conversations. Ce qui ma
 
 C'est le trou que Twoodle veut combler. C'est une app iPhone pour couples : vous dessinez sur un canevas vierge ou sur une photo, et le dessin apparaît sur le widget de l'écran d'accueil de votre moitié. Les widgets de l'écran verrouillé couvrent les mots doux et un compteur de jours ensemble, et il existe un widget de distance en option. Vous pouvez aussi partager votre humeur, envoyer des petits coups de coude et dessiner en direct dans l'app.
 
-Les limites, en toute honnêteté : les dessins arrivent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé. L'app est réservée à l'iPhone, iOS 18 ou plus récent, donc inutile si l'un de vous est sur Android. L'association demande Twoodle Pro (3,99 $ US par semaine avec 3 jours d'essai, ou 49,99 $ US par an, un abonnement pour vous deux) ; ce sont les prix de l'App Store américain, qui peuvent varier dans votre pays, alors regardez la fiche. Et elle ne remplace pas une vraie conversation : elle rend juste les silences entre deux échanges plus courts. Consultez l'App Store pour connaître les langues dans lesquelles l'app est disponible.
+Les limites, en toute honnêteté : les dessins arrivent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé. L'app est disponible sur iPhone (iOS 18 ou plus récent) et sur Android depuis novembre 2026 ; si l'un de vous est sur Android, vérifiez sur les fiches des stores que l'association entre un iPhone et un Android est prise en charge. L'association demande Twoodle Pro (3,99 $ US par semaine avec 3 jours d'essai, ou 39,99 $ US par an, un abonnement pour vous deux) ; ce sont les prix de l'App Store américain, qui peuvent varier dans votre pays, alors regardez la fiche. Et elle ne remplace pas une vraie conversation : elle rend juste les silences entre deux échanges plus courts. Consultez l'App Store pour connaître les langues dans lesquelles l'app est disponible.
 
 Pour la comparer à d'autres apps de widgets, notre [comparatif des apps de widgets pour couples sur iPhone](https://twoodle.app/fr/guides/meilleures-apps-widgets-pour-couples/) en passe six en revue sans langue de bois. Curieux de savoir comment marche le dessin ? Lisez [comment dessiner sur les widgets de l'iPhone de votre moitié](https://twoodle.app/fr/guides/dessiner-sur-iphone-de-son-partenaire/), ou ajoutez un compteur avec notre [guide du compteur de jours sur l'écran verrouillé](https://twoodle.app/fr/guides/compteur-jours-ensemble-ecran-verrouille-iphone/).
 
@@ -78,11 +78,11 @@ SharePlay de FaceTime fonctionne dans les apps compatibles. Certains services de
 
 ### Twoodle est-il disponible sur Android ?
 
-Non. Twoodle est réservé à l'iPhone et demande iOS 18 ou plus récent.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 ### Combien coûte Twoodle ?
 
-Le téléchargement est gratuit. Twoodle Pro débloque l'association : 3,99 $ US par semaine avec 3 jours d'essai, ou 49,99 $ US par an, pour vous deux. Ce sont les prix de l'App Store américain, qui peuvent varier dans votre pays.
+Le téléchargement est gratuit. Twoodle Pro débloque l'association : 3,99 $ US par semaine avec 3 jours d'essai, ou 39,99 $ US par an, pour vous deux. Ce sont les prix de l'App Store américain, qui peuvent varier dans votre pays.
 
 > **Réduisez la distance d'environ un dessin** Dessinez un truc moche. Il ou elle adorera quand même. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

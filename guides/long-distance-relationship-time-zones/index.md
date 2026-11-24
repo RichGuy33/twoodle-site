@@ -68,7 +68,7 @@ Countries switch daylight saving time on different dates, so the difference betw
 
 ## Where Twoodle fits (and where it doesn't)
 
-Twoodle is not a calling, messaging or video app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the small asynchronous signal, not the call. No Android version exists. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. For the rest of your toolkit, see our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
+Twoodle is not a calling, messaging or video app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the small asynchronous signal, not the call. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. For the rest of your toolkit, see our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 
 Want a simple way to end each day? Try a [long-distance goodnight routine](https://twoodle.app/guides/long-distance-goodnight-routine/).
 
@@ -88,7 +88,7 @@ Lean on asynchronous contact: voice notes, doodles, photos and written notes tha
 
 ### Does Twoodle help with time zone differences?
 
-Twoodle is an iPhone-only app (iOS 18+) that sends doodles to your partner's Home Screen widget, so the doodle is there when they next look, whatever time it is for them. It is not a calling or messaging app.
+Twoodle is an app for iPhone (iOS 18+) and Android; the iPhone app sends doodles to your partner's Home Screen widget, so the doodle is there when they next look, whatever time it is for them. It is not a calling or messaging app.
 
 > **Leave something on their Home Screen tonight** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

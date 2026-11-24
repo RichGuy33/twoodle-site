@@ -54,7 +54,7 @@ Calls are events. Messages are conversations. What's often missing is the in-bet
 
 That's the gap Twoodle is built for. It's an iPhone app for couples: you draw on a blank canvas or a photo, and the doodle shows up on your partner's Home Screen widget. Lock Screen widgets cover love notes and a days-together counter, and there's an optional distance widget. You can also share moods, send nudges and draw together live inside the app.
 
-The honest limits: doodles land on the Home Screen widget, not the Lock Screen. It's iPhone only, iOS 18 or later, so it's no help if one of you is on Android. Pairing needs Twoodle Pro ($3.99 per week with a 3-day trial, or $49.99 per year, one subscription for both of you), so check the App Store page for current prices. And it won't replace a real conversation. It just makes the gaps between them feel shorter.
+The honest limits: doodles land on the Home Screen widget, not the Lock Screen. It's available for iPhone (iOS 18 or later) and Android. If one of you is on iPhone and the other on Android, check the store listings to confirm pairing between the two is supported before you both commit. Pairing needs Twoodle Pro ($3.99 per week with a 3-day trial, or $39.99 per year, one subscription for both of you), so check the App Store page for current prices. And it won't replace a real conversation. It just makes the gaps between them feel shorter.
 
 If you want to see how it stacks up against other widget apps, our [roundup of couples widget apps for iPhone](https://twoodle.app/guides/best-apps-for-couples-widgets/) compares six honestly. Curious how the drawing part works? Read [how to draw on your partner's iPhone widgets](https://twoodle.app/guides/draw-on-partners-lock-screen/), or add a counter with our [days together Lock Screen guide](https://twoodle.app/guides/days-together-lock-screen-counter/).
 
@@ -74,11 +74,11 @@ FaceTime SharePlay works in supported apps. Some streaming services have their o
 
 ### Is Twoodle available on Android?
 
-No. Twoodle is iPhone only and needs iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 ### How much does Twoodle cost?
 
-Free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day trial, or $49.99 per year, covering both partners.
+Free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day trial, or $39.99 per year, covering both partners.
 
 > **Close the distance by about one doodle** Draw something terrible. They'll love it anyway. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

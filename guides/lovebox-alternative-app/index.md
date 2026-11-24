@@ -40,15 +40,15 @@ You can also send short notes to their Lock Screen or Home Screen, share a mood,
 | What you need | The Lovebox device plus the app | Two iPhones with the app |
 | How messages arrive | On the box's screen, with a spinning heart | On a Home Screen or Lock Screen widget |
 | What you can send | Text, photos, drawings, stickers | Doodles, photos on a canvas, notes, moods, nudges |
-| Platforms | App for iOS and Android | iPhone only, iOS 18 or later |
-| Cost | Device bought separately; the app is free with optional in-app purchases | Free to download; Twoodle Pro unlocks pairing, $3.99/week with a 3-day free trial or $49.99/year, one subscription for both of you |
+| Platforms | App for iOS and Android | iPhone (iOS 18 or later) and Android |
+| Cost | Device bought separately; the app is free with optional in-app purchases | Free to download; Twoodle Pro unlocks pairing, $3.99/week with a 3-day free trial or $39.99/year, one subscription for both of you |
 
 ## When Lovebox is the better pick
 
 We'll say it so you don't have to go looking for it:
 
 - **You want a real object.** A box on a desk or nightstand, or a gift to unwrap, feels like something. A widget is, well, a widget.
-- **Your partner is on Android.** Twoodle doesn't have an Android app right now. Lovebox does.
+- **Your partner is on Android.** Lovebox's app is on iOS and Android. Twoodle launched on Android in November 2026, so check the store listings to confirm pairing works between an iPhone and an Android phone before you commit.
 - **You like the ritual.** Opening a lid to read a note is a nicer moment than glancing at a phone. We can't argue with that.
 
 ## When Twoodle is the better pick

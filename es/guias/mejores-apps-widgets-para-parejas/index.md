@@ -26,7 +26,7 @@ Vamos con la respuesta corta. Si quieres un contador, elige una app de contador.
 | CoupleLink | Diario, calendario, estado de ánimo y una mascota compartida | Pantalla de inicio | Gratis con 7 días de prueba; Premium desde 2,99 USD/mes |
 | Loveya | Seis tipos de widget en pantalla de inicio y de bloqueo | Pantalla de inicio y de bloqueo | Gratis; Premium 9,99 USD/mes o 29,99 USD/año |
 | iFeely | Estado de ánimo, distancia y duelos de pasos | Pantalla de inicio y de bloqueo | Gratis; Premium 4,99 USD/mes o 39,99 USD/año |
-| Twoodle | Garabatos en el widget de la pantalla de inicio de tu pareja | Garabatos en la pantalla de inicio; notas y contadores en la pantalla de bloqueo | Gratis; Pro 3,99 USD/semana (3 días de prueba) o 49,99 USD/año |
+| Twoodle | Garabatos en el widget de la pantalla de inicio de tu pareja | Garabatos en la pantalla de inicio; notas y contadores en la pantalla de bloqueo | Gratis; Pro 3,99 USD/semana (3 días de prueba) o 39,99 USD/año |
 
 Son precios de la App Store de EE. UU. y pueden variar en tu país.
 
@@ -64,7 +64,7 @@ iFeely se centra en widgets de estado de ánimo y de distancia en tiempo real pa
 
 Twoodle es una app para iPhone para parejas que envía garabatos al widget de la pantalla de inicio de tu pareja. Dibujas en un lienzo en blanco o sobre una foto, le das a enviar y aparece en su widget. Los widgets de la pantalla de bloqueo llevan notas de amor y vuestros días juntos, y dentro de la app hay un lienzo para «dibujar juntos» en directo. También tiene estados de ánimo, burbujas de distancia, toques, una galería y fechas importantes.
 
-**Lo que hace bien:** que dibujar sea el plato fuerte. Los garabatos van solo al widget de la pantalla de inicio, no a la de bloqueo. No pide registro, no mostramos anuncios, no vendemos datos y no te seguimos entre apps. Una suscripción Twoodle Pro cubre a los dos. **Lo que hace peor:** es solo para iPhone (iOS 18 o posterior), con 49,99 USD al año Pro cuesta más que varias de las apps de aquí, y si solo quieres un contador de días, te sobra.
+**Lo que hace bien:** que dibujar sea el plato fuerte. Los garabatos van solo al widget de la pantalla de inicio, no a la de bloqueo. No pide registro, no mostramos anuncios, no vendemos datos y no te seguimos entre apps. Una suscripción Twoodle Pro cubre a los dos. **Lo que hace peor:** está disponible para iPhone (iOS 18 o posterior) y Android (esta comparación describe la app para iPhone), con 39,99 USD al año Pro cuesta más que Couple Widgets y Loveya, y lo mismo que iFeely, y si solo quieres un contador de días, te sobra.
 
 ¿Montando toda una puesta a punto para la distancia y no solo un widget? Mira nuestra guía de las [mejores apps para relaciones a distancia](https://twoodle.app/es/guias/mejores-apps-relacion-a-distancia/).
 
@@ -103,7 +103,7 @@ Couple Widgets y CoupleLink están pensadas en torno a contadores de días y ani
 
 Sí, en varias apps. Lovebox, Loveya y Twoodle mencionan funciones de dibujo o escritura a mano. En Twoodle, los garabatos aparecen en el widget de la pantalla de inicio de tu pareja, no en la de bloqueo.
 
-> **Prueba con un garabato esta noche** Descarga gratuita. Una suscripción a Twoodle Pro cubre a los dos. Solo para iPhone (iOS 18 o posterior). [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+> **Prueba con un garabato esta noche** Descarga gratuita. Una suscripción a Twoodle Pro cubre a los dos. Disponible para iPhone (iOS 18 o posterior) y Android. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
 **P. D.** si has leído las seis y sigues sin decidirte, [descarga Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881), dibuja algo ridículo y mira si tu pareja se ríe. Ese es todo el test.
 

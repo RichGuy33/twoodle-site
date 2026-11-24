@@ -52,7 +52,7 @@ Sem ideia do que desenhar? Nossa lista de [coisas para desenhar para o seu parce
 
 Nós fazemos o Twoodle, um app para iPhone que envia rabiscos para o widget da Tela de Início do seu par. Nos jogos 11 e 12, isso significa que a pessoa vê o desenho quando olha o celular, sem abrir app e sem esperar nada. Vocês também podem desenhar juntos ao vivo numa tela compartilhada dentro do app, útil para uma rodada rápida de Imagem e Ação sem chamada de vídeo.
 
-Limites honestos: os rabiscos chegam ao widget da Tela de Início, não à Tela de Bloqueio, e o Twoodle é só para iPhone (iOS 18 ou posterior). O download é grátis; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (3 dias de teste) ou US$ 49,99 por ano, valendo para os dois. São preços da App Store dos EUA e podem variar no seu país, então confira na App Store. Você não precisa do Twoodle para nenhum outro jogo desta lista.
+Limites honestos: os rabiscos chegam ao widget da Tela de Início, não à Tela de Bloqueio, e o Twoodle está disponível para iPhone (iOS 18 ou posterior) e Android. O download é grátis; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (3 dias de teste) ou US$ 39,99 por ano, valendo para os dois. São preços da App Store dos EUA e podem variar no seu país, então confira na App Store. Você não precisa do Twoodle para nenhum outro jogo desta lista.
 
 ## Para o hábito pegar
 
@@ -78,7 +78,7 @@ De quinze a trinta minutos está ótimo. Parem enquanto ainda é divertido, não
 
 ### O Twoodle funciona no Android?
 
-Não. O Twoodle é só para iPhone, com iOS 18 ou posterior.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 > **Um jogo que cabe no bolso** Rabiscos, recados e humores num app de iPhone feito para dois. Download grátis. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

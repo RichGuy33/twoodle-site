@@ -27,7 +27,7 @@ iOS ne permet pas à quelqu'un de dessiner sur le téléphone d'une autre person
 
 Ce qui fonctionne, c'est une app qui synchronise votre dessin avec un **widget** sur l'iPhone de votre partenaire. Vous installez la même app tous les deux, vous vous appairez, et tout ce que vous envoyez apparaît sur son écran.
 
-En toute transparence : nous faisons Twoodle, l'une des apps qui font ça, donc les étapes ci-dessous l'utilisent. Elle est réservée à l'iPhone et demande iOS 18 ou version ultérieure.
+En toute transparence : nous faisons Twoodle, l'une des apps qui font ça, donc les étapes ci-dessous l'utilisent. Elle est disponible sur iPhone (iOS 18 ou version ultérieure) et sur Android ; les étapes ci-dessous décrivent l'app iPhone.
 
 ## Ce qu'il vous faut
 
@@ -90,8 +90,8 @@ C'est ce qui embrouille tout le monde. Les dessins vont sur l'écran d'accueil. 
 ## À savoir avant de vous attacher
 
 - **Ce n'est pas instantané.** iOS décide du moment où un widget se redessine, donc un court délai est possible après l'envoi. Ce n'est pas un bug, juste les iPhone qui font leur vie.
-- **C'est réservé à l'iPhone pour l'instant.** Si votre partenaire est sur Android, ça ne marchera pas pour vous. Désolé, nous le regrettons aussi.
-- **L'appairage nécessite Twoodle Pro.** 3,99 $ US par semaine avec 3 jours d'essai gratuit, ou 49,99 $ US par an, pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les langues dans lesquelles l'app est disponible.
+- **iPhone et Android.** L'app iPhone demande iOS 18 ou version ultérieure, et Twoodle est maintenant aussi sur Android. Si l'un de vous est sur Android, vérifiez sur les fiches des stores que l'association entre un iPhone et un Android est prise en charge avant de payer à deux.
+- **L'appairage nécessite Twoodle Pro.** 3,99 $ US par semaine avec 3 jours d'essai gratuit, ou 39,99 $ US par an, pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les langues dans lesquelles l'app est disponible.
 
 ## D'autres apps qui font à peu près pareil
 
@@ -111,7 +111,7 @@ Pas avec iOS seul. Apple ne permet pas à une personne de dessiner sur l'écran 
 Mon partenaire doit-il aussi avoir l'app ?
 Oui. Dans Twoodle, vous vous appairez avec un seul partenaire grâce à un code d'invitation, et ce que vous envoyez apparaît dans son app et ses widgets.
 Est-ce que ça marche sur Android ?
-Twoodle est réservé à l'iPhone pour le moment et nécessite iOS 18 ou version ultérieure.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 Pourquoi le widget ne se met-il pas à jour tout de suite ?
 Twoodle actualise le widget quand votre partenaire envoie quelque chose, mais c'est iOS qui décide du moment exact où un widget se redessine, donc un court délai est possible. Ouvrir l'app une fois et vérifier que les notifications sont autorisées aide généralement. Si le problème persiste, contactez l'assistance.
 

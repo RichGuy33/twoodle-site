@@ -71,7 +71,7 @@ If the problem is less "how often" and more "I miss them right now," see [what h
 
 ## Where Twoodle fits (and where it doesn't)
 
-We make Twoodle, an iPhone app that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It's built for the daily signal, not the long call. It does not replace talking, and you don't need it to do any of this: a text works fine. Twoodle is iPhone only (iOS 18 or later) and free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $49.99 per year, one subscription covering both partners. Check the App Store for current pricing.
+We make Twoodle, an iPhone app that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It's built for the daily signal, not the long call. It does not replace talking, and you don't need it to do any of this: a text works fine. Twoodle is available for iPhone (iOS 18 or later) and Android, and it's free to download; Twoodle Pro unlocks pairing at $3.99 per week (3-day trial) or $39.99 per year, one subscription covering both partners. Check the App Store for current pricing.
 
 For ideas on what to say when you do talk, try [30 long-distance relationship questions](https://twoodle.app/guides/long-distance-relationship-questions/).
 
@@ -93,7 +93,7 @@ Name it without blame and look for a middle: more small touches from the one who
 
 ### Does Twoodle work on Android?
 
-No. Twoodle is iPhone only, on iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 > **A small hello, every day** Doodles, notes, moods and important dates in one iPhone app for two. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

@@ -9,7 +9,7 @@ publisher: Taking Flight, Inc.
 
 Vom Twoodle-Team · November 2026
 
-> **Hinweis:** wir machen Twoodle, eine der Apps, die das können. Deshalb nutzen die Schritte unten Twoodle. Die App gibt es nur für das iPhone, ab iOS 18.
+> **Hinweis:** wir machen Twoodle, eine der Apps, die das können. Deshalb nutzen die Schritte unten Twoodle. Die Schritte unten beschreiben die iPhone-App (ab iOS 18); Twoodle gibt es seit November 2026 auch für Android.
 
 Stell dir vor: Du sitzt im Büro, dein Partner ist am anderen Ende der Stadt, und du willst „Hab dich lieb“ sagen, ohne zum hundertsten Mal ein „Denk an dich“ zu tippen, das klingt wie eine Mitteilung der Bank.
 
@@ -29,7 +29,7 @@ Was *funktioniert*, ist eine App, die deine Zeichnung mit einem **Widget** auf d
 
 ## Was du brauchst
 
-- Zwei iPhones mit iOS 18 oder neuer
+- Zwei iPhones mit iOS 18 oder neuer (für die iPhone-App; zu Android siehe unten)
 - Dieselbe App auf beiden
 - Eine Möglichkeit zum Koppeln. In Twoodle legt einer von euch ein Paar an, und der andere gibt den Einladungscode ein.
 
@@ -88,8 +88,8 @@ Hier stolpern die meisten. Zeichnungen gehen auf den Home-Bildschirm. Der Sperrb
 ## Was du wissen solltest, bevor du dich dran gewöhnst
 
 - **Es ist nicht sofort da.** iOS entscheidet, wann ein Widget neu zeichnet, deshalb kann es nach dem Senden eine kurze Verzögerung geben. Kein Fehler, das ist einfach das iPhone.
-- **Es gibt Twoodle nur für das iPhone.** Wenn dein Partner Android hat, klappt das bei euch derzeit nicht. Tut uns leid, uns ärgert das auch.
-- **Fürs Koppeln braucht ihr Twoodle Pro.** Es kostet 3,99 US-Dollar pro Woche mit 3 Tagen kostenloser Testzeit oder 49,99 US-Dollar pro Jahr und deckt euch beide ab (Preise aus dem US-App-Store; in deinem Land können sie abweichen).
+- **Android ist neu dabei.** Twoodle gibt es jetzt auch für Android. Bevor ihr beide zahlt, prüft in den Store-Einträgen, ob das Koppeln zwischen iPhone und Android unterstützt wird. Diese Schritte beschreiben die iPhone-App.
+- **Fürs Koppeln braucht ihr Twoodle Pro.** Es kostet 3,99 US-Dollar pro Woche mit 3 Tagen kostenloser Testzeit oder 39,99 US-Dollar pro Jahr und deckt euch beide ab (Preise aus dem US-App-Store; in deinem Land können sie abweichen).
 
 ## Andere Apps, die Ähnliches können
 
@@ -115,7 +115,7 @@ Ja. In Twoodle koppelst du dich per Einladungscode mit einer Partnerin oder eine
 
 ### Funktioniert das auf Android?
 
-Twoodle gibt es derzeit nur für das iPhone, und die App braucht iOS 18 oder neuer.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 ### Warum aktualisiert sich das Widget nicht sofort?
 

@@ -26,7 +26,7 @@ Hier also die Kurzfassung. Willst du einen Zähler, nimm eine Zähler-App. Wills
 | CoupleLink | Tagebuch, Kalender, Stimmung und ein gemeinsames Haustier | Home-Bildschirm | Gratis mit 7 Tagen Test; Premium ab 2,99 USD/Monat |
 | Loveya | Sechs Widget-Arten auf Home- und Sperrbildschirm | Home- und Sperrbildschirm | Gratis; Premium 9,99 USD/Monat oder 29,99 USD/Jahr |
 | iFeely | Stimmung, Entfernung und Schritt-Duelle | Home- und Sperrbildschirm | Gratis; Premium 4,99 USD/Monat oder 39,99 USD/Jahr |
-| Twoodle | Doodles auf dem Home-Bildschirm-Widget deines Partners | Doodles auf dem Home-Bildschirm; Notizen und Zähler auf dem Sperrbildschirm | Gratis; Pro 3,99 USD/Woche (3 Tage Test) oder 49,99 USD/Jahr |
+| Twoodle | Doodles auf dem Home-Bildschirm-Widget deines Partners | Doodles auf dem Home-Bildschirm; Notizen und Zähler auf dem Sperrbildschirm | Gratis; Pro 3,99 USD/Woche (3 Tage Test) oder 39,99 USD/Jahr |
 
 Das sind Preise aus dem US App Store, in deinem Land können sie abweichen.
 
@@ -64,7 +64,7 @@ iFeely setzt auf Stimmungs- und Echtzeit-Entfernungs-Widgets auf Home- und Sperr
 
 Twoodle ist eine iPhone-App für Paare, die Doodles auf das Home-Bildschirm-Widget deines Partners schickt. Du zeichnest auf eine leere Fläche oder auf ein Foto, tippst auf Senden, und es erscheint auf seinem Widget. Sperrbildschirm-Widgets zeigen Liebesnotizen und eure gemeinsamen Tage, und in der App gibt es eine Live-Fläche zum gemeinsamen Zeichnen. Dazu kommen Stimmungen, Entfernungs-Bubbles, Anstupser, eine Galerie und wichtige Daten.
 
-**Stark darin:** Zeichnen als Hauptattraktion. Doodles gehen nur auf das Home-Bildschirm-Widget, nicht auf den Sperrbildschirm. Keine Anmeldung nötig, keine Werbung, kein Verkauf von Daten und kein App-übergreifendes Tracking. Ein Twoodle-Pro-Abo gilt für euch beide. **Schwächer darin:** Es gibt sie nur für das iPhone (iOS 18 oder neuer), mit 49,99 USD im Jahr kostet Pro mehr als mehrere Apps hier, und wenn du nur einen Tageszähler willst, ist es mehr, als du brauchst.
+**Stark darin:** Zeichnen als Hauptattraktion. Doodles gehen nur auf das Home-Bildschirm-Widget, nicht auf den Sperrbildschirm. Keine Anmeldung nötig, keine Werbung, kein Verkauf von Daten und kein App-übergreifendes Tracking. Ein Twoodle-Pro-Abo gilt für euch beide. **Schwächer darin:** Die iPhone-App braucht iOS 18 oder neuer (seit November 2026 gibt es Twoodle auch für Android), und mit 39,99 USD im Jahr kostet Pro mehr als Couple Widgets (19,99 USD) oder Loveya (29,99 USD), und wenn du nur einen Tageszähler willst, ist es mehr, als du brauchst.
 
 Du baust dir ein ganzes Fernbeziehungs-Setup, nicht nur ein Widget? Dann lies unseren Ratgeber zu den [besten Apps für Fernbeziehungen](https://twoodle.app/de/ratgeber/beste-apps-fernbeziehung/).
 
@@ -103,7 +103,7 @@ Couple Widgets und CoupleLink sind auf Tageszähler und Jahrestage auf dem Home-
 
 Ja, bei mehreren Apps. Lovebox, Loveya und Twoodle nennen Zeichen- oder Handschriftfunktionen. Bei Twoodle erscheinen Doodles auf dem Home-Bildschirm-Widget deines Partners, nicht auf dem Sperrbildschirm.
 
-> **Schick heute Abend ein Gekritzel** Gratis laden. Ein Twoodle-Pro-Abo gilt für euch beide. Nur für das iPhone (iOS 18 oder neuer). [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+> **Schick heute Abend ein Gekritzel** Gratis laden. Ein Twoodle-Pro-Abo gilt für euch beide. Für das iPhone (iOS 18 oder neuer) und seit November 2026 auch für Android. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
 **P.S.** Wenn du alle sechs gelesen hast und dich immer noch nicht entscheiden kannst: [Lade Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881), zeichne etwas Lächerliches und schau, ob dein Partner lacht. Das ist der ganze Test.
 

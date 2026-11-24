@@ -54,7 +54,7 @@ Las llamadas son eventos. Los mensajes son conversaciones. Lo que suele faltar e
 
 Ese es el hueco para el que existe Twoodle. Es una app de iPhone para parejas: dibujas sobre un lienzo en blanco o una foto, y el garabato aparece en el widget de la pantalla de inicio de tu pareja. Los widgets de la pantalla de bloqueo cubren las notas de amor y un contador de días juntos, y hay un widget de distancia opcional. También puedes compartir estados de ánimo, mandar toques y dibujar en directo dentro de la app.
 
-Los límites, con honestidad: los garabatos llegan al widget de la pantalla de inicio, no a la de bloqueo. Es solo para iPhone, con iOS 18 o posterior, así que no sirve si uno de los dos tiene Android. Para emparejaros hace falta Twoodle Pro (3,99 USD por semana con 3 días de prueba, o 49,99 USD al año, una suscripción para los dos); son precios de la App Store de EE. UU. y pueden variar en tu país, así que mira la ficha. Y no sustituye una conversación de verdad: solo hace que los huecos entre una y otra se sientan más cortos. Mira en la App Store los idiomas en los que está disponible la app.
+Los límites, con honestidad: los garabatos llegan al widget de la pantalla de inicio, no a la de bloqueo. Está disponible para iPhone (iOS 18 o posterior) y Android; si uno de los dos usa Android, comprobad en las fichas de las tiendas que el emparejamiento entre un iPhone y un Android esté soportado antes de que paguéis. Para emparejaros hace falta Twoodle Pro (3,99 USD por semana con 3 días de prueba, o 39,99 USD al año, una suscripción para los dos); son precios de la App Store de EE. UU. y pueden variar en tu país, así que mira la ficha. Y no sustituye una conversación de verdad: solo hace que los huecos entre una y otra se sientan más cortos. Mira en la App Store los idiomas en los que está disponible la app.
 
 Si quieres ver cómo se compara con otras apps de widgets, nuestro [repaso de apps de widgets para parejas en iPhone](https://twoodle.app/es/guias/mejores-apps-widgets-para-parejas/) compara seis con sinceridad. ¿Te intriga cómo funciona el dibujo? Lee [cómo dibujar en los widgets del iPhone de tu pareja](https://twoodle.app/es/guias/dibujar-en-la-pantalla-de-tu-pareja/), o añade un contador con la [guía del contador de días en la pantalla de bloqueo](https://twoodle.app/es/guias/poner-dias-de-relacion-pantalla-bloqueo-iphone/).
 
@@ -78,11 +78,11 @@ SharePlay de FaceTime funciona en apps compatibles. Algunos servicios de streami
 
 ### ¿Twoodle está disponible para Android?
 
-No. Twoodle es solo para iPhone y necesita iOS 18 o posterior.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 ### ¿Cuánto cuesta Twoodle?
 
-La descarga es gratuita. Twoodle Pro desbloquea el emparejamiento: 3,99 USD por semana con 3 días de prueba, o 49,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país.
+La descarga es gratuita. Twoodle Pro desbloquea el emparejamiento: 3,99 USD por semana con 3 días de prueba, o 39,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país.
 
 > **Acortad la distancia en un garabato** Dibuja algo horrible. Lo va a adorar igualmente. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

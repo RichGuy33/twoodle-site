@@ -70,7 +70,7 @@ If it still misbehaves, [contact support](https://twoodle.app/support/). A real 
 
 ## What to know before you start
 
-Twoodle is iPhone only (iOS 18 or later) and there is no Android app. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. Want to compare options first? Read our [roundup of couples widget apps](https://twoodle.app/guides/best-apps-for-couples-widgets/). Need something to send once it's set up? Try [25 things to doodle for your partner](https://twoodle.app/guides/things-to-doodle-for-your-partner/).
+Twoodle is available for iPhone (iOS 18 or later) and Android. The steps here are for the iPhone app. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. Want to compare options first? Read our [roundup of couples widget apps](https://twoodle.app/guides/best-apps-for-couples-widgets/). Need something to send once it's set up? Try [25 things to doodle for your partner](https://twoodle.app/guides/things-to-doodle-for-your-partner/).
 
 ## FAQ
 

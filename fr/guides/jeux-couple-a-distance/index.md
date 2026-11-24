@@ -52,7 +52,7 @@ Envie de plus pour une soirée entière ? Voyez nos [idées de rendez-vous à di
 
 Nous faisons Twoodle, une app pour iPhone qui envoie des dessins sur le widget de l'écran d'accueil de votre partenaire. Pour les jeux 11 et 12, cela veut dire que la personne voit le dessin en regardant son téléphone, sans ouvrir d'app et sans rien attendre. Vous pouvez aussi dessiner ensemble en direct sur une toile partagée dans l'app, pratique pour une manche rapide de Pictionary sans appel vidéo.
 
-Limites honnêtes : les dessins arrivent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé, et Twoodle n'existe que sur iPhone (iOS 18 ou ultérieur). Le téléchargement est gratuit ; Twoodle Pro débloque l'association pour 3,99 USD par semaine (3 jours d'essai) ou 49,99 USD par an, pour vous deux. Ce sont les prix de l'App Store américain, ils peuvent varier dans votre pays : vérifiez sur l'App Store. Vous n'avez besoin de Twoodle pour aucun autre jeu de cette liste.
+Limites honnêtes : les dessins arrivent sur le widget de l'écran d'accueil, pas sur l'écran verrouillé, et Twoodle est disponible sur iPhone (iOS 18 ou ultérieur) et sur Android. Le téléchargement est gratuit ; Twoodle Pro débloque l'association pour 3,99 USD par semaine (3 jours d'essai) ou 39,99 USD par an, pour vous deux. Ce sont les prix de l'App Store américain, ils peuvent varier dans votre pays : vérifiez sur l'App Store. Vous n'avez besoin de Twoodle pour aucun autre jeu de cette liste.
 
 ## Pour que ça dure
 
@@ -78,7 +78,7 @@ Quinze à trente minutes suffisent. Arrêtez-vous quand c'est encore amusant, pa
 
 ### Twoodle fonctionne-t-il sur Android ?
 
-Non. Twoodle n'existe que sur iPhone, avec iOS 18 ou ultérieur.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 > **Un jeu qui tient dans la poche** Dessins, petits mots et humeurs dans une app iPhone faite pour deux. Téléchargement gratuit. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

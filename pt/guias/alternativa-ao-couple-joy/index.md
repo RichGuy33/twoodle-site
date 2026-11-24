@@ -46,8 +46,8 @@ Um detalhe honesto: os desenhos chegam ao widget da Tela de Início, não à Tel
 | Diário compartilhado | Sim (fotos) | Sem diário; uma galeria dos seus desenhos |
 | Desenho | Aparece nas histórias e jogos, segundo as notas de versão | É o centro: desenhar e enviar, ou desenhar juntos ao vivo |
 | Widgets | Sim | Widget de desenho na Tela de Início; Recado de Amor e Dias Juntos na Tela de Bloqueio |
-| Plataformas | iPhone (iOS 16.4 ou posterior, segundo a página) | Só iPhone, iOS 18 ou posterior |
-| Preço | Grátis com compras dentro do app (planos Premium; veja a página da sua região) | Download gratuito; o Pro custa US$ 3,99 por semana com 3 dias de teste ou US$ 49,99 por ano, para os dois |
+| Plataformas | iPhone (iOS 16.4 ou posterior, segundo a página) | iPhone (iOS 18 ou posterior) e Android |
+| Preço | Grátis com compras dentro do app (planos Premium; veja a página da sua região) | Download gratuito; o Pro custa US$ 3,99 por semana com 3 dias de teste ou US$ 39,99 por ano, para os dois |
 
 Os preços do Twoodle são da App Store dos EUA e podem variar no seu país. Confira na App Store os idiomas em que o app está disponível.
 
@@ -73,7 +73,7 @@ E se bichinhos virtuais e anúncios já são demais pra você, veja o [guia de a
 
 ### Qual é uma boa alternativa ao Couple Joy?
 
-Depende do que você quer. O Twoodle é um app só para iPhone que envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. É mais leve que o Couple Joy, que também oferece perguntas diárias, quizzes, jogos e um diário compartilhado.
+Depende do que você quer. O Twoodle é um app para casais, disponível para iPhone (iOS 18 ou posterior) e Android; no iPhone, ele envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. É mais leve que o Couple Joy, que também oferece perguntas diárias, quizzes, jogos e um diário compartilhado.
 
 ### O Twoodle tem perguntas diárias ou quizzes como o Couple Joy?
 
@@ -81,11 +81,11 @@ Não. O Twoodle é focado em desenhos, recados, humor e widgets, não em conteú
 
 ### O Twoodle está disponível para Android?
 
-Não. O Twoodle é só para iPhone e exige iOS 18 ou posterior.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 ### Quanto custa o Twoodle?
 
-O download é gratuito. O Twoodle Pro libera o pareamento por US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 49,99 por ano, e uma assinatura cobre os dois. São preços da App Store dos EUA e podem variar no seu país.
+O download é gratuito. O Twoodle Pro libera o pareamento por US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 39,99 por ano, e uma assinatura cobre os dois. São preços da App Store dos EUA e podem variar no seu país.
 
 > **Experimente a versão mais leve** Desenhe algo horrível. Eles vão amar do mesmo jeito. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

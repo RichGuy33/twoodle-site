@@ -52,7 +52,7 @@ Keine Idee, was du zeichnen sollst? Unsere Liste mit [Dingen, die du für deinen
 
 Wir machen Twoodle, eine iPhone-App, die Kritzeleien auf das Home-Bildschirm-Widget deines Partners schickt. Bei Spiel 11 und 12 heißt das: Dein Schatz sieht die Zeichnung beim Blick aufs Handy, ohne eine App zu öffnen und ohne zu warten. Ihr könnt auch live auf einer gemeinsamen Zeichenfläche in der App zusammen zeichnen, praktisch für eine schnelle Runde Montagsmaler ohne Videoanruf.
 
-Ehrliche Grenzen: Die Kritzeleien landen auf dem Widget im Home-Bildschirm, nicht auf dem Sperrbildschirm, und Twoodle gibt es nur fürs iPhone (iOS 18 oder neuer). Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei für 3,99 USD pro Woche (3 Tage Test) oder 49,99 USD pro Jahr, für euch beide. Das sind Preise aus dem US-App-Store, in deinem Land können sie abweichen, schau also im App Store nach. Für alle anderen Spiele auf dieser Liste brauchst du Twoodle nicht.
+Ehrliche Grenzen: Die Kritzeleien landen auf dem Widget im Home-Bildschirm, nicht auf dem Sperrbildschirm, und die iPhone-App braucht iOS 18 oder neuer (seit November 2026 gibt es Twoodle auch für Android). Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei für 3,99 USD pro Woche (3 Tage Test) oder 39,99 USD pro Jahr, für euch beide. Das sind Preise aus dem US-App-Store, in deinem Land können sie abweichen, schau also im App Store nach. Für alle anderen Spiele auf dieser Liste brauchst du Twoodle nicht.
 
 ## Damit es hängen bleibt
 
@@ -78,7 +78,7 @@ Fünfzehn bis dreißig Minuten reichen. Hört auf, solange es Spaß macht, nicht
 
 ### Funktioniert Twoodle auf Android?
 
-Nein. Twoodle gibt es nur fürs iPhone, mit iOS 18 oder neuer.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 > **Ein Spiel für die Hosentasche** Kritzeleien, Notizen und Stimmungen in einer iPhone-App für zwei. Kostenloser Download. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

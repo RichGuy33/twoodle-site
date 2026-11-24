@@ -49,7 +49,7 @@ Schick etwas Kleines und Konkretes (zwei Zeilen, ein Foto vom Gebäck, eine Zeic
 
 Wir machen Twoodle, eine iPhone-App für Paare, die Zeichnungen auf das Home-Bildschirm-Widget deines Partners schickt. Für die schnellen Verbindungs-Ideen oben heißt das: Du zeichnest in ein paar Sekunden etwas, und dein Partner sieht es, sobald er das nächste Mal aufs Handy schaut, ohne eine App zu öffnen. Außerdem gibt es das Love-Note-Widget für eine kurze Nachricht und das Days-Together-Widget auf dem Sperrbildschirm, damit der Zähler im Blick bleibt. Und eine Stimmungsfunktion für Tage, an denen dir die Worte fehlen.
 
-Ehrlich gesagt: Zeichnungen erscheinen im Widget auf dem Home-Bildschirm, nicht auf dem Sperrbildschirm, und Twoodle gibt es nur für das iPhone (iOS 18 oder neuer). Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 $ pro Woche (3 Tage Test) oder 49,99 $ pro Jahr, für beide Partner. Das sind US-App-Store-Preise und können in deinem Land abweichen, schau also im App Store nach. Für die anderen Ideen in dieser Liste brauchst du keine App, und für einen längeren Anruf reicht jede Video-App.
+Ehrlich gesagt: Zeichnungen erscheinen im Widget auf dem Home-Bildschirm, nicht auf dem Sperrbildschirm, und die iPhone-App braucht iOS 18 oder neuer (seit November 2026 gibt es Twoodle auch für Android). Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 $ pro Woche (3 Tage Test) oder 39,99 $ pro Jahr, für beide Partner. Das sind US-App-Store-Preise und können in deinem Land abweichen, schau also im App Store nach. Für die anderen Ideen in dieser Liste brauchst du keine App, und für einen längeren Anruf reicht jede Video-App.
 
 ## Eine Sache, die du lassen solltest
 
@@ -73,7 +73,7 @@ Meistens ja, in einem ruhigen Moment und ohne Vorwurf. „Ich hab einen Vermiss-
 
 ### Gibt es Twoodle für Android?
 
-Nein. Twoodle gibt es nur für das iPhone, ab iOS 18.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 > **Schick das Kleine** Zeichnungen, Notizen und Stimmungen in einer iPhone-App für zwei. Kostenlos zu laden. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

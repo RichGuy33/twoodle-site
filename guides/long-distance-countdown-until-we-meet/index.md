@@ -49,11 +49,11 @@ Counting down is one way to handle the ache. For the rest of the bad evenings, t
 
 - **No date yet.** If you don't know when you'll meet, a countdown can sting. Use a "days together" count instead, or set a date to decide the date.
 - **One of you finds it stressful.** Some people count better in weeks than days. Ask which feels kinder.
-- **You use Android.** Twoodle is iPhone only, iOS 18 or later. Any generic countdown app will do the job.
+- **You use Android.** Twoodle launched on Android in November 2026; check the Google Play listing to see whether it includes the countdown features described here. Any generic countdown app will do the job.
 
 ## Do you need Twoodle for this?
 
-No. A Calendar alert does the core job for free. We built Twoodle's important dates and widgets so the countdown lives next to the doodles, moods and notes you already send. Twoodle is free to download; Twoodle Pro unlocks pairing, with $3.99 per week (3-day trial) or $49.99 per year, one subscription covering both partners. Check the App Store for current pricing.
+No. A Calendar alert does the core job for free. We built Twoodle's important dates and widgets so the countdown lives next to the doodles, moods and notes you already send. Twoodle is free to download; Twoodle Pro unlocks pairing, with $3.99 per week (3-day trial) or $39.99 per year, one subscription covering both partners. Check the App Store for current pricing.
 
 For the bigger picture, see [how to stay connected in a long-distance relationship](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) and [handling time zones](https://twoodle.app/guides/long-distance-relationship-time-zones/).
 
@@ -73,7 +73,7 @@ Pick a small ritual: a daily doodle, one question a night, or a weekly video dat
 
 ### Does Twoodle work on Android?
 
-No. Twoodle is iPhone only, on iOS 18 or later.
+Yes. Twoodle launched on Android in November 2026, alongside the iPhone app (which needs iOS 18 or later). Check the Google Play listing for Android requirements and features, which may differ from the iPhone app.
 
 > **Make the waiting part of the relationship** Doodles, notes, moods and important dates in one iPhone app for two. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

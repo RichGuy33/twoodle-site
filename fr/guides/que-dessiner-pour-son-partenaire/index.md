@@ -82,7 +82,7 @@ Certains jours, un dessin est le bon réflexe. D'autres jours, vous avez des mot
 
 ## Ce qu'il faut savoir avant de commencer
 
-Twoodle n'existe que sur iPhone (iOS 18 ou plus récent). Le téléchargement est gratuit, et Twoodle Pro débloque le jumelage : 3,99 $ US par semaine avec 3 jours d'essai, ou 49,99 $ US par an, et un seul abonnement couvre vous deux. Ce sont les prix de l'App Store américain, qui peuvent varier dans votre pays. Il n'y a pas d'app Android. Pour voir toute la mise en place, lisez [comment dessiner sur les widgets de son partenaire](https://twoodle.app/fr/guides/dessiner-sur-iphone-de-son-partenaire/). Et si vous êtes à distance, notre [kit d'apps pour relation à distance](https://twoodle.app/fr/guides/meilleures-apps-relation-a-distance/) se marie très bien avec un dessin quotidien.
+Twoodle est disponible sur iPhone (iOS 18 ou plus récent) et sur Android. Le téléchargement est gratuit, et Twoodle Pro débloque le jumelage : 3,99 $ US par semaine avec 3 jours d'essai, ou 39,99 $ US par an, et un seul abonnement couvre vous deux. Ce sont les prix de l'App Store américain, qui peuvent varier dans votre pays. Pour voir toute la mise en place, lisez [comment dessiner sur les widgets de son partenaire](https://twoodle.app/fr/guides/dessiner-sur-iphone-de-son-partenaire/). Et si vous êtes à distance, notre [kit d'apps pour relation à distance](https://twoodle.app/fr/guides/meilleures-apps-relation-a-distance/) se marie très bien avec un dessin quotidien.
 
 Vous préférez les mots ? Essayez [30 mots doux courts pour votre partenaire](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais).
 

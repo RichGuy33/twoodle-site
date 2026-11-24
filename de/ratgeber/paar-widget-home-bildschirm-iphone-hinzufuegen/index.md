@@ -70,7 +70,7 @@ Wenn es trotzdem zickt, [schreib dem Support](https://twoodle.app/support/). Ein
 
 ## Was du vor dem Start wissen solltest
 
-Twoodle gibt es nur fürs iPhone (iOS 18 oder neuer), eine Android-App gibt es nicht. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 USD pro Woche mit 3 Tagen kostenloser Testphase oder 49,99 USD pro Jahr, für euch beide. Preise aus dem US-App-Store, in deinem Land können sie abweichen. In welchen Sprachen die App verfügbar ist, siehst du im App Store. Willst du erst vergleichen? Lies unseren [Überblick über Paar-Widget-Apps](https://twoodle.app/de/ratgeber/beste-paar-apps-mit-widgets-iphone/). Brauchst du etwas, das du schicken kannst, wenn alles läuft? Probier [25 Dinge, die du für deinen Partner zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
+Twoodle gibt es für das iPhone (iOS 18 oder neuer) und seit November 2026 auch für Android; diese Anleitung beschreibt die iPhone-App. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 USD pro Woche mit 3 Tagen kostenloser Testphase oder 39,99 USD pro Jahr, für euch beide. Preise aus dem US-App-Store, in deinem Land können sie abweichen. In welchen Sprachen die App verfügbar ist, siehst du im App Store. Willst du erst vergleichen? Lies unseren [Überblick über Paar-Widget-Apps](https://twoodle.app/de/ratgeber/beste-paar-apps-mit-widgets-iphone/). Brauchst du etwas, das du schicken kannst, wenn alles läuft? Probier [25 Dinge, die du für deinen Partner zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
 
 ## Häufige Fragen
 

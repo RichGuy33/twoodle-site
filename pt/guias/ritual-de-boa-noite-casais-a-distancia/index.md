@@ -50,7 +50,7 @@ Nas noites em que a saudade bate mais forte que o normal, veja nosso guia sobre 
 
 Nós fazemos o Twoodle, um app de iPhone para casais que envia desenhos para o widget da Tela de Início do parceiro. Num ritual de boa noite, isso significa que você desenha algo pequeno e seu parceiro vê na Tela de Início na próxima vez que olhar o celular, sem abrir app nenhum e sem pressão para responder. Dá para combinar com o widget de Recado de Amor para uma mensagem curta, e o widget de Dias Juntos mantém a contagem de vocês na Tela de Bloqueio.
 
-Limites, com sinceridade: os desenhos aparecem no widget da Tela de Início, não na Tela de Bloqueio, e o Twoodle é só para iPhone (iOS 18 ou posterior). O download é gratuito; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (teste de 3 dias) ou US$ 49,99 por ano, valendo para os dois. São preços da App Store dos EUA e podem variar no seu país, então confira na App Store. Todos os rituais acima funcionam sem o app também: um áudio e uma última frase combinada são de graça em qualquer app de mensagens.
+Limites, com sinceridade: os desenhos aparecem no widget da Tela de Início, não na Tela de Bloqueio, e o Twoodle está disponível para iPhone (iOS 18 ou posterior) e Android. O download é gratuito; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (teste de 3 dias) ou US$ 39,99 por ano, valendo para os dois. São preços da App Store dos EUA e podem variar no seu país, então confira na App Store. Todos os rituais acima funcionam sem o app também: um áudio e uma última frase combinada são de graça em qualquer app de mensagens.
 
 ## Perguntas frequentes
 
@@ -68,7 +68,7 @@ Não. Dormir em chamada funciona para alguns casais, mas pode prejudicar a quali
 
 ### O Twoodle funciona no Android?
 
-Não. O Twoodle é só para iPhone, com iOS 18 ou posterior.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 > **Termine o dia com um desenhinho** Desenhos, recados e humores num app de iPhone para dois. Download gratuito. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

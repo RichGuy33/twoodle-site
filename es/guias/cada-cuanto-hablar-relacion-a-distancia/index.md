@@ -67,7 +67,7 @@ Si la diferencia persiste, puede que la conversación pendiente sea más grande 
 
 ## Dónde encaja Twoodle (y dónde no)
 
-Hacemos Twoodle, una app para iPhone que envía garabatos al widget de la pantalla de inicio de tu pareja, con widgets de pantalla de bloqueo para notas de amor y días juntos. Está pensada para la señal diaria, no para la llamada larga. No sustituye a hablar, y no la necesitas para nada de esto: un mensaje va perfectamente. Twoodle es solo para iPhone (iOS 18 o posterior) y se descarga gratis; Twoodle Pro habilita el emparejamiento por 3,99 USD a la semana (3 días de prueba) o 49,99 USD al año, con una sola suscripción para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; consulta la App Store para ver el precio actual.
+Hacemos Twoodle, una app para iPhone que envía garabatos al widget de la pantalla de inicio de tu pareja, con widgets de pantalla de bloqueo para notas de amor y días juntos. Está pensada para la señal diaria, no para la llamada larga. No sustituye a hablar, y no la necesitas para nada de esto: un mensaje va perfectamente. Twoodle está disponible para iPhone (iOS 18 o posterior) y Android, y se descarga gratis; Twoodle Pro habilita el emparejamiento por 3,99 USD a la semana (3 días de prueba) o 39,99 USD al año, con una sola suscripción para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; consulta la App Store para ver el precio actual.
 
 Para saber de qué hablar cuando habléis, prueba con [30 preguntas para una relación a distancia](https://twoodle.app/es/guias/preguntas-relacion-a-distancia/).
 
@@ -87,7 +87,7 @@ Ponedle nombre sin culpar a nadie y buscad un punto medio: más gestos pequeños
 
 ### ¿Twoodle funciona en Android?
 
-No. Twoodle es solo para iPhone, con iOS 18 o posterior.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 > **Un saludo pequeño, cada día** Garabatos, notas, estados de ánimo y fechas importantes en una sola app de iPhone para dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

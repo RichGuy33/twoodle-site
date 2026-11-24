@@ -39,16 +39,16 @@ A ideia central dele, desenhar na tela de bloqueio de alguém, é o motivo de mu
 
 ## Onde o Twoodle entra
 
-O Twoodle é um app de iPhone para casais. Você desenha numa tela em branco ou sobre uma foto, envia, e aparece no widget da Tela de Início do seu par. Os widgets da Tela de Bloqueio cuidam dos recados de amor e de um contador de dias juntos, e há um widget de distância opcional. Vocês também podem compartilhar humores, mandar cutucadas e desenhar juntos ao vivo numa tela compartilhada dentro do app.
+O Twoodle é um app para casais, com versões para iPhone e Android; este guia descreve o app para iPhone. Você desenha numa tela em branco ou sobre uma foto, envia, e aparece no widget da Tela de Início do seu par. Os widgets da Tela de Bloqueio cuidam dos recados de amor e de um contador de dias juntos, e há um widget de distância opcional. Vocês também podem compartilhar humores, mandar cutucadas e desenhar juntos ao vivo numa tela compartilhada dentro do app.
 
-Dois limites honestos: os rabiscos chegam ao widget da Tela de Início, não à Tela de Bloqueio, e o Twoodle exige iOS 18 ou posterior.
+Dois limites honestos: os rabiscos chegam ao widget da Tela de Início, não à Tela de Bloqueio, e o app para iPhone exige iOS 18 ou posterior.
 
 > **Quer a versão só para casais?** Download grátis. Uma assinatura do Twoodle Pro cobre vocês dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
 ## Quando um app no estilo noteit é a melhor escolha
 
 - **Você quer incluir amigos.** As fichas do bff e do Love Drawing mencionam amigos. O Twoodle é feito para dois.
-- **Seu celular tem um iOS mais antigo.** O Twoodle exige iOS 18 ou posterior; as fichas no estilo noteit que lemos pedem iOS 13 ou 15.
+- **Seu celular tem um iOS mais antigo.** O app para iPhone do Twoodle exige iOS 18 ou posterior; as fichas no estilo noteit que lemos pedem iOS 13 ou 15.
 - **Você gosta de sequências.** O bff widget tem. O Twoodle não tem sequências.
 - **Você quer uma opção vitalícia.** A ficha do Love Drawing mostra uma. O Twoodle Pro é semanal ou anual.
 
@@ -65,8 +65,8 @@ Dois limites honestos: os rabiscos chegam ao widget da Tela de Início, não à 
 | Desenhar num widget | Sim | Sim, widget da Tela de Início |
 | Widgets da Tela de Bloqueio | Não aparecem nas fichas que lemos | Recado de amor, Dias juntos e Distância opcional |
 | Voltado para | Amigos e casais, conforme o app | Casais |
-| Plataformas | iPhone | Só iPhone, iOS 18 ou posterior |
-| Preço | Grátis com compras no app; varia conforme o app | Download grátis; Pro US$ 3,99/semana (3 dias de teste) ou US$ 49,99/ano, para os dois (preços da App Store dos EUA, podem variar no seu país) |
+| Plataformas | iPhone | iPhone (iOS 18 ou posterior) e Android |
+| Preço | Grátis com compras no app; varia conforme o app | Download grátis; Pro US$ 3,99/semana (3 dias de teste) ou US$ 39,99/ano, para os dois (preços da App Store dos EUA, podem variar no seu país) |
 
 Comparando mais apps? Veja os [melhores apps de widgets para casais no iPhone](https://twoodle.app/pt/guias/melhores-apps-de-widgets-para-casais/), nosso guia de [alternativas ao Couple Joy](https://twoodle.app/pt/guias/alternativa-ao-couple-joy/) ou a [alternativa ao Lovebox sem aparelho](https://twoodle.app/pt/guias/alternativa-ao-lovebox/).
 
@@ -80,11 +80,11 @@ Não. O iOS não permite. Os apps usam widgets. No Twoodle, os rabiscos vão par
 
 ### O Twoodle existe para Android?
 
-Não. Só iPhone.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 ### Quanto custa o Twoodle Pro?
 
-US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 49,99 por ano, cobrindo os dois. São preços da App Store dos EUA e podem variar no seu país; confira na página da App Store.
+US$ 3,99 por semana com 3 dias de teste grátis, ou US$ 39,99 por ano, cobrindo os dois. São preços da App Store dos EUA e podem variar no seu país; confira na página da App Store.
 
 > **Envie o seu primeiro rabisco** Boneco palito é aceito sem problema. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

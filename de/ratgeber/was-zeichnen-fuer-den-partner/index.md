@@ -82,7 +82,7 @@ An manchen Tagen ist eine Zeichnung genau richtig. An anderen hast du Worte. In 
 
 ## Was du vor dem Start wissen solltest
 
-Twoodle gibt es nur für das iPhone (ab iOS 18). Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 US-Dollar pro Woche mit 3 Tagen Testphase oder 49,99 US-Dollar pro Jahr, und ein Abo deckt euch beide ab. Das sind Preise aus dem US-App-Store und können in deinem Land abweichen. Eine Android-App gibt es nicht. Wenn du den ganzen Ablauf sehen willst, lies [wie das Zeichnen auf den Widgets deines Partners funktioniert](https://twoodle.app/de/ratgeber/auf-sperrbildschirm-des-partners-zeichnen/). Und wenn ihr eine Fernbeziehung führt, passt unser [Apps-Set für die Fernbeziehung](https://twoodle.app/de/ratgeber/beste-apps-fernbeziehung/) gut zu einer täglichen Kritzelei.
+Twoodle gibt es für das iPhone (ab iOS 18) und seit November 2026 auch für Android. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 US-Dollar pro Woche mit 3 Tagen Testphase oder 39,99 US-Dollar pro Jahr, und ein Abo deckt euch beide ab. Das sind Preise aus dem US-App-Store und können in deinem Land abweichen. Wenn du den ganzen Ablauf sehen willst, lies [wie das Zeichnen auf den Widgets deines Partners funktioniert](https://twoodle.app/de/ratgeber/auf-sperrbildschirm-des-partners-zeichnen/). Und wenn ihr eine Fernbeziehung führt, passt unser [Apps-Set für die Fernbeziehung](https://twoodle.app/de/ratgeber/beste-apps-fernbeziehung/) gut zu einer täglichen Kritzelei.
 
 Lieber Worte? Probier [30 kurze Liebesnotizen für deinen Partner](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch).
 

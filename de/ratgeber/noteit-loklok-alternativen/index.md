@@ -65,8 +65,8 @@ Zwei ehrliche Grenzen: Die Kritzeleien landen auf dem Home-Bildschirm-Widget, ni
 | Zeichnen auf ein Widget | Ja | Ja, Home-Bildschirm-Widget |
 | Sperrbildschirm-Widgets | In den gelesenen Einträgen nicht genannt | Liebesnotiz, Tage zusammen, optional Entfernung |
 | Zielgruppe | Freunde und Paare, je nach App | Paare |
-| Plattformen | iPhone | Nur iPhone, iOS 18 oder neuer |
-| Preis | Kostenlos mit In-App-Käufen; je nach App verschieden | Kostenloser Download; Pro 3,99 USD/Woche (3 Tage Test) oder 49,99 USD/Jahr, für beide (US-App-Store-Preise, können in deinem Land abweichen) |
+| Plattformen | iPhone | iPhone (iOS 18 oder neuer) und Android (seit November 2026) |
+| Preis | Kostenlos mit In-App-Käufen; je nach App verschieden | Kostenloser Download; Pro 3,99 USD/Woche (3 Tage Test) oder 39,99 USD/Jahr, für beide (US-App-Store-Preise, können in deinem Land abweichen) |
 
 Du vergleichst weitere Apps? Lies die [besten Paar-Widget-Apps fürs iPhone](https://twoodle.app/de/ratgeber/beste-paar-apps-mit-widgets-iphone/), unseren Ratgeber zu [Couple-Joy-Alternativen](https://twoodle.app/de/ratgeber/couple-joy-alternative/) oder die [Lovebox-Alternative ohne Hardware](https://twoodle.app/de/ratgeber/lovebox-alternative/).
 
@@ -80,11 +80,11 @@ Nein. iOS erlaubt das nicht. Apps nutzen Widgets. In Twoodle gehen die Kritzelei
 
 ### Gibt es Twoodle für Android?
 
-Nein. Nur iPhone.
+Ja. Twoodle ist im November 2026 auch für Android erschienen, neben der iPhone-App (die iOS 18 oder neuer braucht). Schau im Google-Play-Eintrag nach den Anforderungen und Funktionen unter Android, die sich von der iPhone-App unterscheiden können.
 
 ### Was kostet Twoodle Pro?
 
-3,99 USD pro Woche mit 3 Tagen kostenlosem Test oder 49,99 USD pro Jahr, für euch beide. Das sind US-App-Store-Preise, sie können in deinem Land abweichen; schau auf der App-Store-Seite nach.
+3,99 USD pro Woche mit 3 Tagen kostenlosem Test oder 39,99 USD pro Jahr, für euch beide. Das sind US-App-Store-Preise, sie können in deinem Land abweichen; schau auf der App-Store-Seite nach.
 
 > **Schick deine erste Kritzelei** Strichmännchen werden uneingeschränkt akzeptiert. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

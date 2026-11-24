@@ -25,7 +25,7 @@ iOS won't let one person draw onto another person's phone. Apple isn't going to 
 
 What *does* work is an app that syncs your drawing to a **widget** on your partner's iPhone. You both install the same app, pair up, and whatever you send shows up on their screen.
 
-Full disclosure: we make Twoodle, one of the apps that does this, so the steps below use it. It's iPhone only and needs iOS 18 or later.
+Full disclosure: we make Twoodle, one of the apps that does this, so the steps below use it. These steps are for the iPhone app, which needs iOS 18 or later (Twoodle is also on Android now).
 
 ## What you need
 
@@ -88,8 +88,8 @@ Here's the part that trips people up. Doodles go to the Home Screen. The Lock Sc
 ## Things worth knowing before you get attached
 
 - **It isn't instant.** iOS decides when a widget redraws, so there can be a short delay after your partner sends something. Not a bug, just iPhones being iPhones.
-- **It's iPhone only for now.** If your partner is on Android, this won't work for you yet. Sorry. We feel it too.
-- **Pairing needs Twoodle Pro.** It's $3.99/week with a 3-day free trial, or $49.99/year, and it covers both of you.
+- **Android is new.** Twoodle launched on Android in November 2026, but these steps are for the iPhone app. If one of you is on iPhone and the other on Android, check the store listings to confirm pairing between the two is supported before you both commit.
+- **Pairing needs Twoodle Pro.** It's $3.99/week with a 3-day free trial, or $39.99/year, and it covers both of you.
 
 ## Other apps that do something similar
 

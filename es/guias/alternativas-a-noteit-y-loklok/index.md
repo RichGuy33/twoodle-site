@@ -65,8 +65,8 @@ Dos límites sinceros: los garabatos llegan al widget de la pantalla de inicio, 
 | Dibujar en un widget | Sí | Sí, widget de la pantalla de inicio |
 | Widgets de pantalla de bloqueo | No aparecen en las fichas que leímos | Nota de amor, Días juntos y Distancia opcional |
 | Dirigida a | Amigos y parejas, según la app | Parejas |
-| Plataformas | iPhone | Solo iPhone, iOS 18 o posterior |
-| Precio | Gratis con compras integradas; varía según la app | Descarga gratis; Pro 3,99 USD/semana (3 días de prueba) o 49,99 USD/año, para los dos (precios de la App Store de EE. UU., pueden variar en tu país) |
+| Plataformas | iPhone | iPhone (iOS 18 o posterior) y Android |
+| Precio | Gratis con compras integradas; varía según la app | Descarga gratis; Pro 3,99 USD/semana (3 días de prueba) o 39,99 USD/año, para los dos (precios de la App Store de EE. UU., pueden variar en tu país) |
 
 ¿Comparando más apps? Mira las [mejores apps de widgets para parejas en iPhone](https://twoodle.app/es/guias/mejores-apps-widgets-para-parejas/), nuestra guía de [alternativas a Couple Joy](https://twoodle.app/es/guias/alternativa-a-couple-joy/) o la [alternativa a Lovebox sin aparato](https://twoodle.app/es/guias/alternativa-a-lovebox-sin-aparato/).
 
@@ -80,11 +80,11 @@ No. iOS no lo permite. Las apps usan widgets. En Twoodle, los garabatos van al w
 
 ### ¿Twoodle está en Android?
 
-No. Solo iPhone.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 ### ¿Cuánto cuesta Twoodle Pro?
 
-3,99 USD a la semana con 3 días de prueba gratis, o 49,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; mira la ficha de la App Store.
+3,99 USD a la semana con 3 días de prueba gratis, o 39,99 USD al año, para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; mira la ficha de la App Store.
 
 > **Envía tu primer garabato** Los monigotes se aceptan sin problema. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

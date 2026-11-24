@@ -67,7 +67,7 @@ Se a diferença continuar, talvez a conversa seja maior que a frequência, e val
 
 ## Onde o Twoodle entra (e onde não entra)
 
-Nós fazemos o Twoodle, um app para iPhone que envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Ele foi feito para o sinal diário, não para a ligação longa. Não substitui conversar, e você não precisa dele para nada disso: uma mensagem resolve. O Twoodle é só para iPhone (iOS 18 ou posterior) e o download é gratuito; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (3 dias de teste) ou US$ 49,99 por ano, com uma assinatura cobrindo os dois. São preços da App Store dos EUA e podem variar no seu país; confira o preço atual na App Store.
+Nós fazemos o Twoodle, um app para iPhone que envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Ele foi feito para o sinal diário, não para a ligação longa. Não substitui conversar, e você não precisa dele para nada disso: uma mensagem resolve. O Twoodle é só para iPhone (iOS 18 ou posterior) e o download é gratuito; o Twoodle Pro libera o pareamento por US$ 3,99 por semana (3 dias de teste) ou US$ 39,99 por ano, com uma assinatura cobrindo os dois. São preços da App Store dos EUA e podem variar no seu país; confira o preço atual na App Store.
 
 Para ter o que dizer quando vocês conversarem, experimente as [30 perguntas para relacionamento à distância](https://twoodle.app/pt/guias/perguntas-relacionamento-a-distancia/).
 
@@ -87,7 +87,7 @@ Falem disso sem culpar ninguém e busquem um meio-termo: mais gestos pequenos de
 
 ### O Twoodle funciona no Android?
 
-Não. O Twoodle é só para iPhone, com iOS 18 ou posterior.
+Sim. O Twoodle chegou ao Android em novembro de 2026, junto com o app para iPhone (que exige iOS 18 ou posterior). Confira a página do Google Play para ver os requisitos e recursos no Android, que podem ser diferentes dos do app para iPhone.
 
 > **Um oizinho pequeno, todo dia** Desenhos, recados, humores e datas importantes em um só app de iPhone para dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

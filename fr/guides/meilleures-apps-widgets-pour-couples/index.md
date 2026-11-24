@@ -26,7 +26,7 @@ Voici donc la réponse courte. Si vous voulez un compteur, prenez une app de com
 | CoupleLink | Journal, agenda, humeur et un animal partagé | Écran d'accueil | Gratuit avec 7 jours d'essai ; Premium à partir de 2,99 USD/mois |
 | Loveya | Six types de widgets sur l'écran d'accueil et l'écran verrouillé | Écran d'accueil et écran verrouillé | Gratuit ; Premium 9,99 USD/mois ou 29,99 USD/an |
 | iFeely | Humeur, distance et défis de pas | Écran d'accueil et écran verrouillé | Gratuit ; Premium 4,99 USD/mois ou 39,99 USD/an |
-| Twoodle | Des doodles sur le widget d'écran d'accueil de votre partenaire | Doodles sur l'écran d'accueil ; mots doux et compteurs sur l'écran verrouillé | Gratuit ; Pro 3,99 USD/semaine (3 jours d'essai) ou 49,99 USD/an |
+| Twoodle | Des doodles sur le widget d'écran d'accueil de votre partenaire | Doodles sur l'écran d'accueil ; mots doux et compteurs sur l'écran verrouillé | Gratuit ; Pro 3,99 USD/semaine (3 jours d'essai) ou 39,99 USD/an |
 
 Prix de l'App Store américain, susceptibles de varier dans votre pays.
 
@@ -64,7 +64,7 @@ iFeely mise sur des widgets d'humeur et de distance en temps réel sur l'écran 
 
 Twoodle est une app iPhone pour couples qui envoie des doodles sur le widget d'écran d'accueil de votre partenaire. Vous dessinez sur un canevas vierge ou sur une photo, vous envoyez, et ça apparaît sur son widget. Les widgets d'écran verrouillé portent des mots doux et vos jours ensemble, et l'app inclut un canevas « dessiner ensemble » en direct. Elle propose aussi humeurs, bulles de distance, petits signes, une galerie et des dates importantes.
 
-**Point fort :** le dessin est la vedette. Les doodles vont uniquement sur le widget d'écran d'accueil, pas sur l'écran verrouillé. Pas d'inscription, pas de pubs, pas de vente de données, pas de suivi entre apps. Un seul abonnement Twoodle Pro couvre les deux. **Point faible :** elle est réservée à l'iPhone (iOS 18 ou plus), à 49,99 USD par an le Pro coûte plus cher que plusieurs apps de cette liste, et si vous voulez juste un compteur de jours, c'est plus qu'il ne vous en faut.
+**Point fort :** le dessin est la vedette. Les doodles vont uniquement sur le widget d'écran d'accueil, pas sur l'écran verrouillé. Pas d'inscription, pas de pubs, pas de vente de données, pas de suivi entre apps. Un seul abonnement Twoodle Pro couvre les deux. **Point faible :** elle est disponible sur iPhone (iOS 18 ou plus) et sur Android, à 39,99 USD par an le Pro coûte plus cher que Couple Widgets et Loveya en abonnement annuel (et autant qu'iFeely), et si vous voulez juste un compteur de jours, c'est plus qu'il ne vous en faut.
 
 Vous montez tout un dispositif pour la distance, pas seulement un widget ? Voyez notre guide des [meilleures apps pour couples à distance](https://twoodle.app/fr/guides/meilleures-apps-relation-a-distance/).
 
@@ -103,7 +103,7 @@ Couple Widgets et CoupleLink sont construites autour de compteurs de jours et d'
 
 Oui, dans plusieurs apps. Lovebox, Loveya et Twoodle mentionnent des fonctions de dessin ou d'écriture manuscrite. Dans Twoodle, les doodles apparaissent sur le widget d'écran d'accueil de votre partenaire, pas sur l'écran verrouillé.
 
-> **Envoyez un gribouillis ce soir** Téléchargement gratuit. Un seul abonnement Twoodle Pro couvre les deux. iPhone uniquement (iOS 18 ou plus). [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+> **Envoyez un gribouillis ce soir** Téléchargement gratuit. Un seul abonnement Twoodle Pro couvre les deux. Disponible sur iPhone (iOS 18 ou plus) et sur Android. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
 **P.-S.** si vous avez lu les six et que vous hésitez encore, [téléchargez Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881), dessinez un truc ridicule et regardez si votre partenaire rit. C'est tout le test.
 

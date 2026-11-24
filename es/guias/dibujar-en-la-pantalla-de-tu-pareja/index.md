@@ -9,7 +9,7 @@ publisher: Taking Flight, Inc.
 
 Por el equipo de Twoodle · noviembre de 2026
 
-> **Divulgación:** hacemos Twoodle, una de las apps que hacen esto, así que los pasos de abajo usan Twoodle. Es solo para iPhone y requiere iOS 18 o posterior.
+> **Divulgación:** hacemos Twoodle, una de las apps que hacen esto, así que los pasos de abajo usan Twoodle. Está disponible para iPhone (iOS 18 o posterior) y Android; los pasos describen la app para iPhone.
 
 Imagina esto: estás en el trabajo, tu pareja al otro lado de la ciudad, y quieres decirle «hola, me gustas» sin mandar otro «oye, pensando en ti» que suena a SMS del banco.
 
@@ -27,7 +27,7 @@ iOS no deja que una persona dibuje en el móvil de otra. Apple no va a darle ese
 
 Lo que *sí* funciona es una app que sincroniza tu dibujo con un **widget** en el iPhone de tu pareja. Los dos instaláis la misma app, os emparejáis, y lo que envíes aparece en su pantalla.
 
-Transparencia total: hacemos Twoodle, una de las apps que lo hacen, así que los pasos usan Twoodle. Es solo para iPhone y necesita iOS 18 o posterior.
+Transparencia total: hacemos Twoodle, una de las apps que lo hacen, así que los pasos usan Twoodle. Está disponible para iPhone (iOS 18 o posterior) y Android; los pasos describen la app para iPhone.
 
 ## Qué necesitas
 
@@ -90,8 +90,8 @@ Esta es la parte que confunde a la gente. Los garabatos van a la pantalla de ini
 ## Lo que conviene saber antes de encariñarte
 
 - **No es instantáneo.** iOS decide cuándo se redibuja un widget, así que puede haber un pequeño retraso después de que tu pareja envíe algo. No es un fallo, son cosas de iPhone.
-- **Por ahora es solo para iPhone.** Si tu pareja usa Android, esto no te sirve todavía. Lo sentimos; a nosotros también nos duele.
-- **Emparejar requiere Twoodle Pro.** Cuesta 3,99 USD por semana con 3 días de prueba gratis, o 49,99 USD al año, y cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país. Revisa en la App Store los idiomas en los que está disponible la app.
+- **Los pasos describen la app para iPhone.** Twoodle llegó también a Android en noviembre de 2026; si uno de los dos usa Android, comprobad en las fichas de las tiendas que el emparejamiento entre un iPhone y un Android esté soportado antes de que paguéis.
+- **Emparejar requiere Twoodle Pro.** Cuesta 3,99 USD por semana con 3 días de prueba gratis, o 39,99 USD al año, y cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país. Revisa en la App Store los idiomas en los que está disponible la app.
 
 ## Otras apps que hacen algo parecido
 
@@ -117,7 +117,7 @@ Sí. En Twoodle te emparejas con una pareja mediante un código de invitación, 
 
 ### ¿Funciona en Android?
 
-Por ahora Twoodle es solo para iPhone y requiere iOS 18 o posterior.
+Sí. Twoodle llegó a Android en noviembre de 2026, junto a la app para iPhone (que requiere iOS 18 o posterior). Consulta la ficha de Google Play para ver los requisitos y funciones en Android, que pueden diferir de los de la app para iPhone.
 
 ### ¿Por qué el widget no se actualiza al momento?
 

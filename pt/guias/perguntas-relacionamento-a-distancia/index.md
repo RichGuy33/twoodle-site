@@ -88,7 +88,7 @@ Para a rotina completa, veja [como manter a conexão sem mandar mensagem o dia t
 
 ## Onde o Twoodle entra (e onde não entra)
 
-O Twoodle não é um app de perguntas, um chat nem um terapeuta. É um app para iPhone (iOS 18 ou superior) que envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Um check-in diário pode ser tão pequeno quanto o desenho do sanduíche que você acabou de fazer, ou uma pergunta de uma linha num Recado de amor. Não existe versão para Android. O download é gratuito e o Twoodle Pro libera o pareamento: US$ 3,99 por semana com 3 dias de teste, ou US$ 49,99 por ano, valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira na App Store os idiomas em que o app está disponível. Sem saber o que desenhar? Veja [25 coisas para rabiscar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/). Precisa de palavras? Veja [30 recados de amor curtos](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês).
+O Twoodle não é um app de perguntas, um chat nem um terapeuta. É um app disponível para iPhone (iOS 18 ou superior) e Android; no iPhone, ele envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Um check-in diário pode ser tão pequeno quanto o desenho do sanduíche que você acabou de fazer, ou uma pergunta de uma linha num Recado de amor. O Twoodle chegou ao Android em novembro de 2026; confira a página do Google Play para ver os requisitos e recursos. O download é gratuito e o Twoodle Pro libera o pareamento: US$ 3,99 por semana com 3 dias de teste, ou US$ 39,99 por ano, valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira na App Store os idiomas em que o app está disponível. Sem saber o que desenhar? Veja [25 coisas para rabiscar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/). Precisa de palavras? Veja [30 recados de amor curtos](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês).
 
 ## Perguntas frequentes
 
@@ -106,7 +106,7 @@ Pergunte coisas pequenas e concretas: algo que irritou a pessoa hoje, algo que e
 
 ### O Twoodle ajuda nas conversas à distância?
 
-O Twoodle é um app só para iPhone (iOS 18 ou superior) que envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Não é um gerador de perguntas, mas um desenho ou um Recado de amor pode levar uma perguntinha entre as chamadas. O download é gratuito; o pareamento exige o Twoodle Pro, que cobre os dois.
+O Twoodle é um app para casais, disponível para iPhone (iOS 18 ou superior) e Android; no iPhone, ele envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Não é um gerador de perguntas, mas um desenho ou um Recado de amor pode levar uma perguntinha entre as chamadas. O download é gratuito; o pareamento exige o Twoodle Pro, que cobre os dois.
 
 > **Mande a primeira pergunta hoje** Download gratuito. Uma assinatura do Twoodle Pro cobre os dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

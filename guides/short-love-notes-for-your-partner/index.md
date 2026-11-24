@@ -90,7 +90,7 @@ If you're apart, notes pair well with a plan for the week; see [how to stay conn
 
 ## Where Twoodle fits (and where it doesn't)
 
-Twoodle is an iPhone app (iOS 18 or later) for couples. It sends doodles to your partner's Home Screen widget, and has Lock Screen widgets for love notes and days together. It is not a messaging app, there's no Android version, and doodles don't go to the Lock Screen. It's free to download; Twoodle Pro unlocks pairing at $3.99 per week with a 3-day free trial, or $49.99 per year, covering both of you. Comparing options? See the [best couples widget apps for iPhone](https://twoodle.app/guides/best-apps-for-couples-widgets/).
+Twoodle is an iPhone app (iOS 18 or later) for couples. It sends doodles to your partner's Home Screen widget, and has Lock Screen widgets for love notes and days together. It is not a messaging app, and doodles don't go to the Lock Screen. Twoodle is also available on Android. It's free to download; Twoodle Pro unlocks pairing at $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. Comparing options? See the [best couples widget apps for iPhone](https://twoodle.app/guides/best-apps-for-couples-widgets/).
 
 ## FAQ
 
@@ -104,11 +104,11 @@ One to two sentences is plenty for a note read on a phone screen. Save longer th
 
 ### Can I put a love note on my partner's iPhone Lock Screen?
 
-With Twoodle, the Love Note widget can sit on your Lock Screen or Home Screen. Twoodle is iPhone-only (iOS 18+). Doodles go to the partner's Home Screen widget, not the Lock Screen.
+With Twoodle, the Love Note widget can sit on your Lock Screen or Home Screen. The iPhone app needs iOS 18 or later, and Twoodle is also available on Android. Doodles go to the partner's Home Screen widget, not the Lock Screen.
 
 ### Does Twoodle cost money?
 
-Twoodle is free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $49.99 per year, and one subscription covers both partners.
+Twoodle is free to download. Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, and one subscription covers both partners.
 
 > **Send one tonight** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

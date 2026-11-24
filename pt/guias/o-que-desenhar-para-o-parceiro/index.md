@@ -82,7 +82,7 @@ Tem dia em que um desenho é a resposta. Em outros você tem palavras. No Twoodl
 
 ## O que saber antes de começar
 
-O Twoodle é só para iPhone (iOS 18 ou mais recente). O download é gratuito, e o Twoodle Pro libera o pareamento: US$ 3,99 por semana com 3 dias de teste, ou US$ 49,99 por ano, e uma assinatura vale para os dois. São preços da App Store dos EUA e podem variar no seu país. Não existe app para Android. Se quiser ver o passo a passo completo, leia [como funciona desenhar nos widgets do seu parceiro](https://twoodle.app/pt/guias/desenhar-na-tela-do-iphone-do-parceiro/). E se vocês namoram à distância, nosso [kit de apps para relacionamento à distância](https://twoodle.app/pt/guias/melhores-apps-relacionamento-a-distancia/) combina muito bem com um rabisco por dia.
+O Twoodle está disponível para iPhone (iOS 18 ou mais recente) e Android. O download é gratuito, e o Twoodle Pro libera o pareamento: US$ 3,99 por semana com 3 dias de teste, ou US$ 39,99 por ano, e uma assinatura vale para os dois. São preços da App Store dos EUA e podem variar no seu país. Se quiser ver o passo a passo completo, leia [como funciona desenhar nos widgets do seu parceiro](https://twoodle.app/pt/guias/desenhar-na-tela-do-iphone-do-parceiro/). E se vocês namoram à distância, nosso [kit de apps para relacionamento à distância](https://twoodle.app/pt/guias/melhores-apps-relacionamento-a-distancia/) combina muito bem com um rabisco por dia.
 
 Prefere palavras? Experimente [30 recados de amor curtos para o seu parceiro](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês).
 

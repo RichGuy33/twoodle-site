@@ -65,8 +65,8 @@ Deux limites honnêtes : les dessins arrivent sur le widget de l'écran d'accuei
 | Dessin vers un widget | Oui | Oui, widget de l'écran d'accueil |
 | Widgets de l'écran verrouillé | Non mentionnés dans les fiches lues | Petit mot, Jours ensemble, Distance en option |
 | Public visé | Amis et couples, selon l'app | Couples |
-| Plateformes | iPhone | iPhone uniquement, iOS 18 ou ultérieur |
-| Prix | Gratuit avec achats intégrés ; varie selon l'app | Téléchargement gratuit ; Pro 3,99 USD/semaine (3 jours d'essai) ou 49,99 USD/an, pour les deux (prix de l'App Store américain, variables selon le pays) |
+| Plateformes | iPhone | iPhone (iOS 18 ou ultérieur) et Android |
+| Prix | Gratuit avec achats intégrés ; varie selon l'app | Téléchargement gratuit ; Pro 3,99 USD/semaine (3 jours d'essai) ou 39,99 USD/an, pour les deux (prix de l'App Store américain, variables selon le pays) |
 
 Vous comparez d'autres apps ? Voyez les [meilleures apps de widgets pour couples sur iPhone](https://twoodle.app/fr/guides/meilleures-apps-widgets-pour-couples/), notre guide des [alternatives à Couple Joy](https://twoodle.app/fr/guides/alternative-a-couple-joy/) ou l'[alternative à Lovebox sans boîtier](https://twoodle.app/fr/guides/alternative-lovebox-sans-boitier/).
 
@@ -80,11 +80,11 @@ Non. iOS ne le permet pas. Les apps passent par des widgets. Dans Twoodle, les d
 
 ### Twoodle existe-t-il sur Android ?
 
-Non. iPhone uniquement.
+Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone (qui demande iOS 18 ou version ultérieure). Consultez la fiche Google Play pour connaître la configuration requise et les fonctions sur Android, qui peuvent différer de celles de l'app iPhone.
 
 ### Combien coûte Twoodle Pro ?
 
-3,99 USD par semaine avec 3 jours d'essai gratuit, ou 49,99 USD par an, pour vous deux. Ce sont les prix de l'App Store américain, ils peuvent varier selon votre pays ; consultez la fiche App Store.
+3,99 USD par semaine avec 3 jours d'essai gratuit, ou 39,99 USD par an, pour vous deux. Ce sont les prix de l'App Store américain, ils peuvent varier selon votre pays ; consultez la fiche App Store.
 
 > **Envoyez votre premier dessin** Les bonshommes bâtons sont acceptés sans réserve. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
