@@ -4,6 +4,8 @@
 
 App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881
 
+Google Play: https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US
+
 Each guide is available as plain Markdown (same content as the HTML page) by appending index.md to its URL.
 
 ## Video

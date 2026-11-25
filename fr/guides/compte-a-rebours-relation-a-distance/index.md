@@ -68,6 +68,7 @@ Oui. Twoodle est arrivé sur Android en novembre 2026, à côté de l'app iPhone
 Faites de l'attente une partie de la relation
 Dessins, mots doux, humeurs et dates importantes dans une seule app iPhone pour deux.
 [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+[Disponible sur Google Play](https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US)
 
 **P.-S.** Fixez la date ce soir, envoyez-lui le chiffre et comptez moins de trente secondes avant sa réponse. [Téléchargez Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881) si vous le voulez sur votre écran d'accueil.
 [← Tous les guides](https://twoodle.app/fr/guides/)

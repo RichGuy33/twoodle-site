@@ -15,28 +15,29 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else "."
 SITE = "https://twoodle.app"
 TODAY = datetime.date.today().isoformat()
 APP = "https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881"
+PLAY = "https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&amp;hl=en_US"
 
 # folder = URL segment that replaces "guides" in each language
 LANGS = {
- "es": dict(name="Español", locale="es", folder="guias", og="es_ES",
+ "es": dict(name="Español", play="Disponible en Google Play", locale="es", folder="guias", og="es_ES",
    guides="Guías", support="Soporte", privacy="Privacidad", terms="Términos", all="Todas las guías",
    by="Por el equipo de Twoodle", disc="Divulgación", read="Leer la guía", btn="Descargar Twoodle", faq="Preguntas frecuentes",
    foot="Hecho con cariño, para dos.", idx_title="Guías para parejas | Twoodle", idx_h1="Guías para <em>parejas</em>",
    idx_lead="Guías prácticas del equipo de Twoodle.", idx_desc="Guías prácticas para parejas, sobre todo a distancia, del equipo de Twoodle.",
    month="noviembre de 2026", ps="P. D.", more="Otros idiomas", en_note=" (en inglés)"),
- "pt": dict(name="Português", locale="pt", folder="guias", og="pt_BR",
+ "pt": dict(name="Português", play="Disponível no Google Play", locale="pt", folder="guias", og="pt_BR",
    guides="Guias", support="Suporte", privacy="Privacidade", terms="Termos", all="Todos os guias",
    by="Pela equipe do Twoodle", disc="Transparência", read="Ler o guia", btn="Baixar o Twoodle", faq="Perguntas frequentes",
    foot="Feito com carinho, para dois.", idx_title="Guias para casais | Twoodle", idx_h1="Guias para <em>casais</em>",
    idx_lead="Guias práticos da equipe do Twoodle.", idx_desc="Guias práticos para casais, principalmente à distância, da equipe do Twoodle.",
    month="novembro de 2026", ps="P.S.", more="Outros idiomas", en_note=" (em inglês)"),
- "fr": dict(name="Français", locale="fr", folder="guides", og="fr_FR",
+ "fr": dict(name="Français", play="Disponible sur Google Play", locale="fr", folder="guides", og="fr_FR",
    guides="Guides", support="Assistance", privacy="Confidentialité", terms="Conditions", all="Tous les guides",
    by="Par l'équipe Twoodle", disc="Transparence", read="Lire le guide", btn="Télécharger Twoodle", faq="Questions fréquentes",
    foot="Fait avec amour, pour deux.", idx_title="Guides pour couples | Twoodle", idx_h1="Guides pour <em>couples</em>",
    idx_lead="Des guides pratiques par l'équipe Twoodle.", idx_desc="Guides pratiques pour les couples, surtout à distance, par l'équipe Twoodle.",
    month="novembre 2026", ps="P.-S.", more="Autres langues", en_note=" (en anglais)"),
- "de": dict(name="Deutsch", locale="de", folder="ratgeber", og="de_DE",
+ "de": dict(name="Deutsch", play="Jetzt bei Google Play", locale="de", folder="ratgeber", og="de_DE",
    guides="Ratgeber", support="Support", privacy="Datenschutz", terms="Nutzungsbedingungen", all="Alle Ratgeber",
    by="Vom Twoodle-Team", disc="Hinweis", read="Ratgeber lesen", btn="Twoodle laden", faq="Häufige Fragen",
    foot="Mit Liebe gemacht, für zwei.", idx_title="Ratgeber für Paare | Twoodle", idx_h1="Ratgeber für <em>Paare</em>",
@@ -72,7 +73,7 @@ def build_page(lang, en_slug, slug, c):
            "datePublished": TODAY, "dateModified": TODAY, "author": {"@type": "Organization", "name": "Twoodle"},
            "publisher": {"@type": "Organization", "name": "Taking Flight, Inc."}, "mainEntityOfPage": url}
     faq = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": L["locale"], "mainEntity": faq_ld}
-    def cta(t): return (f'<div class="cta">\n    <h3>{t[0]}</h3>\n    <p>{t[1]}</p>\n    <a class="btn" href="{APP}">{L["btn"]}</a>\n  </div>')
+    def cta(t): return (f'<div class="cta">\n    <h3>{t[0]}</h3>\n    <p>{t[1]}</p>\n    <a class="btn" href="{APP}">{L["btn"]}</a>\n    <a class="btn alt" href="{PLAY}">{L["play"]}</a>\n  </div>')
     faq_html = "\n".join(f"  <h3>{q}</h3>\n  <p>{a}</p>" for q, a in c["faq"])
     page = f'''<!doctype html>
 <html lang="{L["locale"]}">

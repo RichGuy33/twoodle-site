@@ -118,6 +118,7 @@ Twoodle actualise le widget quand votre partenaire envoie quelque chose, mais c'
 Envoyez le premier dessin ce soir
 Téléchargement gratuit sur iPhone. Un abonnement Twoodle Pro couvre vous deux.
 [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+[Disponible sur Google Play](https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US)
 
 **P.-S.** Pas besoin de bien dessiner. Il suffit d'être celui ou celle qui s'est donné la peine de dessiner. [Téléchargez Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881) et envoyez le premier ce soir.
 [← Tous les guides](https://twoodle.app/fr/guides/)

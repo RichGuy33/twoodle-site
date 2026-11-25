@@ -78,6 +78,7 @@ Le téléchargement de Twoodle est gratuit ; Twoodle Pro active l'appairage pour
 De la chaleur à distance, sans carton d'expédition
 Dessins, mots, humeurs et jours ensemble dans une app iPhone pour deux.
 [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
+[Disponible sur Google Play](https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US)
 
 **P.-S.** Si vous finissez avec une Lovebox, tant mieux, vraiment. Le but, c'est que quelqu'un pense à quelqu'un. [Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881) est simplement la version qui n'a pas besoin de place sur la table de chevet.
 [← Tous les guides](https://twoodle.app/fr/guides/)

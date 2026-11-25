@@ -3,6 +3,7 @@
 Site: https://twoodle.app (static HTML, no build). Repo root is the site root.
 Cloudflare Pages auto-deploys every push to `main`. App: Twoodle, a couples doodle-widget iPhone app by Taking Flight, Inc.
 App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881
+Google Play (Android, launched 2026-11-24): https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US
 
 ## The daily job: ONE new English guide per run (plus translations, see Translations below)
 1. Pick the keyword.
@@ -76,7 +77,7 @@ Self-check before pushing: read the intro aloud. If it could be pasted into any 
 - UPDATED 2026-11-24 (Jason): Twoodle is now on iPhone AND Android (Android launched 2026-11-24). The iPhone app needs iOS 18+. Do NOT write "iPhone only" or "Android is not available" in new content. Pairing across iPhone and Android: do not claim cross-platform pairing, store listing details or Android widget specifics until verified on the Google Play listing / by Jason; when unsure, say "Twoodle is available for iPhone and Android" and link the App Store (add the Google Play link once Jason provides it).
 - Price (Jason, 2026-11-24): Twoodle Pro is $39.99/year (previously $49.99/year; the old figure is outdated). Weekly option: $3.99/week with 3-day trial (re-verify). Free download; Pro unlocks pairing; one subscription covers both partners. Re-verify on the store pages before quoting prices.
 - The Home Screen/iPhone wording below ("Doodles ... Home Screen widget only", Lock Screen widgets, iOS 18+) describes the iPhone app and stays true for it.
-- DONE 2026-11-24: all published pages (en/es/pt/fr/de, home, support) updated for Android + $39.99/yr; the FAQ answer is now "Yes. Twoodle launched on Android in November 2026... check the Google Play listing". STILL TODO when Jason provides it: add the Google Play link next to the App Store CTAs and in the home SoftwareApplication markup; verify Android features and iPhone<->Android pairing, then replace the hedged "check the store listings" wording.
+- DONE 2026-11-24: all published pages (en/es/pt/fr/de, home, support) updated for Android + $39.99/yr; the FAQ answer is now "Yes. Twoodle launched on Android in November 2026... check the Google Play listing". Google Play link added 2026-11-24 (second button `class="btn alt"` next to every App Store CTA, home markup, llms.txt, scripts/i18n.py template). New pages: put both buttons in every CTA (i18n.py does it automatically for translations; copy the English CTA block with both buttons). STILL TODO: verify Android features and iPhone<->Android pairing with Jason, then replace the hedged "check the store listings" wording.
 - Doodles go to the partner's **Home Screen widget only** (not the Lock Screen). Lock Screen has widgets: Love Note (Lock or Home Screen), Days Together (Lock Screen), optional Distance widget. Live "draw together" uses a Lock-Screen-styled shared canvas inside the app.
 - Other features: Mood, Distance Bubbles, nudges, gallery, important dates. Account is auto-created (no sign-up). Delete via Settings -> Delete my account.
 - Privacy: no ads, no selling data, no cross-app tracking. Location only if the Distance widget is enabled.
