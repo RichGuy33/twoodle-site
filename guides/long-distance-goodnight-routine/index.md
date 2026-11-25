@@ -42,6 +42,8 @@ A good long-distance goodnight routine is short, the same every night, and doesn
 
 ## How to make it stick
 
+Looking for something bigger than a nightly ritual? See our [long-distance anniversary ideas](https://twoodle.app/guides/long-distance-anniversary-ideas/).
+
 Routines survive when they're cheap. Pick one or two from the list, not all ten. Decide what counts as "done" (a doodle counts; so does a single word). And give yourselves a no-guilt rule: if one of you misses a night, the next one just restarts. No scorekeeping.
 
 On the nights when missing them hits harder than usual, see our guide to [what helps when you miss your partner](https://twoodle.app/guides/missing-your-partner-long-distance/).

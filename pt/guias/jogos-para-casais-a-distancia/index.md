@@ -35,7 +35,7 @@ Se você quer um jogo em dois minutos e sem preparação, comece com **Você pre
 2. **Jogos de tabuleiro online e xadrez.** Muitos jogos de tabuleiro têm versão online gratuita que dá para jogar em abas separadas enquanto vocês conversam. Chamada de voz ligada, cara de estrategista.
 3. **Videogames cooperativos.** Se os dois jogam, um jogo cooperativo ganha de um competitivo: vocês estão no mesmo time e ninguém precisa pedir desculpa por ganhar.
 
-Quer mais para uma noite inteira? Veja nossas [ideias de encontro à distância](https://twoodle.app/guides/long-distance-date-ideas/) (em inglês).
+Quer mais para uma noite inteira? Veja nossas [ideias de encontro à distância](https://twoodle.app/pt/guias/ideias-de-encontros-a-distancia/).
 
 > **Jogue os jogos de rabisco sem precisar de chamada** Baixe grátis para iPhone. O Twoodle Pro libera o pareamento; uma assinatura cobre vocês dois. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

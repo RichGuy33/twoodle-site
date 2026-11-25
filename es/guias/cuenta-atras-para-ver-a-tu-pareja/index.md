@@ -35,7 +35,7 @@ Una cuenta atrás es una promesa con fecha. También puede convertir cada día p
 
 **Cuenta hacia arriba además de hacia abajo.** El [widget Días Juntos](https://twoodle.app/es/guias/poner-dias-de-relacion-pantalla-bloqueo-iphone/) mantiene tu total en la pantalla de bloqueo, así que el número que sube queda junto al que baja.
 
-**Planifica lo de en medio.** Las semanas entre hoy y la visita son la mayor parte de la relación. Llénalas con una llamada semanal y alguna de estas [ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
+**Planifica lo de en medio.** Las semanas entre hoy y la visita son la mayor parte de la relación. Llénalas con una llamada semanal y alguna de estas [ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 
 **Planifica también la siguiente.** Lo difícil es terminar una visita sin próxima fecha. Pon la siguiente cuenta atrás antes de despediros, aunque luego la fecha se mueva.
 
@@ -53,7 +53,7 @@ Una buena cuenta atrás termina en algo concreto. Apuntad tres cosas: lo que má
 
 No. Un aviso de Calendario hace lo esencial gratis. Creamos las fechas importantes y los widgets de Twoodle para que la cuenta atrás viva junto a los garabatos, estados de ánimo y notas que ya os mandáis. Twoodle se descarga gratis; Twoodle Pro habilita el emparejamiento, con 3,99 USD por semana (3 días de prueba) o 39,99 USD al año, con una sola suscripción para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; consulta la App Store para ver el precio actual. Mira también en la App Store los idiomas en los que está disponible la app.
 
-Para ver el panorama completo, lee [cómo mantenerse conectados en una relación a distancia](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en inglés) y [cómo manejar los husos horarios](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés).
+Para ver el panorama completo, lee [cómo mantenerse conectados en una relación a distancia](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/) y [cómo manejar los husos horarios](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés).
 
 ## Preguntas frecuentes
 

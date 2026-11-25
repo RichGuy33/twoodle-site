@@ -100,6 +100,8 @@ The best short love notes are specific and take one line: name one small thing y
 
 ### How long should a love note be?
 
+Writing for a milestone day? Our [long-distance anniversary ideas](https://twoodle.app/guides/long-distance-anniversary-ideas/) include letters and doodles.
+
 One to two sentences is plenty for a note read on a phone screen. Save longer thoughts for a letter or a call, or see [long-distance gift ideas](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) for what to mail.
 
 ### Can I put a love note on my partner's iPhone Lock Screen?

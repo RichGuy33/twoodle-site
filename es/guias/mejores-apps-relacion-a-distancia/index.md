@@ -62,9 +62,9 @@ Si quieres ver cómo se compara con otras apps de widgets, nuestro [repaso de ap
 
 Si habláis a diario, os llamáis cada semana y os sentís cerca, ya está. No añadas apps por añadir. El mejor montaje es el que los dos abrís de verdad. Dos apps usadas con gusto valen más que siete abandonadas.
 
-¿Quieres el panorama completo? Lee [cómo mantener el contacto en una relación a distancia](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en inglés).
+¿Quieres el panorama completo? Lee [cómo mantener el contacto en una relación a distancia](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/).
 
-¿Planes para los dos? Mira [20 ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
+¿Planes para los dos? Mira [20 ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 
 ## Preguntas frecuentes
 

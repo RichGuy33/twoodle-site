@@ -35,7 +35,7 @@ Ein Countdown ist ein Versprechen mit Datum. Er kann aber auch jeden Tag vor dem
 
 **Zähl auch hoch, nicht nur runter.** Das [Widget „Gemeinsame Tage“](https://twoodle.app/de/ratgeber/tage-zusammen-zaehler-sperrbildschirm-iphone/) zeigt eure Gesamtzahl auf dem Sperrbildschirm. So steht die Zahl, die steigt, neben der Zahl, die fällt.
 
-**Plan die Mitte.** Die Wochen zwischen heute und dem Besuch sind der größte Teil der Beziehung. Füll sie mit einem festen Anruf pro Woche und ein paar dieser [Date-Ideen für die Fernbeziehung](https://twoodle.app/guides/long-distance-date-ideas/) (auf Englisch).
+**Plan die Mitte.** Die Wochen zwischen heute und dem Besuch sind der größte Teil der Beziehung. Füll sie mit einem festen Anruf pro Woche und ein paar dieser [Date-Ideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/).
 
 **Plan den nächsten Besuch gleich mit.** Ein Abschied ohne nächsten Termin ist das Schwerste. Leg den nächsten Countdown an, bevor ihr euch verabschiedet, auch wenn sich das Datum später noch verschiebt.
 
@@ -53,7 +53,7 @@ Ein guter Countdown endet in etwas Konkretem. Schreibt drei Dinge auf: das eine,
 
 Nein. Eine Kalender-Erinnerung erledigt den Kern kostenlos. Wir haben die wichtigen Termine und Widgets in Twoodle gebaut, damit der Countdown neben den Zeichnungen, Stimmungen und Notizen steht, die ihr ohnehin schickt. Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 US-Dollar pro Woche (3 Tage Testzeit) oder 39,99 US-Dollar pro Jahr, ein Abo für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf die aktuellen Preise im App Store.
 
-Mehr drumherum findest du in [wie ihr in der Fernbeziehung verbunden bleibt](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (auf Englisch) und im Ratgeber zum [Umgang mit Zeitzonen](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch).
+Mehr drumherum findest du in [wie ihr in der Fernbeziehung verbunden bleibt](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/) und im Ratgeber zum [Umgang mit Zeitzonen](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch).
 
 ## Häufige Fragen
 

@@ -35,7 +35,7 @@ Wenn du in zwei Minuten und ohne Vorbereitung spielen willst, starte im Videoanr
 2. **Online-Brettspiele und Schach.** Viele Brettspiele gibt es kostenlos online, ihr spielt in getrennten Tabs und redet nebenher. Sprachanruf an, Strategen-Gesicht auf.
 3. **Kooperative Videospiele.** Wenn ihr beide zockt, schlägt Koop den Wettkampf: ihr seid im selben Team, und keiner muss sich fürs Gewinnen entschuldigen.
 
-Mehr für einen ganzen Abend? Schau in unsere [Date-Ideen für die Fernbeziehung](https://twoodle.app/guides/long-distance-date-ideas/) (auf Englisch).
+Mehr für einen ganzen Abend? Schau in unsere [Date-Ideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/).
 
 > **Kritzel-Spiele ohne Anruf** Kostenlos fürs iPhone laden. Twoodle Pro schaltet das Koppeln frei; ein Abo gilt für euch beide. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

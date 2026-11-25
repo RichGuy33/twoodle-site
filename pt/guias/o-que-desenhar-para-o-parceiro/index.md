@@ -90,9 +90,9 @@ Quer um jeito simples de fechar o dia? Experimente uma [rotina de boa-noite à d
 
 Não sabe como colocar um widget na tela? Veja [como adicionar um widget de casal no iPhone](https://twoodle.app/pt/guias/como-colocar-widget-de-casal-tela-de-inicio-iphone/).
 
-Quer o quadro completo? Leia [como manter a conexão num relacionamento à distância](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (em inglês).
+Quer o quadro completo? Leia [como manter a conexão num relacionamento à distância](https://twoodle.app/pt/guias/como-manter-conexao-relacionamento-a-distancia/).
 
-Planejando algo para os dois? Veja [20 ideias de encontros à distância](https://twoodle.app/guides/long-distance-date-ideas/) (em inglês).
+Planejando algo para os dois? Veja [20 ideias de encontros à distância](https://twoodle.app/pt/guias/ideias-de-encontros-a-distancia/).
 
 ## Perguntas frequentes
 

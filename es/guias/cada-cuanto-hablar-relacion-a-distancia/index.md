@@ -21,9 +21,9 @@ Nadie puede darte una frecuencia universal, y quien lo hace se la inventa. Lo qu
 
 1. **Una señal diaria.** Algo que lleve menos de un minuto: un buenos días, una foto, un garabato, una nota corta. Dice «he pensado en ti» sin exigir respuesta.
 2. **Unas cuantas conversaciones de verdad por semana.** Una llamada o videocita en la que los dos escucháis de verdad. Dos o tres es un punto de partida habitual, pero mandan vuestros horarios.
-3. **Un momento largo y planeado.** Una cita de fin de semana, una peli a la vez o una llamada de preguntas de las profundas. Mira estas [ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
+3. **Un momento largo y planeado.** Una cita de fin de semana, una peli a la vez o una llamada de preguntas de las profundas. Mira estas [ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 
-Si quieres la versión extendida de esta estructura, [cómo mantenerse conectados en una relación a distancia](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en inglés) va capa por capa.
+Si quieres la versión extendida de esta estructura, [cómo mantenerse conectados en una relación a distancia](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/) va capa por capa.
 
 > **Que la señal diaria no cueste esfuerzo** Descarga gratuita para iPhone. Twoodle Pro habilita el emparejamiento; una suscripción cubre a los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

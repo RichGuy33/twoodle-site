@@ -153,6 +153,50 @@
    "title": "Como colocar um widget de casal na Tela de Início do iPhone (passo a passo)"
   }
  },
+ "how-to-stay-connected-in-a-long-distance-relationship": {
+  "de": {
+   "desc": "Drei Ebenen, um euch nah zu bleiben, ohne am Handy zu kleben: ein kleines Zeichen am Tag, ein richtiges Telefonat an festem Tag und etwas, auf das ihr euch freut.",
+   "slug": "verbunden-bleiben-fernbeziehung",
+   "title": "Fernbeziehung: So bleibt ihr verbunden (ohne rund um die Uhr zu schreiben)"
+  },
+  "es": {
+   "desc": "Tres capas para seguir cerca sin vivir pegado al móvil: una señal diaria mínima, una llamada de verdad a día fijo y algo que esperar con ganas.",
+   "slug": "como-mantener-la-conexion-relacion-a-distancia",
+   "title": "Cómo mantener la conexión en una relación a distancia (sin escribirse 24/7)"
+  },
+  "fr": {
+   "desc": "Trois couches pour rester proches sans vivre collés au téléphone : un petit signe chaque jour, un vrai appel à jour fixe et quelque chose à attendre.",
+   "slug": "garder-le-lien-relation-a-distance",
+   "title": "Comment garder le lien dans une relation à distance (sans s'écrire 24 h/24)"
+  },
+  "pt": {
+   "desc": "Três camadas para ficar perto sem viver grudado no celular: um sinal diário pequeno, uma ligação de verdade em dia fixo e algo para esperar com vontade.",
+   "slug": "como-manter-conexao-relacionamento-a-distancia",
+   "title": "Como manter a conexão em um relacionamento à distância (sem mandar mensagem 24h)"
+  }
+ },
+ "long-distance-anniversary-ideas": {
+  "de": {
+   "desc": "Einen Jahrestag in der Fernbeziehung zu feiern braucht keinen Flug. Zwölf Ideen nach Budget und Aufwand, vom kostenlosen Rückspul-Anruf bis zur Überraschungslieferung, plus Planungstipps.",
+   "slug": "jahrestag-fernbeziehung-ideen",
+   "title": "Jahrestag in der Fernbeziehung: 12 Ideen zum Feiern trotz Entfernung"
+  },
+  "es": {
+   "desc": "Celebrar un aniversario a distancia no requiere un vuelo. Doce ideas ordenadas por presupuesto y esfuerzo, de una llamada de \"rebobinar\" gratis a un envío sorpresa, y cómo planearlo.",
+   "slug": "aniversario-pareja-a-distancia-ideas",
+   "title": "Ideas para un aniversario a distancia: 12 formas de celebrar sin estar juntos"
+  },
+  "fr": {
+   "desc": "Fêter un anniversaire à distance n'exige pas un billet d'avion. Douze idées classées par budget et effort, d'un appel « on rembobine » gratuit à une livraison surprise, et comment s'organiser.",
+   "slug": "anniversaire-de-couple-a-distance-idees",
+   "title": "Anniversaire de couple à distance : 12 idées pour le fêter malgré les kilomètres"
+  },
+  "pt": {
+   "desc": "Comemorar aniversário de namoro à distância não exige passagem de avião. Doze ideias por orçamento e esforço, de uma chamada de \"rebobinar\" grátis a uma entrega surpresa, e como planejar.",
+   "slug": "aniversario-de-namoro-a-distancia-ideias",
+   "title": "Ideias para aniversário de namoro à distância: 12 jeitos de comemorar longe"
+  }
+ },
  "long-distance-countdown-until-we-meet": {
   "de": {
    "desc": "Ein Countdown bis zum nächsten Besuch macht das Warten in der Fernbeziehung leichter. Neun Ideen mit und ohne iPhone, und wie die Zahl nicht zur traurigen Uhr wird.",
@@ -173,6 +217,28 @@
    "desc": "Uma contagem regressiva até a próxima visita deixa a espera à distância mais leve. Nove jeitos de fazer no iPhone e fora dele, e como evitar que o número vire um relógio triste.",
    "slug": "contagem-regressiva-relacionamento-a-distancia",
    "title": "Contagem regressiva para se ver: 9 jeitos de esperar o reencontro à distância"
+  }
+ },
+ "long-distance-date-ideas": {
+  "de": {
+   "desc": "Zwanzig Date-Ideen für Fernbeziehungen, die trotz Zeitverschiebung funktionieren: per Videoanruf, mit wenig Aufwand oder in zwei Minuten, plus Tipps zur Planung.",
+   "slug": "date-ideen-fernbeziehung",
+   "title": "Date-Ideen für die Fernbeziehung: 20 Dates, die trotz Zeitverschiebung klappen"
+  },
+  "es": {
+   "desc": "Veinte ideas de citas para parejas a distancia que funcionan con husos horarios distintos: por videollamada, de poco esfuerzo y de dos minutos, y cómo organizarlas.",
+   "slug": "citas-a-distancia-ideas",
+   "title": "Citas a distancia: 20 ideas que funcionan con distintos husos horarios"
+  },
+  "fr": {
+   "desc": "Vingt idées de rendez-vous pour couples à distance malgré le décalage horaire : en visio, à petit effort, ou en deux minutes, et comment les organiser.",
+   "slug": "idees-rendez-vous-a-distance",
+   "title": "Idées de rendez-vous à distance : 20 dates qui marchent malgré le décalage horaire"
+  },
+  "pt": {
+   "desc": "Vinte ideias de encontros para casais à distância que funcionam com fusos horários diferentes: por vídeo, de pouco esforço e de dois minutos, e como organizar.",
+   "slug": "ideias-de-encontros-a-distancia",
+   "title": "Encontros à distância: 20 ideias que funcionam com fusos horários diferentes"
   }
  },
  "long-distance-goodnight-routine": {

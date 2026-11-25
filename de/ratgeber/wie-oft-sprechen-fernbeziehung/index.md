@@ -21,9 +21,9 @@ Eine allgemeingültige Häufigkeit kann dir niemand nennen, und wer es tut, rät
 
 1. **Ein tägliches Lebenszeichen.** Etwas, das unter einer Minute dauert: ein Guten-Morgen-Text, ein Foto, eine Zeichnung, ein kurzer Zettel. Es sagt „ich hab an dich gedacht“, ohne eine Antwort zu verlangen.
 2. **Ein paar richtige Gespräche pro Woche.** Ein Anruf oder Videodate, bei dem ihr beide wirklich zuhört. Zwei oder drei sind ein üblicher Start, aber eure Terminkalender entscheiden.
-3. **Ein längerer, geplanter Moment.** Ein Date-Abend am Wochenende, ein Film gleichzeitig oder ein Gespräch mit tiefen Fragen. Schau dir die [Date-Ideen für Fernbeziehungen](https://twoodle.app/guides/long-distance-date-ideas/) (auf Englisch) an.
+3. **Ein längerer, geplanter Moment.** Ein Date-Abend am Wochenende, ein Film gleichzeitig oder ein Gespräch mit tiefen Fragen. Schau dir die [Date-Ideen für Fernbeziehungen](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/) an.
 
-Wenn du die ausführliche Fassung dieser Struktur willst, geht [so bleibt ihr in der Fernbeziehung verbunden](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (auf Englisch) Schicht für Schicht durch.
+Wenn du die ausführliche Fassung dieser Struktur willst, geht [so bleibt ihr in der Fernbeziehung verbunden](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/) Schicht für Schicht durch.
 
 > **Das tägliche Lebenszeichen ohne Aufwand** Kostenloser Download für das iPhone. Twoodle Pro schaltet das Koppeln frei; ein Abo gilt für euch beide. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

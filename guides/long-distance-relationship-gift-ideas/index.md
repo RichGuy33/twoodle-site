@@ -61,6 +61,8 @@ A big parcel is an event. A small daily gesture is a habit, and habits are what 
 
 ## How to choose between them
 
+Planning for a milestone? See our [long-distance anniversary ideas](https://twoodle.app/guides/long-distance-anniversary-ideas/) for how to pair a gift with something live.
+
 Match the gift to the moment. Anniversaries and birthdays deserve a parcel. Rough weeks deserve something small and immediate. The routine in between is covered in [how to stay connected without texting 24/7](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/).
 
 And one rule beats all the rest: add a note saying why you chose it. "I saw this and thought of the night we got lost in the rain" turns a mug into a memory.

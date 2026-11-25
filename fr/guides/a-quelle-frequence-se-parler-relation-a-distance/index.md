@@ -21,9 +21,9 @@ Personne ne peut vous donner une fréquence universelle, et ceux qui le font imp
 
 1. **Un signe quotidien.** Quelque chose qui prend moins d'une minute : un petit bonjour, une photo, un dessin, un mot doux. Il dit « j'ai pensé à toi » sans exiger de réponse.
 2. **Quelques vraies conversations par semaine.** Un appel ou une visio où vous vous écoutez vraiment. Deux ou trois, c'est un point de départ courant, mais ce sont vos emplois du temps qui décident.
-3. **Un moment plus long, prévu à l'avance.** Une soirée du week-end, un film en simultané ou un appel à questions profondes. Voir ces [idées de rendez-vous à distance](https://twoodle.app/guides/long-distance-date-ideas/) (en anglais).
+3. **Un moment plus long, prévu à l'avance.** Une soirée du week-end, un film en simultané ou un appel à questions profondes. Voir ces [idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 
-Pour la version longue de cette structure, [comment rester connectés en relation à distance](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en anglais) la reprend couche par couche.
+Pour la version longue de cette structure, [comment rester connectés en relation à distance](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/) la reprend couche par couche.
 
 > **Un signe quotidien sans effort** Téléchargement gratuit sur iPhone. Twoodle Pro débloque le couplage ; un seul abonnement couvre vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

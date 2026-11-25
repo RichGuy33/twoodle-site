@@ -62,9 +62,9 @@ Pour la comparer à d'autres apps de widgets, notre [comparatif des apps de widg
 
 Si vous vous parlez tous les jours, vous appelez chaque semaine et vous vous sentez proches, c'est réglé. N'ajoutez pas d'apps pour le plaisir. Le meilleur dispositif est celui que vous ouvrez vraiment tous les deux. Deux apps utilisées avec plaisir valent mieux que sept abandonnées.
 
-Envie d'une vue d'ensemble ? Lisez [comment rester proches dans une relation à distance](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en anglais).
+Envie d'une vue d'ensemble ? Lisez [comment rester proches dans une relation à distance](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/).
 
-Un projet à deux ? Voir [20 idées de rendez-vous à distance](https://twoodle.app/guides/long-distance-date-ideas/) (en anglais).
+Un projet à deux ? Voir [20 idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 
 ## Questions fréquentes
 

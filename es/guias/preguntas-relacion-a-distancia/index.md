@@ -52,7 +52,7 @@ Toda pareja a distancia tiene esa noche en la que «¿qué tal tu día?» recibe
 - ¿Cuál fue el peor regalo que te han hecho?
 - ¿Qué dos canciones estarían en la banda sonora de nuestra pareja?
 
-¿Sin ideas para usar las respuestas? Conviértelas en citas con estas [20 ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
+¿Sin ideas para usar las respuestas? Conviértelas en citas con estas [20 ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 
 ## Preguntas sobre la relación: cuando quieres ir más hondo
 
@@ -84,7 +84,7 @@ Son las que hacen que una relación a distancia se sienta finita. Importan y pue
 - **Deja que haya silencio.** En videollamada, una pausa de tres segundos parece un fallo. No lo es: están pensando.
 - **Retoma después.** Mencionar una respuesta de la semana pasada demuestra que de verdad escuchaste. Eso es lo que hace valer la pregunta.
 
-Para la rutina completa, mira [cómo mantenerse conectados sin escribir las 24 horas](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en inglés).
+Para la rutina completa, mira [cómo mantenerse conectados sin escribir las 24 horas](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/).
 
 ## Dónde encaja Twoodle (y dónde no)
 

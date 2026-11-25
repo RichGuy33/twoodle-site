@@ -35,7 +35,7 @@ Pour un jeu en deux minutes sans préparation, commencez par **Tu préfères ?**
 2. **Jeux de société en ligne et échecs.** Beaucoup de jeux de société ont une version en ligne gratuite à jouer dans deux onglets pendant que vous discutez. Appel vocal activé, tête de stratège.
 3. **Jeux vidéo coopératifs.** Si vous jouez tous les deux, un jeu coopératif bat un jeu compétitif : même équipe, et personne ne s'excuse d'avoir gagné.
 
-Envie de plus pour une soirée entière ? Voyez nos [idées de rendez-vous à distance](https://twoodle.app/guides/long-distance-date-ideas/) (en anglais).
+Envie de plus pour une soirée entière ? Voyez nos [idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 
 > **Jouez aux jeux de dessin sans appel** Téléchargement gratuit sur iPhone. Twoodle Pro débloque l'association des deux téléphones ; un abonnement couvre vous deux. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

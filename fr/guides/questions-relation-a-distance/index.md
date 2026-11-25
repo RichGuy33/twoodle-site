@@ -52,7 +52,7 @@ Tous les couples à distance connaissent le soir où « comment s'est passée ta
 - Quel est le pire cadeau que tu aies reçu ?
 - Quelles deux chansons seraient dans la bande originale de notre couple ?
 
-Pas d'idée pour exploiter les réponses ? Transformez-en quelques-unes en rendez-vous avec ces [20 idées de rendez-vous à distance](https://twoodle.app/guides/long-distance-date-ideas/) (en anglais).
+Pas d'idée pour exploiter les réponses ? Transformez-en quelques-unes en rendez-vous avec ces [20 idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 
 ## Les questions sur la relation : quand vous voulez aller plus loin
 
@@ -84,7 +84,7 @@ Ce sont celles qui rendent une relation à distance finie. Elles comptent et peu
 - **Laissez le silence exister.** En appel vidéo, trois secondes de pause ressemblent à un bug. Ce n'en est pas un : l'autre réfléchit.
 - **Reprenez plus tard.** Citer une réponse de la semaine dernière montre que vous avez vraiment écouté. C'est ce qui donne de la valeur à la question.
 
-Pour la routine complète, voir [comment rester connectés sans s'écrire 24 h sur 24](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en anglais).
+Pour la routine complète, voir [comment rester connectés sans s'écrire 24 h sur 24](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/).
 
 ## Où Twoodle trouve sa place (et où il n'en a pas)
 

@@ -90,9 +90,9 @@ Du suchst ein einfaches Ritual zum Tagesende? Probier ein [Gute-Nacht-Ritual fü
 
 Du weißt nicht, wie ein Widget auf den Bildschirm kommt? Lies, [wie du ein Paar-Widget auf dem iPhone hinzufügst](https://twoodle.app/de/ratgeber/paar-widget-home-bildschirm-iphone-hinzufuegen/).
 
-Du willst das große Ganze? Lies, [wie ihr in einer Fernbeziehung verbunden bleibt](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (auf Englisch).
+Du willst das große Ganze? Lies, [wie ihr in einer Fernbeziehung verbunden bleibt](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/).
 
-Du planst etwas für euch zwei? Schau dir [20 Date-Ideen für die Fernbeziehung](https://twoodle.app/guides/long-distance-date-ideas/) (auf Englisch) an.
+Du planst etwas für euch zwei? Schau dir [20 Date-Ideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/) an.
 
 ## Häufige Fragen
 

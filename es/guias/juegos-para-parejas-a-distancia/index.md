@@ -35,7 +35,7 @@ Si quieres un juego en dos minutos y sin preparar nada, empieza con **¿Qué pre
 2. **Juegos de mesa online y ajedrez.** Muchos juegos de mesa tienen versión online gratuita que podéis jugar en pestañas distintas mientras habláis. Llamada de voz puesta, cara de estratega.
 3. **Videojuegos cooperativos.** Si jugáis los dos, un juego cooperativo gana a uno competitivo: sois del mismo equipo y nadie tiene que pedir perdón por ganar.
 
-¿Quieres más para una noche entera? Mira nuestras [ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
+¿Quieres más para una noche entera? Mira nuestras [ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 
 > **Juega a los garabatos sin llamada** Descarga gratis para iPhone. Twoodle Pro activa el emparejamiento; una suscripción cubre a los dos. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

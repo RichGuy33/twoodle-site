@@ -52,7 +52,7 @@ Jedes Fernbeziehungspaar kennt den Abend, an dem „Wie war dein Tag?“ zum dri
 - Was war das schlimmste Geschenk, das du je bekommen hast?
 - Welche zwei Lieder wären auf dem Soundtrack unserer Beziehung?
 
-Keine Idee, was du mit den Antworten anfangen sollst? Mach ein paar davon zu Dates mit diesen [20 Date-Ideen für die Fernbeziehung](https://twoodle.app/guides/long-distance-date-ideas/) (auf Englisch).
+Keine Idee, was du mit den Antworten anfangen sollst? Mach ein paar davon zu Dates mit diesen [20 Date-Ideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/).
 
 ## Beziehungsfragen: wenn du tiefer gehen willst
 
@@ -84,7 +84,7 @@ Diese Fragen machen eine Fernbeziehung endlich. Sie sind wichtig und können ang
 - **Lass Stille zu.** Im Videoanruf wirken drei Sekunden Pause wie ein Absturz. Es ist keiner: Die andere Person denkt nach.
 - **Greif es später wieder auf.** Eine Antwort von letzter Woche zu erwähnen zeigt, dass du wirklich zugehört hast. Genau das macht die Frage wertvoll.
 
-Für die ganze Routine drumherum lies [wie ihr verbunden bleibt, ohne rund um die Uhr zu schreiben](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (auf Englisch).
+Für die ganze Routine drumherum lies [wie ihr verbunden bleibt, ohne rund um die Uhr zu schreiben](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/).
 
 ## Wo Twoodle passt (und wo nicht)
 

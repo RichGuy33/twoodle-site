@@ -90,9 +90,9 @@ Twoodle está disponible para iPhone (iOS 18 o posterior) y Android. Es gratis p
 
 ¿No sabes cómo poner un widget en la pantalla? Mira [cómo añadir un widget de pareja a tu iPhone](https://twoodle.app/es/guias/como-poner-widget-de-pareja-pantalla-de-inicio-iphone/).
 
-¿Quieres ver el panorama completo? Lee [cómo mantener la conexión en una relación a distancia](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en inglés).
+¿Quieres ver el panorama completo? Lee [cómo mantener la conexión en una relación a distancia](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/).
 
-¿Planeando algo para los dos? Mira [20 ideas de citas a distancia](https://twoodle.app/guides/long-distance-date-ideas/) (en inglés).
+¿Planeando algo para los dos? Mira [20 ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 
 ## Preguntas frecuentes
 

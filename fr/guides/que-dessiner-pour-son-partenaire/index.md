@@ -90,9 +90,9 @@ Envie d'une façon simple de finir la journée ? Essayez un [rituel du bonsoir �
 
 Vous ne savez pas comment poser un widget sur votre écran ? Lisez [comment ajouter un widget de couple sur iPhone](https://twoodle.app/fr/guides/ajouter-widget-couple-ecran-accueil-iphone/).
 
-Envie d'une vue d'ensemble ? Lisez [comment rester connectés dans une relation à distance](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (en anglais).
+Envie d'une vue d'ensemble ? Lisez [comment rester connectés dans une relation à distance](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/).
 
-Vous préparez quelque chose pour vous deux ? Découvrez [20 idées de rendez-vous à distance](https://twoodle.app/guides/long-distance-date-ideas/) (en anglais).
+Vous préparez quelque chose pour vous deux ? Découvrez [20 idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 
 ## Questions fréquentes
 

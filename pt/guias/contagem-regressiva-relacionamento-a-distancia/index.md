@@ -35,7 +35,7 @@ Uma contagem regressiva é uma promessa com data marcada. Ela também pode trans
 
 **Conte para cima, além de para baixo.** O [widget Dias Juntos](https://twoodle.app/pt/guias/contador-de-dias-juntos-tela-de-bloqueio-iphone/) mantém o seu total na Tela de Bloqueio, então o número que sobe fica ao lado do número que desce.
 
-**Planeje o meio do caminho.** As semanas entre hoje e a visita são a maior parte do relacionamento. Preencha com uma chamada por semana e algumas destas [ideias de encontros à distância](https://twoodle.app/guides/long-distance-date-ideas/) (em inglês).
+**Planeje o meio do caminho.** As semanas entre hoje e a visita são a maior parte do relacionamento. Preencha com uma chamada por semana e algumas destas [ideias de encontros à distância](https://twoodle.app/pt/guias/ideias-de-encontros-a-distancia/).
 
 **Planeje a próxima também.** O difícil de uma visita é terminar sem uma próxima data. Programe a contagem seguinte antes da despedida, mesmo que a data mude depois.
 
@@ -53,7 +53,7 @@ Uma boa contagem termina em algo concreto. Anote três coisas: o que cada um mai
 
 Não. Um alerta no Calendário faz o essencial de graça. Criamos as datas importantes e os widgets do Twoodle para a contagem ficar ao lado dos desenhos, humores e recados que vocês já trocam. O download do Twoodle é gratuito; o Twoodle Pro libera o pareamento, por US$ 3,99 por semana (3 dias de teste) ou US$ 39,99 por ano, com uma assinatura valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira os valores atuais na App Store.
 
-Para ver o quadro geral, leia [como manter a conexão num relacionamento à distância](https://twoodle.app/guides/how-to-stay-connected-in-a-long-distance-relationship/) (em inglês) e [como lidar com fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês).
+Para ver o quadro geral, leia [como manter a conexão num relacionamento à distância](https://twoodle.app/pt/guias/como-manter-conexao-relacionamento-a-distancia/) e [como lidar com fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês).
 
 ## Perguntas frequentes
 
