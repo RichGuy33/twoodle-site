@@ -31,7 +31,7 @@ Schick etwas Kleines und Konkretes (zwei Zeilen, ein Foto vom Gebäck, eine Zeic
 
 1. **Mach ein Einschlaf-Ritual daraus.** Jeden Abend dieselben drei Dinge: eine Nachricht, ein Lied, ein „Schlaf gut“. Rituale geben einer einsamen Stunde eine Form, und dafür müsst ihr nicht telefonieren.
 2. **Schreib es erst auf.** Zwei Minuten in der Notiz-App: was du vermisst, was du erzählen willst. Ein halbes Gewicht fällt weg, wenn der Gedanke einen Platz hat.
-3. **Schau auf die Uhr, bevor du abdriftest.** Ist bei ihm oder ihr tiefste Nacht, kann die Nachricht warten. Ein Plan für morgen schlägt eine SMS um drei Uhr, die jemanden weckt. Unser [Ratgeber zu Zeitzonen](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch) hilft, ein passendes Zeitfenster zu finden.
+3. **Schau auf die Uhr, bevor du abdriftest.** Ist bei ihm oder ihr tiefste Nacht, kann die Nachricht warten. Ein Plan für morgen schlägt eine SMS um drei Uhr, die jemanden weckt. Unser [Ratgeber zu Zeitzonen](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/) hilft, ein passendes Zeitfenster zu finden.
 
 ## Wenn das Vermissen ein Wochenende groß ist
 

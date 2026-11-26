@@ -53,7 +53,7 @@ Ein guter Countdown endet in etwas Konkretem. Schreibt drei Dinge auf: das eine,
 
 Nein. Eine Kalender-Erinnerung erledigt den Kern kostenlos. Wir haben die wichtigen Termine und Widgets in Twoodle gebaut, damit der Countdown neben den Zeichnungen, Stimmungen und Notizen steht, die ihr ohnehin schickt. Der Download ist kostenlos; Twoodle Pro schaltet das Koppeln frei, für 3,99 US-Dollar pro Woche (3 Tage Testzeit) oder 39,99 US-Dollar pro Jahr, ein Abo für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf die aktuellen Preise im App Store.
 
-Mehr drumherum findest du in [wie ihr in der Fernbeziehung verbunden bleibt](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/) und im Ratgeber zum [Umgang mit Zeitzonen](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch).
+Mehr drumherum findest du in [wie ihr in der Fernbeziehung verbunden bleibt](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/) und im Ratgeber zum [Umgang mit Zeitzonen](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/).
 
 ## Häufige Fragen
 

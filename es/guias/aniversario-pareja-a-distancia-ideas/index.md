@@ -22,7 +22,7 @@ El mejor aniversario a distancia tiene dos partes: algo que hacéis a la vez (ce
 ## Gratis o casi
 
 1. **La llamada de rebobinar.** Cada uno trae tres recuerdos del año: el más gracioso, el más dulce y uno que solo lo parecía malo en su momento. Por turnos. Suena cursi y es la que más se recuerda.
-2. **Una carta en papel.** A mano, enviada con una semana de antelación para que llegue el día. Corta vale. Cuatro líneas sinceras ganan a una página de tarjeta de felicitación. Si te falta inspiración, mira nuestras [notas de amor cortas](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en inglés).
+2. **Una carta en papel.** A mano, enviada con una semana de antelación para que llegue el día. Corta vale. Cuatro líneas sinceras ganan a una página de tarjeta de felicitación. Si te falta inspiración, mira nuestras [notas de amor cortas](https://twoodle.app/es/guias/frases-de-amor-cortas-para-tu-pareja/).
 3. **Una lista de reproducción de vuestro año.** Una canción por cada mes juntos, con una frase que explique por qué. Intercambiadlas y escuchadlas en la llamada.
 4. **Un doodle de aniversario.** Dibuja el primer sitio donde os visteis, la peor cita que sobrevivisteis o una versión diminuta de los dos. No hace falta saber dibujar; los dibujos malos son parte del encanto. Más ideas en [qué dibujar para tu pareja](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/).
 
@@ -46,7 +46,7 @@ El mejor aniversario a distancia tiene dos partes: algo que hacéis a la vez (ce
 
 **Dos semanas antes:** elegid una idea en directo y una enviada. **Una semana antes:** enviad lo físico (las cartas y cajas necesitan tiempo). **El día anterior:** comprobad los husos horarios y acordad la hora exacta en que os conectáis. **El día:** primero lo directo, luego revelad lo enviado. **Después:** poned la fecha del encuentro en persona en el calendario mientras la emoción sigue fresca.
 
-Si vuestros horarios casi no coinciden, recuerda que el día puede durar 24 horas: enviar algo por la mañana y llamar por la noche funciona perfectamente. Nuestra [guía de husos horarios](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés) cubre los solapes incómodos.
+Si vuestros horarios casi no coinciden, recuerda que el día puede durar 24 horas: enviar algo por la mañana y llamar por la noche funciona perfectamente. Nuestra [guía de husos horarios](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/) cubre los solapes incómodos.
 
 ## Dónde encaja Twoodle
 

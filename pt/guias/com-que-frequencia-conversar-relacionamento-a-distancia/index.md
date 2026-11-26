@@ -31,7 +31,7 @@ Se quiser a versão estendida dessa estrutura, [como se manter conectado num rel
 
 Sentem juntos (numa chamada, claro) e respondam, cada um, quatro perguntas:
 
-- **Quando estou livre de verdade?** Seja honesto sobre trabalho, aulas, sono e fuso horário. Nosso guia sobre [fuso horário em relacionamento à distância](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês) ajuda com a conta.
+- **Quando estou livre de verdade?** Seja honesto sobre trabalho, aulas, sono e fuso horário. Nosso guia sobre [fuso horário em relacionamento à distância](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) ajuda com a conta.
 - **Que tipo de contato me completa?** Tem gente que se sente perto depois de uma ligação longa. Tem gente que se sente perto com uma mensagem fofa na hora do almoço.
 - **O que me faz sentir ignorado?** Uma ligação perdida? Resposta de uma palavra só? Um dia inteiro de silêncio?
 - **O que me faz sentir sufocado?** Ter que responder na hora? Ter que ficar de câmera ligada?
@@ -45,7 +45,7 @@ Contato não é só ligação. Contar as coisas pequenas faz o casal de agenda l
 - Uma mensagem de texto ou um áudio
 - Uma foto do seu almoço ou da vista da janela
 - Um desenho enviado para o widget da Tela de Início dele(a) (veja [o que desenhar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/))
-- Um [recadinho de amor](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês) que aparece sem a pessoa precisar abrir nada
+- Um [recadinho de amor](https://twoodle.app/pt/guias/bilhetinhos-de-amor-curtos/) que aparece sem a pessoa precisar abrir nada
 - Uma playlist compartilhada, um link, um meme
 
 ## A armadilha do 24 horas por dia

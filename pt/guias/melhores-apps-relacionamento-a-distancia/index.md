@@ -15,7 +15,7 @@ Toda lista de «melhores apps para relacionamento à distância» tem o mesmo de
 
 Não vai. Distância não é problema de app. É um problema de «você dorme enquanto eu almoço».
 
-Resposta curta: você não precisa de um vencedor, precisa de um kit pequeno. Um app para conversar, outro para ver o rosto um do outro, um para não se perder nos fusos horários (tem mais no nosso [guia de fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês)), um para assistir juntos e uma coisinha mínima que diga «estou pensando em você» sem exigir uma conversa inteira. Aqui está o kit, com os limites honestos de cada peça.
+Resposta curta: você não precisa de um vencedor, precisa de um kit pequeno. Um app para conversar, outro para ver o rosto um do outro, um para não se perder nos fusos horários (tem mais no nosso [guia de fusos horários](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/)), um para assistir juntos e uma coisinha mínima que diga «estou pensando em você» sem exigir uma conversa inteira. Aqui está o kit, com os limites honestos de cada peça.
 
 ## As seis funções (e um app para cada)
 

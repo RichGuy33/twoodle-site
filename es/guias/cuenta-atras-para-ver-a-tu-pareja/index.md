@@ -53,7 +53,7 @@ Una buena cuenta atrás termina en algo concreto. Apuntad tres cosas: lo que má
 
 No. Un aviso de Calendario hace lo esencial gratis. Creamos las fechas importantes y los widgets de Twoodle para que la cuenta atrás viva junto a los garabatos, estados de ánimo y notas que ya os mandáis. Twoodle se descarga gratis; Twoodle Pro habilita el emparejamiento, con 3,99 USD por semana (3 días de prueba) o 39,99 USD al año, con una sola suscripción para los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país; consulta la App Store para ver el precio actual. Mira también en la App Store los idiomas en los que está disponible la app.
 
-Para ver el panorama completo, lee [cómo mantenerse conectados en una relación a distancia](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/) y [cómo manejar los husos horarios](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés).
+Para ver el panorama completo, lee [cómo mantenerse conectados en una relación a distancia](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/) y [cómo manejar los husos horarios](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/).
 
 ## Preguntas frecuentes
 

@@ -59,7 +59,7 @@ Ehrliche Grenzen: Die Kritzeleien landen auf dem Widget im Home-Bildschirm, nich
 - **Haltet es kurz.** Fünfzehn bis dreißig Minuten. Hört auf, solange es Spaß macht.
 - **Zählt locker.** Eine Punktetafel mit albernem Preis („wer verliert, schickt eine Sprachnachricht mit Gesang“) schlägt ernste Einsätze.
 - **Wählt abwechselnd.** Wer letztes Mal gewählt hat, wählt diesmal nicht.
-- **Behaltet die Uhr im Blick.** Wenn ihr weit auseinander wohnt, hilft unser [Zeitzonen-Ratgeber](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch) bei der Terminfindung.
+- **Behaltet die Uhr im Blick.** Wenn ihr weit auseinander wohnt, hilft unser [Zeitzonen-Ratgeber](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/) bei der Terminfindung.
 - **Ersetzt nicht das Reden.** Spiele sind eine Brücke zum Gespräch, kein Ersatz. Wie viel Kontakt passt? Lies [wie oft Paare in der Fernbeziehung sprechen sollten](https://twoodle.app/de/ratgeber/wie-oft-sprechen-fernbeziehung/).
 
 ## Häufige Fragen

@@ -31,7 +31,7 @@ Si quieres la versión extendida de esta estructura, [cómo mantenerse conectado
 
 Sentaos juntos (en llamada, claro) y que cada uno conteste cuatro preguntas:
 
-- **¿Cuándo estoy libre de verdad?** Sé sincero con el trabajo, las clases, el sueño y los husos horarios. Nuestra guía sobre [husos horarios en una relación a distancia](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés) te ayuda con las cuentas.
+- **¿Cuándo estoy libre de verdad?** Sé sincero con el trabajo, las clases, el sueño y los husos horarios. Nuestra guía sobre [husos horarios en una relación a distancia](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/) te ayuda con las cuentas.
 - **¿Qué tipo de contacto me llena?** Hay quien se siente cerca tras una llamada larga. Y hay quien se siente cerca con un mensaje bonito a la hora de comer.
 - **¿Qué me hace sentir ignorado?** ¿Una llamada sin contestar? ¿Un «vale» por respuesta? ¿Un día entero de silencio?
 - **¿Qué me hace sentir agobiado?** ¿Tener que contestar al instante? ¿Tener que poner la cámara?
@@ -45,7 +45,7 @@ El contacto no son solo las llamadas. Contar las cosas pequeñas hace que la par
 - Un mensaje de texto o una nota de voz
 - Una foto de tu comida o de lo que ves desde la ventana
 - Un garabato enviado al widget de su pantalla de inicio (aquí tienes [qué dibujar](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/))
-- Una [nota de amor corta](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en inglés) que aparece sin que tenga que abrir nada
+- Una [nota de amor corta](https://twoodle.app/es/guias/frases-de-amor-cortas-para-tu-pareja/) que aparece sin que tenga que abrir nada
 - Una playlist compartida, un enlace, un meme
 
 ## La trampa del 24/7

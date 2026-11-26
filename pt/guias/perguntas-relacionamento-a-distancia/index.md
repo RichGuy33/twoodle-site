@@ -80,7 +80,7 @@ São as que fazem o relacionamento à distância parecer finito. Importam e pode
 
 - **Uma de cada vez.** Uma lista de cinco perguntas é um formulário. Uma pergunta é uma conversa.
 - **Responda primeiro.** Dê a sua resposta ou ofereça logo depois da dele(a). Do contrário, é vigilância com iluminação melhor.
-- **Atenção ao fuso.** Uma pergunta pesada logo antes da reunião da pessoa ou da sua hora de dormir dá errado. Nosso [guia de fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês) ajuda a achar uma janela justa.
+- **Atenção ao fuso.** Uma pergunta pesada logo antes da reunião da pessoa ou da sua hora de dormir dá errado. Nosso [guia de fusos horários](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) ajuda a achar uma janela justa.
 - **Deixe o silêncio acontecer.** Em videochamada, três segundos de pausa parecem uma falha. Não são: a pessoa está pensando.
 - **Retome depois.** Citar uma resposta da semana passada mostra que você ouviu de verdade. É isso que faz a pergunta valer a pena.
 
@@ -88,7 +88,7 @@ Para a rotina completa, veja [como manter a conexão sem mandar mensagem o dia t
 
 ## Onde o Twoodle entra (e onde não entra)
 
-O Twoodle não é um app de perguntas, um chat nem um terapeuta. É um app disponível para iPhone (iOS 18 ou superior) e Android; no iPhone, ele envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Um check-in diário pode ser tão pequeno quanto o desenho do sanduíche que você acabou de fazer, ou uma pergunta de uma linha num Recado de amor. O Twoodle chegou ao Android em novembro de 2026; confira a página do Google Play para ver os requisitos e recursos. O download é gratuito e o Twoodle Pro libera o pareamento: US$ 3,99 por semana com 3 dias de teste, ou US$ 39,99 por ano, valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira na App Store os idiomas em que o app está disponível. Sem saber o que desenhar? Veja [25 coisas para rabiscar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/). Precisa de palavras? Veja [30 recados de amor curtos](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês).
+O Twoodle não é um app de perguntas, um chat nem um terapeuta. É um app disponível para iPhone (iOS 18 ou superior) e Android; no iPhone, ele envia desenhos para o widget da Tela de Início do seu parceiro, com widgets de Tela de Bloqueio para recados de amor e dias juntos. Um check-in diário pode ser tão pequeno quanto o desenho do sanduíche que você acabou de fazer, ou uma pergunta de uma linha num Recado de amor. O Twoodle chegou ao Android em novembro de 2026; confira a página do Google Play para ver os requisitos e recursos. O download é gratuito e o Twoodle Pro libera o pareamento: US$ 3,99 por semana com 3 dias de teste, ou US$ 39,99 por ano, valendo para os dois (preços da App Store dos EUA; no seu país podem variar). Confira na App Store os idiomas em que o app está disponível. Sem saber o que desenhar? Veja [25 coisas para rabiscar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/). Precisa de palavras? Veja [30 recados de amor curtos](https://twoodle.app/pt/guias/bilhetinhos-de-amor-curtos/).
 
 ## Perguntas frequentes
 

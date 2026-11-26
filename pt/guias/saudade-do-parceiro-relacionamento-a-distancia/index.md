@@ -31,7 +31,7 @@ Mande algo pequeno e específico (duas linhas, uma foto do pão de queijo, um de
 
 1. **Crie um ritual de boa-noite.** As mesmas três coisas toda noite: uma mensagem, uma música, um "dorme bem". Ritual dá forma a uma hora solitária, e vocês nem precisam estar numa chamada para dividi-lo.
 2. **Escreva antes.** Dois minutos no bloco de notas: o que você sente falta, o que vai contar. Metade do peso é não ter onde colocar o pensamento.
-3. **Olhe o relógio antes de espiralar.** Se for madrugada para a pessoa, a mensagem pode esperar. Um plano combinado para amanhã vale mais que um texto às 3h que acorda quem você ama. Nosso [guia de fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês) ajuda a achar um horário bom para os dois.
+3. **Olhe o relógio antes de espiralar.** Se for madrugada para a pessoa, a mensagem pode esperar. Um plano combinado para amanhã vale mais que um texto às 3h que acorda quem você ama. Nosso [guia de fusos horários](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) ajuda a achar um horário bom para os dois.
 
 ## Quando a saudade é do tamanho de um fim de semana
 

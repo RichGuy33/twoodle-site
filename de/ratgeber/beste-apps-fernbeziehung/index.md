@@ -15,7 +15,7 @@ Jede Liste mit den „besten Apps für Fernbeziehungen“ hat denselben Fehler: 
 
 Tut sie nicht. Entfernung ist kein App-Problem. Sie ist ein „du schläfst, während ich Mittag esse“-Problem.
 
-Kurze Antwort: Du brauchst keinen Sieger, sondern ein kleines Set. Eine App zum Schreiben, eine zum Sehen, eine gegen das Zeitzonen-Chaos (mehr dazu in unserem [Zeitzonen-Ratgeber](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch)), eine zum gemeinsamen Schauen und eine winzige Kleinigkeit, die „ich denke an dich“ sagt, ohne gleich ein ganzes Gespräch zu verlangen. Hier ist das Set, mit den ehrlichen Grenzen jedes Teils.
+Kurze Antwort: Du brauchst keinen Sieger, sondern ein kleines Set. Eine App zum Schreiben, eine zum Sehen, eine gegen das Zeitzonen-Chaos (mehr dazu in unserem [Zeitzonen-Ratgeber](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/)), eine zum gemeinsamen Schauen und eine winzige Kleinigkeit, die „ich denke an dich“ sagt, ohne gleich ein ganzes Gespräch zu verlangen. Hier ist das Set, mit den ehrlichen Grenzen jedes Teils.
 
 ## Die sechs Aufgaben (und je eine App dafür)
 

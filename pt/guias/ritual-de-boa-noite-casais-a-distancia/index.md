@@ -29,7 +29,7 @@ Um bom ritual de boa noite à distância é curto, igual todas as noites e não 
 
 ## Quando os fusos horários não combinam
 
-1. **Mande adiantado.** Quem chega primeiro ao fim do dia manda uma mensagem para ser lida na hora de dormir ou ao acordar do outro. Ninguém precisa virar a noite. Se os horários são muito distantes, nosso guia de [fusos horários no relacionamento à distância](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês) ajuda a achar a janela que vocês têm.
+1. **Mande adiantado.** Quem chega primeiro ao fim do dia manda uma mensagem para ser lida na hora de dormir ou ao acordar do outro. Ninguém precisa virar a noite. Se os horários são muito distantes, nosso guia de [fusos horários no relacionamento à distância](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) ajuda a achar a janela que vocês têm.
 2. **Dez segundos da sua voz.** Um áudio curto é mais caloroso que qualquer emoji e dá para ouvir duas vezes. Fale o nome dele(a). Só isso.
 3. **Um spoiler do "amanhã".** Termine com algo que você está esperando, por menor que seja. Dá ao dia seguinte um motivo para começar.
 

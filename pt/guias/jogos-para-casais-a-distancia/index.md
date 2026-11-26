@@ -59,7 +59,7 @@ Limites honestos: os rabiscos chegam ao widget da Tela de Início, não à Tela 
 - **Seja curto.** Quinze a trinta minutos. Pare enquanto ainda é divertido.
 - **Pontuação leve.** Um placar com prêmio bobo ("quem perder manda um áudio cantando") vale mais que aposta séria.
 - **Escolham em turnos.** Quem escolheu da última vez não escolhe agora.
-- **Olhe o relógio.** Se vocês estão longe, nosso [guia de fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês) ajuda a achar um horário.
+- **Olhe o relógio.** Se vocês estão longe, nosso [guia de fusos horários](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) ajuda a achar um horário.
 - **Não substitua a conversa.** Jogo é ponte para a conversa, não substituto. Quanto contato é o ideal? Veja [com que frequência casais à distância devem conversar](https://twoodle.app/pt/guias/com-que-frequencia-conversar-relacionamento-a-distancia/).
 
 ## Perguntas frequentes

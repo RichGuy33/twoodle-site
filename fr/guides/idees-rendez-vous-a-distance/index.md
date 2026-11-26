@@ -55,7 +55,7 @@ Voici 20 idées, classées selon l'énergie qu'il vous reste. Choisissez-en une 
 
 - **Besoin de sujets de conversation ?** Voyez [30 questions à poser à votre partenaire à distance](https://twoodle.app/fr/guides/questions-relation-a-distance/).
 - **Envie d'envoyer quelque chose par la poste aussi ?** Voyez nos [idées de cadeaux pour relation à distance](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en anglais).
-- **Choisissez une heure qui marche dans les deux fuseaux.** Regardez l'horloge avant de proposer, pas après. Notre guide sur la [relation à distance avec décalage horaire](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais) montre comment trouver le créneau commun.
+- **Choisissez une heure qui marche dans les deux fuseaux.** Regardez l'horloge avant de proposer, pas après. Notre guide sur la [relation à distance avec décalage horaire](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/) montre comment trouver le créneau commun.
 - **Faites-en une habitude, pas un événement.** Un créneau hebdomadaire vaut mieux qu'un grand coup unique.
 - **Choisissez à tour de rôle.** Celui qui organise a aussi le droit de faire l'idiot.
 - **Baissez la barre.** Un rendez-vous raté vaut mieux qu'un rendez-vous sauté.

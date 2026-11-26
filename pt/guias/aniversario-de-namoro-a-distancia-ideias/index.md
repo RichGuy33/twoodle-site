@@ -22,7 +22,7 @@ O melhor aniversário de namoro à distância tem duas partes: algo que vocês f
 ## De graça ou quase
 
 1. **A chamada de rebobinar.** Cada um traz três lembranças do ano: a mais engraçada, a mais fofa e uma que só parecia ruim na hora. Uma de cada vez. Parece brega, e é a que mais fica na memória.
-2. **Uma carta no papel.** Escrita à mão, postada uma semana antes para chegar no dia. Curta serve. Quatro linhas sinceras valem mais que uma página de cartão pronto. Se faltar inspiração, veja nossos [bilhetes de amor curtos](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês).
+2. **Uma carta no papel.** Escrita à mão, postada uma semana antes para chegar no dia. Curta serve. Quatro linhas sinceras valem mais que uma página de cartão pronto. Se faltar inspiração, veja nossos [bilhetes de amor curtos](https://twoodle.app/pt/guias/bilhetinhos-de-amor-curtos/).
 3. **Uma playlist do ano de vocês.** Uma música por mês de namoro, com uma frase explicando o porquê. Troquem as listas e ouçam juntos na chamada.
 4. **Um doodle de aniversário.** Desenhe o primeiro lugar em que vocês se encontraram, o pior encontro que sobreviveram ou uma versão minúscula dos dois. Não precisa saber desenhar; desenho ruim faz parte do charme. Mais ideias em [o que desenhar para o seu par](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/).
 
@@ -46,7 +46,7 @@ O melhor aniversário de namoro à distância tem duas partes: algo que vocês f
 
 **Duas semanas antes:** escolham uma ideia ao vivo e uma enviada. **Uma semana antes:** postem o que for físico (cartas e caixas levam tempo). **Na véspera:** confiram os fusos e combinem o horário exato da conexão. **No dia:** primeiro o ao vivo, depois revelem o enviado. **Depois:** marquem a data do encontro pessoal no calendário enquanto a emoção está fresca.
 
-Se as agendas quase não coincidem, lembre que o dia dura 24 horas: mandar algo de manhã e ligar à noite funciona bem. Nosso [guia de fusos horários](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês) cobre as sobreposições chatas.
+Se as agendas quase não coincidem, lembre que o dia dura 24 horas: mandar algo de manhã e ligar à noite funciona bem. Nosso [guia de fusos horários](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) cobre as sobreposições chatas.
 
 ## Onde o Twoodle entra
 

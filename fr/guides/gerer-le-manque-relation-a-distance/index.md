@@ -31,7 +31,7 @@ Envoyez quelque chose de petit et de précis (deux lignes, une photo de la vienn
 
 1. **Créez un rituel du coucher.** Les trois mêmes gestes chaque soir : un message, une chanson, un « dors bien ». Un rituel donne une forme à une heure solitaire, sans qu'il faille être en appel.
 2. **Écrivez-le d'abord.** Deux minutes dans vos notes : ce qui vous manque, ce que vous lui direz. La moitié du poids vient de n'avoir nulle part où poser la pensée.
-3. **Regardez l'heure avant de vous laisser emporter.** S'il est au milieu de sa nuit, le message peut attendre. Un plan pour demain vaut mieux qu'un SMS de 3 h du matin qui le ou la réveille. Notre guide sur le [décalage horaire en couple](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais) vous aide à trouver un créneau commun.
+3. **Regardez l'heure avant de vous laisser emporter.** S'il est au milieu de sa nuit, le message peut attendre. Un plan pour demain vaut mieux qu'un SMS de 3 h du matin qui le ou la réveille. Notre guide sur le [décalage horaire en couple](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/) vous aide à trouver un créneau commun.
 
 ## Quand le manque a la taille d'un week-end
 

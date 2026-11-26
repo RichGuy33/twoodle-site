@@ -62,6 +62,8 @@ If you want to see how it stacks up against other widget apps, our [roundup of c
 
 If you talk daily, call weekly and feel connected, you're done. Don't add apps for the sake of it. The best setup is the one you both actually open. Two apps used happily beats seven abandoned.
 
+Thinking about a touch bracelet? Compare [apps like Bond Touch](https://twoodle.app/guides/bond-touch-alternative/) first.
+
 ## FAQ
 
 ### What is the best app for a long-distance relationship?

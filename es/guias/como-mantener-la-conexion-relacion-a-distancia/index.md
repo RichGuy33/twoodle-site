@@ -30,13 +30,13 @@ Twoodle se encarga de la versión doodle: dibujas y aparece en el widget de la p
 
 > **Haz de la señal diaria un hábito de un minuto** Twoodle envía doodles al widget de la pantalla de inicio de tu pareja. Descarga gratis. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
-¿Necesitas algo que preguntar? Prueba [30 preguntas para una relación a distancia](https://twoodle.app/es/guias/preguntas-relacion-a-distancia/). ¿Sin palabras? Roba una de estas [30 notas de amor cortas](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en inglés).
+¿Necesitas algo que preguntar? Prueba [30 preguntas para una relación a distancia](https://twoodle.app/es/guias/preguntas-relacion-a-distancia/). ¿Sin palabras? Roba una de estas [30 notas de amor cortas](https://twoodle.app/es/guias/frases-de-amor-cortas-para-tu-pareja/).
 
 ## Capa 2: una llamada de verdad, un día fijo
 
 Imagina: los dos decís «hablamos esta semana». Llega el jueves, uno está agotado, el otro ha salido, y pasa al domingo, y luego al miércoles siguiente. Los planes vagos son donde la conexión a distancia va a morir.
 
-Elige mejor un hueco recurrente y compruébalo con los husos horarios de los dos antes de comprometerte. ¿Mucha diferencia horaria? Mira nuestra guía de [relaciones a distancia con husos horarios distintos](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés). ¿No sabes cuántas llamadas son suficientes? Consulta [cada cuánto deben hablar las parejas a distancia](https://twoodle.app/es/guias/cada-cuanto-hablar-relacion-a-distancia/). Y haz que la llamada trate de algo, no solo de un parte de novedades:
+Elige mejor un hueco recurrente y compruébalo con los husos horarios de los dos antes de comprometerte. ¿Mucha diferencia horaria? Mira nuestra guía de [relaciones a distancia con husos horarios distintos](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/). ¿No sabes cuántas llamadas son suficientes? Consulta [cada cuánto deben hablar las parejas a distancia](https://twoodle.app/es/guias/cada-cuanto-hablar-relacion-a-distancia/). Y haz que la llamada trate de algo, no solo de un parte de novedades:
 
 - **Haced algo a la vez.** Cocinad la misma cena, ved un capítulo, jugad a algo. Más ideas en nuestras [20 ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 - **Haz mejores preguntas.** «¿Qué fue lo mejor de tu semana?» le gana a «¿qué tal la semana?».

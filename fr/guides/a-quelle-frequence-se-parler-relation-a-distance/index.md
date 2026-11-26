@@ -31,7 +31,7 @@ Pour la version longue de cette structure, [comment rester connectés en relatio
 
 Asseyez-vous ensemble (en appel, évidemment) et répondez chacun à quatre questions :
 
-- **Quand suis-je vraiment disponible ?** Soyez honnêtes sur le travail, les cours, le sommeil et le décalage horaire. Notre guide sur les [fuseaux horaires en relation à distance](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais) aide pour le calcul.
+- **Quand suis-je vraiment disponible ?** Soyez honnêtes sur le travail, les cours, le sommeil et le décalage horaire. Notre guide sur les [fuseaux horaires en relation à distance](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/) aide pour le calcul.
 - **Quel contact me fait du bien ?** Certains se sentent proches après un long appel. D'autres, après un joli message à l'heure du déjeuner.
 - **Qu'est-ce qui me fait me sentir ignoré(e) ?** Un appel manqué ? Une réponse d'un seul mot ? Une journée entière de silence ?
 - **Qu'est-ce qui me fait me sentir étouffé(e) ?** Devoir répondre tout de suite ? Devoir allumer la caméra ?
@@ -45,7 +45,7 @@ Le contact, ce ne sont pas que les appels. Compter les petites choses déculpabi
 - Un SMS ou un message vocal
 - Une photo de votre déjeuner ou de la vue de votre fenêtre
 - Un dessin envoyé sur le widget de son écran d'accueil (voici [quoi dessiner](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/))
-- Un [petit mot doux](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais) qui apparaît sans qu'il ou elle ait à ouvrir quoi que ce soit
+- Un [petit mot doux](https://twoodle.app/fr/guides/petits-mots-damour-courts/) qui apparaît sans qu'il ou elle ait à ouvrir quoi que ce soit
 - Une playlist partagée, un lien, un mème
 
 ## Le piège du 24 h/24

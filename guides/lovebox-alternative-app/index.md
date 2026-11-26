@@ -57,6 +57,8 @@ We'll say it so you don't have to go looking for it:
 - You want drawings to show up on the screen you already look at constantly.
 - You like the idea of drawing together live, or of a Lock Screen counter for your days together ([here's how that works](https://twoodle.app/guides/days-together-lock-screen-counter/)).
 
+Looking at wearables too? See [apps like Bond Touch, with and without a bracelet](https://twoodle.app/guides/bond-touch-alternative/).
+
 > **Try the no-box version** Free to download. One Twoodle Pro subscription covers both of you. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
 Not sure how the widgets work? Read [how to draw on your partner's iPhone Lock Screen and widgets](https://twoodle.app/guides/draw-on-partners-lock-screen/).

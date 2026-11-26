@@ -43,6 +43,28 @@
    "title": "Melhores apps para relacionamento à distância (um kit prático)"
   }
  },
+ "bond-touch-alternative": {
+  "de": {
+   "desc": "Du suchst eine Alternative zu Bond Touch? Armband, Apple-Watch-App oder Kritzel-Widget ohne Gerät: Preise, Grenzen und wann Bond Touch die bessere Wahl ist.",
+   "slug": "bond-touch-alternative",
+   "title": "Bond-Touch-Alternative: mit und ohne Armband"
+  },
+  "es": {
+   "desc": "¿Buscas apps como Bond Touch? Comparamos sus pulseras, su app para Apple Watch y un widget de dibujos sin aparato, con precios y cuándo gana Bond Touch.",
+   "slug": "alternativa-a-bond-touch",
+   "title": "Alternativas a Bond Touch: apps con y sin pulsera"
+  },
+  "fr": {
+   "desc": "Vous cherchez une alternative à Bond Touch ? Bracelets, application Apple Watch ou widget de dessins sans matériel : prix, limites et quand Bond Touch l'emporte.",
+   "slug": "alternative-bond-touch",
+   "title": "Alternative à Bond Touch : avec ou sans bracelet"
+  },
+  "pt": {
+   "desc": "Procurando apps como o Bond Touch? Comparamos as pulseiras, o app para Apple Watch e um widget de desenhos sem aparelho, com preços e quando o Bond Touch vence.",
+   "slug": "alternativa-ao-bond-touch",
+   "title": "Alternativas ao Bond Touch: apps com e sem pulseira"
+  }
+ },
  "couple-joy-alternative": {
   "de": {
    "desc": "Couple Joy steckt viel in eine App. Wenn du es leichter magst: So schlägt sich Twoodle im Vergleich und wann Couple Joy die bessere Wahl ist.",
@@ -307,6 +329,28 @@
    "title": "Perguntas para relacionamento à distância: 30 ideias e quando fazer cada uma"
   }
  },
+ "long-distance-relationship-time-zones": {
+  "de": {
+   "desc": "Fernbeziehung über Zeitzonen hinweg: euer gemeinsames Zeitfenster finden, Unbequemes fair teilen und zwischen den Anrufen nah bleiben.",
+   "slug": "fernbeziehung-zeitverschiebung",
+   "title": "Fernbeziehung mit Zeitverschiebung: so klappt es"
+  },
+  "es": {
+   "desc": "Cómo llevar una relación a distancia con husos horarios distintos: encontrar vuestro hueco común, repartir las molestias y estar cerca entre llamadas.",
+   "slug": "relacion-a-distancia-diferencia-horaria",
+   "title": "Relación a distancia con diferencia horaria: cómo hacer que funcione"
+  },
+  "fr": {
+   "desc": "Vivre une relation à distance avec un décalage horaire : trouver votre créneau commun, partager l'inconfort et rester proches entre deux appels.",
+   "slug": "relation-a-distance-decalage-horaire",
+   "title": "Relation à distance et décalage horaire : comment tenir"
+  },
+  "pt": {
+   "desc": "Como levar um relacionamento à distância com fusos diferentes: achar a janela em comum, dividir o incômodo e ficar perto entre as ligações.",
+   "slug": "relacionamento-a-distancia-fuso-horario",
+   "title": "Relacionamento à distância com fuso horário diferente: como dar certo"
+  }
+ },
  "lovebox-alternative-app": {
   "de": {
    "desc": "Lovebox ist eine echte Box. Wenn du auf die Hardware verzichten willst, zeigen wir, wie eine Widget-App wie Twoodle sich schlägt und wann Lovebox die bessere Wahl bleibt.",
@@ -371,6 +415,28 @@
    "desc": "Existem vários apps chamados noteit e o LokLok é outra história. O que são, no que diferem e quando o Twoodle, o app de iPhone feito só para casais, faz mais sentido.",
    "slug": "alternativas-ao-noteit-e-loklok",
    "title": "Alternativas ao noteit e ao LokLok: apps de widget com desenhos para casais"
+  }
+ },
+ "short-love-notes-for-your-partner": {
+  "de": {
+   "desc": "30 kurze Liebesbotschaften für deinen Partner oder deine Partnerin, eine 20-Sekunden-Formel für eigene und Orte, an denen sie wirklich gesehen werden.",
+   "slug": "kurze-liebesbotschaften-partner",
+   "title": "Kurze Liebesbotschaften für den Partner: 30 Ideen"
+  },
+  "es": {
+   "desc": "30 frases de amor cortas para tu pareja, una fórmula de 20 segundos para escribir las tuyas y dónde ponerlas para que de verdad las vea.",
+   "slug": "frases-de-amor-cortas-para-tu-pareja",
+   "title": "Frases de amor cortas para tu pareja: 30 notas para copiar"
+  },
+  "fr": {
+   "desc": "30 petits mots d'amour courts à envoyer ou à glisser dans une poche, une formule de 20 secondes pour écrire les vôtres et où les mettre pour qu'ils soient vus.",
+   "slug": "petits-mots-damour-courts",
+   "title": "Petits mots d'amour courts : 30 idées pour votre moitié"
+  },
+  "pt": {
+   "desc": "30 bilhetinhos de amor curtos para namorado, namorada ou quem divide a vida com você, uma fórmula de 20 segundos e onde colocar para serem vistos.",
+   "slug": "bilhetinhos-de-amor-curtos",
+   "title": "Bilhetinhos de amor curtos: 30 ideias para o seu amor"
   }
  },
  "things-to-doodle-for-your-partner": {

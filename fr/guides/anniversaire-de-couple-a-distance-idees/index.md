@@ -22,7 +22,7 @@ Le meilleur anniversaire à distance a deux volets : quelque chose que vous fait
 ## Gratuit ou presque
 
 1. **L'appel « on rembobine ».** Chacun apporte trois souvenirs de l'année : le plus drôle, le plus doux et un qui semblait mauvais sur le moment. À tour de rôle. Ça sent un peu le cliché, et c'est celui dont on se souvient.
-2. **Une lettre sur papier.** Écrite à la main, postée une semaine avant pour arriver le jour J. Court, c'est très bien. Quatre lignes sincères valent mieux qu'une page de carte toute faite. Besoin d'un déclic ? Voyez nos [petits mots d'amour](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais).
+2. **Une lettre sur papier.** Écrite à la main, postée une semaine avant pour arriver le jour J. Court, c'est très bien. Quatre lignes sincères valent mieux qu'une page de carte toute faite. Besoin d'un déclic ? Voyez nos [petits mots d'amour](https://twoodle.app/fr/guides/petits-mots-damour-courts/).
 3. **Une playlist de votre année.** Un morceau par mois ensemble, avec une phrase pour dire pourquoi. Échangez-les et écoutez pendant l'appel.
 4. **Un doodle d'anniversaire.** Dessinez le premier endroit où vous vous êtes vus, le pire rendez-vous que vous avez survécu, ou une version minuscule de vous deux. Pas besoin de savoir dessiner : les dessins ratés font partie du charme. Plus d'idées dans [quoi dessiner pour votre partenaire](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/).
 
@@ -46,7 +46,7 @@ Le meilleur anniversaire à distance a deux volets : quelque chose que vous fait
 
 **Deux semaines avant :** choisissez une idée en direct et une idée envoyée. **Une semaine avant :** postez ce qui est physique (lettres et colis demandent du temps). **La veille :** vérifiez les fuseaux et fixez l'heure exacte de votre rendez-vous. **Le jour J :** le direct d'abord, puis dévoilez ce que vous avez envoyé. **Après :** notez la date de vos retrouvailles pendant que l'émotion est encore là.
 
-Si vos horaires se croisent à peine, rappelez-vous que la journée dure 24 heures : envoyer quelque chose le matin et appeler le soir fonctionne très bien. Notre [guide des fuseaux horaires](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais) traite des chevauchements délicats.
+Si vos horaires se croisent à peine, rappelez-vous que la journée dure 24 heures : envoyer quelque chose le matin et appeler le soir fonctionne très bien. Notre [guide des fuseaux horaires](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/) traite des chevauchements délicats.
 
 ## Où Twoodle trouve sa place
 

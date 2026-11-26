@@ -31,7 +31,7 @@ Mándale algo pequeño y concreto (dos líneas, una foto del pastel, un garabato
 
 1. **Crea un ritual para dormir.** Tres cosas, cada noche igual: un mensaje, una canción, un «que descanses». Los rituales le dan forma a una hora solitaria, y no hace falta estar en una llamada para compartirlos.
 2. **Escríbelo primero.** Dos minutos en tus notas: qué extrañas y qué le vas a contar. Gran parte del peso es no tener dónde poner ese pensamiento.
-3. **Mira la hora antes de que se dispare la espiral.** Si es plena madrugada para tu pareja, el mensaje puede esperar. Un plan para mañana es mejor que un texto a las 3 de la mañana que la despierte. Nuestra guía sobre [zonas horarias en una relación a distancia](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés) te ayuda a encontrar un hueco que funcione para los dos.
+3. **Mira la hora antes de que se dispare la espiral.** Si es plena madrugada para tu pareja, el mensaje puede esperar. Un plan para mañana es mejor que un texto a las 3 de la mañana que la despierte. Nuestra guía sobre [zonas horarias en una relación a distancia](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/) te ayuda a encontrar un hueco que funcione para los dos.
 
 ## Cuando el vacío es del tamaño de un fin de semana
 

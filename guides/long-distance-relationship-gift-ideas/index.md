@@ -71,6 +71,8 @@ And one rule beats all the rest: add a note saying why you chose it. "I saw this
 
 Twoodle is not a shipping service, a gift shop or a messaging app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It handles the small daily gesture, not the parcel. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. More tools are in our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 
+Eyeing matching bracelets? Read about [Bond Touch and its alternatives](https://twoodle.app/guides/bond-touch-alternative/) before you order.
+
 ## FAQ
 
 ### What is a good gift for a long-distance relationship?

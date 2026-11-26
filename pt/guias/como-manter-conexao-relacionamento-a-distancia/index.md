@@ -30,13 +30,13 @@ O Twoodle cuida da versão desenho: você desenha e ele aparece no widget da tel
 
 > **Faça do sinal diário um hábito de um minuto** O Twoodle envia desenhos para o widget da tela inicial do seu par. Download gratuito. [Baixar o Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
-Precisa de uma pergunta? Experimente [30 perguntas para relacionamento à distância](https://twoodle.app/pt/guias/perguntas-relacionamento-a-distancia/). Sem palavras? Pegue emprestado um destes [30 bilhetes de amor curtos](https://twoodle.app/guides/short-love-notes-for-your-partner/) (em inglês).
+Precisa de uma pergunta? Experimente [30 perguntas para relacionamento à distância](https://twoodle.app/pt/guias/perguntas-relacionamento-a-distancia/). Sem palavras? Pegue emprestado um destes [30 bilhetes de amor curtos](https://twoodle.app/pt/guias/bilhetinhos-de-amor-curtos/).
 
 ## Camada 2: uma ligação de verdade, em dia fixo
 
 Imagine: os dois falam «vamos conversar essa semana». Chega quinta, um está esgotado, o outro saiu, e vira domingo, depois a quarta seguinte. Plano vago é onde a conexão à distância vai morrer.
 
-Escolha um horário que se repita e confira nos fusos dos dois antes de combinar. Muita diferença de fuso? Veja nosso guia sobre [relacionamento à distância com fusos horários diferentes](https://twoodle.app/guides/long-distance-relationship-time-zones/) (em inglês). Em dúvida sobre quantas ligações bastam? Veja [com que frequência casais à distância devem conversar](https://twoodle.app/pt/guias/com-que-frequencia-conversar-relacionamento-a-distancia/). E faça a ligação ser sobre alguma coisa, não só um relatório de status:
+Escolha um horário que se repita e confira nos fusos dos dois antes de combinar. Muita diferença de fuso? Veja nosso guia sobre [relacionamento à distância com fusos horários diferentes](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/). Em dúvida sobre quantas ligações bastam? Veja [com que frequência casais à distância devem conversar](https://twoodle.app/pt/guias/com-que-frequencia-conversar-relacionamento-a-distancia/). E faça a ligação ser sobre alguma coisa, não só um relatório de status:
 
 - **Façam algo ao mesmo tempo.** Cozinhem o mesmo jantar, vejam um episódio, joguem alguma coisa. Mais ideias em nossas [20 ideias de encontro à distância](https://twoodle.app/pt/guias/ideias-de-encontros-a-distancia/).
 - **Faça perguntas melhores.** «Qual foi a melhor parte da sua semana?» vence «como foi a semana?».

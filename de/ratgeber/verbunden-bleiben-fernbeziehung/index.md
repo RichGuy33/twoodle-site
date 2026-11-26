@@ -30,13 +30,13 @@ Die Zeichnungs-Variante übernimmt Twoodle: Du malst, und es erscheint im Widget
 
 > **Macht das tägliche Zeichen zur Ein-Minuten-Gewohnheit** Twoodle schickt Zeichnungen an das Widget auf dem Home-Bildschirm deines Partners. Kostenlos laden. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
-Brauchst du eine Frage? Probier [30 Fragen für die Fernbeziehung](https://twoodle.app/de/ratgeber/fragen-fernbeziehung/). Fehlen die Worte? Klau dir eine von diesen [30 kurzen Liebesnotizen](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch).
+Brauchst du eine Frage? Probier [30 Fragen für die Fernbeziehung](https://twoodle.app/de/ratgeber/fragen-fernbeziehung/). Fehlen die Worte? Klau dir eine von diesen [30 kurzen Liebesnotizen](https://twoodle.app/de/ratgeber/kurze-liebesbotschaften-partner/).
 
 ## Ebene 2: ein richtiges Telefonat an festem Tag
 
 Stell dir vor: Ihr sagt beide „Wir telefonieren diese Woche“. Donnerstag kommt, einer ist platt, der andere unterwegs, dann wird es Sonntag, dann nächster Mittwoch. Vage Pläne sind der Ort, an dem Nähe auf Distanz stirbt.
 
-Legt lieber einen wiederkehrenden Termin fest und prüft ihn vorher in beiden Zeitzonen. Großer Zeitunterschied? Lies unseren Ratgeber zur [Fernbeziehung über Zeitzonen hinweg](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch). Unsicher, wie viele Anrufe genug sind? Siehe [wie oft Paare in der Fernbeziehung reden sollten](https://twoodle.app/de/ratgeber/wie-oft-sprechen-fernbeziehung/). Und gebt dem Gespräch einen Inhalt, nicht nur einen Statusbericht:
+Legt lieber einen wiederkehrenden Termin fest und prüft ihn vorher in beiden Zeitzonen. Großer Zeitunterschied? Lies unseren Ratgeber zur [Fernbeziehung über Zeitzonen hinweg](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/). Unsicher, wie viele Anrufe genug sind? Siehe [wie oft Paare in der Fernbeziehung reden sollten](https://twoodle.app/de/ratgeber/wie-oft-sprechen-fernbeziehung/). Und gebt dem Gespräch einen Inhalt, nicht nur einen Statusbericht:
 
 - **Macht etwas gleichzeitig.** Kocht dasselbe Abendessen, schaut eine Folge, spielt etwas. Mehr Ideen in unseren [20 Date-Ideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/).
 - **Stellt bessere Fragen.** „Was war das Beste an deiner Woche?“ schlägt „Wie war deine Woche?“.

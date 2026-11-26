@@ -29,7 +29,7 @@ Un buen ritual de buenas noches a distancia es corto, igual cada noche y no exig
 
 ## Cuando no coincidís en horario
 
-1. **Mandar por adelantado.** Quien tenga la tarde-noche antes envía un mensaje para que se lea a la hora de dormir o al despertar de la otra persona. Nadie tiene que trasnochar. Si vuestros horarios están muy lejos, nuestra guía de [zonas horarias en una relación a distancia](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés) te ayuda a encontrar el hueco que sí tenéis.
+1. **Mandar por adelantado.** Quien tenga la tarde-noche antes envía un mensaje para que se lea a la hora de dormir o al despertar de la otra persona. Nadie tiene que trasnochar. Si vuestros horarios están muy lejos, nuestra guía de [zonas horarias en una relación a distancia](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/) te ayuda a encontrar el hueco que sí tenéis.
 2. **Diez segundos de tu voz.** Una nota de voz corta es más cálida que cualquier emoji y se puede escuchar dos veces. Di su nombre. Ya está.
 3. **Un adelanto del «mañana».** Termina con algo que te hace ilusión, por pequeño que sea. Le da al día siguiente una razón para empezar.
 

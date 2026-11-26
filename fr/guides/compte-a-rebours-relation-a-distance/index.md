@@ -53,7 +53,7 @@ Un bon compte à rebours débouche sur du concret. Notez trois choses : ce que c
 
 Non. Une alerte Calendrier remplit l'essentiel du travail gratuitement. Nous avons conçu les dates importantes et les widgets de Twoodle pour que le compte à rebours vive à côté des dessins, des humeurs et des mots que vous échangez déjà. Le téléchargement de Twoodle est gratuit ; Twoodle Pro active l'appairage : 3,99 $ US par semaine (3 jours d'essai) ou 39,99 $ US par an, un seul abonnement pour vous deux (tarifs de l'App Store américain ; ils peuvent varier selon votre pays). Vérifiez dans l'App Store les tarifs actuels et les langues dans lesquelles l'app est disponible.
 
-Pour la vue d'ensemble, voyez [comment rester connectés quand on est en couple à distance](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/) et [comment gérer les fuseaux horaires](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais).
+Pour la vue d'ensemble, voyez [comment rester connectés quand on est en couple à distance](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/) et [comment gérer les fuseaux horaires](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/).
 
  Questions fréquentes
 Comment faire un compte à rebours avant de retrouver mon partenaire sur iPhone ?

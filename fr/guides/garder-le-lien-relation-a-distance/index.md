@@ -30,13 +30,13 @@ Twoodle s'occupe de la version dessin : vous dessinez et ça apparaît sur le wi
 
 > **Faites du signe quotidien une habitude d'une minute** Twoodle envoie des dessins sur le widget de l'écran d'accueil de votre partenaire. Téléchargement gratuit. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 
-Une question à poser ? Essayez [30 questions pour une relation à distance](https://twoodle.app/fr/guides/questions-relation-a-distance/). Panne de mots ? Piquez-en un parmi ces [30 petits mots doux](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en anglais).
+Une question à poser ? Essayez [30 questions pour une relation à distance](https://twoodle.app/fr/guides/questions-relation-a-distance/). Panne de mots ? Piquez-en un parmi ces [30 petits mots doux](https://twoodle.app/fr/guides/petits-mots-damour-courts/).
 
 ## Couche 2 : un vrai appel, à jour fixe
 
 Imaginez : vous vous dites « on s'appelle cette semaine ». Le jeudi arrive, l'un est épuisé, l'autre est sorti, et ça devient dimanche, puis mercredi prochain. Les plans flous sont l'endroit où le lien à distance va mourir.
 
-Choisissez plutôt un créneau récurrent, et vérifiez-le avec les deux fuseaux horaires avant de vous engager. Gros décalage ? Voyez notre guide sur la [relation à distance avec des fuseaux horaires différents](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais). Pas sûr du nombre d'appels qu'il faut ? Voyez [à quelle fréquence les couples à distance doivent se parler](https://twoodle.app/fr/guides/a-quelle-frequence-se-parler-relation-a-distance/). Puis donnez un sujet à l'appel, pas seulement un point d'étape :
+Choisissez plutôt un créneau récurrent, et vérifiez-le avec les deux fuseaux horaires avant de vous engager. Gros décalage ? Voyez notre guide sur la [relation à distance avec des fuseaux horaires différents](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/). Pas sûr du nombre d'appels qu'il faut ? Voyez [à quelle fréquence les couples à distance doivent se parler](https://twoodle.app/fr/guides/a-quelle-frequence-se-parler-relation-a-distance/). Puis donnez un sujet à l'appel, pas seulement un point d'étape :
 
 - **Faites quelque chose en même temps.** Cuisinez le même dîner, regardez un épisode, jouez à un jeu. Plus d'idées dans nos [20 idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 - **Posez de meilleures questions.** « C'était quoi le meilleur moment de ta semaine ? » bat « comment s'est passée ta semaine ? ».

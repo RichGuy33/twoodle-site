@@ -59,7 +59,7 @@ Limites honnêtes : les dessins arrivent sur le widget de l'écran d'accueil, pa
 - **Restez courts.** Quinze à trente minutes. Arrêtez-vous tant que c'est amusant.
 - **Comptez les points avec légèreté.** Un score avec un gage rigolo (« le perdant envoie un vocal où il chante ») vaut mieux que des enjeux sérieux.
 - **Choisissez à tour de rôle.** Celui qui a choisi la dernière fois ne choisit pas cette fois.
-- **Surveillez l'horloge.** Si vous êtes loin l'un de l'autre, notre [guide des fuseaux horaires](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais) aide à trouver un créneau.
+- **Surveillez l'horloge.** Si vous êtes loin l'un de l'autre, notre [guide des fuseaux horaires](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/) aide à trouver un créneau.
 - **Ne remplacez pas la conversation.** Les jeux sont un pont vers la discussion, pas un substitut. Quelle fréquence de contact vous convient ? Voyez [à quelle fréquence un couple à distance devrait se parler](https://twoodle.app/fr/guides/a-quelle-frequence-se-parler-relation-a-distance/).
 
 ## Questions fréquentes

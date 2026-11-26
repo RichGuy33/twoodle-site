@@ -84,7 +84,7 @@ Hay días en que lo suyo es un dibujo. Otros tienes palabras. En Twoodle puedes 
 
 Twoodle está disponible para iPhone (iOS 18 o posterior) y Android. Es gratis para descargar, y Twoodle Pro desbloquea la conexión de pareja: 3,99 US$ por semana con 3 días de prueba, o 39,99 US$ al año, y una sola suscripción cubre a los dos. Son precios de la App Store de EE. UU. y pueden variar en tu país. Si quieres ver todo el proceso, lee [cómo funciona dibujar en los widgets de tu pareja](https://twoodle.app/es/guias/dibujar-en-la-pantalla-de-tu-pareja/). Y si estáis a distancia, nuestro [kit de apps para relaciones a distancia](https://twoodle.app/es/guias/mejores-apps-relacion-a-distancia/) combina de maravilla con un garabato diario.
 
-¿Prefieres las palabras? Prueba [30 notas de amor cortas para tu pareja](https://twoodle.app/guides/short-love-notes-for-your-partner/) (en inglés).
+¿Prefieres las palabras? Prueba [30 notas de amor cortas para tu pareja](https://twoodle.app/es/guias/frases-de-amor-cortas-para-tu-pareja/).
 
 ¿Quieres una forma sencilla de cerrar el día? Prueba una [rutina de buenas noches a distancia](https://twoodle.app/es/guias/rituales-buenas-noches-pareja-a-distancia/).
 

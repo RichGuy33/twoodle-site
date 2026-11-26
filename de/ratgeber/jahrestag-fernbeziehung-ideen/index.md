@@ -22,7 +22,7 @@ Der beste Jahrestag in der Fernbeziehung hat zwei Teile: etwas, das ihr gleichze
 ## Kostenlos oder fast
 
 1. **Der Rückspul-Anruf.** Jeder bringt drei Erinnerungen aus dem Jahr mit: die lustigste, die süßeste und eine, die nur im Moment schlimm schien. Reihum erzählen. Klingt kitschig, bleibt aber am längsten hängen.
-2. **Ein Brief auf Papier.** Handgeschrieben, eine Woche vorher abgeschickt, damit er am Tag ankommt. Kurz ist völlig in Ordnung. Vier ehrliche Zeilen schlagen eine Seite Grußkartenfloskeln. Wenn dir der Anfang fehlt: Unsere [kurzen Liebesnachrichten](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch) helfen.
+2. **Ein Brief auf Papier.** Handgeschrieben, eine Woche vorher abgeschickt, damit er am Tag ankommt. Kurz ist völlig in Ordnung. Vier ehrliche Zeilen schlagen eine Seite Grußkartenfloskeln. Wenn dir der Anfang fehlt: Unsere [kurzen Liebesnachrichten](https://twoodle.app/de/ratgeber/kurze-liebesbotschaften-partner/) helfen.
 3. **Eine Playlist eures Jahres.** Ein Song pro gemeinsamem Monat, mit einem Satz, warum. Tauscht sie aus und hört sie beim Anruf.
 4. **Ein Jahrestags-Doodle.** Zeichne den Ort, an dem ihr euch zum ersten Mal gesehen habt, das schlimmste Date, das ihr überlebt habt, oder eine winzige Version von euch beiden. Zeichentalent ist nicht nötig; schiefe Strichmännchen gehören zum Charme. Mehr Ideen: [was du für deinen Partner zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
 
@@ -46,7 +46,7 @@ Der beste Jahrestag in der Fernbeziehung hat zwei Teile: etwas, das ihr gleichze
 
 **Zwei Wochen vorher:** eine Live-Idee und eine verschickte Idee auswählen. **Eine Woche vorher:** alles Physische losschicken (Briefe und Pakete brauchen Zeit). **Am Vortag:** Zeitzonen prüfen und die genaue Uhrzeit vereinbaren. **Am Tag selbst:** erst das Live-Erlebnis, dann das Verschickte enthüllen. **Danach:** den Termin für das Wiedersehen in den Kalender eintragen, solange die Rührung frisch ist.
 
-Wenn eure Zeiten kaum überlappen, denkt daran, dass der Tag 24 Stunden hat: morgens etwas schicken und abends anrufen funktioniert gut. Unser [Zeitzonen-Ratgeber](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch) hilft bei kniffligen Überlappungen.
+Wenn eure Zeiten kaum überlappen, denkt daran, dass der Tag 24 Stunden hat: morgens etwas schicken und abends anrufen funktioniert gut. Unser [Zeitzonen-Ratgeber](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/) hilft bei kniffligen Überlappungen.
 
 ## Wo Twoodle ins Spiel kommt
 

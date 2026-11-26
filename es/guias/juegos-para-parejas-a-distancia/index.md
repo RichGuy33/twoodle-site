@@ -59,7 +59,7 @@ Límites sinceros: los garabatos llegan al widget de la pantalla de inicio, no a
 - **Que sea corto.** Entre quince y treinta minutos. Para mientras sea divertido.
 - **Puntuación con humor.** Un marcador con un premio tonto («el que pierda manda una nota de voz cantando») gana a las apuestas serias.
 - **Elegid por turnos.** Quien eligió la última vez no elige esta.
-- **Mirad el reloj.** Si estáis muy lejos, nuestra [guía de husos horarios](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en inglés) os ayuda a encontrar un hueco.
+- **Mirad el reloj.** Si estáis muy lejos, nuestra [guía de husos horarios](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/) os ayuda a encontrar un hueco.
 - **No sustituyáis hablar.** Los juegos son un puente hacia la conversación, no un reemplazo. ¿Cuánto contacto es el adecuado? Mira [cada cuánto debería hablar una pareja a distancia](https://twoodle.app/es/guias/cada-cuanto-hablar-relacion-a-distancia/).
 
 ## Preguntas frecuentes

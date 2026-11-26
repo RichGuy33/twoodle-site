@@ -29,7 +29,7 @@ Un bon rituel du soir à distance est court, identique chaque soir, et n'exige p
 
 ## Quand vos fuseaux horaires ne se chevauchent pas
 
-1. **Envoyez en avance.** Celui dont la soirée arrive en premier envoie un message à lire au coucher ou au réveil de l'autre. Personne n'a à veiller. Si vos horaires sont très éloignés, notre guide sur les [fuseaux horaires en relation à distance](https://twoodle.app/guides/long-distance-relationship-time-zones/) (en anglais) vous aide à trouver le créneau qui existe.
+1. **Envoyez en avance.** Celui dont la soirée arrive en premier envoie un message à lire au coucher ou au réveil de l'autre. Personne n'a à veiller. Si vos horaires sont très éloignés, notre guide sur les [fuseaux horaires en relation à distance](https://twoodle.app/fr/guides/relation-a-distance-decalage-horaire/) vous aide à trouver le créneau qui existe.
 2. **Dix secondes de votre voix.** Un court vocal est plus chaleureux que n'importe quel emoji, et on peut l'écouter deux fois. Dites son prénom. C'est tout.
 3. **Un teaser de « demain ».** Terminez par une chose que vous attendez, même minuscule. Elle donne au lendemain une raison de commencer.
 

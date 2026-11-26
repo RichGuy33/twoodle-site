@@ -29,7 +29,7 @@ Ein gutes Einschlafritual in der Fernbeziehung ist kurz, jeden Abend gleich und 
 
 ## Wenn eure Zeitzonen nicht zusammenpassen
 
-1. **Schick im Voraus.** Wessen Abend zuerst kommt, schickt eine Nachricht, die zum Schlafengehen oder Aufwachen des anderen gelesen wird. Niemand muss dafür wach bleiben. Liegen eure Zeiten weit auseinander, hilft unser [Ratgeber zu Zeitzonen in der Fernbeziehung](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch), das Zeitfenster zu finden, das ihr trotzdem habt.
+1. **Schick im Voraus.** Wessen Abend zuerst kommt, schickt eine Nachricht, die zum Schlafengehen oder Aufwachen des anderen gelesen wird. Niemand muss dafür wach bleiben. Liegen eure Zeiten weit auseinander, hilft unser [Ratgeber zu Zeitzonen in der Fernbeziehung](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/), das Zeitfenster zu finden, das ihr trotzdem habt.
 2. **Zehn Sekunden deiner Stimme.** Eine kurze Sprachnachricht ist wärmer als jedes Emoji und lässt sich zweimal anhören. Sag seinen oder ihren Namen. Mehr braucht es nicht.
 3. **Ein Teaser für „morgen“.** Schließ mit etwas ab, auf das du dich freust, und sei es noch so klein. Es gibt dem nächsten Tag einen Grund, anzufangen.
 

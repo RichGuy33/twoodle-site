@@ -80,7 +80,7 @@ Diese Fragen machen eine Fernbeziehung endlich. Sie sind wichtig und können ang
 
 - **Eine nach der anderen.** Fünf Fragen sind ein Formular. Eine Frage ist ein Gespräch.
 - **Antworte zuerst.** Gib deine eigene Antwort oder biete sie direkt nach der anderen an. Sonst ist es Überwachung mit besserem Licht.
-- **Denk an die Zeitzone.** Eine schwere Frage kurz vor ihrem Meeting oder deiner Schlafenszeit geht schief. Unser [Ratgeber zu Zeitzonen](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch) hilft, ein faires Zeitfenster zu finden.
+- **Denk an die Zeitzone.** Eine schwere Frage kurz vor ihrem Meeting oder deiner Schlafenszeit geht schief. Unser [Ratgeber zu Zeitzonen](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/) hilft, ein faires Zeitfenster zu finden.
 - **Lass Stille zu.** Im Videoanruf wirken drei Sekunden Pause wie ein Absturz. Es ist keiner: Die andere Person denkt nach.
 - **Greif es später wieder auf.** Eine Antwort von letzter Woche zu erwähnen zeigt, dass du wirklich zugehört hast. Genau das macht die Frage wertvoll.
 
@@ -88,7 +88,7 @@ Für die ganze Routine drumherum lies [wie ihr verbunden bleibt, ohne rund um di
 
 ## Wo Twoodle passt (und wo nicht)
 
-Twoodle ist weder eine Fragen-App noch ein Messenger noch ein Therapeut. Es ist eine App für iPhone (iOS 18 oder neuer) und seit November 2026 auch für Android, die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Widgets für den Sperrbildschirm für Liebesnotizen und gemeinsame Tage. Ein tägliches Check-in kann so klein sein wie die Zeichnung des Sandwichs, das du dir gerade gemacht hast, oder eine einzeilige Frage in einer Liebesnotiz. Unter Android können sich Funktionen von der iPhone-App unterscheiden; schau im Google-Play-Eintrag nach. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 US-Dollar pro Woche mit 3 Tagen Testzeit oder 39,99 US-Dollar pro Jahr, für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf im App Store, in welchen Sprachen die App verfügbar ist. Keine Idee, was du zeichnen sollst? Probier [25 Dinge zum Zeichnen](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/). Brauchst du Worte? Bedien dich bei [30 kurzen Liebesnotizen](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch).
+Twoodle ist weder eine Fragen-App noch ein Messenger noch ein Therapeut. Es ist eine App für iPhone (iOS 18 oder neuer) und seit November 2026 auch für Android, die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Widgets für den Sperrbildschirm für Liebesnotizen und gemeinsame Tage. Ein tägliches Check-in kann so klein sein wie die Zeichnung des Sandwichs, das du dir gerade gemacht hast, oder eine einzeilige Frage in einer Liebesnotiz. Unter Android können sich Funktionen von der iPhone-App unterscheiden; schau im Google-Play-Eintrag nach. Der Download ist kostenlos, und Twoodle Pro schaltet das Koppeln frei: 3,99 US-Dollar pro Woche mit 3 Tagen Testzeit oder 39,99 US-Dollar pro Jahr, für euch beide (Preise aus dem US-App-Store; in deinem Land können sie abweichen). Prüf im App Store, in welchen Sprachen die App verfügbar ist. Keine Idee, was du zeichnen sollst? Probier [25 Dinge zum Zeichnen](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/). Brauchst du Worte? Bedien dich bei [30 kurzen Liebesnotizen](https://twoodle.app/de/ratgeber/kurze-liebesbotschaften-partner/).
 
 ## Häufige Fragen
 

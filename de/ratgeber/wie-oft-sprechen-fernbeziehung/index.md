@@ -31,7 +31,7 @@ Wenn du die ausführliche Fassung dieser Struktur willst, geht [so bleibt ihr in
 
 Setzt euch zusammen (per Anruf, versteht sich) und beantwortet jeweils vier Fragen:
 
-- **Wann habe ich wirklich Zeit?** Seid ehrlich bei Arbeit, Uni, Schlaf und Zeitverschiebung. Unser Ratgeber zu [Zeitzonen in der Fernbeziehung](https://twoodle.app/guides/long-distance-relationship-time-zones/) (auf Englisch) hilft beim Rechnen.
+- **Wann habe ich wirklich Zeit?** Seid ehrlich bei Arbeit, Uni, Schlaf und Zeitverschiebung. Unser Ratgeber zu [Zeitzonen in der Fernbeziehung](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/) hilft beim Rechnen.
 - **Welcher Kontakt tut mir gut?** Manche fühlen sich nach einem langen Telefonat nah. Andere nach einer lieben Nachricht in der Mittagspause.
 - **Was lässt mich ignoriert fühlen?** Ein verpasster Anruf? Eine Antwort mit einem Wort? Ein ganzer Tag Funkstille?
 - **Was lässt mich eingeengt fühlen?** Sofort antworten zu müssen? Vor der Kamera sitzen zu müssen?
@@ -45,7 +45,7 @@ Kontakt sind nicht nur Anrufe. Die kleinen Dinge mitzuzählen nimmt dem Paar mit
 - Eine Textnachricht oder Sprachnachricht
 - Ein Foto von deinem Mittagessen oder deiner Aussicht
 - Eine Zeichnung auf das Home-Bildschirm-Widget (hier steht, [was du zeichnen kannst](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/))
-- Ein [kurzer Liebeszettel](https://twoodle.app/guides/short-love-notes-for-your-partner/) (auf Englisch), der erscheint, ohne dass jemand etwas öffnen muss
+- Ein [kurzer Liebeszettel](https://twoodle.app/de/ratgeber/kurze-liebesbotschaften-partner/), der erscheint, ohne dass jemand etwas öffnen muss
 - Eine gemeinsame Playlist, ein Link, ein Meme
 
 ## Die 24/7-Falle
