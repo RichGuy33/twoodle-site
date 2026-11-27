@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Citas a distancia: 20 ideas que funcionan con distintos husos horarios
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app para parejas en iPhone y Android. Casi todas las ideas no necesitan ninguna app, y te decimos dónde encaja Twoodle.
 

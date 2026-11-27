@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Spiele für Fernbeziehungen: 12 Ideen für Videoanrufe und Handy
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, eine Widget-App für Paare auf dem iPhone. Die meisten dieser Spiele brauchen nur ein Handy und einen Menschen, den du magst.
 

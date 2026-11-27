@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Bilhetinhos de amor curtos: 30 que cabem na Tela Bloqueada
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um app para casais. Esses bilhetes funcionam em qualquer app ou num post-it, e dizemos onde o Twoodle entra.
 

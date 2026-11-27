@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Wie oft telefonieren in der Fernbeziehung? Ein realistischer Rhythmus
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, eine Widget-App für Paare auf dem iPhone. Das meiste hier funktioniert mit jeder App oder auch ganz ohne.
 

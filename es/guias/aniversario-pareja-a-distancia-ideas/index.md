@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Ideas para un aniversario a distancia: 12 formas de celebrar sin estar juntos
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app de widgets para parejas en iPhone y Android. La mayoría de estas ideas solo necesitan un móvil y algo de planificación, y te decimos dónde ayuda una app.
 

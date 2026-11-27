@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Die besten Apps für eine Fernbeziehung (ein praktisches Set)
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, also ist eine der Apps unten unsere. Wir haben ihr nur einen von sechs Plätzen gegeben und sagen, wo sie nicht hilft.
 
@@ -21,11 +21,11 @@ Kurze Antwort: Du brauchst keinen Sieger, sondern ein kleines Set. Eine App zum 
 
 | Aufgabe | Eine solide Wahl | Gut zu wissen |
 |---|---|---|
-| Alltags-Nachrichten | iMessage (wenn ihr beide ein iPhone habt) oder WhatsApp | Entscheidet euch für einen Chat und bleibt dort. Wer die Unterhaltung auf drei Apps verteilt, verliert Nachrichten. |
-| Videoanrufe | FaceTime | Nur auf Apple-Geräten; wenn einer von euch Android nutzt, nehmt eine plattformübergreifende Anruf-App. |
-| Zeitzonen | Weltuhr in der Uhr-App | Ist im iPhone eingebaut. Füge die Stadt deines Partners hinzu und hör auf, im Kopf zu rechnen. |
-| Gemeinsam schauen | SharePlay in FaceTime | Funktioniert mit unterstützten Apps; manche Streamingdienste haben eigene Funktionen zum gemeinsamen Schauen. Prüft eure. |
-| Gemeinsame Erinnerungen | Geteilte Alben in Fotos | Kostenlos und schon da. Ein geteiltes Album „Was wir diese Woche gesehen haben“ ist erstaunlich schön. |
+| Alltags-Nachrichten | iMessage (wenn ihr beide ein iPhone habt) oder WhatsApp | Entscheidet euch für einen Chat und bleibt dort. Wer die Unterhaltung auf drei Apps verteilt, verliert Nachrichten. ([WhatsApp-Downloads](https://www.whatsapp.com/download)) |
+| Videoanrufe | FaceTime | Auf Apple-Geräten eingebaut. Unter Android oder Windows kann man über einen Link, der auf einem Apple-Gerät erstellt wurde, in Chrome oder Edge teilnehmen, dort aber ohne SharePlay und Bildschirmfreigabe. ([Apple Support](https://support.apple.com/en-us/109364)) |
+| Zeitzonen | Weltuhr in der Uhr-App | Ist im iPhone eingebaut. Füge die Stadt deines Partners hinzu und hör auf, im Kopf zu rechnen. ([Apple Support](https://support.apple.com/guide/iphone/see-the-world-clock-iph1ac0b4af/ios)) |
+| Gemeinsam schauen | SharePlay in FaceTime | Funktioniert mit unterstützten Apps, und jede Person braucht unter Umständen ein eigenes Abo oder einen eigenen Kauf. Manche Streamingdienste haben eigene Funktionen zum gemeinsamen Schauen. Prüft eure. ([Apple Support](https://support.apple.com/guide/iphone/shareplay-watch-listen-play-iphb657eb791/ios)) |
+| Gemeinsame Erinnerungen | Geteilte Alben in Fotos | Schon eingebaut. Geteilte Alben können den iCloud-Speicher der Person belegen, die sie erstellt. Ein geteiltes Album „Was wir diese Woche gesehen haben“ ist erstaunlich schön. ([Apple Support](https://support.apple.com/guide/iphone/create-shared-albums-iph3d2676c9/ios)) |
 | Kleine tägliche Präsenz | Eine Widget-App für Paare, zum Beispiel Twoodle | Siehe unten. Ersetzt kein Gespräch. |
 
 Beachte, was fehlt: die große „Alles-in-einem-Paar-App“. Manche lieben so etwas. Viele nutzen am Ende eine Funktion und ignorieren den Rest. Fang mit dem an, was ohnehin auf deinem Handy ist, und ergänze nur, was dir wirklich fehlt.
@@ -44,7 +44,7 @@ FaceTime ist auf Apple-Geräten am einfachsten. Viele Paare finden eine feste An
 
 ## Gemeinsam schauen und hören
 
-Mit SharePlay in FaceTime könnt ihr während eines Anrufs in unterstützten Apps zusammen schauen oder hören. Die Unterstützung hängt von App und Dienst ab, also testet euren Favoriten vor dem Date-Abend, nicht währenddessen. Eine gemeinsame Playlist ist die Low-Tech-Variante und kostet nichts.
+Mit SharePlay in FaceTime könnt ihr während eines Anrufs in unterstützten Apps zusammen schauen oder hören. Die Unterstützung hängt von App und Dienst ab, also testet euren Favoriten vor dem Date-Abend, nicht währenddessen. Eine gemeinsame Playlist ist die Low-Tech-Variante.
 
 > **Ein winziges „Ich denke an dich“ zwischen den Anrufen?** Twoodle bringt deine Zeichnungen auf den Home-Bildschirm deines Partners. Kostenloser Download. [Twoodle laden](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

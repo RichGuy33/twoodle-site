@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Qué dibujar para tu pareja: 25 ideas (aunque no sepas dibujar)
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app para parejas en iPhone. Las ideas de abajo sirven con cualquier herramienta de dibujo, pero las escribimos pensando en un widget de la pantalla de inicio.
 

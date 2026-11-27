@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # How to Stay Connected in a Long-Distance Relationship (Without Texting 24/7)
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. Most of this advice needs no app at all, and we say where Twoodle fits.
 

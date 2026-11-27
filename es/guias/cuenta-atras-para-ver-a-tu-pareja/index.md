@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Cuenta atrás para ver a tu pareja: 9 formas de contar los días
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, que tiene fechas importantes con cuenta atrás. Casi todo lo de esta guía funciona con cualquier app, o sin ninguna.
 

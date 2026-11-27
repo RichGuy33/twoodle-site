@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Fragen für die Fernbeziehung: 30 Ideen und wann du sie stellst
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, eine iPhone-App für Paare. Alle Fragen funktionieren ganz ohne App, und wir sagen dir, wo Twoodle passt.
 

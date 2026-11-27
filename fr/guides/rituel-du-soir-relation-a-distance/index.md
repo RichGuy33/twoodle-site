@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Rituel du soir en relation à distance : 10 idées pour finir la journée ensemble
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app de widgets pour couples sur iPhone. La plupart de ces rituels ne demandent qu'un téléphone, et nous précisons quand une app peut aider.
 

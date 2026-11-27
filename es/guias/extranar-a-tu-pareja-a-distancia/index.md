@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Extrañar a tu pareja en una relación a distancia: 12 cosas que sí ayudan
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app de widgets para parejas en iPhone. La mayoría de estas ideas solo necesitan un móvil y una persona a quien extrañas.
 

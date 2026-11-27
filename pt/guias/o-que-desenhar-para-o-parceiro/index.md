@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # O que desenhar para o namorado ou namorada: 25 ideias (mesmo sem saber desenhar)
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um app para casais no iPhone. As ideias abaixo funcionam em qualquer ferramenta de desenho, mas foram pensadas para um widget da Tela de Início.
 

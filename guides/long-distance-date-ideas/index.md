@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Date Ideas: 20 Dates That Work Across Time Zones
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. Almost every idea below needs no app at all, and we say where Twoodle fits.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # How to Draw on Your Partner's iPhone Lock Screen & Widgets
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 Picture this: you're at work, your partner's across town, and you want to say "hi, I like you" without typing yet another "hey, thinking of you" text that reads like a bank notification.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Dessiner sur l'iPhone de son partenaire : écran verrouillé et widgets
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app iPhone pour les couples, donc les étapes ci-dessous l'utilisent. D'autres apps font des choses proches, et nous en citons plus bas.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Kurze Liebesbotschaften: 30, die auf den Sperrbildschirm passen
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Twoodle, eine App für Paare, stammt von uns. Diese Botschaften funktionieren in jeder App oder auf einem Zettel, und wir sagen, wo Twoodle passt.
 

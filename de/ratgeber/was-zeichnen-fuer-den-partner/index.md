@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Was zeichnen für Freund oder Freundin? 25 Ideen (auch ohne Talent)
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, eine App für Paare auf dem iPhone. Die Ideen unten funktionieren mit jedem Zeichenwerkzeug, wir haben sie aber mit einem Home-Bildschirm-Widget im Kopf geschrieben.
 

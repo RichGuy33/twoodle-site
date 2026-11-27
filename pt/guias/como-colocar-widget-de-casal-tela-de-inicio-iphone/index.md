@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Como colocar um widget de casal na Tela de Início do iPhone (passo a passo)
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um app de iPhone para casais. Os passos abaixo são do iOS padrão, então servem para qualquer app de widgets para casais. Usamos o Twoodle nos exemplos.
 

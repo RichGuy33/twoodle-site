@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Einschlafritual für die Fernbeziehung: 10 Ideen, den Tag gemeinsam zu beenden
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, eine Paar-Widget-App für das iPhone. Für die meisten dieser Rituale brauchst du nur ein Handy, und wir sagen dazu, wo eine App hilft.
 

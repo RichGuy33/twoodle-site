@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Jogos para casais à distância: 12 ideias para chamadas de vídeo e celular
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um app de widgets para casais no iPhone. A maioria destes jogos só precisa de um celular e de alguém de quem você gosta.
 

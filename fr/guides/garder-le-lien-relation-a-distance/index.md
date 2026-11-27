@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Comment garder le lien dans une relation à distance (sans s'écrire 24 h/24)
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app pour couples (iPhone et Android). Presque tous ces conseils n'ont besoin d'aucune app, et nous disons où Twoodle trouve sa place.
 

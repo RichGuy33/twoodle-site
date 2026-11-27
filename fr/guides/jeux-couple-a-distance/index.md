@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Jeux pour couple à distance : 12 idées en visio et sur mobile
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app de widgets pour couples sur iPhone. La plupart de ces jeux ne demandent qu'un téléphone et quelqu'un que vous aimez.
 

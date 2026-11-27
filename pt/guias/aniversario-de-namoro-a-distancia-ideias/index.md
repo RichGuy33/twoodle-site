@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Ideias para aniversário de namoro à distância: 12 jeitos de comemorar longe
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** fazemos o Twoodle, um app de widgets para casais no iPhone e no Android. A maioria destas ideias só precisa de um celular e um pouco de planejamento, e avisamos onde um app ajuda.
 

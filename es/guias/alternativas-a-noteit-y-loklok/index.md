@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternativas a noteit y LokLok: apps de widget con dibujos para parejas
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, así que somos parciales. Todo lo que decimos de otras apps sale de sus fichas públicas de la App Store (tienda de EE. UU.) tal como las leímos en noviembre de 2026, y las fichas cambian. Si no pudimos confirmar algo, lo decimos.
 
@@ -23,17 +23,19 @@ No hay un solo noteit. Leímos tres fichas que usan el nombre:
 
 | Ficha | Desarrollador | Dirigida a | Requiere | Precio que muestra |
 |---|---|---|---|---|
-| noteit - bff widget | iconic hearts holdings, inc. | Novias, novios y mejores amigas | iOS 15 | Gratis con compras dentro de la app; niveles de «Diamond Subscription» |
-| Note Widget - Love Drawing (Noteit Widget) | KYOTO K.K. | Tú y tu pareja, más amigos | iOS 15 | Gratis con compras dentro de la app; opciones semanal, mensual, anual y de por vida |
-| Noteit Widget: Drawing Couples | Hong Ta Thi | Parejas | iOS 13 | Gratis con compras dentro de la app; una suscripción |
+| [noteit - bff widget](https://apps.apple.com/us/app/1570369625) | iconic hearts holdings, inc. | Novias, novios y mejores amigas | iOS 15 | Gratis con compras dentro de la app; niveles de «Diamond Subscription» |
+| [Note Widget - Love Drawing (Noteit Widget)](https://apps.apple.com/us/app/-/id1608348687) | KYOTO K.K. | Tú y tu pareja, más amigos | iOS 15 | Gratis con compras dentro de la app; opciones semanal, mensual, anual y de por vida |
+| [Noteit Widget: Drawing Couples](https://apps.apple.com/us/app/id1623343303) | Hong Ta Thi | Parejas | iOS 13 | Gratis con compras dentro de la app; una suscripción |
 
 La primera tiene, con diferencia, más valoraciones de las que vimos (unas 99 000 con 4,8). Las otras dos tenían unas 12 000 con 4,6 y 44 con 4,2. Su ficha también muestra una función de rachas, con reparación de rachas de pago.
 
 Las etiquetas de privacidad también difieren. Son declaraciones de cada desarrollador, no verificadas por Apple: la ficha de Drawing Couples dice que no recopila datos, la de bff widget indica información de contacto, contenido del usuario e identificadores vinculados a ti, y la de Love Drawing incluye datos usados para rastrearte entre apps y sitios de otras empresas. Si te importa, lee la sección «Privacidad de la app» antes de instalar.
 
+Fuentes: las tres fichas de la App Store enlazadas en la tabla, consultadas el 26 de noviembre de 2026.
+
 ## ¿Y LokLok?
 
-LokLok es más antigua que todas estas. Un artículo de TechCrunch de 2014 la describía como una app de Android que sustituía la pantalla de bloqueo por una pizarra compartida para que los amigos garabatearan en las pantallas de los demás, y decía que una versión para iOS estaba en camino. No pudimos confirmar con sus fichas actuales si sigue disponible o mantenida, así que hoy no afirmamos nada sobre ella.
+LokLok es más antigua que todas estas. Un artículo de [TechCrunch](https://techcrunch.com/2014/07/07/lokloks-new-messaging-app-lets-you-draw-on-your-friends-lock-screen/) de 2014 la describía como una app de Android que sustituía la pantalla de bloqueo por una pizarra compartida para que los amigos garabatearan en las pantallas de los demás, y decía que una versión para iOS estaba en camino. No pudimos confirmar con sus fichas actuales si sigue disponible o mantenida, así que hoy no afirmamos nada sobre ella.
 
 Su idea central, dibujar en la pantalla de bloqueo de otra persona, es el motivo por el que mucha gente la busca. En iPhone, las apps no pueden hacerlo directamente. Explicamos [lo que iOS sí permite](https://twoodle.app/es/guias/dibujar-en-la-pantalla-de-tu-pareja/).
 
@@ -65,7 +67,7 @@ Dos límites sinceros: los garabatos llegan al widget de la pantalla de inicio, 
 | Dibujar en un widget | Sí | Sí, widget de la pantalla de inicio |
 | Widgets de pantalla de bloqueo | No aparecen en las fichas que leímos | Nota de amor, Días juntos y Distancia opcional |
 | Dirigida a | Amigos y parejas, según la app | Parejas |
-| Plataformas | iPhone | iPhone (iOS 18 o posterior) y Android |
+| Plataformas | iPhone (las dos fichas más pequeñas también mencionan iPad); no revisamos Android | iPhone (iOS 18 o posterior) y Android |
 | Precio | Gratis con compras integradas; varía según la app | Descarga gratis; Pro 3,99 USD/semana (3 días de prueba) o 39,99 USD/año, para los dos (precios de la App Store de EE. UU., pueden variar en tu país) |
 
 ¿Comparando más apps? Mira las [mejores apps de widgets para parejas en iPhone](https://twoodle.app/es/guias/mejores-apps-widgets-para-parejas/), nuestra guía de [alternativas a Couple Joy](https://twoodle.app/es/guias/alternativa-a-couple-joy/) o la [alternativa a Lovebox sin aparato](https://twoodle.app/es/guias/alternativa-a-lovebox-sin-aparato/).

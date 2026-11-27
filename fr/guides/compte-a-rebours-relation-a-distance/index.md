@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Compte à rebours couple à distance : 9 façons de patienter jusqu'aux retrouvailles
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, qui propose des dates importantes avec compte à rebours. La plupart des idées de ce guide marchent avec n'importe quelle app, ou aucune.
 

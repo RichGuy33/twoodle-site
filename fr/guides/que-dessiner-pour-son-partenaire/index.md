@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Que dessiner pour son copain ou sa copine : 25 idées (même sans savoir dessiner)
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app pour couples sur iPhone. Les idées ci-dessous marchent avec n'importe quel outil de dessin, mais nous les avons pensées pour un widget d'écran d'accueil.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Countdown: 9 Ways to Count Down Until You Meet
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, which has important dates with countdowns. Most of this guide works with any app, or none.
 

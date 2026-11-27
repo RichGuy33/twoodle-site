@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Frases de amor cortas para tu pareja: 30 que caben en la pantalla bloqueada
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app para parejas. Estas notas sirven en cualquier app o en un pósit, y te decimos dónde encaja Twoodle.
 

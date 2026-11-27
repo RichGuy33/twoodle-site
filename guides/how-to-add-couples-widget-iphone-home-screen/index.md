@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # How to Add a Couples Widget to Your iPhone Home Screen (Step by Step)
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. The steps below are standard iOS, so they work for any couples widget app. We use Twoodle for the examples.
 

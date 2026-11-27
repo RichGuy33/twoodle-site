@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternativa ao Lovebox sem aparelho: desenhos no iPhone do seu parceiro
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, então somos parciais. Tentamos nos ater aos fatos e dizer com clareza onde o Lovebox é a melhor escolha.
 
@@ -19,7 +19,9 @@ Se você chegou até aqui, provavelmente quer saber se dá para ter a mesma sens
 
 ## Primeiro, o que o Lovebox realmente é
 
-Uma caixinha de madeira com tela e um coração na lateral. Você envia mensagens, fotos, desenhos ou figurinhas pelo app gratuito do Lovebox, e o coração gira quando algo chega. Quem tem a caixa abre a tampa para ler. A caixa é um produto físico que você compra e se conecta ao app por Wi-Fi.
+Uma caixinha de madeira com tela e um coração na lateral. Você envia mensagens, fotos, desenhos ou figurinhas pelo app gratuito do Lovebox, e o coração gira quando algo chega. Quem tem a caixa abre a tampa para ler. A caixa é um produto físico que você compra e se conecta ao app por Wi-Fi (a página do produto especifica 2,4 GHz).
+
+Fonte: [página na App Store](https://apps.apple.com/us/app/-/id1154499750), [página do produto Lovebox](https://en.lovebox.love/products/lovebox-for-lovers) (consultada em 26 de novembro de 2026).
 
 ## Por que as pessoas procuram uma alternativa
 
@@ -37,7 +39,7 @@ Você também pode enviar recados curtos para a Tela de Bloqueio ou a Tela de In
 
 |  | Lovebox | Twoodle |
 |---|---|---|
-| O que você precisa | O aparelho Lovebox e o app | Dois iPhones com o app |
+| O que você precisa | O aparelho Lovebox e o app | Um celular para cada um, com o app |
 | Como as mensagens chegam | Na tela da caixa, com um coração que gira | Num widget da Tela de Início ou da Tela de Bloqueio |
 | O que dá para enviar | Texto, fotos, desenhos, figurinhas | Desenhos, fotos numa tela de desenho, recados, humores, cutucadas |
 | Plataformas | App para iOS e Android | iPhone (iOS 18 ou superior) e Android |

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Cómo dibujar en la pantalla de bloqueo y los widgets del iPhone de tu pareja
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una de las apps que hacen esto, así que los pasos de abajo usan Twoodle. Está disponible para iPhone (iOS 18 o posterior) y Android; los pasos describen la app para iPhone.
 

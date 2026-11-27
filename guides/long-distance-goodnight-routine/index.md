@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Goodnight Routine: 10 Ways to End the Day Together
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, a couples widget app for iPhone. Most of these rituals need nothing but a phone, and we say so where an app helps.
 

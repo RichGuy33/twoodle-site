@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Perguntas para relacionamento à distância: 30 ideias e quando fazer cada uma
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um app de iPhone para casais. Todas as perguntas funcionam sem app nenhum, e dizemos onde o Twoodle entra.
 

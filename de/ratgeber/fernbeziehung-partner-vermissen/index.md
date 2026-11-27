@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Partner vermissen in der Fernbeziehung: 12 Dinge, die wirklich helfen
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, eine Paar-Widget-App für das iPhone. Für die meisten dieser Ideen brauchst du nur ein Handy und einen Menschen, den du vermisst.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Fernbeziehung mit Zeitverschiebung: so klappt es
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Twoodle, eine App für Paare, stammt von uns. Die meisten Tipps brauchen keine App, und wir sagen, wo Twoodle passt.
 

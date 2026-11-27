@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Relation à distance et décalage horaire : faire que ça marche
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous éditons Twoodle, une application pour couples. La plupart de ces conseils se passent d'application, et nous disons où Twoodle a sa place.
 

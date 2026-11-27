@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Apps Like Bond Touch: What to Use With (or Without) the Bracelet
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, so we're biased. We aren't connected to Bond Touch. Its details come from its own pages and App Store listing, checked November 26, 2026; confirm prices before you buy.
 
@@ -21,7 +21,7 @@ So here are the options, with real prices, and an honest note on when you should
 
 Bond Touch sells long-distance bracelets in pairs of people: you wear one, your partner wears one. You tap yours, and theirs lights up and vibrates. Here is what Bond Touch's own pages said when we checked on November 26, 2026:
 
-- **Bond Touch 4:** listed at US$89 per bracelet, so two people need two. Sales and discounts come and go.
+- **[Bond Touch 4](https://bond-touch.com/products/bond-touch-4-long-distance-bracelet):** listed at US$89 per bracelet, so two people need two. Sales and discounts come and go.
 - **Phone required:** the bracelet uses Bluetooth and needs to stay within about 10 feet (3 m) of your phone. The phone needs internet. With that, distance isn't a limit.
 - **Battery:** up to 4 days with normal use for the Bond Touch 4.
 - **Water:** rated IP67. Bond Touch says to take it off for swimming, hot showers, baths and saunas.

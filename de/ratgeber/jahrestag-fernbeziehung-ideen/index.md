@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Jahrestag in der Fernbeziehung: 12 Ideen zum Feiern trotz Entfernung
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, eine Widget-App für Paare auf iPhone und Android. Für die meisten dieser Ideen brauchst du nur ein Handy und etwas Planung, und wir sagen dazu, wo eine App hilft.
 

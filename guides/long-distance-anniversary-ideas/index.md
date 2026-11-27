@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Anniversary Ideas: 12 Ways to Celebrate Apart
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, a couples widget app for iPhone and Android. Most ideas here need nothing but a phone and a little planning, and we say so where an app helps.
 

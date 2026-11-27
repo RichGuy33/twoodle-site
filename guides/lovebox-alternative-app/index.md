@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Lovebox Alternative With No Hardware: Doodles on Your Partner's iPhone
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, so we're biased. We've tried to stick to facts and to say plainly where Lovebox is the better choice.
 
@@ -19,7 +19,9 @@ If you're here, you're probably wondering whether you can get the same warm feel
 
 ## First, what Lovebox actually is
 
-A small wooden box with a screen and a heart on the side. You send messages, photos, drawings or stickers from the free Lovebox app, and the heart spins when something arrives. Whoever owns the box opens the lid to read it. The box is a physical product you buy, and it connects to the app over Wi-Fi.
+A small wooden box with a screen and a heart on the side. You send messages, photos, drawings or stickers from the free Lovebox app, and the heart spins when something arrives. Whoever owns the box opens the lid to read it. The box is a physical product you buy, and it connects to the app over Wi-Fi (the product page specifies 2.4 GHz).
+
+Source: [App Store listing](https://apps.apple.com/us/app/-/id1154499750), [Lovebox product page](https://en.lovebox.love/products/lovebox-for-lovers) (checked November 26, 2026).
 
 ## Why people go looking for an alternative
 
@@ -37,7 +39,7 @@ You can also send short notes to their Lock Screen or Home Screen, share a mood,
 
 |  | Lovebox | Twoodle |
 |---|---|---|
-| What you need | The Lovebox device plus the app | Two iPhones with the app |
+| What you need | The Lovebox device plus the app | A phone each with the app |
 | How messages arrive | On the box's screen, with a spinning heart | On a Home Screen or Lock Screen widget |
 | What you can send | Text, photos, drawings, stickers | Doodles, photos on a canvas, notes, moods, nudges |
 | Platforms | App for iOS and Android | iPhone (iOS 18 or later) and Android |

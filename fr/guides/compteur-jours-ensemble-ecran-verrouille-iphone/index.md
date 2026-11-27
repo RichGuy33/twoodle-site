@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Compteur de jours ensemble sur l'écran verrouillé de l'iPhone : comment faire
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, et il a un widget Jours ensemble. Nous avons centré ce guide sur le fonctionnement d'iOS et sur ce qu'il faut chercher, pour qu'il serve quelle que soit l'app choisie.
 

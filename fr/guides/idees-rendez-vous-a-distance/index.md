@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Idées de rendez-vous à distance : 20 dates qui marchent malgré le décalage horaire
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app pour couples sur iPhone et Android. Presque toutes les idées ci-dessous se passent d'app, et nous disons où Twoodle trouve sa place.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternative à Bond Touch : que choisir, avec ou sans bracelet
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous éditons Twoodle, nous ne sommes donc pas neutres. Nous n'avons aucun lien avec Bond Touch. Les informations viennent de ses pages et de sa fiche App Store, consultées le 26 novembre 2026. Prix en dollars US, susceptibles de varier selon le pays : vérifiez avant d'acheter.
 
@@ -19,7 +19,7 @@ Un bracelet qui vibre parce que quelqu'un, très loin, a touché le sien, c'est 
 
 Des bracelets pour couples à distance : un chacun. Vous touchez le vôtre, l'autre s'allume et vibre. Voici ce qu'indiquaient les pages de la marque :
 
-- **Bond Touch 4 :** prix affiché de 89 $ US par bracelet, il en faut donc deux. Les promos vont et viennent.
+- **[Bond Touch 4](https://bond-touch.com/products/bond-touch-4-long-distance-bracelet) :** prix affiché de 89 $ US par bracelet, il en faut donc deux. Les promos vont et viennent.
 - **Téléphone obligatoire :** connexion Bluetooth, à environ 3 mètres (10 pieds) du téléphone, qui doit avoir internet. Dans ces conditions, la distance entre vous n'est pas une limite.
 - **Autonomie :** jusqu'à 4 jours en usage normal pour le Bond Touch 4.
 - **Eau :** certification IP67. La marque demande de le retirer pour nager, la douche chaude, le bain et le sauna.

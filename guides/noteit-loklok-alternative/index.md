@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # noteit and LokLok Alternatives: Drawing Widget Apps for Couples
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, so we're biased. Everything below about other apps comes from their public App Store listings (US storefront) as we read them in November 2026, and listings change. Where we couldn't confirm something, we say so.
 
@@ -23,17 +23,19 @@ There isn't one noteit. We read three listings that use the name:
 
 | Listing | Developer | Aimed at | Needs | Price shown |
 |---|---|---|---|---|
-| noteit - bff widget | iconic hearts holdings, inc. | Girlfriends, boyfriends and best friends | iOS 15 or later | Free with in-app purchases; "Diamond Subscription" tiers |
-| Note Widget - Love Drawing (Noteit Widget) | KYOTO K.K. | You and your partner, plus friends | iOS 15 or later | Free with in-app purchases; weekly, monthly, yearly and lifetime options |
-| Noteit Widget: Drawing Couples | Hong Ta Thi | Couples | iOS 13 or later | Free with in-app purchases; one subscription listed |
+| [noteit - bff widget](https://apps.apple.com/us/app/1570369625) | iconic hearts holdings, inc. | Girlfriends, boyfriends and best friends | iOS 15 or later | Free with in-app purchases; "Diamond Subscription" tiers |
+| [Note Widget - Love Drawing (Noteit Widget)](https://apps.apple.com/us/app/-/id1608348687) | KYOTO K.K. | You and your partner, plus friends | iOS 15 or later | Free with in-app purchases; weekly, monthly, yearly and lifetime options |
+| [Noteit Widget: Drawing Couples](https://apps.apple.com/us/app/id1623343303) | Hong Ta Thi | Couples | iOS 13 or later | Free with in-app purchases; one subscription listed |
 
 The first has by far the largest rating count we saw (about 99K ratings at 4.8). The other two had about 12K at 4.6 and 44 at 4.2. Its listing also shows a streak feature, with paid streak repairs.
 
 Privacy labels differ too. These are each developer's own statements, not verified by Apple: the Drawing Couples listing says no data is collected, the bff widget lists contact info, user content and identifiers linked to you, and the Love Drawing listing includes data used to track you across other companies' apps and sites. If that matters to you, read the "App Privacy" section before installing.
 
+Sources: the three App Store listings linked in the table, checked November 26, 2026.
+
 ## And LokLok?
 
-LokLok is older than all of these. A 2014 TechCrunch article described it as an Android app that replaced the lock screen with a shared whiteboard so friends could doodle on each other's screens, and said an iOS version was in the works. We couldn't confirm from its current store listings whether it's still available or maintained, so we won't make claims about it today.
+LokLok is older than all of these. A 2014 [TechCrunch](https://techcrunch.com/2014/07/07/lokloks-new-messaging-app-lets-you-draw-on-your-friends-lock-screen/) article described it as an Android app that replaced the lock screen with a shared whiteboard so friends could doodle on each other's screens, and said an iOS version was in the works. We couldn't confirm from its current store listings whether it's still available or maintained, so we won't make claims about it today.
 
 Its core idea, drawing on someone's lock screen, is the reason many people search for it. On iPhone, apps can't do that directly. We wrote up [what iOS does allow](https://twoodle.app/guides/draw-on-partners-lock-screen/).
 
@@ -65,7 +67,7 @@ Two honest limits: doodles land on the Home Screen widget, not the Lock Screen, 
 | Drawing to a widget | Yes | Yes, Home Screen widget |
 | Lock Screen widgets | Not shown on the listings we read | Love Note, Days Together, optional Distance |
 | Aimed at | Friends and couples, varies by app | Couples |
-| Platforms | iPhone | iPhone (iOS 18 or later) and Android |
+| Platforms | iPhone (the two smaller listings also name iPad); we didn't check Android | iPhone (iOS 18 or later) and Android |
 | Price | Free with in-app purchases; varies by app | Free to download; Pro $3.99/week (3-day trial) or $39.99/year, for both partners |
 
 ## FAQ

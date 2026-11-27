@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternative à Widgetable pour couples : plus simple, sans animaux ni pubs
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, donc nous ne sommes pas neutres. Tout ce que nous disons de Widgetable vient de sa fiche App Store, et nous disons clairement quand c'est le meilleur choix.
 
@@ -24,6 +24,8 @@ Selon sa fiche App Store, « Widgetable: Besties & Couples » (sous-titre « Sha
 Sa description parle de widgets pour l'écran verrouillé et l'écran d'accueil, d'animaux virtuels élevés à deux, d'un widget de sommeil, de widgets d'humeur, d'un widget de distance, d'un compteur « Miss You », de plantes, de fonds d'écran à thème et d'une fonction « Pin It! » pour envoyer photos, emojis, dessins et texte sur l'écran d'un ami. La fiche mentionne aussi des loot boxes et de la publicité, et liste des achats intégrés comme un abonnement Premium (avec une option annuelle à 19,99 $ avec essai gratuit, et des options mensuelles), plus des diamants, des œufs d'animaux et de la nourriture pour animaux. Les prix varient, consultez donc la fiche pour votre pays.
 
 C'est beaucoup d'app, et elle est visiblement aimée. Simplement, elle n'est pas petite.
+
+Source : [fiche App Store](https://apps.apple.com/us/app/widgetable-besties-couples/id1641107226) (consultée le 26 novembre 2026).
 
 ## Pourquoi les couples cherchent autre chose
 

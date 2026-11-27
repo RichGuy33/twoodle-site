@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Lovebox-Alternative ohne Hardware: Zeichnungen auf dem iPhone des Partners
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle und sind deshalb voreingenommen. Wir haben uns an Fakten gehalten und sagen offen, wo Lovebox die bessere Wahl ist.
 
@@ -19,7 +19,9 @@ Wenn du hier gelandet bist, fragst du dich wahrscheinlich, ob es dasselbe warme 
 
 ## Zuerst: Was Lovebox eigentlich ist
 
-Eine kleine Holzbox mit Bildschirm und einem Herz an der Seite. Du schickst Nachrichten, Fotos, Zeichnungen oder Sticker aus der kostenlosen Lovebox-App, und das Herz dreht sich, wenn etwas ankommt. Wer die Box besitzt, öffnet den Deckel und liest die Nachricht. Die Box ist ein physisches Produkt, das du kaufst, und sie verbindet sich per WLAN mit der App.
+Eine kleine Holzbox mit Bildschirm und einem Herz an der Seite. Du schickst Nachrichten, Fotos, Zeichnungen oder Sticker aus der kostenlosen Lovebox-App, und das Herz dreht sich, wenn etwas ankommt. Wer die Box besitzt, öffnet den Deckel und liest die Nachricht. Die Box ist ein physisches Produkt, das du kaufst, und sie verbindet sich per WLAN mit der App (laut Produktseite 2,4 GHz).
+
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/-/id1154499750), [Lovebox-Produktseite](https://en.lovebox.love/products/lovebox-for-lovers) (geprüft am 26. November 2026).
 
 ## Warum Leute nach einer Alternative suchen
 
@@ -37,7 +39,7 @@ Du kannst außerdem kurze Notizen auf seinen oder ihren Sperrbildschirm oder Hom
 
 |  | Lovebox | Twoodle |
 |---|---|---|
-| Was du brauchst | Das Lovebox-Gerät plus die App | Zwei iPhones mit der App |
+| Was du brauchst | Das Lovebox-Gerät plus die App | Je ein Handy mit der App |
 | Wie Nachrichten ankommen | Auf dem Bildschirm der Box, mit sich drehendem Herz | In einem Widget auf dem Home-Bildschirm oder Sperrbildschirm |
 | Was du schicken kannst | Text, Fotos, Zeichnungen, Sticker | Zeichnungen, Fotos auf einer Zeichenfläche, Notizen, Stimmungen, Anstupser |
 | Plattformen | App für iOS und Android | iPhone (ab iOS 18) und Android (seit November 2026) |

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Mejores apps de widgets para parejas en iPhone (comparativa honesta, 2026)
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, que está en esta lista. La pusimos en el medio a propósito, decimos dónde se queda corta, y todo lo que contamos de las otras apps sale de sus fichas de la App Store tal como las leímos en noviembre de 2026. Los precios y las funciones cambian, así que mira la ficha antes de pagar.
 
@@ -21,11 +21,11 @@ Vamos con la respuesta corta. Si quieres un contador, elige una app de contador.
 
 | App | Ideal para | Widgets | Precio (App Store de EE. UU.) |
 |---|---|---|---|
-| Lovebox | Mensajes, fotos y dibujos, con la caja física si quieres | Pantalla de inicio | Descarga gratis; compras dentro de la app desde 4,99 USD |
-| Couple Widgets | Contadores de días y aniversarios, con minijuegos | Pantalla de inicio | Gratis; Premium desde 1,99 USD/semana o 19,99 USD/año |
-| CoupleLink | Diario, calendario, estado de ánimo y una mascota compartida | Pantalla de inicio | Gratis con 7 días de prueba; Premium desde 2,99 USD/mes |
-| Loveya | Seis tipos de widget en pantalla de inicio y de bloqueo | Pantalla de inicio y de bloqueo | Gratis; Premium 9,99 USD/mes o 29,99 USD/año |
-| iFeely | Estado de ánimo, distancia y duelos de pasos | Pantalla de inicio y de bloqueo | Gratis; Premium 4,99 USD/mes o 39,99 USD/año |
+| [Lovebox](https://apps.apple.com/us/app/-/id1154499750) | Mensajes, fotos y dibujos, con la caja física si quieres | Pantalla de inicio | Descarga gratis; compras dentro de la app desde 4,99 USD |
+| [Couple Widgets](https://apps.apple.com/us/app/id1534498493) | Contadores de días y aniversarios, con minijuegos | Pantalla de inicio | Gratis; Premium desde 1,99 USD/semana o 19,99 USD/año |
+| [CoupleLink](https://apps.apple.com/us/app/id1606367028) | Diario, calendario, estado de ánimo y una mascota compartida | Pantalla de inicio | Gratis con 7 días de prueba; Premium desde 2,99 USD/mes |
+| [Loveya](https://apps.apple.com/us/app/id6758742897) | Seis tipos de widget en pantalla de inicio y de bloqueo | Pantalla de inicio y de bloqueo | Gratis; Premium 9,99 USD/mes o 29,99 USD/año |
+| [iFeely](https://apps.apple.com/app/6757633184) | Estado de ánimo, distancia y duelos de pasos | Pantalla de inicio y de bloqueo | Gratis; Premium 4,99 USD/mes o 39,99 USD/año |
 | Twoodle | Garabatos en el widget de la pantalla de inicio de tu pareja | Garabatos en la pantalla de inicio; notas y contadores en la pantalla de bloqueo | Gratis; Pro 3,99 USD/semana (3 días de prueba) o 39,99 USD/año |
 
 Son precios de la App Store de EE. UU. y pueden variar en tu país.
@@ -34,7 +34,9 @@ Son precios de la App Store de EE. UU. y pueden variar en tu país.
 
 Lovebox te deja enviar mensajes, fotos, dibujos, stickers y GIF, y los muestra en un widget de la pantalla de inicio. También se empareja con un aparato físico Lovebox cuyo corazón gira cuando llega algo. La ficha de la App Store dice que el widget gratuito funciona sin el aparato.
 
-**Lo que hace bien:** ser el nombre más conocido de la categoría, con unas 3,9 mil valoraciones y un 4,7 cuando lo miramos. **Lo que hace peor:** su ficha apunta al amor a distancia y a los seres queridos en general, así que no es solo para parejas, y no vimos ningún widget de pantalla de bloqueo mencionado. Lo comparamos con más detalle en nuestra [guía de alternativas a Lovebox](https://twoodle.app/es/guias/alternativa-a-lovebox-sin-aparato/).
+**Lo que hace bien:** ser el nombre más conocido de la categoría, con unas 3,9 mil valoraciones y un 4,7 cuando lo miramos. **Lo que hace peor:** no vimos ningún widget de pantalla de bloqueo en su ficha, y para el corazón que gira hace falta la caja. Lo comparamos con más detalle en nuestra [guía de alternativas a Lovebox](https://twoodle.app/es/guias/alternativa-a-lovebox-sin-aparato/).
+
+Fuente: [ficha en la App Store](https://apps.apple.com/us/app/-/id1154499750) (consultada el 26 de noviembre de 2026).
 
 ## Couple Widgets
 
@@ -42,11 +44,15 @@ Esta gira en torno a contadores de días y aniversarios en la pantalla de inicio
 
 **Lo que hace bien:** ser barata y personalizable, y funcionar en iPhone antiguos (iOS 13 o posterior). **Lo que hace peor:** no es una app para mandaros cosas, y la ficha muestra una compra opcional para «quitar anuncios», lo que te dice que la versión gratuita tiene anuncios.
 
+Fuente: [ficha en la App Store](https://apps.apple.com/us/app/id1534498493) (consultada el 26 de noviembre de 2026).
+
 ## CoupleLink: Love Counter Diary
 
 CoupleLink es la opción «todo en uno»: contador del amor, diario compartido, calendario compartido, registro de estado de ánimo, preguntas diarias, racha de amor, una mascota virtual compartida y widgets de pantalla de inicio que muestran la última nota y el estado de ánimo de tu pareja. Las notas desaparecen a las 24 horas.
 
 **Lo que hace bien:** darte mucho que hacer juntos, a un precio más bajo que la mayoría. **Lo que hace peor:** la ficha dice que contiene publicidad, tenía solo 18 valoraciones (4,2) cuando la revisamos, y el apartado de privacidad enumera datos usados para seguimiento. Si la privacidad te importa, lee primero esa sección.
+
+Fuente: [ficha en la App Store](https://apps.apple.com/us/app/id1606367028) (consultada el 26 de noviembre de 2026).
 
 ## Loveya: Couples Widgets
 
@@ -54,11 +60,15 @@ Loveya ofrece seis widgets para pantalla de inicio y de bloqueo: Contador juntos
 
 **Lo que hace bien:** la variedad de widgets, sobre todo en la pantalla de bloqueo. **Lo que hace peor:** exige iOS 26 o posterior, así que queda fuera si alguno de los dos no ha actualizado. Además es el plan mensual más caro de la lista, con 9,99 USD, y su valoración se basa en solo 20 reseñas.
 
+Fuente: [ficha en la App Store](https://apps.apple.com/us/app/id6758742897) (consultada el 26 de noviembre de 2026).
+
 ## iFeely: Couples Widget & Love
 
 iFeely se centra en widgets de estado de ánimo y de distancia en tiempo real para la pantalla de inicio y la de bloqueo, duelos diarios de pasos sincronizados con Apple Salud, y las «Photo Sparks», donde tu pareja rasca la pantalla para descubrir una foto. Una sola suscripción Premium cubre a los dos, y la ficha dice que no hay anuncios.
 
 **Lo que hace bien:** los momentos juguetones, de juego, y es la única app de aquí con duelos de pasos. **Lo que hace peor:** es tan nueva que la tienda aún no mostraba valoración, y usa datos de Salud y de ubicación para funcionar.
+
+Fuente: [ficha en la App Store](https://apps.apple.com/app/6757633184) (consultada el 26 de noviembre de 2026).
 
 ## Twoodle (esa somos nosotros)
 

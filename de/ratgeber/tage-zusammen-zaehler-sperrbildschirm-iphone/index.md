@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Tage-zusammen-Zähler auf dem iPhone-Sperrbildschirm: so richtest du ihn ein
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, und es hat ein Widget „Tage zusammen“. Wir haben diesen Ratgeber auf das beschränkt, wie iOS funktioniert und worauf du achten solltest, damit er mit jeder App hilft.
 

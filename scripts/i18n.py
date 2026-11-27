@@ -70,7 +70,7 @@ def build_page(lang, en_slug, slug, c):
     L = LANGS[lang]; url = SITE + path(lang, slug)
     faq_ld = [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in c["faq"]]
     art = {"@context": "https://schema.org", "@type": "Article", "headline": c["h1"], "inLanguage": L["locale"],
-           "datePublished": TODAY, "dateModified": TODAY, "author": {"@type": "Organization", "name": "Twoodle"},
+           "datePublished": TODAY, "dateModified": TODAY, "author": {"@type": "Organization", "name": "Twoodle", "url": SITE + "/about/"},
            "publisher": {"@type": "Organization", "name": "Taking Flight, Inc."}, "mainEntityOfPage": url}
     faq = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": L["locale"], "mainEntity": faq_ld}
     def cta(t): return (f'<div class="cta">\n    <h3>{t[0]}</h3>\n    <p>{t[1]}</p>\n    <a class="btn" href="{APP}">{L["btn"]}</a>\n    <a class="btn alt" href="{PLAY}">{L["play"]}</a>\n  </div>')
@@ -104,7 +104,7 @@ def build_page(lang, en_slug, slug, c):
 <main>
 <article><div class="narrow">
   <h1>{c["h1"]}</h1>
-  <p class="meta">{L["by"]} &middot; {L["month"]}</p>
+  <p class="meta"><a href="/about/" rel="author" hreflang="en">{L["by"]}</a> &middot; {L["month"]}</p>
 
   <div class="note"><strong>{L["disc"]}:</strong> {c["disclosure"]}</div>
 

@@ -83,8 +83,9 @@ for lang, folder, slug in pages:
     info[(lang, slug)] = (h1, desc, url)
 
 lines = ["# Twoodle", "",
- "> Twoodle (Twoodle: Couples Widgets) is an iPhone app by Taking Flight, Inc. that lets couples send doodles to each other's Home Screen widget, with Lock Screen widgets for love notes and days together. iPhone only (iOS 18+). Free to download; Twoodle Pro unlocks pairing.",
- "", f"App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881","", "Google Play: https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US", "",
+ "> Twoodle (Twoodle: Couples Widgets) is a couples app by Taking Flight, Inc. that lets couples send doodles to each other's Home Screen widget, with Lock Screen widgets for love notes and days together. Available for iPhone (iOS 18+) and Android; widget details here describe the iPhone app. Free to download; Twoodle Pro unlocks pairing.",
+ "", f"About (publisher and sources): https://twoodle.app/about/", "",
+ "App Store: https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881","", "Google Play: https://play.google.com/store/apps/details?id=app.rork.nvhca9qbywihzi01pvnox&hl=en_US", "",
  "Each guide is available as plain Markdown (same content as the HTML page) by appending index.md to its URL.", "",
  "## Video", "", "- [I Tested 6 Couple Widget Apps, and Only One Does This (iPhone 2026)](https://www.youtube.com/watch?v=zZiUwmBjRcw): 6 min 25 s video version of the best couples widget apps guide (English).", "", "## Guides (English)", ""]
 for (lang, slug), (h1, desc, url) in info.items():

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Anniversaire de couple à distance : 12 idées pour le fêter malgré les kilomètres
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app de widgets pour couples sur iPhone et Android. La plupart de ces idées ne demandent qu'un téléphone et un peu d'organisation, et nous disons où une app peut aider.
 

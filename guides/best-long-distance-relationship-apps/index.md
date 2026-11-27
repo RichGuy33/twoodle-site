@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Best Apps for Long-Distance Relationships (A Practical Setup)
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, so one of the apps below is ours. We kept it to one slot out of six, and we say where it doesn't help.
 
@@ -21,11 +21,11 @@ Short answer: you need a small kit, not a winner. One app to talk, one to see ea
 
 | Job | A solid pick | Worth knowing |
 |---|---|---|
-| Everyday messaging | iMessage (if you're both on iPhone) or WhatsApp | Pick one thread and live there. Splitting chat across three apps is how messages get lost. |
-| Video calls | FaceTime | Apple devices only; if one of you is on Android, use a cross-platform call app instead. |
-| Time zones | The Clock app's World Clock | Built into iPhone. Add your partner's city and stop doing mental math. |
-| Watching together | FaceTime SharePlay | Works with supported apps; some streaming services also have their own watch-party tools. Check yours. |
-| Shared memories | Shared Albums in Photos | Free and built in. A shared album for "things we saw this week" is surprisingly lovely. |
+| Everyday messaging | iMessage (if you're both on iPhone) or WhatsApp | Pick one thread and live there. Splitting chat across three apps is how messages get lost. ([WhatsApp downloads](https://www.whatsapp.com/download)) |
+| Video calls | FaceTime | Built into Apple devices. Android and Windows users can join in Chrome or Edge through a link an Apple user creates, but SharePlay and screen sharing don't work there. ([Apple Support](https://support.apple.com/en-us/109364)) |
+| Time zones | The Clock app's World Clock | Built into iPhone. Add your partner's city and stop doing mental math. ([Apple Support](https://support.apple.com/guide/iphone/see-the-world-clock-iph1ac0b4af/ios)) |
+| Watching together | FaceTime SharePlay | Works with supported apps, and each person may need their own subscription or purchase. Some streaming services also have their own watch-party tools. Check yours. ([Apple Support](https://support.apple.com/guide/iphone/shareplay-watch-listen-play-iphb657eb791/ios)) |
+| Shared memories | Shared Albums in Photos | Built in. Shared albums can use the creator's iCloud storage. A shared album for "things we saw this week" is surprisingly lovely. ([Apple Support](https://support.apple.com/guide/iphone/create-shared-albums-iph3d2676c9/ios)) |
 | Small daily presence | A shared widget app, such as Twoodle | See below. Not a replacement for talking. |
 
 Notice what's missing: a big "all-in-one couples app." Some people love those. Many find they use one feature and ignore the rest. Start with what you already have on your phone, then add only what you actually miss.
@@ -44,7 +44,7 @@ Open Clock, tap World Clock, and add your partner's city. That's the whole trick
 
 ## Watching and listening together
 
-FaceTime's SharePlay lets you watch or listen together during a call in supported apps. Support varies by app and service, so test your favorite before date night, not during it. A shared playlist is a lower-tech version that costs nothing.
+FaceTime's SharePlay lets you watch or listen together during a call in supported apps. Support varies by app and service, so test your favorite before date night, not during it. A shared playlist is a lower-tech version .
 
 > **Want a tiny "thinking of you" between calls?** Twoodle puts your doodles on your partner's Home Screen. Free to download. [Get Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

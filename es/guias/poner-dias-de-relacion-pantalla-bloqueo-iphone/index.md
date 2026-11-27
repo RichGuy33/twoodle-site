@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Cómo poner los días de relación en la pantalla de bloqueo del iPhone
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle y tiene un widget de Días juntos. Hemos centrado esta guía en cómo funciona iOS y qué buscar, para que te sirva con cualquier app.
 

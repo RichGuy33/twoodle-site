@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Days Together Counter on Your iPhone Lock Screen: How to Set One Up
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, and it has a Days Together widget. We've kept this guide to how iOS works and what to look for, so it's useful whichever app you pick.
 

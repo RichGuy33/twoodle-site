@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Meilleures apps pour une relation à distance (un kit pratique)
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, donc l'une des apps ci-dessous est la nôtre. Nous ne lui avons laissé qu'une place sur six, et nous disons où elle n'aide pas.
 
@@ -21,11 +21,11 @@ Réponse courte : il ne vous faut pas une gagnante, il vous faut un petit kit. U
 
 | Rôle | Un choix solide | À savoir |
 |---|---|---|
-| Messages du quotidien | iMessage (si vous avez tous les deux un iPhone) ou WhatsApp | Choisissez un seul fil et installez-vous-y. Éparpiller la discussion sur trois apps, c'est comme ça qu'on perd des messages. |
-| Appels vidéo | FaceTime | Appareils Apple uniquement ; si l'un de vous est sur Android, prenez une app d'appels multiplateforme. |
-| Fuseaux horaires | Les Horloges du monde, dans l'app Horloge | Intégré à l'iPhone. Ajoutez la ville de votre moitié et arrêtez le calcul mental. |
-| Regarder ensemble | SharePlay de FaceTime | Fonctionne avec les apps compatibles ; certains services de streaming ont leur propre mode « regarder ensemble ». Vérifiez le vôtre. |
-| Souvenirs partagés | Albums partagés dans Photos | Gratuit et déjà installé. Un album « ce qu'on a vu cette semaine », c'est étonnamment touchant. |
+| Messages du quotidien | iMessage (si vous avez tous les deux un iPhone) ou WhatsApp | Choisissez un seul fil et installez-vous-y. Éparpiller la discussion sur trois apps, c'est comme ça qu'on perd des messages. ([téléchargements WhatsApp](https://www.whatsapp.com/download)) |
+| Appels vidéo | FaceTime | Intégré aux appareils Apple. Sur Android ou Windows, on peut rejoindre l'appel dans Chrome ou Edge grâce à un lien créé depuis un appareil Apple, mais sans SharePlay ni partage d'écran. ([Assistance Apple](https://support.apple.com/en-us/109364)) |
+| Fuseaux horaires | Les Horloges du monde, dans l'app Horloge | Intégré à l'iPhone. Ajoutez la ville de votre moitié et arrêtez le calcul mental. ([Assistance Apple](https://support.apple.com/guide/iphone/see-the-world-clock-iph1ac0b4af/ios)) |
+| Regarder ensemble | SharePlay de FaceTime | Fonctionne avec les apps compatibles, et chaque personne peut avoir besoin de son propre abonnement ou achat. Certains services de streaming ont leur propre mode « regarder ensemble ». Vérifiez le vôtre. ([Assistance Apple](https://support.apple.com/guide/iphone/shareplay-watch-listen-play-iphb657eb791/ios)) |
+| Souvenirs partagés | Albums partagés dans Photos | Déjà intégrés. Les albums partagés peuvent utiliser le stockage iCloud de la personne qui les crée. Un album « ce qu'on a vu cette semaine », c'est étonnamment touchant. ([Assistance Apple](https://support.apple.com/guide/iphone/create-shared-albums-iph3d2676c9/ios)) |
 | Petite présence au quotidien | Une app de widget partagé, comme Twoodle | Voir plus bas. Ne remplace pas la discussion. |
 
 Remarquez ce qui manque : la grosse app « tout-en-un pour couples ». Certains l'adorent. Beaucoup finissent par utiliser une fonction et ignorer le reste. Partez de ce que vous avez déjà sur votre téléphone, puis n'ajoutez que ce qui vous manque vraiment.
@@ -44,7 +44,7 @@ Ouvrez Horloge, touchez Horloges du monde et ajoutez la ville de votre moitié. 
 
 ## Regarder et écouter ensemble
 
-SharePlay de FaceTime permet de regarder ou d'écouter ensemble pendant un appel, dans les apps compatibles. La compatibilité varie selon l'app et le service : testez votre préférée avant la soirée, pas pendant. Une playlist partagée en est la version low-tech, et ça ne coûte rien.
+SharePlay de FaceTime permet de regarder ou d'écouter ensemble pendant un appel, dans les apps compatibles. La compatibilité varie selon l'app et le service : testez votre préférée avant la soirée, pas pendant. Une playlist partagée en est la version low-tech.
 
 > **Un petit « je pense à toi » entre deux appels ?** Twoodle met vos dessins sur l'écran d'accueil de votre moitié. Téléchargement gratuit. [Télécharger Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

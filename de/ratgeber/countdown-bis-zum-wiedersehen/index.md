@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Countdown bis zum Wiedersehen: 9 Ideen für die Fernbeziehung
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, eine iPhone-App mit wichtigen Terminen und Countdowns. Das meiste hier funktioniert mit jeder App oder ganz ohne.
 

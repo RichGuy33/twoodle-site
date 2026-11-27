@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Auf dem iPhone des Partners zeichnen: Sperrbildschirm und Widgets
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, eine der Apps, die das können. Deshalb nutzen die Schritte unten Twoodle. Die Schritte unten beschreiben die iPhone-App (ab iOS 18); Twoodle gibt es seit November 2026 auch für Android.
 

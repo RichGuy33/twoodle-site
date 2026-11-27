@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Gérer le manque dans une relation à distance : 12 choses qui aident vraiment
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app de widgets pour couples sur iPhone. La plupart de ces idées ne demandent qu'un téléphone et quelqu'un qui vous manque.
 

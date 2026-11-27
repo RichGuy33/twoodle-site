@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternative à Lovebox sans boîtier : des dessins sur l'iPhone de votre partenaire
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, donc nous ne sommes pas neutres. Nous avons essayé de nous en tenir aux faits et de dire clairement où Lovebox est le meilleur choix.
 
@@ -19,7 +19,9 @@ Si vous êtes ici, vous vous demandez sans doute si l'on peut retrouver la même
 
 ## D'abord, ce qu'est vraiment Lovebox
 
-Une petite boîte en bois avec un écran et un cœur sur le côté. Vous envoyez des messages, des photos, des dessins ou des stickers depuis l'app gratuite Lovebox, et le cœur tourne quand quelque chose arrive. La personne qui possède la boîte ouvre le couvercle pour lire. La boîte est un produit physique que l'on achète, et elle se connecte à l'app en Wi-Fi.
+Une petite boîte en bois avec un écran et un cœur sur le côté. Vous envoyez des messages, des photos, des dessins ou des stickers depuis l'app gratuite Lovebox, et le cœur tourne quand quelque chose arrive. La personne qui possède la boîte ouvre le couvercle pour lire. La boîte est un produit physique que l'on achète, et elle se connecte à l'app en Wi-Fi (la page produit précise 2,4 GHz).
+
+Source : [fiche App Store](https://apps.apple.com/us/app/-/id1154499750), [page produit Lovebox](https://en.lovebox.love/products/lovebox-for-lovers) (consultée le 26 novembre 2026).
 
 ## Pourquoi on cherche une alternative
 
@@ -37,7 +39,7 @@ Vous pouvez aussi envoyer de courts mots sur son écran verrouillé ou son écra
 
 |  | Lovebox | Twoodle |
 |---|---|---|
-| Ce qu'il vous faut | L'appareil Lovebox et l'app | Deux iPhone avec l'app |
+| Ce qu'il vous faut | L'appareil Lovebox et l'app | Un téléphone chacun avec l'app |
 | Comment arrivent les messages | Sur l'écran de la boîte, avec un cœur qui tourne | Sur un widget de l'écran d'accueil ou de l'écran verrouillé |
 | Ce que vous pouvez envoyer | Texte, photos, dessins, stickers | Dessins, photos sur une toile, mots, humeurs, nudges |
 | Plateformes | App pour iOS et Android | iPhone (iOS 18 ou version ultérieure) et Android |

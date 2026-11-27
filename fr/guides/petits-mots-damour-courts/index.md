@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Petits mots d'amour courts : 30 qui tiennent sur un écran verrouillé
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous éditons Twoodle, une application pour couples. Ces mots marchent dans n'importe quelle app ou sur un post-it, et nous disons où Twoodle a sa place.
 

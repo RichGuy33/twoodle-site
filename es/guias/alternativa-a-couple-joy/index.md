@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternativa a Couple Joy: una forma más sencilla de estar cerca en iPhone
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, así que somos parciales. Nos hemos ceñido a lo que dice la ficha de la App Store de cada app y hemos dicho con claridad dónde Couple Joy es la mejor opción.
 
@@ -19,9 +19,11 @@ Respuesta corta: si quieres una app más ligera que ponga garabatos y notas en l
 
 ## Qué ofrece Couple Joy en realidad
 
-Según su ficha de la App Store, Couple Joy (de HEARTBIT S.R.L., con el subtítulo «Long Distance & Love Tracker») es una descarga gratuita con compras dentro de la app. Su descripción destaca widgets para parejas, preguntas diarias y cuestionarios con chat, un diario de fotos compartido, cuentas atrás para cumpleaños y aniversarios, estados de ánimo, seguimiento de la distancia, juegos y una racha diaria. Funciona en iPhone, y su ficha muestra una valoración de unos 4,7 con unas 4,3 mil valoraciones.
+Según su ficha de la App Store, Couple Joy (de HEARTBIT S.R.L., con el subtítulo «Long Distance & Love Tracker») es una descarga gratuita con compras dentro de la app. Su descripción destaca widgets para parejas, preguntas diarias y cuestionarios con chat, un diario de fotos compartido, cuentas atrás para cumpleaños y aniversarios, estados de ánimo, seguimiento de la distancia, juegos y una racha diaria. Funciona en iPhone, y su ficha muestra una valoración de 4,9 con unas 41 mil valoraciones.
 
 Es mucha app, y a muchas parejas les encanta justo por eso. Las funciones cambian, así que mira la ficha para ver la lista actual.
+
+Fuente: [ficha en la App Store](https://apps.apple.com/us/app/couple-joy-relationship-app/id1624758651) (consultada el 26 de noviembre de 2026).
 
 ## Por qué la gente busca otra cosa
 

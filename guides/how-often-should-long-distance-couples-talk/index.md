@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # How Often Should Long-Distance Couples Talk? A Realistic Rhythm
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, a couples widget app for iPhone. Most of this advice works with any app, or none.
 

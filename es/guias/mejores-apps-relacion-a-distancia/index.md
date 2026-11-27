@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Mejores apps para una relación a distancia (un kit práctico)
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, así que una de las apps de abajo es nuestra. Le hemos dado un solo hueco de seis y decimos dónde no ayuda.
 
@@ -21,11 +21,11 @@ Respuesta corta: no necesitas una ganadora, necesitas un kit pequeño. Una app p
 
 | Trabajo | Una opción sólida | Conviene saber |
 |---|---|---|
-| Mensajería diaria | iMessage (si los dos tenéis iPhone) o WhatsApp | Elegid un solo hilo y vivid ahí. Repartir el chat en tres apps es como se pierden los mensajes. |
-| Videollamadas | FaceTime | Solo dispositivos Apple; si uno de los dos tiene Android, usad una app de llamadas multiplataforma. |
-| Husos horarios | El Reloj del iPhone, en Hora mundial | Viene en el iPhone. Añade la ciudad de tu pareja y deja de hacer cuentas mentales. |
-| Ver cosas juntos | SharePlay de FaceTime | Funciona con apps compatibles; algunos servicios de streaming tienen su propia función para ver juntos. Comprobad el vuestro. |
-| Recuerdos compartidos | Álbumes compartidos en Fotos | Gratis y ya instalado. Un álbum de «cosas que vimos esta semana» es sorprendentemente bonito. |
+| Mensajería diaria | iMessage (si los dos tenéis iPhone) o WhatsApp | Elegid un solo hilo y vivid ahí. Repartir el chat en tres apps es como se pierden los mensajes. ([descargas de WhatsApp](https://www.whatsapp.com/download)) |
+| Videollamadas | FaceTime | Viene en los dispositivos Apple. Quien use Android o Windows puede unirse desde Chrome o Edge con un enlace creado desde un dispositivo Apple, pero ahí no funcionan SharePlay ni compartir pantalla. ([Soporte de Apple](https://support.apple.com/en-us/109364)) |
+| Husos horarios | El Reloj del iPhone, en Hora mundial | Viene en el iPhone. Añade la ciudad de tu pareja y deja de hacer cuentas mentales. ([Soporte de Apple](https://support.apple.com/guide/iphone/see-the-world-clock-iph1ac0b4af/ios)) |
+| Ver cosas juntos | SharePlay de FaceTime | Funciona con apps compatibles, y cada persona puede necesitar su propia suscripción o compra. Algunos servicios de streaming tienen su propia función para ver juntos. Comprobad el vuestro. ([Soporte de Apple](https://support.apple.com/guide/iphone/shareplay-watch-listen-play-iphb657eb791/ios)) |
+| Recuerdos compartidos | Álbumes compartidos en Fotos | Ya instalados. Los álbumes compartidos pueden ocupar el almacenamiento de iCloud de quien los crea. Un álbum de «cosas que vimos esta semana» es sorprendentemente bonito. ([Soporte de Apple](https://support.apple.com/guide/iphone/create-shared-albums-iph3d2676c9/ios)) |
 | Presencia diaria pequeñita | Una app de widget compartido, como Twoodle | Mira más abajo. No sustituye a hablar. |
 
 Fíjate en lo que falta: una gran app «todo en uno para parejas». A algunas personas les encantan. Muchas acaban usando una función e ignorando el resto. Empieza con lo que ya tienes en el móvil y añade solo lo que de verdad eches de menos.
@@ -44,7 +44,7 @@ Abre Reloj, toca Hora mundial y añade la ciudad de tu pareja. Ese es todo el tr
 
 ## Ver y escuchar juntos
 
-SharePlay de FaceTime permite ver o escuchar algo juntos durante una llamada en apps compatibles. La compatibilidad varía según la app y el servicio, así que probad la vuestra antes de la noche de cita, no durante. Una lista de reproducción compartida es la versión de andar por casa y no cuesta nada.
+SharePlay de FaceTime permite ver o escuchar algo juntos durante una llamada en apps compatibles. La compatibilidad varía según la app y el servicio, así que probad la vuestra antes de la noche de cita, no durante. Una lista de reproducción compartida es la versión de andar por casa.
 
 > **¿Quieres un «pienso en ti» diminuto entre llamadas?** Twoodle pone tus garabatos en la pantalla de inicio de tu pareja. Descarga gratuita. [Descargar Twoodle](https://apps.apple.com/us/app/twoodle-couples-widgets/id6789469881)
 

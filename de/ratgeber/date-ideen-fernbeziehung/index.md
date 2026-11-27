@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Date-Ideen für die Fernbeziehung: 20 Dates, die trotz Zeitverschiebung klappen
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, eine Paar-App für iPhone und Android. Fast alle Ideen brauchen gar keine App, und wir sagen dazu, wo Twoodle passt.
 

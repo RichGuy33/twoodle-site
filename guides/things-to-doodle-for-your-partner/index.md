@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Things to Doodle for Your Partner: 25 Ideas (Even If You Can't Draw)
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. The ideas below work with any drawing tool, but we've written them with a Home Screen widget in mind.
 

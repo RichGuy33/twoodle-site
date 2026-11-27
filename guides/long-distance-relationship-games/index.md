@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Relationship Games: 12 Ideas for Video Calls and Phones
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, a couples widget app for iPhone. Most of these games need nothing but a phone and a person you like.
 

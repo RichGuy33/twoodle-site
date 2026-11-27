@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Paar-Widget auf dem iPhone-Home-Bildschirm hinzufügen (Schritt für Schritt)
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, eine iPhone-App für Paare. Die Schritte unten sind Standard-iOS und funktionieren deshalb mit jeder Paar-Widget-App. Für die Beispiele nehmen wir Twoodle.
 

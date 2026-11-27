@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Como desenhar na tela do iPhone do seu parceiro (widgets e Tela de Bloqueio)
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um dos apps que fazem isso, então os passos abaixo usam o Twoodle. O app para iPhone exige iOS 18 ou superior, e o Twoodle também chegou ao Android em novembro de 2026.
 

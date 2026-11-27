@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Encontros à distância: 20 ideias que funcionam com fusos horários diferentes
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** fazemos o Twoodle, um app para casais no iPhone e no Android. Quase todas as ideias não precisam de app nenhum, e dizemos onde o Twoodle entra.
 

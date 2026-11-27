@@ -13,7 +13,10 @@ Google Play (Android, launched 2026-11-24): https://play.google.com/store/apps/d
 3. Create `guides/<slug>/index.html` by copying the structure of `guides/lovebox-alternative-app/index.html` (head meta, canonical, Article JSON-LD, FAQPage JSON-LD, footer). 900-1500 words, scannable, real answers.
 4. Internal links: link the new guide from `guides/index.html` (new card), from the home page guide cards if it is one of the best, and add 2+ contextual links from existing related guides to it. Link out of it to 2+ related guides.
 5. CTA: one inline CTA and one end-of-article CTA to the App Store link.
-6. Add the URL to `sitemap.xml` with today's `lastmod`; bump `lastmod` on any page you edited.
+6. Add the URL to `sitemap.xml` with today's `lastmod`.
+   **Date rule:** change an existing page's dates (JSON-LD `dateModified` and sitemap `lastmod`) only when its content has substantially changed (new or rewritten sections, or facts that change the advice). Adding a link, a source, a byline, a typo or small fact fix is NOT substantial: leave both dates alone. Never change `datePublished`. A guides index page that gains a card may get a new `lastmod`.
+   **Sources and byline:** put a source link next to each factual claim about another product, service or platform (its US App Store listing, the maker's own page, Apple Support, or the original article), and say when you checked it. Link only pages you actually fetched in that run; if you can't verify a claim, leave it out. The byline stays "By the Twoodle team" (no personal names), links to `/about/`, and the Article JSON-LD `author` includes `"url": "https://twoodle.app/about/"`.
+   **Editing translations:** never re-run `build_page()` on a page that already exists (it resets both dates and drops later edits). Edit the HTML in place.
 7. Run `python3 scripts/check_site.py .` and fix every error.
 8. Commit to `main` with a clear message and push. Cloudflare deploys automatically (about a minute).
 9. In Search Console (if reachable), use URL inspection -> Request indexing for the new URL.

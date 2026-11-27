@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Relationship Questions: 30 to Ask (and When to Ask Them)
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. Every question below works with no app at all, and we say where Twoodle fits.
 

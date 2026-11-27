@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Bond-Touch-Alternative: was ihr mit (oder ohne) Armband nutzen könnt
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Twoodle stammt von uns, wir sind also nicht neutral. Mit Bond Touch haben wir nichts zu tun. Die Angaben stammen von dessen Seiten und dem App-Store-Eintrag, geprüft am 26. November 2026. Preise in US-Dollar; sie können in deinem Land abweichen, also vor dem Kauf nachsehen.
 
@@ -19,7 +19,7 @@ Ein Armband, das vibriert, weil jemand weit weg seines berührt hat, ist eine sc
 
 Armbänder für Paare auf Distanz: eins für dich, eins für deinen Lieblingsmenschen. Du berührst deins, das andere leuchtet und vibriert. Das stand auf den Seiten des Anbieters:
 
-- **Bond Touch 4:** Listenpreis 89 US-$ pro Armband, ihr braucht also zwei. Rabatte kommen und gehen.
+- **[Bond Touch 4](https://bond-touch.com/products/bond-touch-4-long-distance-bracelet):** Listenpreis 89 US-$ pro Armband, ihr braucht also zwei. Rabatte kommen und gehen.
 - **Handy nötig:** Verbindung per Bluetooth, etwa 3 Meter (10 Fuß) Reichweite zum Handy, das Internet braucht. Dann ist die Entfernung zwischen euch keine Grenze.
 - **Akku:** beim Bond Touch 4 bis zu 4 Tage bei normaler Nutzung.
 - **Wasser:** Schutzart IP67. Zum Schwimmen, heißen Duschen, Baden und in der Sauna soll man es ablegen.

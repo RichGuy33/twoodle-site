@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternativas a Bond Touch: qué usar con pulsera (o sin ella)
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, así que no somos imparciales. No tenemos relación con Bond Touch. Sus datos salen de sus páginas y de su ficha en la App Store, consultadas el 26 de noviembre de 2026. Precios en dólares de EE. UU.; pueden variar en tu país, así que confírmalos antes de comprar.
 
@@ -19,7 +19,7 @@ Una pulsera que vibra porque alguien lejísimos ha tocado la suya es una idea pr
 
 Son pulseras para estar conectados a distancia: tú llevas una y tu pareja otra. Tocas la tuya y la suya se ilumina y vibra. Esto decían sus propias páginas:
 
-- **Bond Touch 4:** precio de lista de 89 US$ por pulsera, así que para dos hacen falta dos. Las ofertas van y vienen.
+- **[Bond Touch 4](https://bond-touch.com/products/bond-touch-4-long-distance-bracelet):** precio de lista de 89 US$ por pulsera, así que para dos hacen falta dos. Las ofertas van y vienen.
 - **Necesita el móvil:** va por Bluetooth y debe estar a unos 3 metros (10 pies) del teléfono. El teléfono necesita internet. Con eso, la distancia entre vosotros no es un límite.
 - **Batería:** hasta 4 días con un uso normal en la Bond Touch 4.
 - **Agua:** certificación IP67. La marca pide quitársela para nadar, duchas calientes, baños y saunas.

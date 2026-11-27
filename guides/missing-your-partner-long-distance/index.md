@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Missing Your Partner in a Long-Distance Relationship: 12 Things That Actually Help
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, a couples widget app for iPhone. Most of these ideas need nothing but a phone and a person you miss.
 

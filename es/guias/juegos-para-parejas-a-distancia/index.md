@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Juegos para parejas a distancia: 12 ideas para videollamadas y móvil
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app de widgets para parejas en iPhone. Casi todos estos juegos solo necesitan un móvil y alguien que te guste.
 

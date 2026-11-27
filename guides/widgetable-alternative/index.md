@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Widgetable Alternative for Couples: Simpler, No Pets or Ads
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, so we're biased. Everything about Widgetable below comes from its App Store listing, and we say plainly where it's the better pick.
 
@@ -24,6 +24,8 @@ Per its App Store listing, "Widgetable: Besties & Couples" (subtitle "Share What
 Its description covers Lock Screen and Home Screen widgets, co-parented virtual pets, a sleep widget, mood widgets, a distance widget, a "Miss You" counter, plant widgets, themed wallpapers, and a "Pin It!" feature for sending snaps, emojis, doodles and text to a friend's screen. The listing also notes loot boxes and advertising, and lists in-app purchases such as a Premium subscription (an annual option at $19.99 with a free trial, and monthly options) plus diamonds, pet eggs and pet food. Prices vary, so check the listing for your region.
 
 That's a lot of app, and it's clearly beloved. It's just not a small one.
+
+Source: [App Store listing](https://apps.apple.com/us/app/widgetable-besties-couples/id1641107226) (checked November 26, 2026).
 
 ## Why couples look for something else
 

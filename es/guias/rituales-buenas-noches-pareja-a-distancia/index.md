@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Rituales de buenas noches para parejas a distancia: 10 ideas para acabar el día juntos
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app de widgets para parejas en iPhone. La mayoría de estos rituales solo necesitan un móvil, y te decimos dónde ayuda una app.
 

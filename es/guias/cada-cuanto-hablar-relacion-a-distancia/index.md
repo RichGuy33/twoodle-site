@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # ¿Cada cuánto hablar en una relación a distancia? Un ritmo realista
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app de widgets para parejas en iPhone. Casi todo lo de esta guía funciona con cualquier app, o sin ninguna.
 

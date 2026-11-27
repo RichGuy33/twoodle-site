@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Die besten Paar-Apps mit Widgets für das iPhone (ehrlicher Vergleich 2026)
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, und Twoodle steht auf dieser Liste. Wir haben es mit Absicht in die Mitte gesetzt, sagen offen, wo es schwächelt, und alles zu den anderen Apps stammt aus deren App-Store-Seiten, so wie wir sie im November 2026 gelesen haben. Preise und Funktionen ändern sich, also schau vor dem Bezahlen auf die aktuelle Seite.
 
@@ -21,11 +21,11 @@ Hier also die Kurzfassung. Willst du einen Zähler, nimm eine Zähler-App. Wills
 
 | App | Am besten für | Widgets | Preis (US App Store) |
 |---|---|---|---|
-| Lovebox | Nachrichten, Fotos und Zeichnungen, auf Wunsch mit der Box zum Anfassen | Home-Bildschirm | Gratis laden; In-App-Käufe ab 4,99 USD |
-| Couple Widgets | Tageszähler und Jahrestage, mit Minispielen | Home-Bildschirm | Gratis; Premium ab 1,99 USD/Woche oder 19,99 USD/Jahr |
-| CoupleLink | Tagebuch, Kalender, Stimmung und ein gemeinsames Haustier | Home-Bildschirm | Gratis mit 7 Tagen Test; Premium ab 2,99 USD/Monat |
-| Loveya | Sechs Widget-Arten auf Home- und Sperrbildschirm | Home- und Sperrbildschirm | Gratis; Premium 9,99 USD/Monat oder 29,99 USD/Jahr |
-| iFeely | Stimmung, Entfernung und Schritt-Duelle | Home- und Sperrbildschirm | Gratis; Premium 4,99 USD/Monat oder 39,99 USD/Jahr |
+| [Lovebox](https://apps.apple.com/us/app/-/id1154499750) | Nachrichten, Fotos und Zeichnungen, auf Wunsch mit der Box zum Anfassen | Home-Bildschirm | Gratis laden; In-App-Käufe ab 4,99 USD |
+| [Couple Widgets](https://apps.apple.com/us/app/id1534498493) | Tageszähler und Jahrestage, mit Minispielen | Home-Bildschirm | Gratis; Premium ab 1,99 USD/Woche oder 19,99 USD/Jahr |
+| [CoupleLink](https://apps.apple.com/us/app/id1606367028) | Tagebuch, Kalender, Stimmung und ein gemeinsames Haustier | Home-Bildschirm | Gratis mit 7 Tagen Test; Premium ab 2,99 USD/Monat |
+| [Loveya](https://apps.apple.com/us/app/id6758742897) | Sechs Widget-Arten auf Home- und Sperrbildschirm | Home- und Sperrbildschirm | Gratis; Premium 9,99 USD/Monat oder 29,99 USD/Jahr |
+| [iFeely](https://apps.apple.com/app/6757633184) | Stimmung, Entfernung und Schritt-Duelle | Home- und Sperrbildschirm | Gratis; Premium 4,99 USD/Monat oder 39,99 USD/Jahr |
 | Twoodle | Doodles auf dem Home-Bildschirm-Widget deines Partners | Doodles auf dem Home-Bildschirm; Notizen und Zähler auf dem Sperrbildschirm | Gratis; Pro 3,99 USD/Woche (3 Tage Test) oder 39,99 USD/Jahr |
 
 Das sind Preise aus dem US App Store, in deinem Land können sie abweichen.
@@ -34,7 +34,9 @@ Das sind Preise aus dem US App Store, in deinem Land können sie abweichen.
 
 Mit Lovebox schickst du Nachrichten, Fotos, Zeichnungen, Sticker und GIFs, die in einem Home-Bildschirm-Widget erscheinen. Dazu gibt es eine echte Lovebox-Box, deren Herz sich dreht, wenn etwas ankommt. Laut App-Store-Seite funktioniert das kostenlose Widget auch ohne die Box.
 
-**Stark darin:** der bekannteste Name der Kategorie, mit rund 3,9 Tsd. Bewertungen und 4,7 Sternen, als wir nachgesehen haben. **Schwächer darin:** Die Seite richtet sich an Fernliebe und geliebte Menschen allgemein, ist also nicht speziell für Paare gedacht, und ein Sperrbildschirm-Widget haben wir nicht erwähnt gefunden. Genauer vergleichen wir sie in unserem [Ratgeber zu Lovebox-Alternativen](https://twoodle.app/de/ratgeber/lovebox-alternative/).
+**Stark darin:** der bekannteste Name der Kategorie, mit rund 3,9 Tsd. Bewertungen und 4,7 Sternen, als wir nachgesehen haben. **Schwächer darin:** Im Eintrag haben wir kein Sperrbildschirm-Widget erwähnt gefunden, und das sich drehende Herz gibt es nur mit der Box. Genauer vergleichen wir sie in unserem [Ratgeber zu Lovebox-Alternativen](https://twoodle.app/de/ratgeber/lovebox-alternative/).
+
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/-/id1154499750) (geprüft am 26. November 2026).
 
 ## Couple Widgets
 
@@ -42,11 +44,15 @@ Diese App dreht sich um Tageszähler und Jahrestage auf dem Home-Bildschirm, mit
 
 **Stark darin:** günstig und anpassbar, und sie läuft auch auf älteren iPhones (iOS 13 oder neuer). **Schwächer darin:** Sie ist keine App, um sich gegenseitig Dinge zu schicken, und die Seite zeigt einen optionalen Kauf zum „Werbung entfernen“, was verrät, dass es in der Gratisversion Werbung gibt.
 
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/id1534498493) (geprüft am 26. November 2026).
+
 ## CoupleLink: Love Counter Diary
 
 CoupleLink ist die Eier-legende Wollmilchsau: Liebeszähler, gemeinsames Tagebuch, gemeinsamer Kalender, Stimmungstracker, Tagesfragen, Love-Streak, ein gemeinsames virtuelles Haustier und Home-Bildschirm-Widgets, die die letzte Notiz und Stimmung deines Partners zeigen. Notizen verschwinden nach 24 Stunden.
 
 **Stark darin:** viel zum gemeinsamen Zeitvertreib, zu einem niedrigeren Preis als bei den meisten. **Schwächer darin:** Laut Seite enthält sie Werbung, sie hatte bei unserer Prüfung nur 18 Bewertungen (4,2), und der Datenschutzabschnitt nennt Daten, die für Tracking verwendet werden. Wenn dir Datenschutz wichtig ist, lies zuerst diesen Abschnitt.
+
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/id1606367028) (geprüft am 26. November 2026).
 
 ## Loveya: Couples Widgets
 
@@ -54,11 +60,15 @@ Loveya bietet sechs Widgets für Home- und Sperrbildschirm: Zusammen-Zähler, St
 
 **Stark darin:** Widget-Vielfalt, besonders auf dem Sperrbildschirm. **Schwächer darin:** Sie verlangt iOS 26 oder neuer und fällt damit raus, wenn einer von euch noch nicht aktualisiert hat. Außerdem ist es mit 9,99 USD der teuerste Monatstarif hier, und die Bewertung beruht auf nur 20 Rezensionen.
 
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/id6758742897) (geprüft am 26. November 2026).
+
 ## iFeely: Couples Widget & Love
 
 iFeely setzt auf Stimmungs- und Echtzeit-Entfernungs-Widgets auf Home- und Sperrbildschirm, tägliche Schritt-Duelle mit Apple Health-Anbindung und „Photo Sparks“, bei denen dein Partner den Bildschirm freirubbelt, um ein Foto zu enthüllen. Ein Premium-Abo gilt für euch beide, und laut Seite gibt es keine Werbung.
 
 **Stark darin:** verspielte, spielerische Momente, und es ist die einzige App hier mit Schritt-Duellen. **Schwächer darin:** Sie ist so neu, dass der Store noch keine Bewertung zeigte, und sie nutzt Gesundheits- und Standortdaten, um zu funktionieren.
+
+Quelle: [App-Store-Eintrag](https://apps.apple.com/app/6757633184) (geprüft am 26. November 2026).
 
 ## Twoodle (das sind wir)
 

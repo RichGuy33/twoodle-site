@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Widgetable-Alternative für Paare: einfacher, ohne Haustiere und Werbung
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, sind also befangen. Alles zu Widgetable stammt aus dem App-Store-Eintrag, und wir sagen offen, wann Widgetable die bessere Wahl ist.
 
@@ -24,6 +24,8 @@ Laut App-Store-Eintrag ist „Widgetable: Besties & Couples“ (Untertitel „Sh
 Die Beschreibung nennt Widgets für Sperr- und Home-Bildschirm, gemeinsam aufgezogene virtuelle Haustiere, ein Schlaf-Widget, Stimmungs-Widgets, ein Entfernungs-Widget, einen „Miss You“-Zähler, Pflanzen, Themen-Hintergründe und die Funktion „Pin It!“, um Fotos, Emojis, Zeichnungen und Text auf den Bildschirm eines Freundes zu schicken. Der Eintrag erwähnt außerdem Lootboxen und Werbung und listet In-App-Käufe wie ein Premium-Abo (jährlich 19,99 $ mit Gratis-Testphase sowie Monatsoptionen) plus Diamanten, Haustier-Eier und Haustierfutter. Die Preise variieren, schau also in den Eintrag für dein Land.
 
 Das ist viel App, und sie ist offensichtlich beliebt. Nur klein ist sie nicht.
+
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/widgetable-besties-couples/id1641107226) (geprüft am 26. November 2026).
 
 ## Warum Paare nach etwas anderem suchen
 

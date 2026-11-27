@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Relación a distancia con diferencia horaria: cómo hacer que funcione
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app para parejas. Casi todos estos consejos no necesitan ninguna app, y te decimos dónde encaja Twoodle.
 

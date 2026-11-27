@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # À quelle fréquence se parler en relation à distance ? Un rythme réaliste
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app de widgets pour couples sur iPhone. La plupart de ces conseils marchent avec n'importe quelle app, ou aucune.
 

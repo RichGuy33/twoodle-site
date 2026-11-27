@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # noteit- und LokLok-Alternativen: Zeichen-Widget-Apps für Paare
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle und sind deshalb befangen. Alles, was wir über andere Apps sagen, stammt aus deren öffentlichen App-Store-Einträgen (US-Store), so wie wir sie im November 2026 gelesen haben, und Einträge ändern sich. Wo wir etwas nicht bestätigen konnten, sagen wir das.
 
@@ -23,17 +23,19 @@ Es gibt nicht die eine noteit. Wir haben drei Einträge gelesen, die den Namen v
 
 | Eintrag | Entwickler | Zielgruppe | Voraussetzung | Angezeigter Preis |
 |---|---|---|---|---|
-| noteit - bff widget | iconic hearts holdings, inc. | Freundinnen, Freunde und beste Freundinnen | iOS 15 | Kostenlos mit In-App-Käufen; „Diamond Subscription“-Stufen |
-| Note Widget - Love Drawing (Noteit Widget) | KYOTO K.K. | Du und dein Partner, dazu Freunde | iOS 15 | Kostenlos mit In-App-Käufen; wöchentlich, monatlich, jährlich und lebenslang |
-| Noteit Widget: Drawing Couples | Hong Ta Thi | Paare | iOS 13 | Kostenlos mit In-App-Käufen; ein Abo |
+| [noteit - bff widget](https://apps.apple.com/us/app/1570369625) | iconic hearts holdings, inc. | Freundinnen, Freunde und beste Freundinnen | iOS 15 | Kostenlos mit In-App-Käufen; „Diamond Subscription“-Stufen |
+| [Note Widget - Love Drawing (Noteit Widget)](https://apps.apple.com/us/app/-/id1608348687) | KYOTO K.K. | Du und dein Partner, dazu Freunde | iOS 15 | Kostenlos mit In-App-Käufen; wöchentlich, monatlich, jährlich und lebenslang |
+| [Noteit Widget: Drawing Couples](https://apps.apple.com/us/app/id1623343303) | Hong Ta Thi | Paare | iOS 13 | Kostenlos mit In-App-Käufen; ein Abo |
 
 Der erste hat mit Abstand die meisten Bewertungen, die wir sahen (rund 99.000 mit 4,8). Die anderen beiden hatten etwa 12.000 mit 4,6 und 44 mit 4,2. Sein Eintrag zeigt außerdem eine Streak-Funktion, mit kostenpflichtiger Streak-Reparatur.
 
 Auch die Datenschutzangaben unterscheiden sich. Das sind Angaben der jeweiligen Entwickler, von Apple nicht geprüft: Der Eintrag von Drawing Couples sagt, es würden keine Daten erhoben, bff widget nennt Kontaktinfos, Nutzerinhalte und mit dir verknüpfte Kennungen, und Love Drawing enthält Daten, die zum Tracking über Apps und Websites anderer Unternehmen dienen. Wenn dir das wichtig ist, lies den Abschnitt „App-Datenschutz“, bevor du installierst.
 
+Quellen: die drei in der Tabelle verlinkten App-Store-Einträge, geprüft am 26. November 2026.
+
 ## Und LokLok?
 
-LokLok ist älter als alle diese Apps. Ein TechCrunch-Artikel von 2014 beschrieb es als Android-App, die den Sperrbildschirm durch ein gemeinsames Whiteboard ersetzte, damit Freunde auf den Bildschirmen der anderen kritzeln konnten, und nannte eine iOS-Version als in Arbeit. Anhand der aktuellen Store-Einträge konnten wir nicht bestätigen, ob es noch verfügbar oder gepflegt ist, deshalb machen wir heute keine Aussagen dazu.
+LokLok ist älter als alle diese Apps. Ein [TechCrunch](https://techcrunch.com/2014/07/07/lokloks-new-messaging-app-lets-you-draw-on-your-friends-lock-screen/)-Artikel von 2014 beschrieb es als Android-App, die den Sperrbildschirm durch ein gemeinsames Whiteboard ersetzte, damit Freunde auf den Bildschirmen der anderen kritzeln konnten, und nannte eine iOS-Version als in Arbeit. Anhand der aktuellen Store-Einträge konnten wir nicht bestätigen, ob es noch verfügbar oder gepflegt ist, deshalb machen wir heute keine Aussagen dazu.
 
 Die Kernidee, auf den Sperrbildschirm eines anderen zu zeichnen, ist der Grund, warum viele danach suchen. Auf dem iPhone können Apps das nicht direkt. Wir haben aufgeschrieben, [was iOS erlaubt](https://twoodle.app/de/ratgeber/auf-sperrbildschirm-des-partners-zeichnen/).
 
@@ -65,7 +67,7 @@ Zwei ehrliche Grenzen: Die Kritzeleien landen auf dem Home-Bildschirm-Widget, ni
 | Zeichnen auf ein Widget | Ja | Ja, Home-Bildschirm-Widget |
 | Sperrbildschirm-Widgets | In den gelesenen Einträgen nicht genannt | Liebesnotiz, Tage zusammen, optional Entfernung |
 | Zielgruppe | Freunde und Paare, je nach App | Paare |
-| Plattformen | iPhone | iPhone (iOS 18 oder neuer) und Android (seit November 2026) |
+| Plattformen | iPhone (die beiden kleineren Einträge nennen auch das iPad); Android haben wir nicht geprüft | iPhone (iOS 18 oder neuer) und Android (seit November 2026) |
 | Preis | Kostenlos mit In-App-Käufen; je nach App verschieden | Kostenloser Download; Pro 3,99 USD/Woche (3 Tage Test) oder 39,99 USD/Jahr, für beide (US-App-Store-Preise, können in deinem Land abweichen) |
 
 Du vergleichst weitere Apps? Lies die [besten Paar-Widget-Apps fürs iPhone](https://twoodle.app/de/ratgeber/beste-paar-apps-mit-widgets-iphone/), unseren Ratgeber zu [Couple-Joy-Alternativen](https://twoodle.app/de/ratgeber/couple-joy-alternative/) oder die [Lovebox-Alternative ohne Hardware](https://twoodle.app/de/ratgeber/lovebox-alternative/).

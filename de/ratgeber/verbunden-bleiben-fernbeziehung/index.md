@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Fernbeziehung: So bleibt ihr verbunden (ohne rund um die Uhr zu schreiben)
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** wir machen Twoodle, eine App für Paare (iPhone und Android). Das meiste hier braucht gar keine App, und wir sagen dazu, wo Twoodle passt.
 

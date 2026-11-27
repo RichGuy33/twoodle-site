@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Alternativa a Lovebox sin aparato: garabatos en el iPhone de tu pareja
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, así que somos parciales. Hemos intentado ceñirnos a los hechos y decir con claridad dónde Lovebox es la mejor opción.
 
@@ -19,7 +19,9 @@ Si has llegado hasta aquí, probablemente te preguntas si se puede lograr la mis
 
 ## Primero, qué es Lovebox en realidad
 
-Una cajita de madera con pantalla y un corazón en el lateral. Envías mensajes, fotos, dibujos o pegatinas desde la app gratuita de Lovebox, y el corazón gira cuando llega algo. Quien tiene la caja abre la tapa para leerlo. La caja es un producto físico que se compra y se conecta a la app por Wi-Fi.
+Una cajita de madera con pantalla y un corazón en el lateral. Envías mensajes, fotos, dibujos o pegatinas desde la app gratuita de Lovebox, y el corazón gira cuando llega algo. Quien tiene la caja abre la tapa para leerlo. La caja es un producto físico que se compra y se conecta a la app por Wi-Fi (la página del producto especifica 2,4 GHz).
+
+Fuente: [ficha en la App Store](https://apps.apple.com/us/app/-/id1154499750), [página del producto Lovebox](https://en.lovebox.love/products/lovebox-for-lovers) (consultada el 26 de noviembre de 2026).
 
 ## Por qué la gente busca una alternativa
 
@@ -37,7 +39,7 @@ También puedes mandar notas cortas a su pantalla de bloqueo o de inicio, compar
 
 |  | Lovebox | Twoodle |
 |---|---|---|
-| Qué necesitas | El aparato Lovebox y la app | Dos iPhone con la app |
+| Qué necesitas | El aparato Lovebox y la app | Un móvil cada uno con la app |
 | Cómo llegan los mensajes | En la pantalla de la caja, con un corazón que gira | En un widget de la pantalla de inicio o de bloqueo |
 | Qué puedes enviar | Texto, fotos, dibujos, pegatinas | Garabatos, fotos en un lienzo, notas, estados de ánimo, toques |
 | Plataformas | App para iOS y Android | iPhone (iOS 18 o posterior) y Android |

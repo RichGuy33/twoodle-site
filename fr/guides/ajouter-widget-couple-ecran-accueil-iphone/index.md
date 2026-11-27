@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Comment ajouter un widget couple sur l'écran d'accueil de l'iPhone (pas à pas)
 
-Par l'équipe Twoodle · novembre 2026
+[Par l'équipe Twoodle](https://twoodle.app/about/) · novembre 2026
 
 > **Transparence:** nous faisons Twoodle, une app iPhone pour couples. Les étapes ci-dessous sont celles d'iOS, elles valent donc pour n'importe quelle app de widgets pour couples. Nous prenons Twoodle comme exemple.
 

@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Couple-Joy-Alternative: einfacher verbunden bleiben mit dem iPhone
 
-Vom Twoodle-Team · November 2026
+[Vom Twoodle-Team](https://twoodle.app/about/) · November 2026
 
 > **Hinweis:** Wir machen Twoodle, also sind wir befangen. Wir halten uns an die Angaben aus dem App-Store-Eintrag jeder App und sagen klar, wo Couple Joy die bessere Wahl ist.
 
@@ -19,9 +19,11 @@ Kurzfassung: Wenn du eine leichtere App willst, die Zeichnungen und Notizen auf 
 
 ## Was Couple Joy wirklich bietet
 
-Laut App-Store-Eintrag ist Couple Joy (von HEARTBIT S.R.L., Untertitel „Long Distance & Love Tracker“) kostenlos ladbar, mit In-App-Käufen. Die Beschreibung hebt Paar-Widgets, tägliche Fragen und Quiz mit Chat, ein gemeinsames Foto-Tagebuch, Countdowns zu Geburtstagen und Jahrestagen, Stimmungen teilen, Entfernungsanzeige, Spiele und eine tägliche Serie hervor. Die App läuft auf dem iPhone, und im Eintrag steht eine Bewertung von etwa 4,7 bei rund 4,3 Tsd. Bewertungen.
+Laut App-Store-Eintrag ist Couple Joy (von HEARTBIT S.R.L., Untertitel „Long Distance & Love Tracker“) kostenlos ladbar, mit In-App-Käufen. Die Beschreibung hebt Paar-Widgets, tägliche Fragen und Quiz mit Chat, ein gemeinsames Foto-Tagebuch, Countdowns zu Geburtstagen und Jahrestagen, Stimmungen teilen, Entfernungsanzeige, Spiele und eine tägliche Serie hervor. Die App läuft auf dem iPhone, und im Eintrag steht eine Bewertung von 4,9 bei rund 41 Tsd. Bewertungen.
 
 Das ist eine Menge App, und viele Paare lieben genau das. Funktionen ändern sich, die aktuelle Liste findest du im Eintrag.
+
+Quelle: [App-Store-Eintrag](https://apps.apple.com/us/app/couple-joy-relationship-app/id1624758651) (geprüft am 26. November 2026).
 
 ## Warum Leute sich nach etwas anderem umsehen
 
@@ -73,7 +75,7 @@ Und wenn dir virtuelle Haustiere und Werbung zu viel sind, schau in den [Widgeta
 
 ### Was ist eine gute Alternative zu Couple Joy?
 
-Das hängt davon ab, was du willst. Twoodle ist eine reine iPhone-App, die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Sperrbildschirm-Widgets für Liebesnotizen und gemeinsame Tage. Sie ist leichter als Couple Joy, das zusätzlich tägliche Fragen, Quiz, Spiele und ein gemeinsames Tagebuch bietet.
+Das hängt davon ab, was du willst. Twoodle gibt es für iPhone und Android. Die iPhone-App ist eine Paar-App, die Zeichnungen an das Home-Bildschirm-Widget deines Partners schickt, mit Sperrbildschirm-Widgets für Liebesnotizen und gemeinsame Tage. Sie ist leichter als Couple Joy, das zusätzlich tägliche Fragen, Quiz, Spiele und ein gemeinsames Tagebuch bietet.
 
 ### Hat Twoodle tägliche Fragen oder Quiz wie Couple Joy?
 

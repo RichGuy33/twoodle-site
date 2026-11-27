@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Best Couples Widget Apps for iPhone (Honest Roundup, 2026)
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, which is on this list. We put it in the middle on purpose, we say where it falls short, and everything about other apps comes from their App Store pages as we read them in November 2026. Prices and features change, so check the listing before you pay.
 
@@ -21,18 +21,20 @@ So here's the short answer first. If you want a counter, pick a counter app. If 
 
 | App | Best for | Widgets | Price (US App Store) |
 |---|---|---|---|
-| Lovebox | Messages, photos and drawings, optionally with the physical box | Home Screen | Free to download; in-app purchases from $4.99 |
-| Couple Widgets | Day counters and anniversaries, with mini-games | Home Screen | Free; Premium from $1.99/week, $19.99/year |
-| CoupleLink | Diary, calendar, mood and a shared pet | Home Screen | Free with a 7-day trial; Premium from $2.99/month |
-| Loveya | Six widget types on Home and Lock Screen | Home and Lock Screen | Free; Premium $9.99/month or $29.99/year |
-| iFeely | Mood, distance and step battles | Home and Lock Screen | Free; Premium $4.99/month or $39.99/year |
+| [Lovebox](https://apps.apple.com/us/app/-/id1154499750) | Messages, photos and drawings, optionally with the physical box | Home Screen | Free to download; in-app purchases from $4.99 |
+| [Couple Widgets](https://apps.apple.com/us/app/id1534498493) | Day counters and anniversaries, with mini-games | Home Screen | Free; Premium from $1.99/week, $19.99/year |
+| [CoupleLink](https://apps.apple.com/us/app/id1606367028) | Diary, calendar, mood and a shared pet | Home Screen | Free with a 7-day trial; Premium from $2.99/month |
+| [Loveya](https://apps.apple.com/us/app/id6758742897) | Six widget types on Home and Lock Screen | Home and Lock Screen | Free; Premium $9.99/month or $29.99/year |
+| [iFeely](https://apps.apple.com/app/6757633184) | Mood, distance and step battles | Home and Lock Screen | Free; Premium $4.99/month or $39.99/year |
 | Twoodle | Doodles on a partner's Home Screen widget | Home Screen doodles; Lock Screen notes and counters | Free; Pro $3.99/week (3-day trial) or $39.99/year |
 
 ## Lovebox
 
 Lovebox lets you send messages, photos, drawings, stickers and GIFs, and shows them in a Home Screen widget. It also pairs with a physical Lovebox device whose heart spins when something arrives. The App Store listing says the free widget works without the hardware.
 
-**Good at:** being the best-known name in the category, with about 3.9K ratings at 4.7 when we looked. **Less good at:** its listing is aimed at long-distance love and loved ones in general, so it isn't couples-specific, and we found no Lock Screen widget mentioned. We compare it in more detail in our [Lovebox alternative guide](https://twoodle.app/guides/lovebox-alternative-app/).
+**Good at:** being the best-known name in the category, with about 3.9K ratings at 4.7 when we looked. **Less good at:** we found no Lock Screen widget mentioned in its listing, and the spinning-heart moment needs the box. We compare it in more detail in our [Lovebox alternative guide](https://twoodle.app/guides/lovebox-alternative-app/).
+
+Source: [App Store listing](https://apps.apple.com/us/app/-/id1154499750) (checked November 26, 2026).
 
 ## Couple Widgets
 
@@ -40,11 +42,15 @@ This one is built around Home Screen day counters and anniversaries, with photos
 
 **Good at:** being cheap and customizable, and supporting older iPhones (iOS 13 or later). **Less good at:** it isn't a send-each-other-things app, and the listing shows an optional "remove ads" purchase, which tells you ads exist in the free version.
 
+Source: [App Store listing](https://apps.apple.com/us/app/id1534498493) (checked November 26, 2026).
+
 ## CoupleLink: Love Counter Diary
 
 CoupleLink is the kitchen-sink option: a love counter, shared diary, shared calendar, mood tracker, daily questions, a love streak, a virtual shared pet, and Home Screen widgets that show your partner's latest note and mood. Notes vanish after 24 hours.
 
 **Good at:** giving you lots to do together, at a lower price than most. **Less good at:** the listing says it contains advertising, it has only 18 ratings (4.2) as of our check, and the privacy section lists data used for tracking. If privacy matters to you, read that section first.
+
+Source: [App Store listing](https://apps.apple.com/us/app/id1606367028) (checked November 26, 2026).
 
 ## Loveya: Couples Widgets
 
@@ -52,17 +58,21 @@ Loveya offers six widgets for both Home and Lock Screen: Together Counter, Partn
 
 **Good at:** widget variety, especially on the Lock Screen. **Less good at:** it requires iOS 26 or later, so it's out if either of you hasn't updated. It's also the priciest monthly plan here at $9.99, and its rating is based on only 20 reviews.
 
+Source: [App Store listing](https://apps.apple.com/us/app/id6758742897) (checked November 26, 2026).
+
 ## iFeely: Couples Widget & Love
 
 iFeely focuses on mood and real-time distance widgets on the Home and Lock Screen, daily step battles synced with Apple Health, and "Photo Sparks," where your partner scratches the screen to reveal a photo. One Premium subscription covers both of you, and the listing says there are no ads.
 
 **Good at:** playful, game-like moments, and it is the only app here with step battles. **Less good at:** it's new enough that the store showed no rating yet, and it uses Health and location data to do its thing.
 
+Source: [App Store listing](https://apps.apple.com/app/6757633184) (checked November 26, 2026).
+
 ## Twoodle (that's us)
 
 Twoodle is an iPhone app for couples that sends doodles to your partner's Home Screen widget. You draw on a blank canvas or a photo, hit send, and it shows up on their widget. Lock Screen widgets carry love notes and your days together, and there's a live "draw together" canvas inside the app. It also has moods, distance bubbles, nudges, a gallery and important dates.
 
-**Good at:** drawing as the main event. Doodles go to the Home Screen widget only, not the Lock Screen. It needs no sign-up, and we don't show ads, sell data or track you across apps and no cross-app tracking. One Twoodle Pro subscription covers both of you. **Less good at:** it's available for iPhone (iOS 18 or later) and Android, at $39.99 a year Pro costs more than some of the yearly plans here, and if you only want a day counter it's more than you need.
+**Good at:** drawing as the main event. Doodles go to the Home Screen widget only, not the Lock Screen. It needs no sign-up, and we don't show ads, sell your data or track you across apps. One Twoodle Pro subscription covers both of you. **Less good at:** it's available for iPhone (iOS 18 or later) and Android, at $39.99 a year Pro costs more than some of the yearly plans here, and if you only want a day counter it's more than you need.
 
 Building a whole long-distance setup, not just a widget? See our guide to the [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 

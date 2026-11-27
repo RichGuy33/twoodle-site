@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Cómo mantener la conexión en una relación a distancia (sin escribirse 24/7)
 
-Por el equipo de Twoodle · noviembre de 2026
+[Por el equipo de Twoodle](https://twoodle.app/about/) · noviembre de 2026
 
 > **Divulgación:** hacemos Twoodle, una app para parejas (iPhone y Android). Casi todo este consejo no necesita ninguna app, y avisamos cuándo encaja Twoodle.
 

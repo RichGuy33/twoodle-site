@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Relacionamento à distância com fuso horário diferente: como dar certo
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, um app para casais. Quase tudo aqui dispensa app, e dizemos onde o Twoodle entra.
 

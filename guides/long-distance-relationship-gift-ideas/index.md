@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Long-Distance Relationship Gift Ideas: 25 Thoughtful Gifts You Can Send
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. Almost every idea below needs no app, and we say where Twoodle fits.
 

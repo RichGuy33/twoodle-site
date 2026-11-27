@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Contagem regressiva para se ver: 9 jeitos de esperar o reencontro à distância
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, que tem datas importantes com contagem regressiva. A maior parte deste guia funciona com qualquer app, ou com nenhum.
 

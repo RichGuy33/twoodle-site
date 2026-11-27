@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Short Love Notes for Your Partner: 30 Ideas That Fit on a Lock Screen
 
-By the Twoodle team · November 2026
+[By the Twoodle team](https://twoodle.app/about/) · November 2026
 
 > **Disclosure:** we make Twoodle, an iPhone app for couples. These notes work in any app, or on a sticky note, and we say where Twoodle fits.
 

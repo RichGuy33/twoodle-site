@@ -7,7 +7,7 @@ publisher: Taking Flight, Inc.
 
 # Contador de dias juntos na Tela de Bloqueio do iPhone: como configurar
 
-Pela equipe do Twoodle · novembro de 2026
+[Pela equipe do Twoodle](https://twoodle.app/about/) · novembro de 2026
 
 > **Transparência:** nós fazemos o Twoodle, e ele tem um widget de Dias Juntos. Mantivemos este guia no que diz respeito a como o iOS funciona e ao que procurar, para servir com qualquer app.
 
