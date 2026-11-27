@@ -33,7 +33,7 @@ O melhor aniversário de namoro à distância tem duas partes: algo que vocês f
 1. **Jantar sincronizado.** Peçam o mesmo tipo de comida (ou façam a mesma receita), abram a chamada de vídeo e jantem "juntos". Arrumem-se, acendam uma vela. O que importa é o ritual, não o cardápio.
 2. **O mesmo filme, um encontro de verdade.** Escolham algo do começo de vocês. Deem play no mesmo segundo e deixem a chamada aberta. Se cinema não é a de vocês, tem mais formatos nas nossas [ideias de encontro à distância](https://twoodle.app/pt/guias/ideias-de-encontros-a-distancia/).
 3. **Uma caixa de "abra quando".** Mande uma caixinha com envelopes: "abra quando sentir minha falta", "abra quando o dia for ruim" e "abra no nosso aniversário". Funcionam porque ninguém consegue espiar antes.
-4. **Uma entrega surpresa.** Flores, a sobremesa favorita, um café de uma cafeteria da cidade da pessoa. Confira o horário de entrega no fuso dela, senão o sorvete chega às 3 da manhã. Para presentes que viajam bem, veja o [guia de presentes](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (em inglês).
+4. **Uma entrega surpresa.** Flores, a sobremesa favorita, um café de uma cafeteria da cidade da pessoa. Confira o horário de entrega no fuso dela, senão o sorvete chega às 3 da manhã. Para presentes que viajam bem, veja o [guia de presentes](https://twoodle.app/pt/guias/presentes-para-namoro-a-distancia/).
 
 ## Para ir além
 

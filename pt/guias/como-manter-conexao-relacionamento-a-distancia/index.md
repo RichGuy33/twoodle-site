@@ -57,7 +57,7 @@ Todo casal à distância tem semanas em que tudo parece sem graça. É normal, n
 
 - **Diga em voz alta.** «Estou me sentindo longe de você essa semana» abre uma conversa melhor que o silêncio.
 - **Compartilhe as partes chatas.** A intimidade mora nos pequenos detalhes, não nos melhores momentos.
-- **Mude o formato.** Se mensagem cansou, liguem. Se ligação cansou, tentem cartas, áudios ou uma playlist compartilhada (ou mandem algo pelo correio: veja nossas [ideias de presentes à distância](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (em inglês)).
+- **Mude o formato.** Se mensagem cansou, liguem. Se ligação cansou, tentem cartas, áudios ou uma playlist compartilhada (ou mandem algo pelo correio: veja nossas [ideias de presentes à distância](https://twoodle.app/pt/guias/presentes-para-namoro-a-distancia/)).
 - **Reveja suas expectativas.** Você não precisa estar disponível a cada minuto. Precisa se sentir uma prioridade.
 
 Para os momentos em que a distância simplesmente dói, aqui vão 12 coisas pequenas para tentar quando você [sente saudade do seu par](https://twoodle.app/pt/guias/saudade-do-parceiro-relacionamento-a-distancia/).

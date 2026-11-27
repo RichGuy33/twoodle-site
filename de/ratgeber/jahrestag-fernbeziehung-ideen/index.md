@@ -33,7 +33,7 @@ Der beste Jahrestag in der Fernbeziehung hat zwei Teile: etwas, das ihr gleichze
 1. **Synchrones Dinner.** Bestellt dieselbe Küche (oder kocht dasselbe Rezept), startet den Videoanruf und esst "zusammen". Macht euch schick, zündet eine Kerze an. Das Ritual zählt, nicht das Menü.
 2. **Derselbe Film, ein echtes Date.** Nehmt etwas aus eurer Anfangszeit. Startet ihn in derselben Sekunde und lasst den Anruf offen. Wenn Kino nicht euer Ding ist, gibt es weitere Formate in unseren [Date-Ideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/date-ideen-fernbeziehung/).
 3. **Eine "Öffne wenn"-Box.** Schickt ein kleines Paket mit Umschlägen: "Öffne, wenn du mich vermisst", "Öffne an einem miesen Tag" und "Öffne an unserem Jahrestag". Das funktioniert, weil niemand vorher spicken kann.
-4. **Eine Überraschungslieferung.** Blumen, das Lieblingsdessert, ein Kaffee vom Laden um die Ecke. Prüft das Lieferfenster in der Zeitzone des anderen, sonst kommt das Eis um 3 Uhr nachts. Für Geschenke, die gut reisen, schau in unseren [Geschenkratgeber](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (auf Englisch).
+4. **Eine Überraschungslieferung.** Blumen, das Lieblingsdessert, ein Kaffee vom Laden um die Ecke. Prüft das Lieferfenster in der Zeitzone des anderen, sonst kommt das Eis um 3 Uhr nachts. Für Geschenke, die gut reisen, schau in unseren [Geschenkratgeber](https://twoodle.app/de/ratgeber/geschenke-fernbeziehung/).
 
 ## Etwas Größeres
 

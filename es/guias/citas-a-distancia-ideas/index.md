@@ -54,7 +54,7 @@ Aquí tienes 20 ideas, agrupadas según la energía que tengáis. Elige una para
 ## Cómo planearla sin que se vuelva una obligación
 
 - **¿Necesitáis temas de conversación?** Mira [30 preguntas para tu pareja a distancia](https://twoodle.app/es/guias/preguntas-relacion-a-distancia/).
-- **¿Queréis mandar algo por correo?** Mira nuestras [ideas de regalos para parejas a distancia](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en inglés).
+- **¿Queréis mandar algo por correo?** Mira nuestras [ideas de regalos para parejas a distancia](https://twoodle.app/es/guias/regalos-para-pareja-a-distancia/).
 - **Elegid una hora que funcione en los dos husos.** Mira el reloj antes de proponer, no después. Nuestra guía sobre [relaciones a distancia con husos horarios distintos](https://twoodle.app/es/guias/relacion-a-distancia-diferencia-horaria/) te ayuda a encontrar el solapamiento.
 - **Que sea hábito, no evento.** Un hueco semanal vale más que una cita elaborada una sola vez.
 - **Turnaos para elegir.** Quien organiza también tiene derecho a hacer el tonto.

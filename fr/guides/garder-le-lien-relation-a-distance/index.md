@@ -57,7 +57,7 @@ Tous les couples à distance ont des semaines où tout semble plat. C'est normal
 
 - **Dites-le à voix haute.** « Je me sens loin de toi cette semaine » ouvre une meilleure conversation que le silence.
 - **Partagez le banal.** L'intimité vit dans les petits détails, pas dans les temps forts.
-- **Changez de format.** Si les textos fatiguent, appelez-vous. Si les appels fatiguent, essayez les lettres, les vocaux ou une playlist partagée (ou envoyez quelque chose par la poste : voyez nos [idées de cadeaux à distance](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en anglais)).
+- **Changez de format.** Si les textos fatiguent, appelez-vous. Si les appels fatiguent, essayez les lettres, les vocaux ou une playlist partagée (ou envoyez quelque chose par la poste : voyez nos [idées de cadeaux à distance](https://twoodle.app/fr/guides/idees-cadeaux-couple-a-distance/)).
 - **Revoyez vos attentes.** Vous n'avez pas besoin d'être joignable à chaque minute. Vous avez besoin de sentir que vous comptez.
 
 Pour les moments où la distance fait simplement mal, voici 12 petites choses à essayer quand [votre partenaire vous manque](https://twoodle.app/fr/guides/gerer-le-manque-relation-a-distance/).

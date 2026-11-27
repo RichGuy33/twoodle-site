@@ -72,6 +72,8 @@ Twoodle is not a calling, messaging or video app. It's an iPhone app (iOS 18 or 
 
 Want a simple way to end each day? Try a [long-distance goodnight routine](https://twoodle.app/guides/long-distance-goodnight-routine/).
 
+A shared calendar is only the start. See more [tools for long-distance relationships](https://twoodle.app/guides/long-distance-relationship-tools/).
+
 ## FAQ
 
 ### How do you make a long-distance relationship work with a big time difference?

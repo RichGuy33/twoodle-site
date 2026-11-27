@@ -64,6 +64,8 @@ If you talk daily, call weekly and feel connected, you're done. Don't add apps f
 
 Thinking about a touch bracelet? Compare [apps like Bond Touch](https://twoodle.app/guides/bond-touch-alternative/) first.
 
+Not everything useful is an app. See our [tools for long-distance relationships](https://twoodle.app/guides/long-distance-relationship-tools/), sorted by the problem each one solves.
+
 ## FAQ
 
 ### What is the best app for a long-distance relationship?

@@ -57,7 +57,7 @@ Jedes Fernbeziehungspaar kennt Wochen, in denen alles flach wirkt. Das ist norma
 
 - **Sag es laut.** „Ich fühle mich diese Woche weit weg von dir“ eröffnet ein besseres Gespräch als Schweigen.
 - **Teile das Unspektakuläre.** Nähe steckt in kleinen Details, nicht in Highlights.
-- **Wechselt das Format.** Wenn Schreiben müde macht, ruft an. Wenn Anrufe müde machen, probiert Briefe, Sprachnachrichten oder eine gemeinsame Playlist (oder schickt etwas per Post: siehe unsere [Geschenkideen für die Fernbeziehung](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (auf Englisch)).
+- **Wechselt das Format.** Wenn Schreiben müde macht, ruft an. Wenn Anrufe müde machen, probiert Briefe, Sprachnachrichten oder eine gemeinsame Playlist (oder schickt etwas per Post: siehe unsere [Geschenkideen für die Fernbeziehung](https://twoodle.app/de/ratgeber/geschenke-fernbeziehung/)).
 - **Prüft eure Erwartungen.** Du musst nicht jede Minute erreichbar sein. Du musst dich wichtig fühlen.
 
 Für die Momente, in denen die Distanz einfach wehtut, findest du hier 12 kleine Dinge, die helfen, wenn du [deinen Partner vermisst](https://twoodle.app/de/ratgeber/fernbeziehung-partner-vermissen/).

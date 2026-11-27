@@ -54,7 +54,7 @@ Aqui vão 20 ideias, agrupadas pela energia que vocês têm. Escolha uma para es
 ## Como planejar sem virar obrigação
 
 - **Precisam de assunto para a chamada?** Veja [30 perguntas para fazer ao seu parceiro à distância](https://twoodle.app/pt/guias/perguntas-relacionamento-a-distancia/).
-- **Querem mandar algo pelo correio também?** Veja nossas [ideias de presentes para relacionamento à distância](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (em inglês).
+- **Querem mandar algo pelo correio também?** Veja nossas [ideias de presentes para relacionamento à distância](https://twoodle.app/pt/guias/presentes-para-namoro-a-distancia/).
 - **Escolham um horário que funcione nos dois fusos.** Olhe o relógio antes de propor, não depois. Nosso guia sobre [relacionamento à distância com fusos horários diferentes](https://twoodle.app/pt/guias/relacionamento-a-distancia-fuso-horario/) mostra como achar a sobreposição.
 - **Faça disso hábito, não evento.** Um horário semanal vence um encontro elaborado e único.
 - **Revezem na escolha.** Quem planeja também pode ser bobo.

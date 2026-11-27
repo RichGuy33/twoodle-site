@@ -54,7 +54,7 @@ Hier sind 20 Ideen, sortiert nach der Energie, die ihr gerade habt. Such dir ein
 ## So planst du ein Date, ohne dass es zur Pflicht wird
 
 - **Gesprächsstoff für den Anruf gesucht?** Siehe [30 Fragen an deinen Partner in der Fernbeziehung](https://twoodle.app/de/ratgeber/fragen-fernbeziehung/).
-- **Möchtest du auch etwas per Post schicken?** Siehe unsere [Geschenkideen für Fernbeziehungen](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (auf Englisch).
+- **Möchtest du auch etwas per Post schicken?** Siehe unsere [Geschenkideen für Fernbeziehungen](https://twoodle.app/de/ratgeber/geschenke-fernbeziehung/).
 - **Wählt eine Uhrzeit, die in beiden Zeitzonen passt.** Schau auf die Uhr, bevor du vorschlägst, nicht danach. Unser Ratgeber zur [Fernbeziehung über Zeitzonen hinweg](https://twoodle.app/de/ratgeber/fernbeziehung-zeitverschiebung/) zeigt, wie ihr die gemeinsamen Zeiten findet.
 - **Macht eine Gewohnheit daraus, kein Event.** Ein fester Wochentermin schlägt ein aufwendiges Einmal-Date.
 - **Wechselt euch beim Aussuchen ab.** Wer plant, darf auch albern sein.

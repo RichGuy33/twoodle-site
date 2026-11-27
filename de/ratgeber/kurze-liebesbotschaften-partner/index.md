@@ -86,7 +86,7 @@ Im vollen Chat geht die Nachricht zwischen Memes und Einkaufsliste unter. Besser
 - **Eine Kritzelei.** Wenn Worte zu viel sind, zeichne. Twoodle-Zeichnungen landen im Home-Bildschirm-Widget. Ideen: [25 Dinge zum Zeichnen](https://twoodle.app/de/ratgeber/was-zeichnen-fuer-den-partner/).
 - **Etwas zum Anfassen.** Ein Zettel am Spiegel, in der Jackentasche oder in der Brotdose schlägt noch immer alles Digitale.
 
-Seid ihr getrennt, kombiniert die Zettel mit [einer Routine, um verbunden zu bleiben](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/). Für besondere Tage gibt es [Ideen zum Jahrestag](https://twoodle.app/de/ratgeber/jahrestag-fernbeziehung-ideen/), für die Post [Geschenkideen](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (auf Englisch).
+Seid ihr getrennt, kombiniert die Zettel mit [einer Routine, um verbunden zu bleiben](https://twoodle.app/de/ratgeber/verbunden-bleiben-fernbeziehung/). Für besondere Tage gibt es [Ideen zum Jahrestag](https://twoodle.app/de/ratgeber/jahrestag-fernbeziehung-ideen/), für die Post [Geschenkideen](https://twoodle.app/de/ratgeber/geschenke-fernbeziehung/).
 
 ## Wo Twoodle passt (und wo nicht)
 

@@ -86,7 +86,7 @@ Dans une conversation pleine de mèmes et de listes de courses, le mot se perd. 
 - **Un dessin.** Si les mots sont trop, dessinez. Les dessins Twoodle arrivent dans le widget d'écran d'accueil. Voir [25 idées de dessins](https://twoodle.app/fr/guides/que-dessiner-pour-son-partenaire/).
 - **Du vrai papier.** Un post-it sur le miroir, dans une poche de manteau ou dans la boîte à déjeuner bat toujours le numérique.
 
-Si vous êtes loin, associez ces mots à [une routine pour garder le lien](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/). Pour les grandes dates, nos [idées d'anniversaire à distance](https://twoodle.app/fr/guides/anniversaire-de-couple-a-distance-idees/) ; pour la poste, nos [idées de cadeaux](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en anglais).
+Si vous êtes loin, associez ces mots à [une routine pour garder le lien](https://twoodle.app/fr/guides/garder-le-lien-relation-a-distance/). Pour les grandes dates, nos [idées d'anniversaire à distance](https://twoodle.app/fr/guides/anniversaire-de-couple-a-distance-idees/) ; pour la poste, nos [idées de cadeaux](https://twoodle.app/fr/guides/idees-cadeaux-couple-a-distance/).
 
 ## Où Twoodle a sa place (et où non)
 

@@ -57,7 +57,7 @@ Todas las parejas a distancia tienen semanas en las que todo se siente plano. Es
 
 - **Dilo en voz alta.** «Esta semana te siento lejos» abre una conversación mejor que el silencio.
 - **Comparte lo aburrido.** La intimidad vive en los detalles pequeños, no en los mejores momentos.
-- **Cambia de formato.** Si escribir se siente gastado, llamad. Si las llamadas se sienten gastadas, probad cartas, notas de voz o una playlist compartida (o enviad algo por correo: mira nuestras [ideas de regalos a distancia](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en inglés)).
+- **Cambia de formato.** Si escribir se siente gastado, llamad. Si las llamadas se sienten gastadas, probad cartas, notas de voz o una playlist compartida (o enviad algo por correo: mira nuestras [ideas de regalos a distancia](https://twoodle.app/es/guias/regalos-para-pareja-a-distancia/)).
 - **Revisa tus expectativas.** No hace falta estar localizable cada minuto. Hace falta sentir que eres una prioridad.
 
 Para los momentos en que la distancia simplemente duele, aquí tienes 12 cosas pequeñas para probar cuando [echas de menos a tu pareja](https://twoodle.app/es/guias/extranar-a-tu-pareja-a-distancia/).

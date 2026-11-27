@@ -86,7 +86,7 @@ Num chat cheio de meme e lista de mercado, o bilhete some. Melhor um lugar visí
 - **Um desenho.** Se palavra é demais, desenhe. Os desenhos do Twoodle chegam ao widget da Tela de Início. Veja [25 coisas para desenhar](https://twoodle.app/pt/guias/o-que-desenhar-para-o-parceiro/).
 - **Algo físico.** Um post-it no espelho, no bolso do casaco ou na marmita ainda ganha de qualquer coisa digital.
 
-Se vocês estão longe, junte os bilhetes a [uma rotina para manter a conexão](https://twoodle.app/pt/guias/como-manter-conexao-relacionamento-a-distancia/). Para datas especiais, [ideias de aniversário à distância](https://twoodle.app/pt/guias/aniversario-de-namoro-a-distancia-ideias/); para mandar pelo correio, [ideias de presente](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (em inglês).
+Se vocês estão longe, junte os bilhetes a [uma rotina para manter a conexão](https://twoodle.app/pt/guias/como-manter-conexao-relacionamento-a-distancia/). Para datas especiais, [ideias de aniversário à distância](https://twoodle.app/pt/guias/aniversario-de-namoro-a-distancia-ideias/); para mandar pelo correio, [ideias de presente](https://twoodle.app/pt/guias/presentes-para-namoro-a-distancia/).
 
 ## Onde o Twoodle entra (e onde não)
 

@@ -33,7 +33,7 @@ El mejor aniversario a distancia tiene dos partes: algo que hacéis a la vez (ce
 1. **Cena sincronizada.** Pedid el mismo tipo de comida (o cocinad la misma receta), montad la videollamada y cenad "juntos". Arreglaos, encended una vela. Lo importante es el ritual, no el menú.
 2. **La misma película, una cita de verdad.** Elegid algo de vuestros inicios. Dad al play en el mismo segundo y dejad la llamada abierta. Si el cine no es lo vuestro, hay más formatos en nuestras [ideas de citas a distancia](https://twoodle.app/es/guias/citas-a-distancia-ideas/).
 3. **Una caja de "ábrelo cuando".** Manda una cajita con sobres que digan "ábrelo cuando me eches de menos", "ábrelo cuando tengas un mal día" y "ábrelo en nuestro aniversario". Funcionan porque no se puede espiar antes.
-4. **Un envío sorpresa.** Flores, su postre favorito, un café de una cafetería de su barrio. Comprueba la franja de entrega según su huso horario, o el helado llegará a las 3 de la madrugada. Para regalos que viajan bien, mira la [guía de regalos](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en inglés).
+4. **Un envío sorpresa.** Flores, su postre favorito, un café de una cafetería de su barrio. Comprueba la franja de entrega según su huso horario, o el helado llegará a las 3 de la madrugada. Para regalos que viajan bien, mira la [guía de regalos](https://twoodle.app/es/guias/regalos-para-pareja-a-distancia/).
 
 ## Para ir a lo grande
 

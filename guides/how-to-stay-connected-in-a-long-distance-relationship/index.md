@@ -72,6 +72,8 @@ For the moments when the distance just hurts, here are 12 small things to try wh
 
 Twoodle is not a messaging or video app. It's an iPhone app (iOS 18 or later) that sends doodles to your partner's Home Screen widget, with Lock Screen widgets for love notes and days together. It covers the tiny daily signal. Twoodle is also available on Android. It's free to download, and Twoodle Pro unlocks pairing: $3.99 per week with a 3-day free trial, or $39.99 per year, covering both of you. For the rest of your toolkit, see our [best apps for long-distance relationships](https://twoodle.app/guides/best-long-distance-relationship-apps/).
 
+Want the practical kit behind this? Here are 14 [tools for long-distance relationships](https://twoodle.app/guides/long-distance-relationship-tools/).
+
 ## FAQ
 
 ### How do you stay connected in a long-distance relationship?

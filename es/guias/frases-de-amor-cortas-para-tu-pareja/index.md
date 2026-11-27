@@ -86,7 +86,7 @@ En un chat lleno de memes y recados, la nota se hunde. Mejor un sitio visible si
 - **Un dibujo.** Si las palabras te vienen grandes, dibújalo. Los dibujos de Twoodle llegan al widget de la pantalla de inicio de tu pareja. Mira [25 cosas para dibujarle](https://twoodle.app/es/guias/que-dibujar-para-tu-pareja/).
 - **Algo físico.** Un pósit en el espejo, en el bolsillo del abrigo o en la fiambrera sigue ganando a todo lo digital.
 
-Si estáis lejos, combina las notas con [una rutina para seguir conectados](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/). Para fechas especiales, [ideas de aniversario a distancia](https://twoodle.app/es/guias/aniversario-pareja-a-distancia-ideas/); y para enviar algo por correo, [ideas de regalos a distancia](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en inglés).
+Si estáis lejos, combina las notas con [una rutina para seguir conectados](https://twoodle.app/es/guias/como-mantener-la-conexion-relacion-a-distancia/). Para fechas especiales, [ideas de aniversario a distancia](https://twoodle.app/es/guias/aniversario-pareja-a-distancia-ideas/); y para enviar algo por correo, [ideas de regalos a distancia](https://twoodle.app/es/guias/regalos-para-pareja-a-distancia/).
 
 ## Dónde encaja Twoodle (y dónde no)
 

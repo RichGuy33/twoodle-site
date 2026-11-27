@@ -307,6 +307,28 @@
    "title": "Jogos para casais à distância: 12 ideias para chamadas de vídeo e celular"
   }
  },
+ "long-distance-relationship-gift-ideas": {
+  "de": {
+   "desc": "Geschenkideen für die Fernbeziehung: Briefe, Care-Pakete, Erlebnisse für zwei und tägliche Gesten, plus Checks vor dem Versand ins Ausland.",
+   "slug": "geschenke-fernbeziehung",
+   "title": "Geschenke für die Fernbeziehung: 25 Ideen mit Herz"
+  },
+  "es": {
+   "desc": "Ideas de regalos para parejas a distancia: cartas, paquetes sorpresa, planes compartidos y gestos diarios, más lo que revisar antes de enviar a otro país.",
+   "slug": "regalos-para-pareja-a-distancia",
+   "title": "Regalos para tu pareja a distancia: 25 ideas con sentido"
+  },
+  "fr": {
+   "desc": "Idées cadeaux à distance : lettres, colis surprise, moments à partager et gestes quotidiens, plus les points à vérifier avant d'envoyer à l'étranger.",
+   "slug": "idees-cadeaux-couple-a-distance",
+   "title": "Idées cadeaux pour couple à distance : 25 attentions qui comptent"
+  },
+  "pt": {
+   "desc": "Ideias de presentes para namoro à distância: cartas, caixinhas de mimos, programas a dois e gestos diários, mais o que checar antes de enviar para outro país.",
+   "slug": "presentes-para-namoro-a-distancia",
+   "title": "Presentes para namoro à distância: 25 ideias com significado"
+  }
+ },
  "long-distance-relationship-questions": {
   "de": {
    "desc": "30 Fragen an deinen Partner oder deine Partnerin in der Fernbeziehung, sortiert nach Situation: Alltag, tiefe Videoanrufe, schwierige Gespräche und Spaß.",
@@ -349,6 +371,28 @@
    "desc": "Como levar um relacionamento à distância com fusos diferentes: achar a janela em comum, dividir o incômodo e ficar perto entre as ligações.",
    "slug": "relacionamento-a-distancia-fuso-horario",
    "title": "Relacionamento à distância com fuso horário diferente: como dar certo"
+  }
+ },
+ "long-distance-relationship-tools": {
+  "de": {
+   "desc": "Tools für die Fernbeziehung, sortiert nach Problem: planen, reden, gemeinsam etwas machen und Nähe spüren. Das meiste geht ohne neue App.",
+   "slug": "tools-fuer-fernbeziehung",
+   "title": "Tools für die Fernbeziehung: 14, die wirklich helfen"
+  },
+  "es": {
+   "desc": "Herramientas para parejas a distancia ordenadas por el problema que resuelven: organizarse, hablar, hacer cosas juntos y sentirse cerca. Casi todas sin apps nuevas.",
+   "slug": "herramientas-relacion-a-distancia",
+   "title": "Herramientas para una relación a distancia: 14 que sí ayudan"
+  },
+  "fr": {
+   "desc": "Des outils pour couple à distance classés par problème : s'organiser, se parler, faire des choses ensemble et se sentir proches. La plupart sans nouvelle appli.",
+   "slug": "outils-couple-a-distance",
+   "title": "Outils pour couple à distance : 14 qui aident vraiment"
+  },
+  "pt": {
+   "desc": "Ferramentas para casais à distância organizadas pelo problema que resolvem: agenda, conversa, programas a dois e proximidade. Quase todas sem app novo.",
+   "slug": "ferramentas-relacionamento-a-distancia",
+   "title": "Ferramentas para namoro à distância: 14 que ajudam de verdade"
   }
  },
  "lovebox-alternative-app": {

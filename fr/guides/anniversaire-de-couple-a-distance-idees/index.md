@@ -33,7 +33,7 @@ Le meilleur anniversaire à distance a deux volets : quelque chose que vous fait
 1. **Dîner synchronisé.** Commandez la même cuisine (ou faites la même recette), lancez la visio et dînez « ensemble ». Habillez-vous, allumez une bougie. Le rituel compte plus que le menu.
 2. **Le même film, un vrai rendez-vous.** Choisissez quelque chose de vos débuts. Lancez-le à la même seconde et gardez l'appel ouvert. Si le cinéma n'est pas votre truc, d'autres formats vous attendent dans nos [idées de rendez-vous à distance](https://twoodle.app/fr/guides/idees-rendez-vous-a-distance/).
 3. **Une boîte « à ouvrir quand ».** Envoyez un petit colis avec des enveloppes : « à ouvrir quand je te manque », « à ouvrir les jours difficiles » et « à ouvrir le jour de notre anniversaire ». Elles marchent parce qu'on ne peut pas tricher.
-4. **Une livraison surprise.** Des fleurs, son dessert préféré, un café d'une adresse de son quartier. Vérifiez le créneau de livraison dans son fuseau horaire, sinon la glace arrive à 3 h du matin. Pour des cadeaux qui voyagent bien, voyez notre [guide des cadeaux](https://twoodle.app/guides/long-distance-relationship-gift-ideas/) (en anglais).
+4. **Une livraison surprise.** Des fleurs, son dessert préféré, un café d'une adresse de son quartier. Vérifiez le créneau de livraison dans son fuseau horaire, sinon la glace arrive à 3 h du matin. Pour des cadeaux qui voyagent bien, voyez notre [guide des cadeaux](https://twoodle.app/fr/guides/idees-cadeaux-couple-a-distance/).
 
 ## Pour voir plus grand
 
