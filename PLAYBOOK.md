@@ -46,6 +46,18 @@ Tips (indexing): inspect box is at about (660, 28) on the Overview page; deep li
 Tips: after pressing Enter wait ~10s then click Request indexing; "Something went wrong" -> retry once.
 Catch-up COMPLETE 2026-11-27: gift-ideas translated; every English guide now has es/pt/fr/de. No catch-up quota until a gap appears in scripts/translations.json.
 
+## Facebook posting (added 2026-11-27; Jason approved auto-posting without per-post review)
+- Where: the "Twoodle" Facebook Page via Meta Business Suite in Chrome (composer: https://business.facebook.com/latest/composer?asset_id=1363352396852621). Post to that Page only. Feed link posts only: no Boost, no ad toggle, no Story share, no collaborators. Never touch existing or scheduled reels or other posts. No replies, comments or messages. Never type passwords.
+- English guides only. While any English guide is missing from the log below: 3 posts per day in total, oldest unposted first (a new guide joins the end of the queue). Once caught up: 1 post per day, the new guide.
+- Spacing: schedule at about 2:30pm, 5:30pm and 8:30pm Pacific (if a slot has passed, use the next one or the next day; never post all at once). One per day once caught up: 5:30pm.
+- Caption: written for Facebook, warm and plain, 2-3 sentences: a hook plus one useful point from the guide. If it mentions or compares Twoodle, say we make it. Only claims that are in the guide; no prices, no invented stats or quotes. Then a blank line and the URL with ?utm_source=facebook&utm_medium=social
+- No duplicates: before scheduling, check this log AND search the Published and Scheduled tabs (check the date range covers today). The composer spinner can hang after Publish/Schedule: do NOT click again; verify in a second tab.
+- After each confirmed post, add a line to the log, commit and push.
+### Facebook log (slug: date and time, Pacific)
+- draw-on-partners-lock-screen: published 2026-11-27 about 2:40pm
+- lovebox-alternative-app: scheduled 2026-11-27 5:30pm
+- best-apps-for-couples-widgets: scheduled 2026-11-27 8:30pm
+
 ## AI visibility (added 2026-11-21, Jason's plan; inspired by a Ramp/CrowdReply post, numbers unverified)
 - Every run, after `python3 scripts/i18n.py .`, also run `python3 scripts/make_md.py .` (needs beautifulsoup4; `pip install beautifulsoup4 --break-system-packages` if missing). It writes an open Markdown copy of every guide (`index.md` beside `index.html`, SAME content, never a different version for bots: no cloaking), adds `<link rel="alternate" type="text/markdown">`, and regenerates `/llms.txt`. Commit the generated files.
 - Weekly (Saturdays, or when asked): Search Console question check (added 2026-11-26, Jason's instruction). REPORT ONLY: do not add or change headings or FAQs from this check until Jason approves. (The normal daily guide and translations still run.)
